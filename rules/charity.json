@@ -1,0 +1,64 @@
+[
+  {
+    "id": "zakat",
+    "category": "Charity",
+    "title": { "en": "Zakat", "ar": "الزكاة", "fr": "Zakat", "es": "Zakat" },
+    "subtitle": {
+      "en": "Obligatory almsgiving",
+      "ar": "الزكاة المفروضة",
+      "fr": "Aumône obligatoire",
+      "es": "Limosna obligatoria"
+    },
+    "icon": "cash",
+    "color": "#fb8c00",
+    "darkColor": "#e65100",
+    "items": [
+      { "step": 1, "title": { "en": "Nisab Check", "ar": "النصاب", "fr": "Seuil Nisab", "es": "Umbral Nisab" }, "arabic": "النصاب", "description": { "en": "Ensure wealth meets the minimum threshold.", "ar": "التأكد من بلوغ المال للنصاب الشرعي.", "fr": "Vérifier que la richesse atteint le seuil minimum.", "es": "Asegurar que la riqueza alcance el umbral mínimo." }, "icon": "calculator" },
+      { "step": 2, "title": { "en": "Hawlan al-Hawl", "ar": "حولان الحول", "fr": "Un an lunaire", "es": "Un año lunar" }, "arabic": "حولان الحول", "description": { "en": "Wealth must be held for one lunar year.", "ar": "مرور سنة قمرية كاملة على ملكية المال.", "fr": "La richesse doit être détenue pendant un an lunaire.", "es": "La riqueza debe mantenerse durante un año lunar." }, "icon": "time" },
+      { "step": 3, "title": { "en": "Intention", "ar": "النية", "fr": "Intention", "es": "Intención" }, "arabic": "النية", "description": { "en": "Intend to pay Zakat for Allah's sake.", "ar": "عقد النية لإخراج الزكاة تقرباً لله.", "fr": "Avoir l'intention de payer la Zakat pour Allah.", "es": "Tener la intención de pagar el Zakat por Allah." }, "icon": "heart" },
+      { "step": 4, "title": { "en": "Calculation", "ar": "الحساب", "fr": "Calcul", "es": "Cálculo" }, "arabic": "الحساب", "description": { "en": "Calculate 2.5% of eligible savings/assets.", "ar": "حساب 2.5% من المدخرات والأصول المستحقة.", "fr": "Calculer 2,5 % de l'épargne et des actifs.", "es": "Calcular el 2.5% de los ahorros y activos." }, "icon": "stats-chart" },
+      { "step": 5, "title": { "en": "Distribution", "ar": "التوزيع", "fr": "Distribution", "es": "Distribución" }, "arabic": "التوزيع", "description": { "en": "Give to one of the eight eligible categories.", "ar": "صرفها لمصارف الزكاة الثمانية المحددة.", "fr": "Donner à l'une des huit catégories éligibles.", "es": "Dar a una de las ocho categorías elegibles." }, "icon": "people" }
+    ]
+  },
+  {
+    "id": "sadaqah",
+    "category": "Charity",
+    "title": { "en": "Sadaqah", "ar": "الصدقة", "fr": "Sadaqah", "es": "Sadaqah" },
+    "subtitle": {
+      "en": "Voluntary charity",
+      "ar": "الصدقة التطوعية",
+      "fr": "Aumône volontaire",
+      "es": "Caridad voluntaria"
+    },
+    "icon": "heart-outline",
+    "color": "#f44336",
+    "darkColor": "#b71c1c",
+    "items": [
+      { "step": 1, "title": { "en": "Sincerity", "ar": "الإخلاص", "fr": "Sincérité", "es": "Sinceridad" }, "arabic": "الإخلاص", "description": { "en": "Give purely for the pleasure of Allah.", "ar": "إخلاص النية لله تعالى وحده.", "fr": "Donner purement pour le plaisir d'Allah.", "es": "Dar puramente por el placer de Allah." }, "icon": "sunny" },
+      { "step": 2, "title": { "en": "Halal Source", "ar": "المال الحلال", "fr": "Source Halal", "es": "Fuente Halal" }, "arabic": "كسب طيب", "description": { "en": "Charity must come from lawful earnings.", "ar": "يجب أن تكون الصدقة من كسب حلال.", "fr": "L'aumône doit provenir de gains licites.", "es": "La caridad debe provenir de ganancias lícitas." }, "icon": "wallet" },
+      { "step": 3, "title": { "en": "No Reminders", "ar": "ترك المن", "fr": "Pas de rappel", "es": "Sin reproches" }, "arabic": "عدم المن", "description": { "en": "Do not remind people of your favors.", "ar": "عدم المن أو الأذى لمن أعطيته الصدقة.", "fr": "Ne rappelez pas aux gens vos faveurs.", "es": "No recuerdes a la gente tus favores." }, "icon": "close-circle" },
+      { "step": 4, "title": { "en": "Secret Giving", "ar": "صدقة السر", "fr": "Don secret", "es": "Donación secreta" }, "arabic": "الإسرار", "description": { "en": "Giving secretly is better to avoid pride.", "ar": "صدقة السر أفضل لتجنب الرياء.", "fr": "Donner en secret est préférable.", "es": "Dar en secreto es mejor para evitar el orgullo." }, "icon": "eye-off" },
+      { "step": 5, "title": { "en": "Sadaqah Jariyah", "ar": "الصدقة الجارية", "fr": "Charité continue", "es": "Caridad continua" }, "arabic": "الصدقة الجارية", "description": { "en": "Investing in long-term beneficial projects.", "ar": "الاستثمار في مشاريع خيرية يدوم أثرها.", "fr": "Investir dans des projets bénéfiques durables.", "es": "Invertir en proyectos beneficiosos a largo plazo." }, "icon": "infinite" }
+    ]
+  },
+  {
+    "id": "zakat_al_fitr",
+    "category": "Charity",
+    "title": { "en": "Zakat al-Fitr", "ar": "زكاة الفطر", "fr": "Zakat al-Fitr", "es": "Zakat al-Fitr" },
+    "subtitle": {
+      "en": "Charity at the end of Ramadan",
+      "ar": "زكاة طهر الصائم",
+      "fr": "Aumône de fin du Ramadan",
+      "es": "Limosna al final de Ramadán"
+    },
+    "icon": "basket",
+    "color": "#4caf50",
+    "darkColor": "#1b5e20",
+    "items": [
+      { "step": 1, "title": { "en": "Requirement", "ar": "الوجوب", "fr": "Obligation", "es": "Obligación" }, "arabic": "الوجوب", "description": { "en": "Obligatory for every self-sufficient Muslim.", "ar": "واجبة على كل مسلم يملك قوته يومه.", "fr": "Obligatoire pour tout musulman autonome.", "es": "Obligatorio para cada musulmán autosuficiente." }, "icon": "person" },
+      { "step": 2, "title": { "en": "Timing", "ar": "وقت الإخراج", "fr": "Moment propice", "es": "Momento" }, "arabic": "الوقت", "description": { "en": "Paid before the Eid prayer starts.", "ar": "تؤدى قبل صلاة العيد.", "fr": "Payé avant le début de la prière de l'Aïd.", "es": "Pagado antes de que comience la oración de Eid." }, "icon": "time" },
+      { "step": 3, "title": { "en": "Amount", "ar": "المقدار", "fr": "Quantité", "es": "Cantidad" }, "arabic": "صاع", "description": { "en": "One Sa' (approx 2.5kg) of staple food.", "ar": "صاع من قوت البلد (حوالي 2.5 كجم).", "fr": "Un Sa' (environ 2,5 kg) de nourriture de base.", "es": "Un Sa' (aprox. 2.5 kg) de alimento básico." }, "icon": "scale" },
+      { "step": 4, "title": { "en": "Purpose", "ar": "الغرض", "fr": "Objectif", "es": "Propósito" }, "arabic": "طهور للصائم", "description": { "en": "Purifies the faster and feeds the poor.", "ar": "طهرة للصائم من اللغو وطعمة للمساكين.", "fr": "Purifie le jeûneur et nourrit les pauvres.", "es": "Purifica al que ayuna y alimenta a los pobres." }, "icon": "leaf" }
+    ]
+  }
+]
