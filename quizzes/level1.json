@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "question": {
+      "ar": "كم عدد أركان الإسلام؟",
+      "es": "¿Cuántos son los pilares del Islam?",
+      "en": "How many pillars of Islam are there?",
+      "fr": "Combien y a-t-il de piliers de l'Islam ?"
+    },
+    "options": {
+      "ar": ["3", "4", "5", "6"],
+      "es": ["3", "4", "5", "6"],
+      "en": ["3", "4", "5", "6"],
+      "fr": ["3", "4", "5", "6"]
+    },
+    "correctIndex": 2,
+    "explanation": {
+      "ar": "أركان الإسلام خمسة: الشهادتان، الصلاة، الزكاة، الصوم، وحج البيت.",
+      "es": "Los pilares del Islam son cinco: Shahadah, Oración, Zakat, Ayuno y Hajj.",
+      "en": "The 5 pillars are: Shahadah, Prayer (Salah), Zakat, Fasting (Sawm), and Hajj.",
+      "fr": "Les 5 piliers sont : la Shahadah, la prière, la Zakat, le jeûne et le Hajj."
+    },
+    "category": "Pillars"
+  },
+  {
+    "id": 2,
+    "question": {
+      "ar": "ما هي أول صلاة في اليوم؟",
+      "es": "¿Cuál es la primera oración del día?",
+      "en": "What is the first prayer of the day?",
+      "fr": "Quelle est la première prière de la journée ?"
+    },
+    "options": {
+      "ar": ["الظهر", "الفجر", "المغرب", "العصر"],
+      "es": ["Dhuhr", "Fajr", "Maghrib", "Asr"],
+      "en": ["Dhuhr", "Fajr", "Maghrib", "Asr"],
+      "fr": ["Dhuhr", "Fajr", "Maghrib", "Asr"]
+    },
+    "correctIndex": 1,
+    "explanation": {
+      "ar": "صلاة الفجر هي أول الصلوات الخمس ويبدأ وقتها من طلوع الفجر.",
+      "es": "Fajr es la primera de las cinco oraciones y comienza al amanecer.",
+      "en": "Fajr is the first of the five daily prayers and starts at dawn.",
+      "fr": "Fajr est la première des cinq prières et commence à l'aube."
+    },
+    "category": "Prayer"
+  },
+  {
+    "id": 3,
+    "question": {
+      "ar": "ماذا نقول عند البدء في أي عمل؟",
+      "es": "¿Qué decimos antes de empezar cualquier acción?",
+      "en": "What do we say before starting any action?",
+      "fr": "Que disons-nous avant de commencer toute action ?"
+    },
+    "options": {
+      "ar": ["الحمد لله", "أستغفر الله", "بسم الله", "سبحان الله"],
+      "es": ["Alhamdulillah", "Astaghfirullah", "Bismillah", "SubhanAllah"],
+      "en": ["Alhamdulillah", "Astaghfirullah", "Bismillah", "SubhanAllah"],
+      "fr": ["Alhamdulillah", "Astaghfirullah", "Bismillah", "SubhanAllah"]
+    },
+    "correctIndex": 2,
+    "explanation": {
+      "ar": "نبدأ بـ 'بسم الله' لطلب البركة من الله في أعمالنا.",
+      "es": "Decimos 'Bismillah' para pedir la bendición de Allah en nuestras acciones.",
+      "en": "We say 'Bismillah' to seek Allah's blessing in our actions.",
+      "fr": "Nous disons 'Bismillah' pour demander la bénédiction d'Allah."
+    },
+    "category": "Dhikr"
+  },
+  {
+    "id": 4,
+    "question": {
+      "ar": "ما هو الكتاب المقدس في الإسلام؟",
+      "es": "¿Cuál es el libro sagrado del Islam?",
+      "en": "What is the holy book of Islam?",
+      "fr": "Quel est le livre saint de l'Islam ?"
+    },
+    "options": {
+      "ar": ["الإنجيل", "التوراة", "الزبور", "القرآن"],
+      "es": ["Evangelio", "Torá", "Salmos", "Corán"],
+      "en": ["Gospel", "Torah", "Psalms", "Quran"],
+      "fr": ["Évangile", "Torah", "Psaumes", "Coran"]
+    },
+    "correctIndex": 3,
+    "explanation": {
+      "ar": "القرآن الكريم هو كلام الله المنزل على النبي محمد ﷺ.",
+      "es": "El Noble Corán es la palabra de Allah revelada al Profeta Muhammad ﷺ.",
+      "en": "The Holy Quran is the word of Allah revealed to Prophet Muhammad ﷺ.",
+      "fr": "Le Noble Coran est la parole d'Allah révélée au Prophète Muhammad ﷺ."
+    },
+    "category": "Quran"
+  },
+  {
+    "id": 5,
+    "question": {
+      "ar": "من هو أول نبي؟",
+      "es": "¿Quién fue el primer profeta?",
+      "en": "Who was the first prophet?",
+      "fr": "Qui était le premier prophète ?"
+    },
+    "options": {
+      "ar": ["نوح", "إبراهيم", "آدم", "موسى"],
+      "es": ["Noé", "Abraham", "Adán", "Moisés"],
+      "en": ["Nuh", "Ibrahim", "Adam", "Musa"],
+      "fr": ["Noé", "Ibrahim", "Adam", "Musa"]
+    },
+    "correctIndex": 2,
+    "explanation": {
+      "ar": "آدم عليه السلام هو أبو البشر وأول نبي خلقه الله.",
+      "es": "Adán (AS) es el padre de la humanidad y el primer profeta.",
+      "en": "Adam (AS) is the father of humanity and the first prophet.",
+      "fr": "Adam (AS) est le père de l'humanité et le premier prophète."
+    },
+    "category": "Prophets"
+  },
+  {
+    "id": 6,
+    "question": {
+      "ar": "أين ولد النبي محمد ﷺ؟",
+      "es": "¿Dónde nació el Profeta Muhammad ﷺ?",
+      "en": "Where was Prophet Muhammad ﷺ born?",
+      "fr": "Où est né le Prophète Muhammad ﷺ ?"
+    },
+    "options": {
+      "ar": ["المدينة", "مكة", "القدس", "القاهرة"],
+      "es": ["Medina", "Meca", "Jerusalén", "El Cairo"],
+      "en": ["Madinah", "Makkah", "Jerusalem", "Cairo"],
+      "fr": ["Médine", "La Mecque", "Jérusalem", "Le Caire"]
+    },
+    "correctIndex": 1,
+    "explanation": {
+      "ar": "ولد النبي ﷺ في مكة المكرمة في عام الفيل.",
+      "es": "El Profeta ﷺ nació en la ciudad de La Meca.",
+      "en": "The Prophet ﷺ was born in the city of Makkah.",
+      "fr": "Le Prophète ﷺ est né dans la ville de La Mecque."
+    },
+    "category": "Seerah"
+  },
+  {
+    "id": 7,
+    "question": {
+      "ar": "ما هو الركن الثالث من أركان الإسلام؟",
+      "es": "¿Cuál es el tercer pilar del Islam?",
+      "en": "What is the third pillar of Islam?",
+      "fr": "Quel est le troisième pilier de l'Islam ?"
+    },
+    "options": {
+      "ar": ["الصلاة", "الصوم", "الزكاة", "الحج"],
+      "es": ["Oración", "Ayuno", "Zakat", "Hajj"],
+      "en": ["Prayer", "Fasting", "Zakat", "Hajj"],
+      "fr": ["Prière", "Jeûne", "Zakat", "Hajj"]
+    },
+    "correctIndex": 2,
+    "explanation": {
+      "ar": "الزكاة هي تطهير للمال وصدقة واجبة للفقراء.",
+      "es": "Zakat es la purificación de la riqueza y caridad obligatoria.",
+      "en": "Zakat is the purification of wealth and obligatory charity.",
+      "fr": "La Zakat est la purification des biens et l'aumône obligatoire."
+    },
+    "category": "Pillars"
+  },
+  {
+    "id": 8,
+    "question": {
+      "ar": "كم عدد ركعات صلاة الفجر؟",
+      "es": "¿Cuántas rakats tiene la oración de Fajr?",
+      "en": "How many rakats does Fajr prayer have?",
+      "fr": "Combien de rakats compte la prière de Fajr ?"
+    },
+    "options": {
+      "ar": ["2", "3", "4", "1"],
+      "es": ["2", "3", "4", "1"],
+      "en": ["2", "3", "4", "1"],
+      "fr": ["2", "3", "4", "1"]
+    },
+    "correctIndex": 0,
+    "explanation": {
+      "ar": "صلاة الفجر تتكون من ركعتين فرض.",
+      "es": "La oración obligatoria de Fajr consiste en 2 rakats.",
+      "en": "The obligatory Fajr prayer consists of 2 rakats.",
+      "fr": "La prière obligatoire de Fajr se compose de 2 rakats."
+    },
+    "category": "Prayer"
+  },
+  {
+    "id": 9,
+    "question": {
+      "ar": "ما هو الركن الذي نصومه في رمضان؟",
+      "es": "¿Qué pilar realizamos en Ramadán?",
+      "en": "Which pillar do we perform in Ramadan?",
+      "fr": "Quel pilier accomplissons-nous pendant le Ramadan ?"
+    },
+    "options": {
+      "ar": ["الحج", "الزكاة", "الصوم", "الصلاة"],
+      "es": ["Hajj", "Zakat", "Ayuno", "Oración"],
+      "en": ["Hajj", "Zakat", "Fasting", "Prayer"],
+      "fr": ["Hajj", "Zakat", "Jeûne", "Prière"]
+    },
+    "correctIndex": 2,
+    "explanation": {
+      "ar": "الصيام هو الإمساك عن الطعام والشراب من الفجر للمغرب.",
+      "es": "El ayuno es abstenerse de comida y bebida desde el alba hasta el ocaso.",
+      "en": "Fasting is abstaining from food and drink from dawn to sunset.",
+      "fr": "Le jeûne consiste à s'abstenir de manger et boire de l'aube au coucher du soleil."
+    },
+    "category": "Pillars"
+  },
+  {
+    "id": 10,
+    "question": {
+      "ar": "ماذا نقول عند العطس؟",
+      "es": "¿Qué decimos al estornudar?",
+      "en": "What do we say when we sneeze?",
+      "fr": "Que disons-nous quand nous éternuons ?"
+    },
+    "options": {
+      "ar": ["أستغفر الله", "الحمد لله", "سبحان الله", "ما شاء الله"],
+      "es": ["Astaghfirullah", "Alhamdulillah", "SubhanAllah", "Ma Sha Allah"],
+      "en": ["Astaghfirullah", "Alhamdulillah", "SubhanAllah", "Ma Sha Allah"],
+      "fr": ["Astaghfirullah", "Alhamdulillah", "SubhanAllah", "Ma Sha Allah"]
+    },
+    "correctIndex": 1,
+    "explanation": {
+      "ar": "نقول 'الحمد لله' شكراً لله على نعمة الصحة بعد العطس.",
+      "es": "Decimos 'Alhamdulillah' para agradecer a Allah tras estornudar.",
+      "en": "We say 'Alhamdulillah' to thank Allah after sneezing.",
+      "fr": "Nous disons 'Alhamdulillah' pour remercier Allah après avoir éternué."
+    },
+    "category": "Dhikr"
+  },
+  {
+    "id": 11,
+    "question": {
+      "ar": "كم عدد ركعات صلاة الظهر؟",
+      "es": "¿Cuántas rakats tiene la oración de Dhuhr?",
+      "en": "How many rakats does Dhuhr prayer have?",
+      "fr": "Combien de rakats compte la prière de Dhuhr ?"
+    },
+    "options": {
+      "ar": ["2", "3", "4", "1"],
+      "es": ["2", "3", "4", "1"],
+      "en": ["2", "3", "4", "1"],
+      "fr": ["2", "3", "4", "1"]
+    },
+    "correctIndex": 2,
+    "explanation": {
+      "ar": "صلاة الظهر تتكون من أربع ركعات.",
+      "es": "La oración de Dhuhr consiste en 4 rakats.",
+      "en": "Dhuhr prayer consists of 4 rakats.",
+      "fr": "La prière de Dhuhr se compose de 4 rakats."
+    },
+    "category": "Prayer"
+  },
+  {
+    "id": 12,
+    "question": {
+      "ar": "من هو النبي الذي أُرسل إلى قوم عاد؟",
+      "es": "¿Qué profeta fue enviado al pueblo de 'Ad?",
+      "en": "Which prophet was sent to the people of 'Ad?",
+      "fr": "Quel prophète a été envoyé au peuple des 'Ad ?"
+    },
+    "options": {
+      "ar": ["صالح", "هود", "لوط", "شعيب"],
+      "es": ["Salih", "Hud", "Lot", "Shuaib"],
+      "en": ["Salih", "Hud", "Lot", "Shuaib"],
+      "fr": ["Salih", "Hud", "Lot", "Shuaib"]
+    },
+    "correctIndex": 1,
+    "explanation": {
+      "ar": "أُرسل هود عليه السلام لدعوة قوم عاد لتوحيد الله.",
+      "es": "Hud (AS) fue enviado para invitar al pueblo de 'Ad al monoteísmo.",
+      "en": "Hud (AS) was sent to invite the people of 'Ad to monotheism.",
+      "fr": "Hud (AS) a été envoyé pour inviter le peuple des 'Ad au monothéisme."
+    },
+    "category": "Prophets"
+  },
+  {
+    "id": 13,
+    "question": {
+      "ar": "ما هي القبلة التي يتجه إليها المسلمون؟",
+      "es": "¿Hacia dónde se orientan los musulmanes al rezar?",
+      "en": "Which direction do Muslims face during prayer?",
+      "fr": "Quelle direction les musulmans prennent-ils pour prier ?"
+    },
+    "options": {
+      "ar": ["بيت المقدس", "الكعبة المشرفة", "المسجد النبوي", "الأهرامات"],
+      "es": ["Jerusalén", "La Kaaba", "Medina", "Las Pirámides"],
+      "en": ["Jerusalem", "The Kaaba", "Madinah", "The Pyramids"],
+      "fr": ["Jérusalem", "La Kaaba", "Médine", "Les Pyramides"]
+    },
+    "correctIndex": 1,
+    "explanation": {
+      "ar": "الكعبة في مكة المكرمة هي قبلة جميع المسلمين.",
+      "es": "La Kaaba en La Meca es la dirección (Qibla) para todos los musulmanes.",
+      "en": "The Kaaba in Makkah is the direction (Qibla) for all Muslims.",
+      "fr": "La Kaaba à La Mecque est la direction (Qibla) pour tous les musulmans."
+    },
+    "category": "Prayer"
+  },
+  {
+    "id": 14,
+    "question": {
+      "ar": "ما هو الركن الرابع من أركان الإسلام؟",
+      "es": "¿Cuál es el cuarto pilar del Islam?",
+      "en": "What is the fourth pillar of Islam?",
+      "fr": "Quel est le quatrième pilier de l'Islam ?"
+    },
+    "options": {
+      "ar": ["الحج", "الزكاة", "الصوم", "الصلاة"],
+      "es": ["Hajj", "Zakat", "Ayuno", "Oración"],
+      "en": ["Hajj", "Zakat", "Fasting", "Prayer"],
+      "fr": ["Hajj", "Zakat", "Jeûne", "Prière"]
+    },
+    "correctIndex": 2,
+    "explanation": {
+      "ar": "الصوم هو الركن الرابع المفروض في شهر رمضان.",
+      "es": "El ayuno es el cuarto pilar, obligatorio durante Ramadán.",
+      "en": "Fasting is the fourth pillar, obligatory during Ramadan.",
+      "fr": "Le jeûne est le quatrième pilier, obligatoire pendant le Ramadan."
+    },
+    "category": "Pillars"
+  },
+  {
+    "id": 15,
+    "question": {
+      "ar": "من هو الملك الموكل بالوحي؟",
+      "es": "¿Qué ángel es el encargado de la revelación?",
+      "en": "Which angel is in charge of revelation?",
+      "fr": "Quel ange est chargé de la révélation ?"
+    },
+    "options": {
+      "ar": ["ميكائيل", "إسرافيل", "جبريل", "مالك"],
+      "es": ["Miguel", "Israfel", "Gabriel", "Malik"],
+      "en": ["Mikail", "Israfil", "Jibril", "Malik"],
+      "fr": ["Mikaïl", "Israfil", "Jibril", "Malik"]
+    },
+    "correctIndex": 2,
+    "explanation": {
+      "ar": "جبريل عليه السلام هو الملك الذي نزل بالوحي على الأنبياء.",
+      "es": "Gabriel (Jibril) es el ángel que trajo la revelación a los profetas.",
+      "en": "Jibril (Gabriel) is the angel who brought revelation to the prophets.",
+      "fr": "Jibril (Gabriel) est l'ange qui a apporté la révélation aux prophètes."
+    },
+    "category": "Belief"
+  }
+]
