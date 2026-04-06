@@ -1,0 +1,71 @@
+[
+  {
+    "id": "adhan",
+    "category": "Prayer",
+    "title": { "en": "Adhan", "ar": "الأذان", "fr": "Adhan", "es": "Adhan" },
+    "subtitle": {
+      "en": "The call to prayer",
+      "ar": "النداء للصلاة",
+      "fr": "L'appel à la prière",
+      "es": "El llamado a la oración"
+    },
+    "icon": "notifications",
+    "color": "#fbc02d",
+    "darkColor": "#f57f17",
+    "items": [
+      { "step": 1, "title": { "en": "Takbir", "ar": "التكبير", "fr": "Takbir", "es": "Takbir" }, "arabic": "الله أكبر", "description": { "en": "Say 'Allahu Akbar' four times.", "ar": "قول 'الله أكبر' أربع مرات.", "fr": "Dire 'Allahu Akbar' quatre fois.", "es": "Decir 'Allahu Akbar' cuatro veces." }, "icon": "volume-high" },
+      { "step": 2, "title": { "en": "Shahada (Allah)", "ar": "الشهادة لله", "fr": "Shahada (Allah)", "es": "Shahada (Allah)" }, "arabic": "أشهد أن لا إله إلا الله", "description": { "en": "Testify there is no god but Allah twice.", "ar": "شهادة أن لا إله إلا الله مرتين.", "fr": "Témoigner qu'il n'y a de dieu qu'Allah deux fois.", "es": "Testificar que no hay más dios que Allah dos veces." }, "icon": "ribbon" },
+      { "step": 3, "title": { "en": "Shahada (Prophet)", "ar": "الشهادة للرسول", "fr": "Shahada (Prophète)", "es": "Shahada (Profeta)" }, "arabic": "أشهد أن محمداً رسول الله", "description": { "en": "Testify Muhammad is the Messenger twice.", "ar": "شهادة أن محمداً رسول الله مرتين.", "fr": "Témoigner que Muhammad est le Messager deux fois.", "es": "Testificar que Muhammad es el Mensajero dos veces." }, "icon": "star" },
+      { "step": 4, "title": { "en": "Haya ala-Salah", "ar": "حي على الصلاة", "fr": "Haya ala-Salah", "es": "Haya ala-Salah" }, "arabic": "حي على الصلاة", "description": { "en": "Call to prayer twice.", "ar": "النداء للصلاة مرتين.", "fr": "Appel à la prière deux fois.", "es": "Llamado a la oración dos veces." }, "icon": "notifications-outline" },
+      { "step": 5, "title": { "en": "Haya ala-Falah", "ar": "حي على الفلاح", "fr": "Haya ala-Falah", "es": "Haya ala-Falah" }, "arabic": "حي على الفلاح", "description": { "en": "Call to success twice.", "ar": "النداء للفلاح مرتين.", "fr": "Appel au succès deux fois.", "es": "Llamado al éxito dos veces." }, "icon": "trending-up" },
+      { "step": 6, "title": { "en": "Final Takbir", "ar": "التكبير الأخير", "fr": "Takbir Final", "es": "Takbir Final" }, "arabic": "الله أكبر", "description": { "en": "Say 'Allahu Akbar' twice.", "ar": "قول 'الله أكبر' مرتين.", "fr": "Dire 'Allahu Akbar' deux fois.", "es": "Decir 'Allahu Akbar' dos veces." }, "icon": "volume-medium" },
+      { "step": 7, "title": { "en": "Tahlil", "ar": "التهليل", "fr": "Tahlil", "es": "Tahlil" }, "arabic": "لا إله إلا الله", "description": { "en": "Say 'La ilaha illa Allah' once.", "ar": "قول 'لا إله إلا الله' مرة واحدة.", "fr": "Dire 'La ilaha illa Allah' une fois.", "es": "Decir 'La ilaha illa Allah' una vez." }, "icon": "sunny" }
+    ]
+  },
+  {
+    "id": "salah_basics",
+    "category": "Prayer",
+    "title": { "en": "Salah Basics", "ar": "أركان الصلاة", "fr": "Bases de la Salah", "es": "Bases de la Salah" },
+    "subtitle": {
+      "en": "Foundational pillars of prayer",
+      "ar": "الأركان الأساسية للصلاة",
+      "fr": "Piliers fondamentaux de la prière",
+      "es": "Pilares fundamentales de la oración"
+    },
+    "icon": "calendar",
+    "color": "#43a047",
+    "darkColor": "#1b5e20",
+    "items": [
+      { "step": 1, "title": { "en": "Stand (Qiyam)", "ar": "القيام", "fr": "Debout (Qiyam)", "es": "De pie (Qiyam)" }, "arabic": "القيام", "description": { "en": "Standing if able during obligatory prayers.", "ar": "الوقوف عند القدرة في صلاة الفريضة.", "fr": "Se tenir debout si possible pendant les prières.", "es": "Estar de pie si es posible durante las oraciones." }, "icon": "body" },
+      { "step": 2, "title": { "en": "Opening Takbir", "ar": "تكبيرة الإحرام", "fr": "Takbir d'ouverture", "es": "Takbir de apertura" }, "arabic": "تكبيرة الإحرام", "description": { "en": "Saying 'Allahu Akbar' to start.", "ar": "قول 'الله أكبر' لبدء الصلاة.", "fr": "Dire 'Allahu Akbar' pour commencer.", "es": "Decir 'Allahu Akbar' para empezar." }, "icon": "megaphone" },
+      { "step": 3, "title": { "en": "Fatiha", "ar": "الفاتحة", "fr": "Fatiha", "es": "Fatiha" }, "arabic": "الفاتحة", "description": { "en": "Reciting Surah Al-Fatiha in every Rakah.", "ar": "قراءة سورة الفاتحة في كل ركعة.", "fr": "Récitation de la Sourate Al-Fatiha à chaque Rakah.", "es": "Recitación de la Sura Al-Fatiha en cada Rakah." }, "icon": "book" },
+      { "step": 4, "title": { "en": "Ruku", "ar": "الركوع", "fr": "Ruku", "es": "Ruku" }, "arabic": "الركوع", "description": { "en": "Bowing down with a flat back.", "ar": "الانحناء مع جعل الظهر مستوياً.", "fr": "S'incliner avec le dos plat.", "es": "Inclinarse con la espalda plana." }, "icon": "arrow-down" },
+      { "step": 5, "title": { "en": "Rise from Ruku", "ar": "الرفع من الركوع", "fr": "Se relever du Ruku", "es": "Levantarse del Ruku" }, "arabic": "الرفع من الركوع", "description": { "en": "Standing up straight after bowing.", "ar": "الاعتدال قائماً بعد الركوع.", "fr": "Se tenir droit après l'inclinaison.", "es": "Ponerse derecho después de la inclinación." }, "icon": "arrow-up" },
+      { "step": 6, "title": { "en": "Sajdah", "ar": "السجود", "fr": "Sajdah", "es": "Sajdah" }, "arabic": "السجود", "description": { "en": "Prostrating on seven bones twice.", "ar": "السجود على الأعضاء السبعة مرتين.", "fr": "Se prosterner sur sept os deux fois.", "es": "Postrarse sobre siete huesos dos veces." }, "icon": "man" },
+      { "step": 7, "title": { "en": "Sitting", "ar": "الجلوس", "fr": "S'asseoir", "es": "Sentarse" }, "arabic": "الجلوس", "description": { "en": "Sitting between the two prostrations.", "ar": "الجلوس بين السجدتين.", "fr": "S'asseoir entre les deux prosternations.", "es": "Sentarse entre las dos postraciones." }, "icon": "pause" },
+      { "step": 8, "title": { "en": "Final Tashahhud", "ar": "التشهد الأخير", "fr": "Tashahhud Final", "es": "Tashahhud Final" }, "arabic": "التشهد الأخير", "description": { "en": "Sitting for the final testimony.", "ar": "الجلوس للتشهد الأخير.", "fr": "S'asseoir pour le dernier témoignage.", "es": "Sentarse para el último testimonio." }, "icon": "document-text" },
+      { "step": 9, "title": { "en": "Taslim", "ar": "التسليم", "fr": "Taslim", "es": "Taslim" }, "arabic": "التسليم", "description": { "en": "Ending prayer with 'Assalamu Alaikum'.", "ar": "ختم الصلاة بقول 'السلام عليكم'.", "fr": "Finir la prière par 'Assalamu Alaikum'.", "es": "Terminar la oración con 'Assalamu Alaikum'." }, "icon": "exit" }
+    ]
+  },
+  {
+    "id": "jumuah",
+    "category": "Prayer",
+    "title": { "en": "Friday Prayer", "ar": "صلاة الجمعة", "fr": "Prière du Vendredi", "es": "Oración del Viernes" },
+    "subtitle": {
+      "en": "Weekly congregational prayer",
+      "ar": "صلاة الجماعة الأسبوعية",
+      "fr": "Prière collective hebdomadaire",
+      "es": "Oración congregacional semanal"
+    },
+    "icon": "sunny",
+    "color": "#3f51b5",
+    "darkColor": "#1a237e",
+    "items": [
+      { "step": 1, "title": { "en": "Ghusl", "ar": "الغسل", "fr": "Ghusl", "es": "Ghusl" }, "arabic": "الغسل", "description": { "en": "Taking a bath is highly recommended.", "ar": "الاغتسال يوم الجمعة مستحب جداً.", "fr": "Prendre un bain est fortement recommandé.", "es": "Tomar un baño es muy recomendable." }, "icon": "water" },
+      { "step": 2, "title": { "en": "Early Arrival", "ar": "التبكير", "fr": "Arrivée précoce", "es": "Llegada temprana" }, "arabic": "التبكير", "description": { "en": "Going to the Mosque early.", "ar": "الذهاب إلى المسجد مبكراً.", "fr": "Aller à la mosquée tôt.", "es": "Ir a la mezquita temprano." }, "icon": "time" },
+      { "step": 3, "title": { "en": "Listen to Khutbah", "ar": "الاستماع للخطبة", "fr": "Écouter la Khutbah", "es": "Escuchar la Juba" }, "arabic": "الاستماع للخطبة", "description": { "en": "Listening to the sermon in silence.", "ar": "الاستماع للخطبة في صمت.", "fr": "Écouter le sermon en silence.", "es": "Escuchar el sermón en silencio." }, "icon": "volume-high" },
+      { "step": 4, "title": { "en": "Two Rakah", "ar": "ركعتان", "fr": "Deux Rakahs", "es": "Dos Rakahs" }, "arabic": "ركعتان", "description": { "en": "Praying two units behind the Imam.", "ar": "صلاة ركعتين خلف الإمام.", "fr": "Prier deux unités derrière l'Imam.", "es": "Rezar dos unidades detrás del Imam." }, "icon": "people" },
+      { "step": 5, "title": { "en": "Surah Kahf", "ar": "سورة الكهف", "fr": "Sourate Al-Kahf", "es": "Sura Al-Kahf" }, "arabic": "سورة الكهف", "description": { "en": "Reciting Surah Al-Kahf on Friday.", "ar": "قراءة سورة الكهف يوم الجمعة.", "fr": "Réciter la Sourate Al-Kahf le vendredi.", "es": "Recitar la Sura Al-Kahf el viernes." }, "icon": "book" }
+    ]
+  }
+]
