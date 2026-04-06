@@ -1,0 +1,63 @@
+[
+  {
+    "id": "fasting_ramadan",
+    "category": "Fasting",
+    "title": { "en": "Ramadan Fasting", "ar": "صيام رمضان", "fr": "Jeûne du Ramadan", "es": "Ayuno de Ramadán" },
+    "subtitle": {
+      "en": "Obligatory fasting in the holy month",
+      "ar": "الصيام المفروض في الشهر الكريم",
+      "fr": "Le jeûne obligatoire du mois sacré",
+      "es": "El ayuno obligatorio del mes sagrado"
+    },
+    "icon": "moon",
+    "color": "#5e35b1",
+    "darkColor": "#311b92",
+    "items": [
+      { "step": 1, "title": { "en": "Intention", "ar": "النية", "fr": "Intention", "es": "Intención" }, "arabic": "النية", "description": { "en": "Make intention before Fajr starts.", "ar": "تبييت النية قبل طلوع الفجر.", "fr": "Faire l'intention avant l'aube (Fajr).", "es": "Hacer la intención antes del alba." }, "icon": "heart" },
+      { "step": 2, "title": { "en": "Suhoor", "ar": "السحور", "fr": "Suhoor", "es": "Suhoor" }, "arabic": "السحور", "description": { "en": "Eat a pre-dawn meal for energy.", "ar": "تناول وجبة السحور للتقوي على الصيام.", "fr": "Prendre un repas avant l'aube.", "es": "Comer una comida antes del alba." }, "icon": "cafe" },
+      { "step": 3, "title": { "en": "Abstinence", "ar": "الإمساك", "fr": "Abstinence", "es": "Abstinencia" }, "arabic": "الإمساك", "description": { "en": "Refrain from food, drink, and intimacy.", "ar": "الإمساك عن الطعام والشراب والشهوات.", "fr": "S'abstenir de manger, boire et l'intimité.", "es": "Abstenerse de comer, beber e intimidad." }, "icon": "close-circle" },
+      { "step": 4, "title": { "en": "Iftar", "ar": "الإفطار", "fr": "Iftar", "es": "Iftar" }, "arabic": "الإفطار", "description": { "en": "Break the fast immediately at sunset.", "ar": "تعجيل الإفطار عند غروب الشمس.", "fr": "Rompre le jeûne dès le coucher du soleil.", "es": "Romper el ayuno justo al atardecer." }, "icon": "fast-food" },
+      { "step": 5, "title": { "en": "Dua", "ar": "الدعاء", "fr": "Doua", "es": "Súplica" }, "arabic": "الدعاء", "description": { "en": "Supplicate at the time of breaking fast.", "ar": "الدعاء عند الفطر (ذهب الظمأ).", "fr": "Invoquer au moment de la rupture.", "es": "Suplicar al momento de romper el ayuno." }, "icon": "hand-right" }
+    ]
+  },
+  {
+    "id": "voluntary_fasting",
+    "category": "Fasting",
+    "title": { "en": "Voluntary Fasting", "ar": "صيام التطوع", "fr": "Jeûne Volontaire", "es": "Ayuno Voluntario" },
+    "subtitle": {
+      "en": "Extra fasts to gain reward",
+      "ar": "صيام النوافل طلباً للأجر",
+      "fr": "Jeûnes surérogatoires (Sunnah)",
+      "es": "Ayunos voluntarios (Sunnah)"
+    },
+    "icon": "star",
+    "color": "#7e57c2",
+    "darkColor": "#4527a0",
+    "items": [
+      { "step": 1, "title": { "en": "Mondays & Thursdays", "ar": "الاثنين والخميس", "fr": "Lundi et Jeudi", "es": "Lunes y Jueves" }, "arabic": "الاثنين والخميس", "description": { "en": "The Prophet used to fast these days.", "ar": "صيام يومي الاثنين والخميس من كل أسبوع.", "fr": "Le Prophète jeûnait ces jours-là.", "es": "El Profeta solía ayunar estos días." }, "icon": "calendar" },
+      { "step": 2, "title": { "en": "White Days", "ar": "الأيام البيض", "fr": "Jours Blancs", "es": "Días Blancos" }, "arabic": "الأيام البيض", "description": { "en": "Fasting 13th, 14th, and 15th of lunar month.", "ar": "صيام أيام 13 و14 و15 من كل شهر هجري.", "fr": "Jeûner les 13, 14 et 15 du mois lunaire.", "es": "Ayunar los días 13, 14 y 15 del mes lunar." }, "icon": "sunny" },
+      { "step": 3, "title": { "en": "Day of Arafah", "ar": "يوم عرفة", "fr": "Jour d'Arafat", "es": "Día de Arafah" }, "arabic": "يوم عرفة", "description": { "en": "Fasting for non-pilgrims on 9th Dhul-Hijjah.", "ar": "صيام يوم عرفة لغير الحاج.", "fr": "Jeûne du 9ème jour de Dhul-Hijjah.", "es": "Ayuno para los no peregrinos el 9 de Dhul-Hijjah." }, "icon": "ribbon" },
+      { "step": 4, "title": { "en": "Ashura", "ar": "عاشوراء", "fr": "Ashoura", "es": "Ashura" }, "arabic": "عاشوراء", "description": { "en": "Fasting on the 10th of Muharram.", "ar": "صيام اليوم العاشر من شهر محرم.", "fr": "Jeûner le 10ème jour de Mouharram.", "es": "Ayuno el día 10 de Muharram." }, "icon": "water" }
+    ]
+  },
+  {
+    "id": "fasting_ethics",
+    "category": "Fasting",
+    "title": { "en": "Fasting Ethics", "ar": "آداب الصائم", "fr": "Éthique du Jeûne", "es": "Ética del Ayuno" },
+    "subtitle": {
+      "en": "Spiritual behavior while fasting",
+      "ar": "السلوك الروحي أثناء الصيام",
+      "fr": "Comportement spirituel durant le jeûne",
+      "es": "Comportamiento espiritual durante el ayuno"
+    },
+    "icon": "shield-checkmark",
+    "color": "#ba68c8",
+    "darkColor": "#7b1fa2",
+    "items": [
+      { "step": 1, "title": { "en": "Guard Tongue", "ar": "حفظ اللسان", "fr": "Garder sa langue", "es": "Cuidar la lengua" }, "arabic": "ترك اللغو", "description": { "en": "Avoid lying, backbiting, and arguing.", "ar": "تجنب الكذب والغيبة والجدال.", "fr": "Éviter de mentir, médire et se disputer.", "es": "Evitar mentir, difamar y discutir." }, "icon": "chatbubbles" },
+      { "step": 2, "title": { "en": "Patience", "ar": "الصبر", "fr": "La Patience", "es": "La Paciencia" }, "arabic": "خلق الصبر", "description": { "en": "Maintain a calm and peaceful attitude.", "ar": "التحلي بالهدوء والسكينة.", "fr": "Maintenir une attitude calme et paisible.", "es": "Mantener una actitud tranquila y pacífica." }, "icon": "body" },
+      { "step": 3, "title": { "en": "Generosity", "ar": "الجود والكرم", "fr": "Générosité", "es": "Generosidad" }, "arabic": "كثرة الجود", "description": { "en": "Increase charity and helping others.", "ar": "الإكثار من الصدقة ومساعدة الآخرين.", "fr": "Augmenter la charité et l'aide aux autres.", "es": "Aumentar la caridad y la ayuda a otros." }, "icon": "heart" },
+      { "step": 4, "title": { "en": "Quran Time", "ar": "القرآن", "fr": "Temps du Coran", "es": "Tiempo del Corán" }, "arabic": "قراءة القرآن", "description": { "en": "Devote more time to reciting the Quran.", "ar": "تخصيص وقت أكبر لتلاوة القرآن الكريم.", "fr": "Consacrer plus de temps à lire le Coran.", "es": "Dedicar más tiempo a recitar el Corán." }, "icon": "book" }
+    ]
+  }
+]
