@@ -1,0 +1,123 @@
+[
+  {
+    "id": "marriage",
+    "category": "Social",
+    "title": { "en": "Nikah Basics", "ar": "أركان النكاح", "fr": "Bases du Nikah", "es": "Bases del Nikah" },
+    "subtitle": {
+      "en": "Islamic marriage contract",
+      "ar": "شروط عقد الزواج في الإسلام",
+      "fr": "Contrat de mariage islamique",
+      "es": "Contrato de matrimonio islámico"
+    },
+    "icon": "people-circle",
+    "color": "#009688",
+    "darkColor": "#004d40",
+    "items": [
+      { "step": 1, "title": { "en": "Consent", "ar": "الرضا", "fr": "Consentement", "es": "Consentimiento" }, "arabic": "الرضا", "description": { "en": "Mutual agreement between bride and groom.", "ar": "القبول والرضا التام بين الطرفين.", "fr": "Accord mutuel entre les époux.", "es": "Acuerdo mutuo entre los novios." }, "icon": "checkmark-circle" },
+      { "step": 2, "title": { "en": "Wali", "ar": "الولي", "fr": "Wali", "es": "Wali" }, "arabic": "الولي", "description": { "en": "Presence of the bride's guardian.", "ar": "وجود ولي أمر الزوجة.", "fr": "Présence du tuteur de la mariée.", "es": "Presencia del tutor de la novia." }, "icon": "man" },
+      { "step": 3, "title": { "en": "Mahr", "ar": "المهر", "fr": "Mahr", "es": "Mahr" }, "arabic": "المهر", "description": { "en": "A gift from the groom to the bride.", "ar": "حق مالي للمرأة على زوجها بالعقد.", "fr": "Un cadeau du marié à la mariée.", "es": "Un regalo del novio a la novia." }, "icon": "gift" },
+      { "step": 4, "title": { "en": "Witnesses", "ar": "الشهود", "fr": "Témoins", "es": "Testigos" }, "arabic": "الشهود", "description": { "en": "Two sane adult Muslim witnesses.", "ar": "وجود شاهدين عدلين على العقد.", "fr": "Deux témoins musulmans majeurs.", "es": "Dos testigos musulmanes adultos." }, "icon": "eye" },
+      { "step": 5, "title": { "en": "Sighah", "ar": "الصيغة", "fr": "Sighah", "es": "Sighah" }, "arabic": "الإيجاب والقبول", "description": { "en": "The formal offer and acceptance.", "ar": "لفظ الإيجاب من الولي والقبول من الزوج.", "fr": "L'offre et l'acceptation formelles.", "es": "La oferta y aceptación formal." }, "icon": "chatbubbles" }
+    ]
+  },
+  {
+    "id": "parents",
+    "category": "Social",
+    "title": { "en": "Rights of Parents", "ar": "بر الوالدين", "fr": "Droits des Parents", "es": "Derechos de los Padres" },
+    "subtitle": {
+      "en": "Treating parents in Islam",
+      "ar": "الإحسان إلى الوالدين",
+      "fr": "Traiter ses parents en Islam",
+      "es": "Tratar a los padres en el Islam"
+    },
+    "icon": "heart",
+    "color": "#f44336",
+    "darkColor": "#b71c1c",
+    "items": [
+      { "step": 1, "title": { "en": "Kindness", "ar": "الإحسان", "fr": "Bonté", "es": "Bondad" }, "arabic": "الإحسان", "description": { "en": "Show utmost kindness and respect.", "ar": "التعامل معهما بأعلى درجات الأدب.", "fr": "Faire preuve de gentillesse et respect.", "es": "Mostrar suma bondad y respeto." }, "icon": "rose" },
+      { "step": 2, "title": { "en": "No Disrespect", "ar": "ترك العقوق", "fr": "Pas de manque de respect", "es": "Sin falta de respeto" }, "arabic": "لا تقل لهما أف", "description": { "en": "Do not say even 'uff' to them.", "ar": "تجنب أي كلمة تضجر تجاههما.", "fr": "Ne leur dites même pas 'ouf'.", "es": "No les digas ni siquiera 'uff'." }, "icon": "volume-mute" },
+      { "step": 3, "title": { "en": "Obedience", "ar": "الطاعة", "fr": "Obéissance", "es": "Obediencia" }, "arabic": "الطاعة بالمعروف", "description": { "en": "Obey them as long as it's not sinful.", "ar": "طاعتهما في غير معصية الله.", "fr": "Obéir tant que ce n'est pas un péché.", "es": "Obedecerles mientras no sea pecado." }, "icon": "checkmark" },
+      { "step": 4, "title": { "en": "Supplication", "ar": "الدعاء لهما", "fr": "Invocation", "es": "Súplica" }, "arabic": "الدعاء لهما", "description": { "en": "Pray for their mercy and forgiveness.", "ar": "الدعاء لهما بالرحمة والمغفرة.", "fr": "Prier pour leur miséricorde.", "es": "Rezar por su misericordia y perdón." }, "icon": "cloud-upload" }
+    ]
+  },
+  {
+    "id": "neighbor",
+    "category": "Social",
+    "title": { "en": "Rights of Neighbors", "ar": "حق الجار", "fr": "Droits du Voisin", "es": "Derechos del Vecino" },
+    "subtitle": {
+      "en": "Being a good neighbor",
+      "ar": "الإحسان إلى الجيران",
+      "fr": "Être un bon voisin",
+      "es": "Ser un buen vecino"
+    },
+    "icon": "home",
+    "color": "#8bc34a",
+    "darkColor": "#33691e",
+    "items": [
+      { "step": 1, "title": { "en": "No Harm", "ar": "كف الأذى", "fr": "Pas de préjudice", "es": "No dañar" }, "arabic": "كف الأذى", "description": { "en": "Never annoy or harm the neighbor.", "ar": "تجنب إيذاء الجار بالقول أو الفعل.", "fr": "Ne jamais nuire au voisin.", "es": "Nunca molestar o dañar al vecino." }, "icon": "shield-checkmark" },
+      { "step": 2, "title": { "en": "Generosity", "ar": "الإكرام", "fr": "Générosité", "es": "Generosidad" }, "arabic": "إكرام الجار", "description": { "en": "Share food and gifts occasionally.", "ar": "تبادل الطعام والهديا معهم.", "fr": "Partager nourriture et cadeaux.", "es": "Compartir comida y regalos." }, "icon": "gift" },
+      { "step": 3, "title": { "en": "Visitation", "ar": "الزيارة", "fr": "Visite", "es": "Visita" }, "arabic": "عيادة الجار", "description": { "en": "Visit them when they are sick.", "ar": "زيارتهم والسؤال عنهم عند المرض.", "fr": "Les visiter s'ils sont malades.", "es": "Visitarles cuando estén enfermos." }, "icon": "medkit" },
+      { "step": 4, "title": { "en": "Privacy", "ar": "الخصوصية", "fr": "Intimité", "es": "Privacidad" }, "arabic": "حفظ الخصوصية", "description": { "en": "Respect their privacy and boundaries.", "ar": "احترام خصوصية الجار وحدوده.", "fr": "Respecter leur vie privée.", "es": "Respetar su privacidad y límites." }, "icon": "eye-off" }
+    ]
+  },
+  {
+    "id": "business",
+    "category": "Social",
+    "title": { "en": "Islamic Business", "ar": "الأخلاق التجارية", "fr": "Commerce en Islam", "es": "Negocios Islámicos" },
+    "subtitle": {
+      "en": "Ethics in trade and finance",
+      "ar": "أخلاق البيع والشراء",
+      "fr": "Éthique du commerce",
+      "es": "Ética en el comercio"
+    },
+    "icon": "briefcase",
+    "color": "#795548",
+    "darkColor": "#3e2723",
+    "items": [
+      { "step": 1, "title": { "en": "Honesty", "ar": "الصدق", "fr": "Honnêteté", "es": "Honestidad" }, "arabic": "الصدق في البيع", "description": { "en": "Be truthful about product quality.", "ar": "الصدق في تبيان عيوب السلعة.", "fr": "Être véridique sur la qualité.", "es": "Ser sincero sobre la calidad." }, "icon": "ribbon" },
+      { "step": 2, "title": { "en": "No Riba", "ar": "تحريم الربا", "fr": "Pas de Riba", "es": "Sin Riba" }, "arabic": "ترك الربا", "description": { "en": "Interest-based transactions are forbidden.", "ar": "تجنب المعاملات الربوية تماماً.", "fr": "L'intérêt est interdit.", "es": "El interés está prohibido." }, "icon": "trending-down" },
+      { "step": 3, "title": { "en": "Fair Weight", "ar": "إيفاء الكيل", "fr": "Poids juste", "es": "Peso justo" }, "arabic": "العدل في الميزان", "description": { "en": "Give full measure and weight.", "ar": "العدل في كيل ووزن السلع.", "fr": "Donner la mesure exacte.", "es": "Dar la medida y el peso exactos." }, "icon": "scale" },
+      { "step": 4, "title": { "en": "Mutual Consent", "ar": "التراضي", "fr": "Consentement", "es": "Consentimiento" }, "arabic": "التراضي بين الطرفين", "description": { "en": "Trade must be based on mutual agreement.", "ar": "أن يكون البيع عن تراضٍ بينهما.", "fr": "Le commerce doit être consensuel.", "es": "El comercio debe ser consensuado." }, "icon": "handshake" }
+    ]
+  },
+  {
+    "id": "janazah",
+    "category": "Social",
+    "title": { "en": "Funeral Rites", "ar": "أحكام الجنازة", "fr": "Rites Funéraires", "es": "Ritos Funerarios" },
+    "subtitle": {
+      "en": "Handling the deceased",
+      "ar": "إكرام الميت ودفنه",
+      "fr": "Gérer le défunt",
+      "es": "Trato al difunto"
+    },
+    "icon": "body",
+    "color": "#607d8b",
+    "darkColor": "#263238",
+    "items": [
+      { "step": 1, "title": { "en": "Washing", "ar": "الغسل", "fr": "Lavage", "es": "Lavado" }, "arabic": "غسل الميت", "description": { "en": "Ritual washing of the body.", "ar": "تطهير جسد المتوفى شرعاً.", "fr": "Lavage rituel du corps.", "es": "Lavado ritual del cuerpo." }, "icon": "water" },
+      { "step": 2, "title": { "en": "Shrouding", "ar": "التكفين", "fr": "Linceul", "es": "Mortaja" }, "arabic": "التكفين", "description": { "en": "Wrapping the body in clean white cloth.", "ar": "ستر بدن المتوفى بقماش أبيض.", "fr": "Envelopper dans un tissu blanc.", "es": "Envolver en tela blanca limpia." }, "icon": "shirt" },
+      { "step": 3, "title": { "en": "Prayer", "ar": "الصلاة", "fr": "Prière", "es": "Oración" }, "arabic": "صلاة الجنازة", "description": { "en": "Performing the funeral prayer (4 Takbirs).", "ar": "صلاة الجنازة بأربع تكبيرات.", "fr": "La prière funéraire.", "es": "La oración funeraria." }, "icon": "people" },
+      { "step": 4, "title": { "en": "Burial", "ar": "الدفن", "fr": "Enterrement", "es": "Entierro" }, "arabic": "الدفن", "description": { "en": "Burying the deceased facing the Qibla.", "ar": "الدفن في القبر باتجاه القبلة.", "fr": "Enterrer face à la Qibla.", "es": "Enterrar mirando a la Qibla." }, "icon": "earth" }
+    ]
+  },
+  {
+    "id": "visiting_sick",
+    "category": "Social",
+    "title": { "en": "Visiting Sick", "ar": "عيادة المريض", "fr": "Visite au Malade", "es": "Visita al Enfermo" },
+    "subtitle": {
+      "en": "Rewards of visiting the ill",
+      "ar": "فضل وآداب زيارة المريض",
+      "fr": "Récompenses de la visite",
+      "es": "Recompensas de la visita"
+    },
+    "icon": "medkit",
+    "color": "#00bcd4",
+    "darkColor": "#006064",
+    "items": [
+      { "step": 1, "title": { "en": "Timing", "ar": "الوقت", "fr": "Moment", "es": "Momento" }, "arabic": "الوقت المناسب", "description": { "en": "Choose a time that is easy for the patient.", "ar": "اختيار وقت لا يثقل على المريض.", "fr": "Choisir un moment opportun.", "es": "Elegir un momento oportuno." }, "icon": "time" },
+      { "step": 2, "title": { "en": "Dua", "ar": "الدعاء", "fr": "Doua", "es": "Súplica" }, "arabic": "الدعاء له بالشفاء", "description": { "en": "Say 'La ba'sa tahurun inshaAllah'.", "ar": "الدعاء للمريض بالشفاء والعافية.", "fr": "Invoquer la guérison d'Allah.", "es": "Suplicar la curación de Allah." }, "icon": "chatbubble" },
+      { "step": 3, "title": { "en": "Hope", "ar": "التفاؤل", "fr": "Espoir", "es": "Esperanza" }, "arabic": "بث الأمل", "description": { "en": "Give them hope and speak positively.", "ar": "تطييب نفس المريض بالكلام الحسن.", "fr": "Donner de l'espoir.", "es": "Dar esperanza y hablar positivo." }, "icon": "sunny" },
+      { "step": 4, "title": { "en": "Short Stay", "ar": "تخفيف الجلوس", "fr": "Brièveté", "es": "Brevedad" }, "arabic": "عدم الإطالة", "description": { "en": "Keep the visit brief to avoid tiring them.", "ar": "تجنب الإطالة في الزيارة لإراحة المريض.", "fr": "Rester bref pour ne pas le fatiguer.", "es": "Ser breve para no cansarle." }, "icon": "hourglass" }
+    ]
+  }
+]
