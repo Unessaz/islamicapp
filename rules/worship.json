@@ -1,0 +1,81 @@
+[
+  {
+    "id": "dua",
+    "category": "Worship",
+    "title": { "en": "Etiquettes of Dua", "ar": "آداب الدعاء", "fr": "Étiquettes de l'Invocation", "es": "Etiquetas de la Súplica" },
+    "subtitle": {
+      "en": "How to supplicate to Allah",
+      "ar": "كيفية التضرع إلى الله",
+      "fr": "Comment implorer Allah",
+      "es": "Cómo suplicar a Allah"
+    },
+    "icon": "hand-left",
+    "color": "#00bcd4",
+    "darkColor": "#006064",
+    "items": [
+      { "step": 1, "title": { "en": "Praise Allah", "ar": "حمد الله", "fr": "Louer Allah", "es": "Alabar a Allah" }, "arabic": "حمد الله", "description": { "en": "Start by praising Allah.", "ar": "البدء بحمد الله والثناء عليه.", "fr": "Commencer par louer Allah.", "es": "Comenzar alabando a Allah." }, "icon": "star" },
+      { "step": 2, "title": { "en": "Salawat", "ar": "الصلاة على النبي", "fr": "Salawat", "es": "Salawat" }, "arabic": "الصلاة على النبي", "description": { "en": "Send blessings upon the Prophet.", "ar": "الصلاة على النبي صلى الله عليه وسلم.", "fr": "Envoyer des bénédictions sur le Prophète.", "es": "Enviar bendiciones sobre el Profeta." }, "icon": "heart" },
+      { "step": 3, "title": { "en": "Facing Qibla", "ar": "استقبال القبلة", "fr": "Faire face à la Qibla", "es": "Hacia la Qibla" }, "arabic": "استقبال القبلة", "description": { "en": "Preferable to face the Kaaba.", "ar": "يستحب استقبال القبلة عند الدعاء.", "fr": "Il est préférable de faire face à la Kaaba.", "es": "Es preferible mirar hacia la Kaaba." }, "icon": "compass" },
+      { "step": 4, "title": { "en": "Raising Hands", "ar": "رفع اليدين", "fr": "Lever les mains", "es": "Levantar las manos" }, "arabic": "رفع اليدين", "description": { "en": "Lift hands to chest level.", "ar": "رفع اليدين بمستوى الصدر.", "fr": "Lever les mains au niveau de la poitrine.", "es": "Levantar las manos al nivel del pecho." }, "icon": "hand-up" },
+      { "step": 5, "title": { "en": "Sincerity", "ar": "الإخلاص", "fr": "Sincérité", "es": "Sinceridad" }, "arabic": "الإخلاص", "description": { "en": "Ask with a firm and sincere heart.", "ar": "الدعاء بقلب حاضر مخلص لله.", "fr": "Demander avec un cœur ferme et sincère.", "es": "Pedir con un corazón firme y sincero." }, "icon": "bonfire" }
+    ]
+  },
+  {
+    "id": "dhikr",
+    "category": "Worship",
+    "title": { "en": "Dhikr (Remembrance)", "ar": "الذكر", "fr": "Dhikr (Rappel)", "es": "Dhikr (Recuerdo)" },
+    "subtitle": {
+      "en": "Keeping the heart connected to Allah",
+      "ar": "ربط القلب بذكر الله",
+      "fr": "Garder le cœur connecté à Allah",
+      "es": "Mantener el corazón conectado con Allah"
+    },
+    "icon": "infinite",
+    "color": "#009688",
+    "darkColor": "#004d40",
+    "items": [
+      { "step": 1, "title": { "en": "Morning & Evening", "ar": "أذكار الصباح والمساء", "fr": "Matin et Soir", "es": "Mañana y Tarde" }, "arabic": "أذكار الصباح والمساء", "description": { "en": "Recite specific supplications for protection.", "ar": "المحافظة على أذكار الصباح والمساء.", "fr": "Réciter des supplications spécifiques.", "es": "Recitar súplicas específicas de protección." }, "icon": "sunny" },
+      { "step": 2, "title": { "en": "After Prayer", "ar": "الأذكار بعد الصلاة", "fr": "Après la prière", "es": "Tras la oración" }, "arabic": "الأذكار بعد الصلاة", "description": { "en": "SubhanAllah, Alhamdulillah, Allahu Akbar (33x).", "ar": "التسبيح والتحميد والتكبير بعد الفريضة.", "fr": "33 fois SubhanAllah, Alhamdulillah, Allahu Akbar.", "es": "33 veces SubhanAllah, Alhamdulillah, Allahu Akbar." }, "icon": "calculator" },
+      { "step": 3, "title": { "en": "Seeking Forgiveness", "ar": "الاستغفار", "fr": "Istighfar", "es": "Istighfar" }, "arabic": "الاستغفار", "description": { "en": "Constantly saying Astaghfirullah.", "ar": "مداومة الاستغفار في كل وقت.", "fr": "Dire constamment Astaghfirullah.", "es": "Decir constantemente Astaghfirullah." }, "icon": "leaf" }
+    ]
+  },
+  {
+    "id": "tahajjud",
+    "category": "Worship",
+    "title": { "en": "Night Prayer", "ar": "قيام الليل", "fr": "Prière de Nuit", "es": "Oración Nocturna" },
+    "subtitle": {
+      "en": "Praying during the last third of night",
+      "ar": "الصلاة في الثلث الأخير من الليل",
+      "fr": "Prier au dernier tiers de la nuit",
+      "es": "Rezar en el último tercio de la noche"
+    },
+    "icon": "moon",
+    "color": "#3f51b5",
+    "darkColor": "#1a237e",
+    "items": [
+      { "step": 1, "title": { "en": "Timing", "ar": "وقت التهجد", "fr": "Moment", "es": "Momento" }, "arabic": "الثلث الأخير", "description": { "en": "Best performed in the last third of the night.", "ar": "أفضل وقت في الثلث الأخير قبل الفجر.", "fr": "Idéalement au dernier tiers de la nuit.", "es": "Idealmente en el último tercio de la noche." }, "icon": "time" },
+      { "step": 2, "title": { "en": "Intention", "ar": "النية", "fr": "Intention", "es": "Intención" }, "arabic": "النية", "description": { "en": "Awaken with the intention to pray to Allah.", "ar": "الاستيقاظ بنية التقرب لله بالصلاة.", "fr": "Se réveiller avec l'intention de prier.", "es": "Despertar con la intención de rezar." }, "icon": "heart" },
+      { "step": 3, "title": { "en": "Wudu", "ar": "الوضوء", "fr": "Wudu", "es": "Wudu" }, "arabic": "الوضوء", "description": { "en": "Perform fresh Wudu for the prayer.", "ar": "الوضوء قبل البدء في الصلاة.", "fr": "Faire l'ablution avant la prière.", "es": "Realizar el Wudu antes de la oración." }, "icon": "water" },
+      { "step": 4, "title": { "en": "Two by Two", "ar": "مثنى مثنى", "fr": "Deux par deux", "es": "Dos por dos" }, "arabic": "ركعتين ركعتين", "description": { "en": "Pray in units of two Rakahs.", "ar": "صلاة ركعتين ركعتين.", "fr": "Prier par unités de deux Rakahs.", "es": "Rezar en unidades de dos Rakahs." }, "icon": "people" }
+    ]
+  },
+  {
+    "id": "masjid_etiquette",
+    "category": "Worship",
+    "title": { "en": "Mosque Etiquette", "ar": "آداب المسجد", "fr": "Étiquette de la Mosquée", "es": "Etiqueta de la Mezquita" },
+    "subtitle": {
+      "en": "Proper behavior in the house of Allah",
+      "ar": "السلوك اللائق في بيت الله",
+      "fr": "Comportement dans la maison d'Allah",
+      "es": "Comportamiento en la casa de Allah"
+    },
+    "icon": "business",
+    "color": "#4caf50",
+    "darkColor": "#1b5e20",
+    "items": [
+      { "step": 1, "title": { "en": "Entry Dua", "ar": "دعاء الدخول", "fr": "Doua d'entrée", "es": "Súplica de entrada" }, "arabic": "اللهم افتح لي أبواب رحمتك", "description": { "en": "Enter with the right foot and say the Dua.", "ar": "الدخول بالرجل اليمنى وقراءة الذكر.", "fr": "Entrer du pied droit avec la Doua.", "es": "Entrar con el pie derecho con la Súplica." }, "icon": "log-in" },
+      { "step": 2, "title": { "en": "Tahiyatul Masjid", "ar": "تحية المسجد", "fr": "Tahiyatul Masjid", "es": "Tahiyatul Masjid" }, "arabic": "صلاة ركعتين", "description": { "en": "Pray two Rakahs before sitting down.", "ar": "صلاة ركعتين تحية للمسجد قبل الجلوس.", "fr": "Prier deux Rakahs avant de s'asseoir.", "es": "Rezar dos Rakahs antes de sentarse." }, "icon": "walk" },
+      { "step": 3, "title": { "en": "Quietness", "ar": "السكينة والوقار", "fr": "Le Calme", "es": "Tranquilidad" }, "arabic": "الهدوء", "description": { "en": "Avoid loud talk or disturbing others.", "ar": "تجنب رفع الصوت أو إزعاج المصلين.", "fr": "Éviter de parler fort ou de déranger.", "es": "Evitar hablar alto o molestar a otros." }, "icon": "volume-mute" }
+    ]
+  }
+]
