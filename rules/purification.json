@@ -1,0 +1,76 @@
+[
+  {
+    "id": "wudu",
+    "category": "Purification",
+    "title": { "en": "Wudu", "ar": "الوضوء", "fr": "Wudu", "es": "Wudu" },
+    "subtitle": {
+      "en": "Ritual purification before prayer",
+      "ar": "الطهارة الروتينية قبل الصلاة",
+      "fr": "Purification rituelle avant la prière",
+      "es": "Purificación ritual antes de la oración"
+    },
+    "icon": "water",
+    "color": "#2d7a4f",
+    "darkColor": "#1a4d30",
+    "items": [
+      { "step": 1, "title": { "en": "Intention", "ar": "النية", "fr": "Intention", "es": "Intención" }, "description": { "en": "Make the intention in your heart for the sake of Allah.", "ar": "عقد النية في القلب لله تعالى.", "fr": "Faire l'intention dans son cœur pour Allah.", "es": "Hacer la intención en el corazón por amor a Allah." }, "icon": "heart" },
+      { "step": 2, "title": { "en": "Bismillah", "ar": "بسم الله", "fr": "Bismillah", "es": "Bismillah" }, "description": { "en": "Say 'Bismillah' before starting.", "ar": "قول 'بسم الله' قبل البدء.", "fr": "Dire 'Bismillah' avant de commencer.", "es": "Decir 'Bismillah' antes de empezar." }, "icon": "chatbubble" },
+      { "step": 3, "title": { "en": "Wash Hands", "ar": "غسل اليدين", "fr": "Laver les mains", "es": "Lavar las manos" }, "description": { "en": "Wash both hands up to the wrists three times.", "ar": "غسل الكفين إلى الرسغين ثلاث مرات.", "fr": "Laver les deux mains jusqu'aux poignets trois fois.", "es": "Lavar ambas manos hasta las muñecas tres veces." }, "icon": "hand-left" },
+      { "step": 4, "title": { "en": "Rinse Mouth", "ar": "المضمضة", "fr": "Rincer la bouche", "es": "Enjuagar la boca" }, "description": { "en": "Take water into the mouth and spit it out three times.", "ar": "تمضمض بالماء ثلاث مرات.", "fr": "Prendre de l'eau dans la bouche et la recracher trois fois.", "es": "Tomar agua en la boca y escupirla tres veces." }, "icon": "water" },
+      { "step": 5, "title": { "en": "Rinse Nose", "ar": "الاستنشاق", "fr": "Rincer le nez", "es": "Enjuagar la nariz" }, "description": { "en": "Sniff water into the nostrils and blow it out three times.", "ar": "استنشاق الماء ثم استنثاره ثلاث مرات.", "fr": "Inspirer l'eau par les narines et l'expulser trois fois.", "es": "Inspirar agua por las fosas nasales y expulsarla tres veces." }, "icon": "water" },
+      { "step": 6, "title": { "en": "Wash Face", "ar": "غسل الوجه", "fr": "Laver le visage", "es": "Lavar la cara" }, "description": { "en": "Wash the entire face three times.", "ar": "غسل الوجه كاملاً ثلاث مرات.", "fr": "Laver tout le visage trois fois.", "es": "Lavar toda la cara tres veces." }, "icon": "person" },
+      { "step": 7, "title": { "en": "Wash Arms", "ar": "غسل اليدين إلى المرفقين", "fr": "Laver les bras", "es": "Lavar los brazos" }, "description": { "en": "Wash the right arm to the elbow three times, then the left.", "ar": "غسل اليد اليمنى إلى المرفق ثلاث مرات ثم اليسرى.", "fr": "Laver le bras droit jusqu'au coude trois fois, puis le gauche.", "es": "Lavar el brazo derecho hasta el codo tres veces, luego el izquierdo." }, "icon": "accessibility" },
+      { "step": 8, "title": { "en": "Wipe Head", "ar": "مسح الرأس", "fr": "Essuyer la tête", "es": "Limpiar la cabeza" }, "description": { "en": "Wipe over the head once with wet hands.", "ar": "مسح الرأس مرة واحدة بيدين مبللتين.", "fr": "Passer les mains mouillées sur la tête une fois.", "es": "Pasar las manos mojadas sobre la cabeza una vez." }, "icon": "hand-right" },
+      { "step": 9, "title": { "en": "Wipe Ears", "ar": "مسح الأذنين", "fr": "Essuyer les oreilles", "es": "Limpiar las orejas" }, "description": { "en": "Wipe the inside and outside of the ears once.", "ar": "مسح الأذنين من الداخل والخارج مرة واحدة.", "fr": "Essuyer l'intérieur et l'extérieur des oreilles une fois.", "es": "Limpiar el interior y el exterior de las orejas una vez." }, "icon": "ear" },
+      { "step": 10, "title": { "en": "Wash Feet", "ar": "غسل الرجلين", "fr": "Laver les pieds", "es": "Lavar los pies" }, "description": { "en": "Wash the right foot then the left foot up to ankles three times.", "ar": "غسل الرجل اليمنى ثم اليسرى إلى الكعبين ثلاث مرات.", "fr": "Laver le pied droit puis le pied gauche jusqu'aux chevilles trois fois.", "es": "Lavar el pie derecho y luego el izquierdo hasta los tobillos tres veces." }, "icon": "walk" }
+    ]
+  },
+  {
+    "id": "ghusl",
+    "category": "Purification",
+    "title": { "en": "Ghusl", "ar": "الغسل", "fr": "Ghusl", "es": "Ghusl" },
+    "subtitle": {
+      "en": "Full body ritual purification",
+      "ar": "الاغتسال الكامل للطهارة",
+      "fr": "Purification rituelle de tout le corps",
+      "es": "Purificación ritual de todo el cuerpo"
+    },
+    "icon": "rainy",
+    "color": "#1e88e5",
+    "darkColor": "#0d47a1",
+    "items": [
+      { "step": 1, "title": { "en": "Intention", "ar": "النية", "fr": "Intention", "es": "Intención" }, "description": { "en": "Intend to purify from major impurity.", "ar": "النية للتطهر من الجنابة أو الحدث الأكبر.", "fr": "L'intention de se purifier de l'impureté majeure.", "es": "Intención de purificarse de la impureza mayor." }, "icon": "heart" },
+      { "step": 2, "title": { "en": "Bismillah", "ar": "بسم الله", "fr": "Bismillah", "es": "Bismillah" }, "description": { "en": "Begin in the name of Allah.", "ar": "البدء باسم الله.", "fr": "Commencer au nom d'Allah.", "es": "Comenzar en el nombre de Allah." }, "icon": "chatbubble" },
+      { "step": 3, "title": { "en": "Wash Hands", "ar": "غسل اليدين", "fr": "Laver les mains", "es": "Lavar las manos" }, "description": { "en": "Wash hands three times.", "ar": "غسل اليدين ثلاث مرات.", "fr": "Laver les mains trois fois.", "es": "Lavar las manos tres veces." }, "icon": "hand-left" },
+      { "step": 4, "title": { "en": "Private Parts", "ar": "غسل الفرج", "fr": "Parties privées", "es": "Partes íntimas" }, "description": { "en": "Wash the private parts and any impurities.", "ar": "غسل الفرج وما حوله من الأذى.", "fr": "Laver les parties intimes et toute impureté.", "es": "Lavar las partes íntimas y cualquier impureza." }, "icon": "shield" },
+      { "step": 5, "title": { "en": "Perform Wudu", "ar": "الوضوء", "fr": "Faire le Wudu", "es": "Realizar el Wudu" }, "description": { "en": "Perform full Wudu as for prayer.", "ar": "الوضوء وضوءاً كاملاً كوضوء الصلاة.", "fr": "Faire l'ablution complète comme pour la prière.", "es": "Realizar el Wudu completo como para la oración." }, "icon": "water" },
+      { "step": 6, "title": { "en": "Wash Hair", "ar": "غسل الشعر", "fr": "Laver les cheveux", "es": "Lavar el cabello" }, "description": { "en": "Pour water over the head three times to the roots.", "ar": "إفاضة الماء على الرأس ثلاث مرات حتى يبلغ أصول الشعر.", "fr": "Verser de l'eau sur la tête trois fois jusqu'aux racines.", "es": "Verter agua sobre la cabeza tres veces hasta las raíces." }, "icon": "person" },
+      { "step": 7, "title": { "en": "Right Side", "ar": "الجانب الأيمن", "fr": "Côté droit", "es": "Lado derecho" }, "description": { "en": "Wash the entire right side of the body.", "ar": "غسل الشق الأيمن من الجسم بالكامل.", "fr": "Laver tout le côté droit du corps.", "es": "Lavar todo el lado derecho del cuerpo." }, "icon": "arrow-forward" },
+      { "step": 8, "title": { "en": "Left Side", "ar": "الجانب الأيسر", "fr": "Côté gauche", "es": "Lado izquierdo" }, "description": { "en": "Wash the entire left side of the body.", "ar": "غسل الشق الأيسر من الجسم بالكامل.", "fr": "Laver tout le côté gauche du corps.", "es": "Lavar todo el lado izquierdo del cuerpo." }, "icon": "arrow-back" },
+      { "step": 9, "title": { "en": "Entire Body", "ar": "تعميم الجسد", "fr": "Tout le corps", "es": "Todo el cuerpo" }, "description": { "en": "Ensure water reaches every part of the skin.", "ar": "التأكد من وصول الماء إلى جميع أجزاء الجسم.", "fr": "S'assurer que l'eau atteint chaque partie du corps.", "es": "Asegurarse de que el agua llegue a cada parte del cuerpo." }, "icon": "body" },
+      { "step": 10, "title": { "en": "Wash Feet", "ar": "غسل القدمين", "fr": "Laver les pieds", "es": "Lavar los pies" }, "description": { "en": "Wash feet if they were not washed during Wudu.", "ar": "غسل القدمين إذا لم يُغسلا أثناء الوضوء.", "fr": "Laver les pieds s'ils n'ont pas été lavés pendant le Wudu.", "es": "Lavar los pies si no se lavaron durante el Wudu." }, "icon": "walk" }
+    ]
+  },
+  {
+    "id": "tayammum",
+    "category": "Purification",
+    "title": { "en": "Tayammum", "ar": "التيمم", "fr": "Tayammum", "es": "Tayammum" },
+    "subtitle": {
+      "en": "Dry ablution without water",
+      "ar": "التيمم بالتراب عند فقد الماء",
+      "fr": "Ablution sèche sans eau",
+      "es": "Ablución en seco sin agua"
+    },
+    "icon": "leaf",
+    "color": "#c19a6b",
+    "darkColor": "#7a5c37",
+    "items": [
+      { "step": 1, "title": { "en": "Intention", "ar": "النية", "fr": "Intention", "es": "Intención" }, "description": { "en": "Intend to purify oneself for prayer.", "ar": "النية في القلب لاستباحة الصلاة.", "fr": "Intention de se purifier pour la prière.", "es": "Intención de purificarse para la oración." }, "icon": "heart" },
+      { "step": 2, "title": { "en": "Bismillah", "ar": "بسم الله", "fr": "Bismillah", "es": "Bismillah" }, "description": { "en": "Begin in the name of Allah.", "ar": "البدء باسم الله.", "fr": "Commencer au nom d'Allah.", "es": "Comenzar en el nombre de Allah." }, "icon": "chatbubble" },
+      { "step": 3, "title": { "en": "Strike Earth", "ar": "الضرب على الأرض", "fr": "Frapper la terre", "es": "Golpear la tierra" }, "description": { "en": "Strike clean earth or sand with palms.", "ar": "ضرب الأرض الطاهرة أو الرمل بالكفين.", "fr": "Frapper la terre propre ou le sable avec les paumes.", "es": "Golpear la tierra limpia o la arena con las palmas." }, "icon": "hand-down" },
+      { "step": 4, "title": { "en": "Blow Dust", "ar": "النفخ", "fr": "Souffler", "es": "Soplar" }, "description": { "en": "Blow off excess dust from the hands.", "ar": "النفخ على الكفين لتخفيف التراب.", "fr": "Souffler pour enlever l'excès de poussière des mains.", "es": "Soplar para eliminar el exceso de polvo de las manos." }, "icon": "air" },
+      { "step": 5, "title": { "en": "Wipe Face", "ar": "مسح الوجه", "fr": "Essuyer le visage", "es": "Limpiar la cara" }, "description": { "en": "Wipe the entire face once with the hands.", "ar": "مسح الوجه كاملاً باليدين مرة واحدة.", "fr": "Essuyer tout le visage une fois avec les mains.", "es": "Limpiar toda la cara una vez con las manos." }, "icon": "person" },
+      { "step": 6, "title": { "en": "Wipe Hands", "ar": "مسح الكفين", "fr": "Essuyer les mains", "es": "Limpiar las manos" }, "description": { "en": "Wipe the back of the right hand then the left.", "ar": "مسح ظاهر كف اليد اليمنى ثم اليسرى.", "fr": "Essuyer le dos de la main droite puis de la gauche.", "es": "Limpiar el dorso de la mano derecha y luego el de la izquierda." }, "icon": "hand-left" }
+    ]
+  }
+]
