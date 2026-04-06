@@ -1,0 +1,83 @@
+[
+  {
+    "id": "halal_food",
+    "category": "Lifestyle",
+    "title": { "en": "Dietary Laws", "ar": "الأكل الحلال", "fr": "Lois Alimentaires", "es": "Leyes Alimentarias" },
+    "subtitle": {
+      "en": "What is permissible to eat",
+      "ar": "ما يحل وما يحرم من الطعام",
+      "fr": "Ce qu'il est permis de manger",
+      "es": "Lo que está permitido comer"
+    },
+    "icon": "restaurant",
+    "color": "#e91e63",
+    "darkColor": "#880e4f",
+    "items": [
+      { "step": 1, "title": { "en": "Mention Allah", "ar": "التسمية", "fr": "Nom d'Allah", "es": "Nombrar a Allah" }, "arabic": "التسمية", "description": { "en": "Slaughter must involve mentioning Allah's name.", "ar": "ذكر اسم الله عند الذبح.", "fr": "L'abattage doit inclure le nom d'Allah.", "es": "El sacrificio debe incluir el nombre de Allah." }, "icon": "mic" },
+      { "step": 2, "title": { "en": "No Blood", "ar": "دم مسفوح", "fr": "Pas de sang", "es": "Sin sangre" }, "arabic": "دم مسفوح", "description": { "en": "Consuming flowing blood is forbidden.", "ar": "تحريم شرب أو أكل الدم المسفوح.", "fr": "Consommer du sang est interdit.", "es": "Consumir sangre está prohibido." }, "icon": "water" },
+      { "step": 3, "title": { "en": "No Pork", "ar": "لحم الخنزير", "fr": "Pas de porc", "es": "Sin cerdo" }, "arabic": "لحم الخنزير", "description": { "en": "Swine and its byproducts are strictly forbidden.", "ar": "لحم الخنزير ومشتقاته محرمة تماماً.", "fr": "Le porc et ses dérivés sont strictement interdits.", "es": "El cerdo y sus derivados están prohibidos." }, "icon": "close" },
+      { "step": 4, "title": { "en": "No Alcohol", "ar": "الخمر", "fr": "Pas d'alcool", "es": "Sin alcohol" }, "arabic": "الخمر", "description": { "en": "Intoxicants of all kinds are prohibited.", "ar": "تحريم المسكرات بجميع أنواعها.", "fr": "Les intoxicants sont interdits.", "es": "Los embriagantes están prohibidos." }, "icon": "beer" },
+      { "step": 5, "title": { "en": "Dhabiha", "ar": "الذبيحة", "fr": "Dhabiha", "es": "Dhabiha" }, "arabic": "الذبيحة", "description": { "en": "Animals must be slaughtered humanely.", "ar": "ذبح الحيوان بطريقة رحيمة وشرعية.", "fr": "L'animal doit être abattu humainement.", "es": "El animal debe ser sacrificado humanamente." }, "icon": "flash" }
+    ]
+  },
+  {
+    "id": "modesty",
+    "category": "Lifestyle",
+    "title": { "en": "Modesty (Haya)", "ar": "الحياء", "fr": "Pudeur (Haya)", "es": "Modestia (Haya)" },
+    "subtitle": {
+      "en": "Guidelines for clothing and behavior",
+      "ar": "إرشادات اللباس والسلوك",
+      "fr": "Directives pour l'habit et le comportement",
+      "es": "Guías de vestimenta y comportamiento"
+    },
+    "icon": "shirt",
+    "color": "#9c27b0",
+    "darkColor": "#4a148c",
+    "items": [
+      { "step": 1, "title": { "en": "Lower Gaze", "ar": "غض البصر", "fr": "Baisser le regard", "es": "Bajar la mirada" }, "arabic": "غض البصر", "description": { "en": "Avoiding looking at forbidden things.", "ar": "تجنب النظر إلى المحرمات.", "fr": "Éviter de regarder les choses interdites.", "es": "Evitar mirar cosas prohibidas." }, "icon": "eye-off" },
+      { "step": 2, "title": { "en": "Loose Clothing", "ar": "لباس فضفاض", "fr": "Vêtements amples", "es": "Ropa holgada" }, "arabic": "لباس فضفاض", "description": { "en": "Clothes should not be tight or transparent.", "ar": "يجب ألا يكون اللباس ضيقاً أو شفافاً.", "fr": "Les habits ne doivent être ni serrés ni transparents.", "es": "La ropa no debe ser ajustada ni transparente." }, "icon": "body" },
+      { "step": 3, "title": { "en": "Covering Awrah", "ar": "ستر العورة", "fr": "Couvrir l'Awrah", "es": "Cubrir la Awrah" }, "arabic": "ستر العورة", "description": { "en": "Covering the necessary parts of the body.", "ar": "ستر الأجزاء المفروض سترها من الجسم.", "fr": "Couvrir les parties nécessaires du corps.", "es": "Cubrir las partes necesarias del cuerpo." }, "icon": "lock-closed" },
+      { "step": 4, "title": { "en": "Behavior", "ar": "السلوك", "fr": "Comportement", "es": "Comportamiento" }, "arabic": "السلوك", "description": { "en": "Acting with humility and decency.", "ar": "التعامل بتواضع وأدب مع الآخرين.", "fr": "Agir avec humilité et décence.", "es": "Actuar con humildad y decencia." }, "icon": "happy" }
+    ]
+  },
+  {
+    "id": "travel",
+    "category": "Lifestyle",
+    "title": { "en": "Travel Rules", "ar": "أحكام السفر", "fr": "Règles du Voyage", "es": "Reglas de Viaje" },
+    "subtitle": {
+      "en": "Concessions for travelers",
+      "ar": "رخص وتسهيلات للمسافر",
+      "fr": "Concessions pour les voyageurs",
+      "es": "Concesiones para viajeros"
+    },
+    "icon": "airplane",
+    "color": "#2196f3",
+    "darkColor": "#0d47a1",
+    "items": [
+      { "step": 1, "title": { "en": "Shortening (Qasr)", "ar": "قصر الصلاة", "fr": "Raccourcissement", "es": "Acortamiento" }, "arabic": "قصر الصلاة", "description": { "en": "Shorten 4-unit prayers to 2 units.", "ar": "قصر الصلاة الرباعية إلى ركعتين.", "fr": "Réduire les prières de 4 à 2 unités.", "es": "Acortar oraciones de 4 a 2 unidades." }, "icon": "remove-circle" },
+      { "step": 2, "title": { "en": "Joining (Jam')", "ar": "جمع الصلاة", "fr": "Regroupement", "es": "Agrupación" }, "arabic": "جمع الصلاة", "description": { "en": "Combining Dhuhr/Asr or Maghrib/Isha.", "ar": "الجمع بين الظهر والعصر أو المغرب والعشاء.", "fr": "Combiner les prières.", "es": "Combinar las oraciones." }, "icon": "add-circle" },
+      { "step": 3, "title": { "en": "Fast Break", "ar": "الفطر", "fr": "Rupture du jeûne", "es": "Ruptura del ayuno" }, "arabic": "الفطر", "description": { "en": "Travelers may delay Ramadan fasts.", "ar": "يجوز للمسافر الفطر في رمضان وقضاؤه لاحقاً.", "fr": "Le voyageur peut reporter le jeûne.", "es": "El viajero puede posponer el ayuno." }, "icon": "fast-food" },
+      { "step": 4, "title": { "en": "Supplication", "ar": "دعاء السفر", "fr": "Invocation", "es": "Súplica" }, "arabic": "دعاء السفر", "description": { "en": "Reciting the prayer for traveling.", "ar": "قراءة الدعاء المأثور عند السفر.", "fr": "Réciter la prière du voyage.", "es": "Recitar la oración del viaje." }, "icon": "mic" }
+    ]
+  },
+  {
+    "id": "etiquettes_eating",
+    "category": "Lifestyle",
+    "title": { "en": "Eating Etiquette", "ar": "آداب الطعام", "fr": "Étiquette du Repas", "es": "Etiqueta al Comer" },
+    "subtitle": {
+      "en": "How a Muslim eats",
+      "ar": "كيفية تناول الطعام في الإسلام",
+      "fr": "Comment un Musulman mange",
+      "es": "Cómo come un Musulmán"
+    },
+    "icon": "restaurant",
+    "color": "#8d6e63",
+    "darkColor": "#4e342e",
+    "items": [
+      { "step": 1, "title": { "en": "Bismillah", "ar": "البدء بالبسملة", "fr": "Bismillah", "es": "Bismillah" }, "arabic": "التسمية", "description": { "en": "Start by saying 'Bismillah'.", "ar": "البدء بقول 'بسم الله' عند الأكل.", "fr": "Commencer en disant 'Bismillah'.", "es": "Empezar diciendo 'Bismillah'." }, "icon": "chatbox" },
+      { "step": 2, "title": { "en": "Right Hand", "ar": "الأكل باليمين", "fr": "Main droite", "es": "Mano derecha" }, "arabic": "الأكل باليمين", "description": { "en": "Eat and drink with the right hand only.", "ar": "الأكل والشرب باستخدام اليد اليمنى فقط.", "fr": "Manger et boire avec la main droite.", "es": "Comer y beber solo con la mano derecha." }, "icon": "hand-right" },
+      { "step": 3, "title": { "en": "Near Side", "ar": "الأكل مما يليك", "fr": "Manger devant soi", "es": "Comer de su lado" }, "arabic": "الأكل مما يليك", "description": { "en": "Eat from what is directly in front of you.", "ar": "تناول الطعام مما هو أمامك مباشرة.", "fr": "Manger ce qui est juste devant soi.", "es": "Comer lo que está justo frente a ti." }, "icon": "arrow-down" },
+      { "step": 4, "title": { "en": "Alhamdulillah", "ar": "الحمد لله", "fr": "Alhamdulillah", "es": "Alhamdulillah" }, "arabic": "الحمد لله", "description": { "en": "End by praising Allah for the food.", "ar": "الحمد والثناء على الله بعد الانتهاء.", "fr": "Louer Allah à la fin du repas.", "es": "Alabar a Allah al terminar de comer." }, "icon": "happy" }
+    ]
+  }
+]
