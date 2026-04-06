@@ -1,0 +1,88 @@
+[
+  {
+    "id": "hajj",
+    "category": "Pilgrimage",
+    "title": { "en": "Hajj Steps", "ar": "مناسك الحج", "fr": "Étapes du Hajj", "es": "Pasos del Hajj" },
+    "subtitle": {
+      "en": "The major pilgrimage",
+      "ar": "الحج الأكبر",
+      "fr": "Le grand pèlerinage",
+      "es": "La gran peregrinación"
+    },
+    "icon": "business",
+    "color": "#455a64",
+    "darkColor": "#263238",
+    "items": [
+      { "step": 1, "title": { "en": "Ihram", "ar": "الإحرام", "fr": "Ihram", "es": "Ihram" }, "arabic": "الإحرام", "description": { "en": "Entering the sacred state with special dress.", "ar": "الدخول في نية النسك بملابس الإحرام.", "fr": "Entrer en état de sacralisation avec l'habit.", "es": "Entrar en estado sagrado con vestimenta especial." }, "icon": "shirt" },
+      { "step": 2, "title": { "en": "Tawaf", "ar": "الطواف", "fr": "Tawaf", "es": "Tawaf" }, "arabic": "الطواف", "description": { "en": "Circling the Kaaba seven times.", "ar": "الطواف حول الكعبة المشرفة سبعة أشواط.", "fr": "Tourner autour de la Kaaba sept fois.", "es": "Girar alrededor de la Kaaba siete veces." }, "icon": "sync" },
+      { "step": 3, "title": { "en": "Sa'i", "ar": "السعي", "fr": "Sa'i", "es": "Sa'i" }, "arabic": "السعي", "description": { "en": "Walking between Safa and Marwa seven times.", "ar": "المشي بين الصفا والمروة سبعة أشواط.", "fr": "Marcher entre Safa et Marwa sept fois.", "es": "Caminar entre Safa y Marwa siete veces." }, "icon": "walk" },
+      { "step": 4, "title": { "en": "Mina", "ar": "منى", "fr": "Mina", "es": "Mina" }, "arabic": "منى", "description": { "en": "Staying in Mina on the 8th of Dhul-Hijjah.", "ar": "المبيت بمنى في يوم التروية.", "fr": "Rester à Mina le 8ème jour de Dhul-Hijjah.", "es": "Quedarse en Mina el 8 de Dhul-Hijjah." }, "icon": "home" },
+      { "step": 5, "title": { "en": "Arafat", "ar": "عرفات", "fr": "Arafat", "es": "Arafat" }, "arabic": "عرفات", "description": { "en": "The standing at Arafat on the 9th day.", "ar": "الوقوف بعرفة وهو ركن الحج الأعظم.", "fr": "Station à Arafat le 9ème jour.", "es": "La estancia en Arafat el noveno día." }, "icon": "flag" },
+      { "step": 6, "title": { "en": "Muzdalifah", "ar": "مزدلفة", "fr": "Muzdalifah", "es": "Muzdalifah" }, "arabic": "مزدلفة", "description": { "en": "Spending the night and gathering pebbles.", "ar": "المبيت بمزدلفة وجمع الجمرات.", "fr": "Passer la nuit et ramasser les cailloux.", "es": "Pasar la noche y recoger piedras." }, "icon": "moon" },
+      { "step": 7, "title": { "en": "Ramy", "ar": "رمي الجمرات", "fr": "Lapidation", "es": "Lapidación" }, "arabic": "رمي الجمرات", "description": { "en": "Stoning the pillars representing Shaitan.", "ar": "رمي جمرة العقبة في يوم العيد.", "fr": "Lancer des pierres sur les stèles.", "es": "Lanzar piedras a los pilares." }, "icon": "disc" },
+      { "step": 8, "title": { "en": "Hadi", "ar": "الهدي", "fr": "Hadi", "es": "Hadi" }, "arabic": "الهدي", "description": { "en": "Sacrificing an animal.", "ar": "ذبح الهدي تقرباً لله تعالى.", "fr": "Sacrifice d'un animal.", "es": "Sacrificar un animal." }, "icon": "cut" },
+      { "step": 9, "title": { "en": "Halq/Taqsir", "ar": "الحلق والتقصير", "fr": "Coupe", "es": "Corte" }, "arabic": "الحلق والتقصير", "description": { "en": "Shaving or trimming the hair.", "ar": "حلق شعر الرأس أو تقصيره.", "fr": "Se raser ou se couper les cheveux.", "es": "Afeitarse o recortarse el cabello." }, "icon": "scissors" },
+      { "step": 10, "title": { "en": "Farewell", "ar": "طواف الوداع", "fr": "Adieu", "es": "Despedida" }, "arabic": "طواف الوداع", "description": { "en": "The farewell circumambulation.", "ar": "طواف الوداع قبل مغادرة مكة.", "fr": "La circumambulation d'adieu.", "es": "La circunvalación de despedida." }, "icon": "exit" }
+    ]
+  },
+  {
+    "id": "umrah",
+    "category": "Pilgrimage",
+    "title": { "en": "Umrah Steps", "ar": "مناسك العمرة", "fr": "Étapes de l'Omra", "es": "Pasos de la Umrah" },
+    "subtitle": {
+      "en": "The minor pilgrimage",
+      "ar": "العمرة في مكة",
+      "fr": "Le petit pèlerinage",
+      "es": "La pequeña peregrinación"
+    },
+    "icon": "sunny",
+    "color": "#607d8b",
+    "darkColor": "#455a64",
+    "items": [
+      { "step": 1, "title": { "en": "Ihram", "ar": "الإحرام", "fr": "Ihram", "es": "Ihram" }, "arabic": "الإحرام", "description": { "en": "Niyyah and wearing Ihram clothes.", "ar": "عقد النية وارتداء ملابس الإحرام.", "fr": "Intention et port de l'habit d'Ihram.", "es": "Niyyah y vestir la ropa de Ihram." }, "icon": "shirt" },
+      { "step": 2, "title": { "en": "Tawaf", "ar": "الطواف", "fr": "Tawaf", "es": "Tawaf" }, "arabic": "طواف العمرة", "description": { "en": "Circling the Kaaba 7 times.", "ar": "الطواف حول الكعبة سبعة أشواط.", "fr": "Sept tours autour de la Kaaba.", "es": "Siete vueltas alrededor de la Kaaba." }, "icon": "sync" },
+      { "step": 3, "title": { "en": "Sa'i", "ar": "السعي", "fr": "Sa'i", "es": "Sa'i" }, "arabic": "السعي", "description": { "en": "Walking Safa and Marwa 7 times.", "ar": "السعي بين الصفا والمروة.", "fr": "Trajets entre Safa et Marwa.", "es": "Trayectos entre Safa y Marwa." }, "icon": "walk" },
+      { "step": 4, "title": { "en": "Release", "ar": "التحلل", "fr": "Désacralisation", "es": "Desacralización" }, "arabic": "الحلق والتقصير", "description": { "en": "Cutting the hair to complete Umrah.", "ar": "قص الشعر للتحلل من العمرة.", "fr": "Couper les cheveux pour finir l'Omra.", "es": "Cortar el cabello para terminar la Umrah." }, "icon": "scissors" }
+    ]
+  },
+  {
+    "id": "meeqat",
+    "category": "Pilgrimage",
+    "title": { "en": "Meeqat Rules", "ar": "أحكام الميقات", "fr": "Règles du Meeqat", "es": "Reglas de Miqat" },
+    "subtitle": {
+      "en": "Points of entering Ihram",
+      "ar": "أماكن الإحرام",
+      "fr": "Lieux de sacralisation",
+      "es": "Lugares de sacralización"
+    },
+    "icon": "map",
+    "color": "#8d6e63",
+    "darkColor": "#5d4037",
+    "items": [
+      { "step": 1, "title": { "en": "Physical Purity", "ar": "الطهارة", "fr": "Pureté physique", "es": "Pureza física" }, "arabic": "الاغتسال", "description": { "en": "Perform Ghusl before Ihram.", "ar": "الاغتسال قبل لبس الإحرام.", "fr": "Faire le Ghusl avant l'Ihram.", "es": "Hacer Ghusl antes de Ihram." }, "icon": "water" },
+      { "step": 2, "title": { "en": "The Dress", "ar": "لباس الإحرام", "fr": "L'habit", "es": "La ropa" }, "arabic": "ملابس الإحرام", "description": { "en": "Unstitched white cloths for men.", "ar": "ارتداء رداء وإزار أبيضين للرجال.", "fr": "Deux pièces de tissu blanc non cousu.", "es": "Dos piezas de tela blanca sin costuras." }, "icon": "body" },
+      { "step": 3, "title": { "en": "Meeqat Line", "ar": "حد الميقات", "fr": "Limite", "es": "Límite" }, "arabic": "تجاوز الميقات", "description": { "en": "Must enter Ihram before the Meeqat line.", "ar": "يجب الإحرام قبل تجاوز الميقات.", "fr": "Il faut être en Ihram avant la limite.", "es": "Debe estar en Ihram antes del límite." }, "icon": "remove" },
+      { "step": 4, "title": { "en": "Forbidden", "ar": "المحظورات", "fr": "Interdictions", "es": "Prohibiciones" }, "arabic": "محظورات الإحرام", "description": { "en": "No perfume, hunting, or cutting nails.", "ar": "تجنب الطيب والصيد وقص الأظافر.", "fr": "Ni parfum, ni chasse, ni coupe d'ongles.", "es": "Ni perfume, ni caza, ni corte de uñas." }, "icon": "close-circle" }
+    ]
+  },
+  {
+    "id": "medina",
+    "category": "Pilgrimage",
+    "title": { "en": "Medina Visit", "ar": "زيارة المدينة", "fr": "Visite de Médine", "es": "Visita a Medina" },
+    "subtitle": {
+      "en": "Etiquette of Masjid Nabawi",
+      "ar": "آداب المسجد النبوي",
+      "fr": "Étiquette de Masjid Nabawi",
+      "es": "Etiqueta de Masjid Nabawi"
+    },
+    "icon": "heart",
+    "color": "#2e7d32",
+    "darkColor": "#1b5e20",
+    "items": [
+      { "step": 1, "title": { "en": "Niyyah", "ar": "النية", "fr": "Intention", "es": "Intención" }, "arabic": "النية", "description": { "en": "Intend to visit the Prophet's Mosque.", "ar": "نية زيارة المسجد النبوي والصلاة فيه.", "fr": "Intention de visiter la mosquée du Prophète.", "es": "Intención de visitar la mezquita del Profeta." }, "icon": "heart" },
+      { "step": 2, "title": { "en": "Salutations", "ar": "السلام", "fr": "Salutations", "es": "Saludos" }, "arabic": "السلام على النبي", "description": { "en": "Giving Salam to the Prophet (PBUH).", "ar": "السلام على النبي وعلى صاحبيه.", "fr": "Passer le Salam au Prophète.", "es": "Dar el Salam al Profeta." }, "icon": "chatbubble" },
+      { "step": 3, "title": { "en": "Rawdah", "ar": "الروضة الشريفة", "fr": "Rawdah", "es": "Rawdah" }, "arabic": "الصلاة في الروضة", "description": { "en": "Praying in the Rawdah (Paradise Garden).", "ar": "الصلاة في الروضة الشريفة.", "fr": "Prier dans la noble Rawdah.", "es": "Rezar en la noble Rawdah." }, "icon": "sunny" },
+      { "step": 4, "title": { "en": "Dua", "ar": "الدعاء", "fr": "Doua", "es": "Súplica" }, "arabic": "الدعاء", "description": { "en": "Supplicating with humility and respect.", "ar": "الدعاء بأدب وتضرع لله تعالى.", "fr": "Invoquer avec humilité et respect.", "es": "Suplicar con humildad y respeto." }, "icon": "hand-right" }
+    ]
+  }
+]
