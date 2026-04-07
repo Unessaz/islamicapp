@@ -83,64 +83,50 @@
     ]
   },
   {
-    "id": "modern_villa",
-    "name": "Modern Villa",
+    "id": "traditional_house",
+    "name": "Traditional House",
     "icon": "home",
-    "description": "A contemporary two-story house with flat roofs and large windows",
+    "description": "A classic house with a gabled roof, chimney, and garden fence",
     "blackAndWhite": true,
     "sections": [
-      { "id": "structure", "label": "Main Structure", "defaultColor": "#ffffff" },
-      { "id": "windows", "label": "Large Windows", "defaultColor": "#ffffff" },
-      { "id": "roof", "label": "Flat Roofs", "defaultColor": "#ffffff" },
-      { "id": "door", "label": "Entrance Door", "defaultColor": "#ffffff" },
-      { "id": "garden", "label": "Front Lawn", "defaultColor": "#ffffff" }
+      { "id": "roof", "label": "Main Roof", "defaultColor": "#ffffff" },
+      { "id": "walls", "label": "House Walls", "defaultColor": "#ffffff" },
+      { "id": "door", "label": "Front Door", "defaultColor": "#ffffff" },
+      { "id": "windows", "label": "Windows", "defaultColor": "#ffffff" },
+      { "id": "chimney", "label": "Chimney", "defaultColor": "#ffffff" },
+      { "id": "fence", "label": "Garden Fence", "defaultColor": "#ffffff" }
     ],
     "shapes": [
-   
-      { "type": "rect", "sectionId": "structure", "props": { "x": 60, "y": 140, "width": 180, "height": 80, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-     
-      { "type": "rect", "sectionId": "structure", "props": { "x": 80, "y": 80, "width": 140, "height": 60, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-    
-      { "type": "rect", "sectionId": "roof", "props": { "x": 55, "y": 135, "width": 190, "height": 8, "rx": 2, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "roof", "props": { "x": 75, "y": 75, "width": 150, "height": 8, "rx": 2, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-     
-      { "type": "rect", "sectionId": "windows", "props": { "x": 75, "y": 155, "width": 50, "height": 45, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-    
-      { "type": "rect", "sectionId": "door", "props": { "x": 185, "y": 160, "width": 35, "height": 60, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-
-      { "type": "rect", "sectionId": "windows", "props": { "x": 100, "y": 95, "width": 100, "height": 30, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      
-      { "type": "rect", "sectionId": "garden", "props": { "x": 20, "y": 220, "width": 260, "height": 20, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } }
+      { "type": "rect", "sectionId": "chimney", "props": { "x": 190, "y": 40, "width": 25, "height": 45, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "polygon", "sectionId": "roof", "props": { "points": "40,100 150,30 260,100", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "walls", "props": { "x": 60, "y": 100, "width": 180, "height": 100, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "door", "props": { "x": 130, "y": 140, "width": 40, "height": 60, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "circle", "sectionId": "door", "props": { "cx": 162, "cy": 175, "r": 3, "stroke": "#333", "strokeWidth": 1, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "windows", "props": { "x": 80, "y": 120, "width": 35, "height": 35, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "windows", "props": { "x": 185, "y": 120, "width": 35, "height": 35, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "path", "sectionId": "fence", "props": { "d": "M 40 200 L 40 180 M 55 200 L 55 180 M 245 200 L 245 180 M 260 200 L 260 180 M 40 190 L 260 190", "stroke": "#333", "strokeWidth": 1.5, "fill": "none" } }
     ]
   },
   {
-    "id": "traditional_cottage",
-    "name": "Traditional Cottage",
-    "icon": "home-outline",
-    "description": "A cozy house with a gabled roof and chimney",
+    "id": "modern_villa",
+    "name": "Modern Villa",
+    "icon": "business",
+    "description": "Minimalist architecture with flat roofs and large glass panels",
     "blackAndWhite": true,
     "sections": [
-      { "id": "walls", "label": "Cottage Walls", "defaultColor": "#ffffff" },
-      { "id": "roof", "label": "Gabled Roof", "defaultColor": "#ffffff" },
-      { "id": "chimney", "label": "Chimney", "defaultColor": "#ffffff" },
-      { "id": "window", "label": "Paned Windows", "defaultColor": "#ffffff" },
-      { "id": "door", "label": "Arched Door", "defaultColor": "#ffffff" }
+      { "id": "first_floor", "label": "Ground Floor", "defaultColor": "#ffffff" },
+      { "id": "second_floor", "label": "Upper Level", "defaultColor": "#ffffff" },
+      { "id": "glass", "label": "Large Windows", "defaultColor": "#ffffff" },
+      { "id": "balcony", "label": "Balcony Rail", "defaultColor": "#ffffff" },
+      { "id": "pathway", "label": "Entrance Path", "defaultColor": "#ffffff" }
     ],
     "shapes": [
-      { "type": "rect", "sectionId": "walls", "props": { "x": 80, "y": 130, "width": 140, "height": 90, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-  
-      { "type": "polygon", "sectionId": "roof", "props": { "points": "70,130 230,130 150,60", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      
-      { "type": "rect", "sectionId": "chimney", "props": { "x": 180, "y": 75, "width": 20, "height": 35, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-  
-      { "type": "path", "sectionId": "door", "props": { "d": "M 135 220 L 135 185 Q 150 170 165 185 L 165 220 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-    
-      { "type": "rect", "sectionId": "window", "props": { "x": 95, "y": 150, "width": 30, "height": 35, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-
-      { "type": "rect", "sectionId": "window", "props": { "x": 175, "y": 150, "width": 30, "height": 35, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      
-      { "type": "path", "sectionId": "window", "props": { "d": "M 95 167.5 L 125 167.5 M 110 150 L 110 185", "stroke": "#333", "strokeWidth": 1 } },
-      { "type": "path", "sectionId": "window", "props": { "d": "M 175 167.5 L 205 167.5 M 190 150 L 190 185", "stroke": "#333", "strokeWidth": 1 } }
+      { "type": "rect", "sectionId": "first_floor", "props": { "x": 50, "y": 120, "width": 200, "height": 80, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "second_floor", "props": { "x": 80, "y": 50, "width": 140, "height": 70, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "glass", "props": { "x": 100, "y": 140, "width": 80, "height": 60, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "glass", "props": { "x": 100, "y": 65, "width": 100, "height": 40, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "path", "sectionId": "balcony", "props": { "d": "M 80 120 L 50 120 L 50 105 L 80 105 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "path", "sectionId": "pathway", "props": { "d": "M 120 200 L 100 240 L 180 240 L 160 200 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } }
     ]
   }
 ]
