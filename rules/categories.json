@@ -1,0 +1,82 @@
+[
+  {
+    "id": "charity",
+    "file": "charity.json",
+    "label": {
+      "en": "Charity",
+      "es": "Caridad",
+      "fr": "Charité",
+      "ar": "الصدقة"
+    }
+  },
+  {
+    "id": "fasting",
+    "file": "fasting.json",
+    "label": {
+      "en": "Fasting",
+      "es": "Ayuno",
+      "fr": "Jeûne",
+      "ar": "الصيام"
+    }
+  },
+  {
+    "id": "lifestyle",
+    "file": "lifestyle.json",
+    "label": {
+      "en": "Lifestyle",
+      "es": "Estilo de vida",
+      "fr": "Mode de vie",
+      "ar": "نمط الحياة"
+    }
+  },
+  {
+    "id": "pilgrimage",
+    "file": "pilgrimage.json",
+    "label": {
+      "en": "Pilgrimage",
+      "es": "Peregrinación",
+      "fr": "Pèlerinage",
+      "ar": "الحج والعمرة"
+    }
+  },
+  {
+    "id": "prayer",
+    "file": "prayer.json",
+    "label": {
+      "en": "Prayer",
+      "es": "Oración",
+      "fr": "Prière",
+      "ar": "الصلاة"
+    }
+  },
+  {
+    "id": "purification",
+    "file": "purification.json",
+    "label": {
+      "en": "Purification",
+      "es": "Purificación",
+      "fr": "Purification",
+      "ar": "الطهارة"
+    }
+  },
+  {
+    "id": "social",
+    "file": "social.json",
+    "label": {
+      "en": "Social",
+      "es": "Social",
+      "fr": "Social",
+      "ar": "المعاملات"
+    }
+  },
+  {
+    "id": "worship",
+    "file": "worship.json",
+    "label": {
+      "en": "Worship",
+      "es": "Adoración",
+      "fr": "Adoration",
+      "ar": "العبادات"
+    }
+  }
+]
