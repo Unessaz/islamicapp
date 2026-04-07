@@ -1,99 +1,85 @@
 [
   {
-    id: "mosque",
-    name: "Mosque",
-    icon: "business",
-    description: "Classic Islamic mosque with dome and minarets",
-    blackAndWhite: true,
-    sections: [
-      { id: "dome", label: "Dome", defaultColor: "#ffffff" },
-      { id: "walls", label: "Walls", defaultColor: "#ffffff" },
-      { id: "door", label: "Door & Windows", defaultColor: "#ffffff" },
-      { id: "minaret", label: "Minarets", defaultColor: "#ffffff" },
-      { id: "sky", label: "Sky", defaultColor: "#ffffff" },
-      { id: "ground", label: "Ground", defaultColor: "#ffffff" },
+    "id": "mosque",
+    "name": "Mosque",
+    "icon": "business",
+    "description": "Classic Islamic mosque with dome and minarets",
+    "blackAndWhite": true,
+    "sections": [
+      { "id": "dome", "label": "Dome", "defaultColor": "#ffffff" },
+      { "id": "walls", "label": "Walls", "defaultColor": "#ffffff" },
+      { "id": "door", "label": "Door & Windows", "defaultColor": "#ffffff" },
+      { "id": "minaret", "label": "Minarets", "defaultColor": "#ffffff" },
+      { "id": "sky", "label": "Sky", "defaultColor": "#ffffff" },
+      { "id": "ground", "label": "Ground", "defaultColor": "#ffffff" }
     ],
-    shapes: [
-      { type: "rect", sectionId: "sky", props: { x: 0, y: 0, width: 300, height: 100, stroke: "#ddd", strokeWidth: 0.5, fill: "#fff" } },
-      { type: "rect", sectionId: "ground", props: { x: 0, y: 195, width: 300, height: 45, stroke: "#333", strokeWidth: 1.5, fill: "#fff" } },
-      { type: "rect", sectionId: "minaret", props: { x: 20, y: 95, width: 28, height: 100, rx: 3, stroke: "#333", strokeWidth: 2, fill: "#fff" } },
-      { type: "polygon", sectionId: "minaret", props: { points: "20,95 48,95 34,68", stroke: "#333", strokeWidth: 2, fill: "#fff" } },
-      { type: "circle", sectionId: "minaret", props: { cx: 34, cy: 66, r: 4, stroke: "#333", strokeWidth: 2, fill: "#fff" } },
-      { type: "path", sectionId: "dome", props: { d: "M 80 135 Q 150 58 220 135 Z", stroke: "#333", strokeWidth: 2.5, fill: "#fff" } },
-      { type: "path", sectionId: "door", props: { d: "M 130 195 L 130 162 Q 150 145 170 162 L 170 195 Z", stroke: "#333", strokeWidth: 1.5, fill: "#fff" } },
-    ],
+    "shapes": [
+      { "type": "rect", "sectionId": "sky", "props": { "x": 0, "y": 0, "width": 300, "height": 100, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "ground", "props": { "x": 0, "y": 195, "width": 300, "height": 45, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "minaret", "props": { "x": 20, "y": 95, "width": 28, "height": 100, "rx": 3, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "polygon", "sectionId": "minaret", "props": { "points": "20,95 48,95 34,68", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "circle", "sectionId": "minaret", "props": { "cx": 34, "cy": 66, "r": 4, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "path", "sectionId": "dome", "props": { "d": "M 80 135 Q 150 58 220 135 Z", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+      { "type": "path", "sectionId": "door", "props": { "d": "M 130 195 L 130 162 Q 150 145 170 162 L 170 195 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } }
+    ]
   },
   {
-    id: "djellaba",
-    name: "Moroccan Djellaba",
-    icon: "shirt",
-    description: "Traditional Moroccan hooded robe",
-    blackAndWhite: true,
-    sections: [
-      { id: "body", label: "Main Body", defaultColor: "#ffffff" },
-      { id: "hood", label: "Qob (Hood)", defaultColor: "#ffffff" },
-      { id: "sfifa", label: "Embroidery (Sfifa)", defaultColor: "#ffffff" },
-      { id: "tassel", label: "Tassel", defaultColor: "#ffffff" },
+    "id": "djellaba",
+    "name": "Moroccan Djellaba",
+    "icon": "shirt",
+    "description": "Traditional Moroccan hooded robe",
+    "blackAndWhite": true,
+    "sections": [
+      { "id": "body", "label": "Main Body", "defaultColor": "#ffffff" },
+      { "id": "hood", "label": "Qob (Hood)", "defaultColor": "#ffffff" },
+      { "id": "sfifa", "label": "Embroidery (Sfifa)", "defaultColor": "#ffffff" },
+      { "id": "tassel", "label": "Tassel", "defaultColor": "#ffffff" }
     ],
-    shapes: [
-      // Main Robe Body
-      { type: "path", sectionId: "body", props: { d: "M 80 80 L 50 220 L 250 220 L 220 80 Z", stroke: "#333", strokeWidth: 2, fill: "#fff" } },
-      // The Hood (Qob) folded back
-      { type: "path", sectionId: "hood", props: { d: "M 150 40 L 100 80 L 150 110 L 200 80 Z", stroke: "#333", strokeWidth: 2, fill: "#fff" } },
-      // Sfifa (Center line embroidery)
-      { type: "rect", sectionId: "sfifa", props: { x: 145, y: 110, width: 10, height: 110, stroke: "#333", strokeWidth: 1.5, fill: "#fff" } },
-      // Tassel at the end of the hood
-      { type: "circle", sectionId: "tassel", props: { cx: 150, cy: 35, r: 5, stroke: "#333", strokeWidth: 1.5, fill: "#fff" } },
-      { type: "path", sectionId: "tassel", props: { d: "M 145 30 L 155 30 L 150 20 Z", stroke: "#333", strokeWidth: 1, fill: "#fff" } },
-    ],
+    "shapes": [
+      { "type": "path", "sectionId": "body", "props": { "d": "M 80 80 L 50 220 L 250 220 L 220 80 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "path", "sectionId": "hood", "props": { "d": "M 150 40 L 100 80 L 150 110 L 200 80 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "sfifa", "props": { "x": 145, "y": 110, "width": 10, "height": 110, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "circle", "sectionId": "tassel", "props": { "cx": 150, "cy": 35, "r": 5, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "path", "sectionId": "tassel", "props": { "d": "M 145 30 L 155 30 L 150 20 Z", "stroke": "#333", "strokeWidth": 1, "fill": "#fff" } }
+    ]
   },
   {
-    id: "lantern",
-    name: "Ramadan Fanous",
-    icon: "flashlight",
-    description: "Traditional ornate lantern",
-    blackAndWhite: true,
-    sections: [
-      { id: "frame", label: "Frame", defaultColor: "#ffffff" },
-      { id: "glass", label: "Glass Panels", defaultColor: "#ffffff" },
-      { id: "top", label: "Lantern Top", defaultColor: "#ffffff" },
+    "id": "lantern",
+    "name": "Ramadan Fanous",
+    "icon": "flashlight",
+    "description": "Traditional ornate lantern",
+    "blackAndWhite": true,
+    "sections": [
+      { "id": "frame", "label": "Frame", "defaultColor": "#ffffff" },
+      { "id": "glass", "label": "Glass Panels", "defaultColor": "#ffffff" },
+      { "id": "top", "label": "Lantern Top", "defaultColor": "#ffffff" }
     ],
-    shapes: [
-      // Top handle/ring
-      { type: "circle", sectionId: "top", props: { cx: 150, cy: 30, r: 10, stroke: "#333", strokeWidth: 2, fill: "#fff" } },
-      // Upper pyramid
-      { type: "polygon", sectionId: "top", props: { points: "150,40 100,80 200,80", stroke: "#333", strokeWidth: 2, fill: "#fff" } },
-      // Middle glass section
-      { type: "rect", sectionId: "glass", props: { x: 100, y: 80, width: 100, height: 100, stroke: "#333", strokeWidth: 2, fill: "#fff" } },
-      // Inner panel lines for the glass
-      { type: "path", sectionId: "frame", props: { d: "M 133 80 L 133 180 M 166 80 L 166 180", stroke: "#333", strokeWidth: 1.5, fill: "#fff" } },
-      // Bottom base
-      { type: "polygon", sectionId: "frame", props: { points: "100,180 200,180 220,210 80,210", stroke: "#333", strokeWidth: 2, fill: "#fff" } },
-    ],
+    "shapes": [
+      { "type": "circle", "sectionId": "top", "props": { "cx": 150, "cy": 30, "r": 10, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "polygon", "sectionId": "top", "props": { "points": "150,40 100,80 200,80", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "glass", "props": { "x": 100, "y": 80, "width": 100, "height": 100, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "path", "sectionId": "frame", "props": { "d": "M 133 80 L 133 180 M 166 80 L 166 180", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "polygon", "sectionId": "frame", "props": { "points": "100,180 200,180 220,210 80,210", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } }
+    ]
   },
   {
-    id: "prayer_rug",
-    name: "Sajjada",
-    icon: "square",
-    description: "Islamic Prayer Rug",
-    blackAndWhite: true,
-    sections: [
-      { id: "border", label: "Outer Border", defaultColor: "#ffffff" },
-      { id: "center", label: "Prayer Area", defaultColor: "#ffffff" },
-      { id: "fringe", label: "Fringe (Tassels)", defaultColor: "#ffffff" },
-      { id: "mihrab", label: "Mihrab Design", defaultColor: "#ffffff" },
+    "id": "prayer_rug",
+    "name": "Sajjada",
+    "icon": "square",
+    "description": "Islamic Prayer Rug",
+    "blackAndWhite": true,
+    "sections": [
+      { "id": "border", "label": "Outer Border", "defaultColor": "#ffffff" },
+      { "id": "center", "label": "Prayer Area", "defaultColor": "#ffffff" },
+      { "id": "fringe", "label": "Fringe (Tassels)", "defaultColor": "#ffffff" },
+      { "id": "mihrab", "label": "Mihrab Design", "defaultColor": "#ffffff" }
     ],
-    shapes: [
-      // Main rug rectangle
-      { type: "rect", sectionId: "border", props: { x: 70, y: 30, width: 160, height: 200, rx: 5, stroke: "#333", strokeWidth: 2, fill: "#fff" } },
-      // Inner area
-      { type: "rect", sectionId: "center", props: { x: 85, y: 45, width: 130, height: 170, stroke: "#333", strokeWidth: 1.5, fill: "#fff" } },
-      // Mihrab (The arch)
-      { type: "path", sectionId: "mihrab", props: { d: "M 110 90 Q 150 45 190 90 L 190 190 L 110 190 Z", stroke: "#333", strokeWidth: 1.5, fill: "#fff" } },
-      // Top fringes
-      { type: "path", sectionId: "fringe", props: { d: "M 75 20 L 75 30 M 100 20 L 100 30 M 125 20 L 125 30 M 150 20 L 150 30 M 175 20 L 175 30 M 200 20 L 200 30 M 225 20 L 225 30", stroke: "#333", strokeWidth: 1.5 } },
-      // Bottom fringes
-      { type: "path", sectionId: "fringe", props: { d: "M 75 230 L 75 240 M 100 230 L 100 240 M 125 230 L 125 240 M 150 230 L 150 240 M 175 230 L 175 240 M 200 230 L 200 240 M 225 230 L 225 240", stroke: "#333", strokeWidth: 1.5 } },
-    ],
+    "shapes": [
+      { "type": "rect", "sectionId": "border", "props": { "x": 70, "y": 30, "width": 160, "height": 200, "rx": 5, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+      { "type": "rect", "sectionId": "center", "props": { "x": 85, "y": 45, "width": 130, "height": 170, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "path", "sectionId": "mihrab", "props": { "d": "M 110 90 Q 150 45 190 90 L 190 190 L 110 190 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+      { "type": "path", "sectionId": "fringe", "props": { "d": "M 75 20 L 75 30 M 100 20 L 100 30 M 125 20 L 125 30 M 150 20 L 150 30 M 175 20 L 175 30 M 200 20 L 200 30 M 225 20 L 225 30", "stroke": "#333", "strokeWidth": 1.5 } },
+      { "type": "path", "sectionId": "fringe", "props": { "d": "M 75 230 L 75 240 M 100 230 L 100 240 M 125 230 L 125 240 M 150 230 L 150 240 M 175 230 L 175 240 M 200 230 L 200 240 M 225 230 L 225 240", "stroke": "#333", "strokeWidth": 1.5 } }
+    ]
   }
 ]
