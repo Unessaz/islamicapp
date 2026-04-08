@@ -1,0 +1,63 @@
+{
+  "episode_id": "nuh_ep_01",
+  "title": "The Secret of the Statues",
+  "category": "Stories of the Prophets",
+  "age_group": "Kids",
+  "style": "Cinematic Digital Illustration",
+  "total_estimated_duration_sec": 420,
+  "sequences": [
+    {
+      "id": "seq_01_descendants",
+      "text": "After Adam (peace and blessings be upon him), Allah blessed the descendants of Adam, his children and grandchildren, and they spread and multiplied. If Adam had come back and seen them all, and someone had said to him, 'These are your descendants, Adam,' he would have been astonished. He would have said, 'Glory be to Allah! These are all my children! These are all my descendants!'",
+      "audio_file": "audio/ep01_01.mp3",
+      "animated:""
+    },
+    {
+      "id": "seq_02_villages",
+      "text": "Adam's descendants founded many villages. They built many houses. They ploughed the land, grew crops and lived in comfort and contentment. They followed the way of their ancestor, Adam. They worshipped only Allah and did not worship anything else besides Him. They were one united community. Adam was the one father of all of them, and Allah was their One Lord.",
+      "audio_file": "audio/ep01_02.mp3",
+      "animated:""
+    },
+    {
+      "id": "seq_03_satan_envy",
+      "text": "Satan's envy. Satan had not bowed down to Adam when Allah had commanded him to do so. So he was driven out and damned for ever. But how could Satan and his descendants be content with this? Were not people still worshipping Allah? Were not people still a single community with no differences? That could not be! Would Adam's descendants go to the Garden while Iblis and his descendants went to the Fire? That could not be! Should not he take revenge on the sons of Adam so that they would go to the Fire with him?",
+      "audio_file": "audio/ep01_03.mp3",
+      "animated:""
+    },
+    {
+      "id": "seq_04_satan_idea",
+      "text": "Satan's idea. But how could Satan do that when people were worshipping Allah? He decided to call them to worship idols so that they would go to the Fire and never get to the Garden. He knew that Allah forgives people all sins, if He so wills, except one. Allah never forgives people worshipping other things besides Him or as well as Him. So Satan decided to call the people to associate other things with Allah so that they would never go to the Garden. But how could he persuade them?",
+      "audio_file": "audio/ep01_04.mp3"
+    },
+    {
+      "id": "seq_05_the_failed_direct_call",
+      "text": "If he went to the people and said to them, 'Worship idols. Do not worship Allah,' they would curse him and chase him off. They would say: 'Allah forbid! How can we associate other things with our Lord? How can we worship idols? You are a cursed satan! You are a foul satan!' So Satan had to look for another way, a cleverer way, to get the people to do as he wanted.",
+      "audio_file": "audio/ep01_05.mp3",
+      "animated:""
+    },
+    {
+      "id": "seq_06_righteous_men",
+      "text": "Satan's trick. There had been men who feared Allah and worshipped Him night and day and who remembered Him often. They had loved Allah, so Allah had loved them and answered their prayers. People loved them and spoke of them with respect long after they had died and gone to Allah's mercy. Satan was well aware of this. So he went to the people and mentioned those men. He said, 'What do you think of So-and-so and So-and-so and So-and-so?' They said, 'Glory be to Allah! They were men of Allah and His friends. When those men prayed, He answered them. When they asked, He gave to them.'",
+      "audio_file": "audio/ep01_06.mp3",
+      "animated:""
+    },
+    {
+      "id": "seq_07_the_pictures",
+      "text": "Satan asked, 'How great is your sorrow for them?' They replied, 'Very great indeed.' He asked, 'How great is your longing for them?' They replied, 'Very great indeed!' He asked, 'Why don't you look at them every day then?' They said, 'How can we do that when they are dead?' He said, 'Make pictures of them and look at them every morning.' People liked Satan's idea and made such pictures and looked at them every day. Whenever they saw the pictures, they remembered how those holy men had lived.",
+      "audio_file": "audio/ep01_07.mp3",
+      "animated:""
+    },
+    {
+      "id": "seq_08_statues",
+      "text": "From pictures to statues. In time, the people moved on from making pictures to making statues. They made many statues of the holy men and put them in their houses and their mosques. They still worshipped Allah and did not associate anything with Him. They knew that these were only statues of holy men and that they could neither help nor hurt them nor provide for them. They showed them respect because they were reminders of the holy men. As time passed, the number of statues increased. The people respected them more and more. They got used to having them around and looked for blessings in them. Now whenever one of their holy men died, they would make a statue of him and name it after him.",
+      "audio_file": "audio/ep01_08.mp3",
+      "animated:""
+    },
+    {
+      "id": "seq_09_idolatry",
+      "text": "From statues to idols. Sons saw their fathers looking for blessings through the statues and saw how much respect they had for them. They saw them kiss the statues, dress them and pray to Allah in their presence. They saw them lower their heads and bow down in their presence. When the fathers passed away, the sons added to what their fathers had done. They began to prostrate themselves before them, to ask the statues for things and to sacrifice animals to them. In this way the statues were turned into idols. People began to worship them as they had worshipped Allah before. They had a lot of these idols. One was Wadd. Another was Suwa'. This was Yaghuth. That was Ya'uq. Another was Nasr.",
+      "audio_file": "audio/ep01_09.mp3",
+      "animated:""
+    }
+  ]
+}
