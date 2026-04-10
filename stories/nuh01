@@ -1,308 +1,613 @@
 {
   "episode_id": "nuh_ep_01",
-  "title": "The Secret of the Statues",
+  "title": {
+    "en": "The Secret of the Statues",
+    "ar": "سر التماثيل",
+    "fr": "Le Secret des Statues",
+    "es": "El Secreto de las Estatuas"
+  },
   "category": "Stories of the Prophets",
   "age_group": "Kids",
   "style": "Cinematic Digital Illustration",
   "sequences": [
-   {
+    {
       "id": "seq_01",
-      "text": "After Adam (peace and blessings be upon him), Allah blessed the descendants of Adam, his children and grandchildren, and they spread and multiplied.",
+      "text": {
+        "en": "After Adam (peace and blessings be upon him), Allah blessed the descendants of Adam, his children and grandchildren, and they spread and multiplied.",
+        "ar": "بعد آدم (عليه الصلاة والسلام)، بارك الله في ذرية آدم، أبنائه وأحفاده، فانتشروا وتكاثروا.",
+        "fr": "Après Adam (paix et bénédictions sur lui), Allah a béni les descendants d'Adam, ses enfants et ses petits-enfants, et ils se sont répandus et multipliés.",
+        "es": "Después de Adán (la paz y las bendiciones sean con él), Alá bendijo a los descendientes de Adán, sus hijos y nietos, y se extendieron y multiplicaron."
+      },
       "audio_file": "audio/ep01_01.mp3"
     },
     {
       "id": "seq_02",
-      "text": "If Adam had come back and seen them all, and someone had said to him, 'These are your descendants, Adam,' he would have been astonished.",
+      "text": {
+        "en": "If Adam had come back and seen them all, and someone had said to him, 'These are your descendants, Adam,' he would have been astonished.",
+        "ar": "لو عاد آدم ورآهم جميعاً، وقال له أحد: «هؤلاء هم ذريتك يا آدم»، لتعجب كثيراً.",
+        "fr": "Si Adam était revenu et les avait tous vus, et que quelqu'un lui avait dit : « Ce sont tes descendants, Adam », il aurait été étonné.",
+        "es": "Si Adán hubiera regresado y los hubiera visto a todos, y alguien le hubiera dicho: 'Estos son tus descendientes, Adán', se habría asombrado."
+      },
       "audio_file": "audio/ep01_02.mp3"
     },
     {
       "id": "seq_03",
-      "text": "He would have said, 'Glory be to Allah! These are all my children! These are all my descendants!'",
+      "text": {
+        "en": "He would have said, 'Glory be to Allah! These are all my children! These are all my descendants!'",
+        "ar": "لقال: «سبحان الله! كل هؤلاء أبنائي! كل هؤلاء ذريتي!»",
+        "fr": "Il aurait dit : « Gloire à Allah ! Ce sont tous mis enfants ! Ce sont tous mes descendants ! »",
+        "es": "Él habría dicho: '¡Gloria sea a Alá! ¡Todos estos son mis hijos! ¡Todos estos son mis descendientes!'"
+      },
       "audio_file": "audio/ep01_03.mp3"
     },
     {
       "id": "seq_04",
-      "text": "Adam's descendants founded many villages. They built many houses. They ploughed the land, grew crops and lived in comfort and contentment.",
+      "text": {
+        "en": "Adam's descendants founded many villages. They built many houses. They ploughed the land, grew crops and lived in comfort and contentment.",
+        "ar": "أسس نسل آدم قرى كثيرة. وبنوا بيوتاً كثيرة. وحرثوا الأرض وزرعوا المحاصيل وعاشوا في رغد وقناعة.",
+        "fr": "Les descendants d'Adam ont fondé de nombreux villages. Ils ont construit de nombreuses maisons. Ils ont labouré la terre, cultivé des produits et vécu dans le confort et le contentement.",
+        "es": "Los descendientes de Adán fundaron muchas aldeas. Construyeron muchas casas. Araron la tierra, cultivaron y vivieron con comodidad y satisfacción."
+      },
       "audio_file": "audio/ep01_04.mp3"
     },
     {
       "id": "seq_05",
-      "text": "They followed the way of their ancestor, Adam. They worshipped only Allah and did not worship anything else besides Him.",
+      "text": {
+        "en": "They followed the way of their ancestor, Adam. They worshipped only Allah and did not worship anything else besides Him.",
+        "ar": "اتبعوا طريق جدهم آدم. لم يعبدوا إلا الله ولم يعبدوا شيئاً غيره.",
+        "fr": "Ils ont suivi la voie de leur ancêtre, Adam. Ils n'adoraient qu'Allah et n'adoraient rien d'autre que Lui.",
+        "es": "Siguieron el camino de su antepasado, Adán. Adoraban solo a Alá y no adoraban a nada más que a Él."
+      },
       "audio_file": "audio/ep01_05.mp3"
     },
     {
       "id": "seq_06",
-      "text": "They were one united community. Adam was the one father of all of them, and Allah was their One Lord.",
+      "text": {
+        "en": "They were one united community. Adam was the one father of all of them, and Allah was their One Lord.",
+        "ar": "كانوا مجتمعاً واحداً متحداً. كان آدم الأب الواحد لهم جميعاً، وكان الله ربهم الواحد.",
+        "fr": "Ils formaient une communauté unie. Adam était le père de chacun d'eux, et Allah était leur Seigneur unique.",
+        "es": "Eran una comunidad unida. Adán era el padre de todos ellos, y Alá era su Único Señor."
+      },
       "audio_file": "audio/ep01_06.mp3"
     },
     {
       "id": "seq_07",
-      "text": "Satan had not bowed down to Adam when Allah had commanded him to do so. So he was driven out and damned for ever.",
+      "text": {
+        "en": "Satan had not bowed down to Adam when Allah had commanded him to do so. So he was driven out and damned for ever.",
+        "ar": "لم يسجد الشيطان لآدم عندما أمره الله بذلك. فُطرد ولُعن إلى الأبد.",
+        "fr": "Satan ne s'était pas prosterné devant Adam quand Allah le lui avait ordonné. Il a donc été chassé et damné pour toujours.",
+        "es": "Satán no se había inclinado ante Adán cuando Alá se lo ordenó. Así que fue expulsado y condenado para siempre."
+      },
       "audio_file": "audio/ep01_07.mp3"
     },
     {
       "id": "seq_08",
-      "text": "But how could Satan and his descendants be content with this? Were not people still worshipping Allah? Were not people still a single community with no differences?",
+      "text": {
+        "en": "But how could Satan and his descendants be content with this? Were not people still worshipping Allah? Were not people still a single community with no differences?",
+        "ar": "ولكن كيف يرضى الشيطان وذريته بذلك؟ ألم يزل الناس يعبدون الله؟ ألم يزل الناس مجتمعاً واحداً بلا خلافات؟",
+        "fr": "Mais comment Satan et ses descendants pouvaient-ils s'en contenter ? Les gens n'adoraient-ils pas encore Allah ? Les gens n'étaient-ils pas encore une seule communauté sans différences ?",
+        "es": "¿Pero cómo podían Satán y sus descendientes estar contentos con esto? ¿No seguía la gente adorando a Alá? ¿No seguía la gente siendo una sola comunidad sin diferencias?"
+      },
       "audio_file": "audio/ep01_08.mp3"
     },
     {
       "id": "seq_09",
-      "text": "That could not be! Would Adam's descendants go to the Garden while Iblis and his descendants went to the Fire? That could not be!",
+      "text": {
+        "en": "That could not be! Would Adam's descendants go to the Garden while Iblis and his descendants went to the Fire? That could not be!",
+        "ar": "لا يمكن أن يكون ذلك! أيدخل نسل آدم الجنة بينما يدخل إبليس وذريته النار؟ لا يمكن أن يكون ذلك!",
+        "fr": "Cela ne se pouvait pas ! Les descendants d'Adam iraient-ils au Jardin tandis qu'Iblis et ses descendants iraient au Feu ? Cela ne se pouvait pas !",
+        "es": "¡Eso no podía ser! ¿Irían los descendientes de Adán al Jardín mientras Iblis y sus descendientes iban al Fuego? ¡Eso no podía ser!"
+      },
       "audio_file": "audio/ep01_09.mp3"
     },
     {
       "id": "seq_10",
-      "text": "Should not he take revenge on the sons of Adam so that they would go to the Fire with him?",
+      "text": {
+        "en": "Should not he take revenge on the sons of Adam so that they would go to the Fire with him?",
+        "ar": "ألا يجب أن ينتقم من بني آدم ليدخلوا النار معه؟",
+        "fr": "Ne devrait-il pas se venger des fils d'Adam pour qu'ils aillent au Feu avec lui ?",
+        "es": "¿No debería vengarse de los hijos de Adán para que fueran al Fuego con él?"
+      },
       "audio_file": "audio/ep01_10.mp3"
     },
     {
       "id": "seq_11",
-      "text": "But how could Satan do that when people were worshipping Allah? He decided to call them to worship idols so that they would go to the Fire and never get to the Garden.",
+      "text": {
+        "en": "But how could Satan do that when people were worshipping Allah? He decided to call them to worship idols so that they would go to the Fire and never get to the Garden.",
+        "ar": "ولكن كيف يفعل الشيطان ذلك والناس يعبدون الله؟ قرر أن يدعوهم لعبادة الأصنام حتى يذهبوا إلى النار ولا يدخلوا الجنة أبداً.",
+        "fr": "Mais comment Satan pouvait-il faire cela alors que les gens adoraient Allah ? Il a décidé de les appeler à adorer des idoles pour qu'ils aillent au Feu et n'atteignent jamais le Jardin.",
+        "es": "¿Pero cómo podía Satán hacer eso cuando la gente adoraba a Alá? Decidió llamarlos a adorar ídolos para que fueran al Fuego y nunca llegaran al Jardín."
+      },
       "audio_file": "audio/ep01_11.mp3"
     },
     {
       "id": "seq_12",
-      "text": "He knew that Allah forgives people all sins, if He so wills, except one. Allah never forgives people worshipping other things besides Him or as well as Him.",
+      "text": {
+        "en": "He knew that Allah forgives people all sins, if He so wills, except one. Allah never forgives people worshipping other things besides Him or as well as Him.",
+        "ar": "كان يعلم أن الله يغفر للناس الذنوب جميعاً، إن شاء، إلا ذنباً واحداً. إن الله لا يغفر أبداً أن يُعبد غيره معه.",
+        "fr": "Il savait qu'Allah pardonne aux gens tous les péchés, s'Il le veut, sauf un. Allah ne pardonne jamais aux gens d'adorer d'autres choses à côté de Lui ou en même temps que Lui.",
+        "es": "Él sabía que Alá perdona a las personas todos los pecados, si así lo desea, excepto uno. Alá nunca perdona que la gente adore otras cosas además de Él o junto con Él."
+      },
       "audio_file": "audio/ep01_12.mp3"
     },
     {
       "id": "seq_13",
-      "text": "So Satan decided to call the people to associate other things with Allah so that they would never go to the Garden. But how could he persuade them?",
+      "text": {
+        "en": "So Satan decided to call the people to associate other things with Allah so that they would never go to the Garden. But how could he persuade them?",
+        "ar": "لذلك قرر الشيطان دعوة الناس للإشراك بالله حتى لا يدخلوا الجنة أبداً. ولكن كيف يقنعهم؟",
+        "fr": "Satan a donc décidé d'appeler les gens à associer d'autres choses à Allah pour qu'ils n'aillent jamais au Jardin. Mais comment pouvait-il les persuader ?",
+        "es": "Así que Satán decidió llamar a la gente a asociar otras cosas con Alá para que nunca fueran al Jardín. ¿Pero cómo podía persuadirlos?"
+      },
       "audio_file": "audio/ep01_13.mp3"
     },
     {
       "id": "seq_14",
-      "text": "If he went to the people and said to them, 'Worship idols. Do not worship Allah,' they would curse him and chase him off.",
+      "text": {
+        "en": "If he went to the people and said to them, 'Worship idols. Do not worship Allah,' they would curse him and chase him off.",
+        "ar": "لو ذهب إلى الناس وقال لهم: «اعبدوا الأصنام. لا تعبدوا الله»، لعنوه وطردوه.",
+        "fr": "S'il allait voir les gens et leur disait : « Adorez des idoles. N'adorez pas Allah », ils le maudiraient et le chasseraient.",
+        "es": "Si fuera a la gente y les dijera: 'Adoren ídolos. No adoren a Alá', lo maldecirían y lo echarían."
+      },
       "audio_file": "audio/ep01_14.mp3"
     },
     {
       "id": "seq_15",
-      "text": "They would say: 'Allah forbid! How can we associate other things with our Lord? How can we worship idols? You are a cursed satan! You are a foul satan!'",
+      "text": {
+        "en": "They would say: 'Allah forbid! How can we associate other things with our Lord? How can we worship idols? You are a cursed satan! You are a foul satan!'",
+        "ar": "لقالوا: «معاذ الله! كيف نشرك بربنا؟ كيف نعبد الأصنام؟ أنت شيطان ملعون! أنت شيطان خبيث!»",
+        "fr": "Ils diraient : « Qu'Allah nous en préserve ! Comment pouvons-nous associer d'autres choses à notre Seigneur ? Comment pouvons-nous adorer des idoles ? Tu es un satan maudit ! Tu es un satan immonde ! »",
+        "es": "Ellos dirían: '¡Alá nos libre! ¿Cómo podemos asociar otras cosas con nuestro Señor? ¿Cómo podemos adorar ídolos? ¡Eres un satán maldito! ¡Eres un satán asqueroso!'"
+      },
       "audio_file": "audio/ep01_15.mp3"
     },
     {
       "id": "seq_16",
-      "text": "So Satan had to look for another way, a cleverer way, to get the people to do as he wanted.",
+      "text": {
+        "en": "So Satan had to look for another way, a cleverer way, to get the people to do as he wanted.",
+        "ar": "لذلك كان على الشيطان أن يبحث عن طريق آخر، طريق أذكى، ليجعل الناس يفعلون ما يريد.",
+        "fr": "Satan a donc dû chercher un autre moyen, un moyen plus habile, pour amener les gens à faire ce qu'il voulait.",
+        "es": "Así que Satán tuvo que buscar otro camino, uno más astuto, para que la gente hiciera lo que él quería."
+      },
       "audio_file": "audio/ep01_16.mp3"
     },
     {
       "id": "seq_17",
-      "text": "There had been men who feared Allah and worshipped Him night and day and who remembered Him often.",
+      "text": {
+        "en": "There had been men who feared Allah and worshipped Him night and day and who remembered Him often.",
+        "ar": "كان هناك رجال يخشون الله ويعبدونه ليل نهار ويذكرونه كثيراً.",
+        "fr": "Il y avait eu des hommes qui craignaient Allah et L'adoraient nuit et jour et qui se souvenaient souvent de Lui.",
+        "es": "Había hombres que temían a Alá y lo adoraban día y noche y que lo recordaban a menudo."
+      },
       "audio_file": "audio/ep01_17.mp3"
     },
     {
       "id": "seq_18",
-      "text": "They had loved Allah, so Allah had loved them and answered their prayers. People loved them and spoke of them with respect long after they had died and gone to Allah's mercy.",
+      "text": {
+        "en": "They had loved Allah, so Allah had loved them and answered their prayers. People loved them and spoke of them with respect long after they had died and gone to Allah's mercy.",
+        "ar": "لقد أحبوا الله، فأحبهم الله واستجاب دعاءهم. أحبهم الناس وتحدثوا عنهم باحترام بعد وقت طويل من وفاتهم وانتقالهم إلى رحمة الله.",
+        "fr": "Ils avaient aimé Allah, alors Allah les avait aimés et avait exaucé leurs prières. Les gens les aimaient et parlaient d'eux avec respect longtemps après qu'ils soient morts et partis vers la miséricorde d'Allah.",
+        "es": "Habían amado a Alá, así que Alá los amó y respondió a sus oraciones. La gente los amaba y hablaba de ellos con respeto mucho después de que hubieran muerto y pasado a la misericordia de Alá."
+      },
       "audio_file": "audio/ep01_18.mp3"
     },
     {
       "id": "seq_19",
-      "text": "Satan was well aware of this. So he went to the people and mentioned those men. He said, 'What do you think of So-and-so and So-and-so and So-and-so?'",
+      "text": {
+        "en": "Satan was well aware of this. So he went to the people and mentioned those men. He said, 'What do you think of So-and-so and So-and-so and So-and-so?'",
+        "ar": "كان الشيطان يدرك ذلك جيداً. فذهب إلى الناس وذكر هؤلاء الرجال. قال: «ما رأيكم في فلان وفلان وفلان؟»",
+        "fr": "Satan en était bien conscient. Il est donc allé voir les gens et a mentionné ces hommes. Il a dit : « Que pensez-vous d'Untel, d'Untel et d'Untel ? »",
+        "es": "Satán era muy consciente de esto. Así que fue a la gente y mencionó a esos hombres. Dijo: '¿Qué piensan de Fulano y Mengano y Zutano?'"
+      },
       "audio_file": "audio/ep01_19.mp3"
     },
     {
       "id": "seq_20",
-      "text": "They said, 'Glory be to Allah! They were men of Allah and His friends. When those men prayed, He answered them. When they asked, He gave to them.'",
+      "text": {
+        "en": "They said, 'Glory be to Allah! They were men of Allah and His friends. When those men prayed, He answered them. When they asked, He gave to them.'",
+        "ar": "قالوا: «سبحان الله! كانوا رجالاً لله وأولياءه. عندما كان هؤلاء الرجال يدعون، كان يستجيب لهم. وعندما كانوا يسألون، كان يعطيهم.»",
+        "fr": "Ils ont dit : « Gloire à Allah ! C'étaient des hommes d'Allah et Ses amis. Quand ces hommes priaient, Il les exauçait. Quand ils demandaient, Il leur donnait. »",
+        "es": "Ellos dijeron: '¡Gloria sea a Alá! Eran hombres de Alá y sus amigos. Cuando esos hombres oraban, Él les respondía. Cuando pedían, Él les daba'."
+      },
       "audio_file": "audio/ep01_20.mp3"
     },
     {
       "id": "seq_21",
-      "text": "Satan asked, 'How great is your sorrow for them?' They replied, 'Very great indeed.' He asked, 'How great is your longing for them?' They replied, 'Very great indeed!'",
+      "text": {
+        "en": "Satan asked, 'How great is your sorrow for them?' They replied, 'Very great indeed.' He asked, 'How great is your longing for them?' They replied, 'Very great indeed!'",
+        "ar": "سأل الشيطان: «ما مدى حزنكم عليهم؟» فأجابوا: «عظيم جداً». سأل: «ما مدى شوقكم إليهم؟» فأجابوا: «عظيم جداً!»",
+        "fr": "Satan a demandé : « Quelle est l'étendue de votre chagrin pour eux ? » Ils ont répondu : « Très grande en effet. » Il a demandé : « Quelle est l'étendue de votre désir pour eux ? » Ils ont répondu : « Très grande en effet ! »",
+        "es": "Satán preguntó: '¿Qué tan grande es su tristeza por ellos?'. Ellos respondieron: 'Muy grande, de hecho'. Él preguntó: '¿Qué tan grande es su anhelo por ellos?'. Ellos respondieron: '¡Muy grande, de hecho!'"
+      },
       "audio_file": "audio/ep01_21.mp3"
     },
     {
       "id": "seq_22",
-      "text": "He asked, 'Why don't you look at them every day then?' They said, 'How can we do that when they are dead?'",
+      "text": {
+        "en": "He asked, 'Why don't you look at them every day then?' They said, 'How can we do that when they are dead?'",
+        "ar": "قال: «لماذا لا تنظرون إليهم كل يوم إذن؟» قالوا: «كيف نفعل ذلك وهم أموات؟»",
+        "fr": "Il a demandé : « Pourquoi ne les regardez-vous pas tous les jours alors ? » Ils ont dit : « Comment pouvons-nous faire cela alors qu'ils sont morts ? »",
+        "es": "Él preguntó: '¿Por qué no los miran todos los días entonces?'. Ellos dijeron: '¿Cómo podemos hacer eso cuando están muertos?'"
+      },
       "audio_file": "audio/ep01_22.mp3"
     },
     {
       "id": "seq_23",
-      "text": "He said, 'Make pictures of them and look at them every morning.' People liked Satan's idea and made such pictures and looked at them every day.",
+      "text": {
+        "en": "He said, 'Make pictures of them and look at them every morning.' People liked Satan's idea and made such pictures and looked at them every day.",
+        "ar": "قال: «اصنعوا صوراً لهم وانظروا إليها كل صباح». أعجب الناس بفكرة الشيطان وصنعوا تلك الصور وكانوا ينظرون إليها كل يوم.",
+        "fr": "Il a dit : « Faites des images d'eux et regardez-les chaque matin. » Les gens ont aimé l'idée de Satan et ont fait de telles images et les regardaient chaque jour.",
+        "es": "Él dijo: 'Hagan imágenes de ellos y mírenlas cada mañana'. A la gente le gustó la idea de Satán e hicieron tales imágenes y las miraban todos los días."
+      },
       "audio_file": "audio/ep01_23.mp3"
     },
     {
       "id": "seq_24",
-      "text": "Whenever they saw the pictures, they remembered how those holy men had lived. From pictures to statues.",
+      "text": {
+        "en": "Whenever they saw the pictures, they remembered how those holy men had lived. From pictures to statues.",
+        "ar": "كلما رأوا الصور، تذكروا كيف عاش هؤلاء الرجال الصالحون. ومن الصور إلى التماثيل.",
+        "fr": "Chaque fois qu'ils voyaient les images, ils se rappelaient comment ces hommes saints avaient vécu. Des images aux statues.",
+        "es": "Cada vez que veían las imágenes, recordaban cómo habían vivido esos hombres santos. De imágenes a estatuas."
+      },
       "audio_file": "audio/ep01_24.mp3"
     },
     {
       "id": "seq_25",
-      "text": "In time, the people moved on from making pictures to making statues. They made many statues of the holy men and put them in their houses and their mosques.",
+      "text": {
+        "en": "In time, the people moved on from making pictures to making statues. They made many statues of the holy men and put them in their houses and their mosques.",
+        "ar": "مع مرور الوقت، انتقل الناس من صنع الصور إلى صنع التماثيل. صنعوا تماثيل كثيرة للرجال الصالحين ووضعوها في بيوتهم ومساجدهم.",
+        "fr": "Avec le temps, les gens sont passés de la fabrication d'images à la fabrication de statues. Ils ont fait de nombreuses statues des hommes saints et les ont placées dans leurs maisons et leurs mosquées.",
+        "es": "Con el tiempo, la gente pasó de hacer imágenes a hacer estatuas. Hicieron muchas estatuas de los hombres santos y las pusieron en sus casas y sus mezquitas."
+      },
       "audio_file": "audio/ep01_25.mp3"
     },
     {
       "id": "seq_26",
-      "text": "They still worshipped Allah and did not associate anything with Him. They knew that these were only statues of holy men and that they could neither help nor hurt them nor provide for them.",
+      "text": {
+        "en": "They still worshipped Allah and did not associate anything with Him. They knew that these were only statues of holy men and that they could neither help nor hurt them nor provide for them.",
+        "ar": "كانوا لا يزالون يعبدون الله ولا يشركون به شيئاً. كانوا يعلمون أنها مجرد تماثيل لرجال صالحين وأنها لا تملك لهم نفعاً ولا ضراً ولا رزقاً.",
+        "fr": "Ils adoraient toujours Allah et ne Lui associaient rien. Ils savaient que ce n'étaient que des statues d'hommes saints et qu'elles ne pouvaient ni les aider, ni leur nuire, ni pourvoir à leurs besoins.",
+        "es": "Todavía adoraban a Alá y no asociaban nada con Él. Sabían que estas eran solo estatuas de hombres santos y que no podían ayudarlos ni dañarlos ni proveer para ellos."
+      },
       "audio_file": "audio/ep01_26.mp3"
     },
     {
       "id": "seq_27",
-      "text": "They showed them respect because they were reminders of the holy men. As time passed, the number of statues increased. The people respected them more and more.",
+      "text": {
+        "en": "They showed them respect because they were reminders of the holy men. As time passed, the number of statues increased. The people respected them more and more.",
+        "ar": "أظهروها الاحترام لأنها كانت تذكرهم بالرجال الصالحين. ومع مرور الوقت، زاد عدد التماثيل. واحترمها الناس أكثر فأكثر.",
+        "fr": "Ils leur témoignaient du respect parce qu'elles rappelaient les hommes saints. Au fil du temps, le nombre de statues a augmenté. Les gens les respectaient de plus en plus.",
+        "es": "Les mostraban respeto porque eran recordatorios de los hombres santos. Con el paso del tiempo, el número de estatuas aumentó. La gente las respetaba cada vez más."
+      },
       "audio_file": "audio/ep01_27.mp3"
     },
     {
       "id": "seq_28",
-      "text": "They got used to having them around and looked for blessings in them. Now whenever one of their holy men died, they would make a statue of him and name it after him.",
+      "text": {
+        "en": "They got used to having them around and looked for blessings in them. Now whenever one of their holy men died, they would make a statue of him and name it after him.",
+        "ar": "اعتادوا على وجودها وبدأوا يلتمسون البركة فيها. الآن، كلما مات أحد رجالهم الصالحين، صنعوا له تمثالاً وأسموه باسمه.",
+        "fr": "Ils se sont habitués à les avoir autour d'eux et y cherchaient des bénédictions. Désormais, chaque fois qu'un de leurs saints hommes mourait, ils en faisaient une statue et lui donnaient son nom.",
+        "es": "Se acostumbraron a tenerlas cerca y buscaron bendiciones en ellas. Ahora, cada vez que moría uno de sus hombres santos, hacían una estatua de él y le ponían su nombre."
+      },
       "audio_file": "audio/ep01_28.mp3"
     },
     {
       "id": "seq_29",
-      "text": "From statues to idols. Sons saw their fathers looking for blessings through the statues and saw how much respect they had for them.",
+      "text": {
+        "en": "From statues to idols. Sons saw their fathers looking for blessings through the statues and saw how much respect they had for them.",
+        "ar": "من التماثيل إلى الأصنام. رأى الأبناء آباءهم يلتمسون البركة من خلال التماثيل ورأوا مدى احترامهم لها.",
+        "fr": "Des statues aux idoles. Les fils voyaient leurs pères chercher des bénédictions à travers les statues et voyaient combien de respect ils avaient pour elles.",
+        "es": "De estatuas a ídolos. Los hijos vieron a sus padres buscar bendiciones a través de las estatuas y vieron cuánto respeto les tenían."
+      },
       "audio_file": "audio/ep01_29.mp3"
     },
     {
       "id": "seq_30",
-      "text": "They saw them kiss the statues, dress them and pray to Allah in their presence. They saw them lower their heads and bow down in their presence.",
+      "text": {
+        "en": "They saw them kiss the statues, dress them and pray to Allah in their presence. They saw them lower their heads and bow down in their presence.",
+        "ar": "رأوهم يقبلون التماثيل، يلبسونها ويدعون الله في حضرتها. رأوهم يخفضون رؤوسهم وينحنون أمامها.",
+        "fr": "Ils les voyaient embrasser les statues, les habiller et prier Allah en leur présence. Ils les voyaient baisser la tête et se prosterner devant elles.",
+        "es": "Los vieron besar las estatuas, vestirlas y orar a Alá en su presencia. Los vieron bajar la cabeza e inclinarse en su presencia."
+      },
       "audio_file": "audio/ep01_30.mp3"
     },
     {
       "id": "seq_31",
-      "text": "When the fathers passed away, the sons added to what their fathers had done. They began to prostrate themselves before them, to ask the statues for things and to sacrifice animals to them.",
+      "text": {
+        "en": "When the fathers passed away, the sons added to what their fathers had done. They began to prostrate themselves before them, to ask the statues for things and to sacrifice animals to them.",
+        "ar": "عندما رحل الآباء، أضاف الأبناء إلى ما فعله آباؤهم. بدأوا يسجدون لها، ويسألون التماثيل حاجاتهم ويذبحون لها الحيوانات.",
+        "fr": "À la mort des pères, les fils ont ajouté à ce que leurs pères avaient fait. Ils ont commencé à se prosterner devant elles, à demander des choses aux statues et à leur sacrifier des animaux.",
+        "es": "Cuando los padres fallecieron, los hijos agregaron a lo que sus padres habían hecho. Comenzaron a postrarse ante ellas, a pedir cosas a las estatuas y a sacrificarles animales."
+      },
       "audio_file": "audio/ep01_31.mp3"
     },
     {
       "id": "seq_32",
-      "text": "In this way the statues were turned into idols. People began to worship them as they had worshipped Allah before. They had a lot of these idols.",
+      "text": {
+        "en": "In this way the statues were turned into idols. People began to worship them as they had worshipped Allah before. They had a lot of these idols.",
+        "ar": "وبهذه الطريقة تحولت التماثيل إلى أصنام. بدأ الناس يعبدونها كما كانوا يعبدون الله من قبل. وكان لديهم الكثير من هذه الأصنام.",
+        "fr": "C'est ainsi que les statues sont devenues des idoles. Les gens ont commencé à les adorer comme ils avaient adoré Allah auparavant. Ils avaient beaucoup de ces idoles.",
+        "es": "De esta manera las estatuas se convirtieron en ídolos. La gente comenzó a adorarlos como habían adorado a Alá antes. Tenían muchos de estos ídolos."
+      },
       "audio_file": "audio/ep01_32.mp3"
     },
     {
       "id": "seq_33",
-      "text": "One was Wadd. Another was Suwa'. This was Yaghuth. That was Ya'uq. Another was Nasr.",
+      "text": {
+        "en": "One was Wadd. Another was Suwa'. This was Yaghuth. That was Ya'uq. Another was Nasr.",
+        "ar": "كان أحدها ودّ. وآخر سواع. وهذا يغوث. وذاك يعوق. وآخر نسر.",
+        "fr": "L'un était Wadd. Un autre était Suwa'. Celui-ci était Yaghuth. Celui-là était Ya'uq. Un autre était Nasr.",
+        "es": "Uno era Wadd. Otro era Suwa'. Este era Yaghuth. Ese era Ya'uq. Otro era Nasr."
+      },
       "audio_file": "audio/ep01_33.mp3"
     },
     {
       "id": "seq_34",
-      "text": "Allah became very angry with the people. He cursed them.",
+      "text": {
+        "en": "Allah became very angry with the people. He cursed them.",
+        "ar": "غضب الله غضباً شديداً على القوم ولعنهم.",
+        "fr": "Allah s'est mis très en colère contre le peuple. Il les a maudits.",
+        "es": "Alá se enojó mucho con la gente. Él los maldijo."
+      },
       "audio_file": "audio/ep01_34.mp3"
     },
     {
       "id": "seq_35",
-      "text": "How could Allah not be angry with the people because of what they were doing?",
+      "text": {
+        "en": "How could Allah not be angry with the people because of what they were doing?",
+        "ar": "وكيف لا يغضب الله على الناس بسبب ما كانوا يفعلون؟",
+        "fr": "Comment Allah ne pouvait-Il pas être en colère contre les gens à cause de ce qu'ils faisaient ?",
+        "es": "¿Cómo podría Alá no estar enojado con la gente por lo que estaban haciendo?"
+      },
       "audio_file": "audio/ep01_35.mp3"
     },
     {
       "id": "seq_36",
-      "text": "Was this what they were created for? Was this what they were given provision for?",
+      "text": {
+        "en": "Was this what they were created for? Was this what they were given provision for?",
+        "ar": "ألهذا خُلقوا؟ ألهذا أُعطوا الرزق؟",
+        "fr": "Était-ce pour cela qu'ils avaient été créés ? Était-ce pour cela qu'on leur avait donné des provisions ?",
+        "es": "¿Fue para esto que fueron creados? ¿Fue para esto que se les dio provisión?"
+      },
       "audio_file": "audio/ep01_36.mp3"
     },
     {
       "id": "seq_37",
-      "text": "They walked on Allah's earth, but rejected Allah!",
+      "text": {
+        "en": "They walked on Allah's earth, but rejected Allah!",
+        "ar": "مشوا على أرض الله، لكنهم أنكروا الله!",
+        "fr": "Ils marchaient sur la terre d'Allah, mais ils ont rejeté Allah !",
+        "es": "¡Caminaron sobre la tierra de Alá, pero rechazaron a Alá!"
+      },
       "audio_file": "audio/ep01_37.mp3"
     },
     {
       "id": "seq_38",
-      "text": "They ate Allah's provision, but associated others with Allah! How terrible a sin!",
+      "text": {
+        "en": "They ate Allah's provision, but associated others with Allah! How terrible a sin!",
+        "ar": "أكلوا من رزق الله، لكنهم أشركوا مع الله غيره! يا له من ذنب عظيم!",
+        "fr": "Ils mangeaient les provisions d'Allah, mais ils Lui associaient d'autres ! Quel terrible péché !",
+        "es": "¡Comieron de la provisión de Alá, pero asociaron a otros con Alá! ¡Qué pecado tan terrible!"
+      },
       "audio_file": "audio/ep01_38.mp3"
     },
     {
       "id": "seq_39",
-      "text": "Allah was so angry with the people that He held back the rain and made things hard for them.",
+      "text": {
+        "en": "Allah was so angry with the people that He held back the rain and made things hard for them.",
+        "ar": "غضب الله على الناس فحبس عنهم المطر وضيق عليهم.",
+        "fr": "Allah était si en colère contre les gens qu'Il a retenu la pluie et a rendu les choses difficiles pour eux.",
+        "es": "Alá estaba tan enojado con la gente que retuvo la lluvia e hizo las cosas difíciles para ellos."
+      },
       "audio_file": "audio/ep01_39.mp3"
     },
     {
       "id": "seq_40",
-      "text": "Their harvests were small and few children were born to them.",
+      "text": {
+        "en": "Their harvests were small and few children were born to them.",
+        "ar": "فقلّت محاصيلهم وقلّ مواليدهم.",
+        "fr": "Leurs récoltes étaient maigres et peu d'enfants leur naissaient.",
+        "es": "Sus cosechas fueron pequeñas y les nacieron pocos hijos."
+      },
       "audio_file": "audio/ep01_40.mp3"
     },
     {
       "id": "seq_41",
-      "text": "But the people did not learn their lesson from that, they did not understand.",
+      "text": {
+        "en": "But the people did not learn their lesson from that, they did not understand.",
+        "ar": "لكن القوم لم يتعظوا من ذلك، ولم يفهموا.",
+        "fr": "Mais les gens n'en ont pas tiré de leçon, ils n'ont pas compris.",
+        "es": "Pero la gente no aprendió la lección de eso, no entendieron."
+      },
       "audio_file": "audio/ep01_41.mp3"
     },
     {
       "id": "seq_42",
-      "text": "They did not turn to Allah in repentance. They needed good counsel.",
+      "text": {
+        "en": "They did not turn to Allah in repentance. They needed good counsel.",
+        "ar": "لم يتوبوا إلى الله. كانوا بحاجة إلى نصيحة صالحة.",
+        "fr": "Ils ne se sont pas repentis vers Allah. Ils avaient besoin de bons conseils.",
+        "es": "No se volvieron a Alá en arrepentimiento. Necesitaban un buen consejo."
+      },
       "audio_file": "audio/ep01_42.mp3"
     },
     {
       "id": "seq_43",
-      "text": "Allah does not speak to each person individually or tell each one to do this or do that.",
+      "text": {
+        "en": "Allah does not speak to each person individually or tell each one to do this or do that.",
+        "ar": "الله لا يكلم كل شخص بمفرده أو يخبر كل واحد أن يفعل كذا أو كذا.",
+        "fr": "Allah ne parle pas à chaque personne individuellement et ne dit pas à chacun de faire ceci ou cela.",
+        "es": "Alá no habla con cada persona individualmente ni le dice a cada uno que haga esto o aquello."
+      },
       "audio_file": "audio/ep01_43.mp3"
     },
     {
       "id": "seq_44",
-      "text": "The angels are a race just like mankind. It is possible to see them and hear what they say, if Allah wills.",
+      "text": {
+        "en": "The angels are a race just like mankind. It is possible to see them and hear what they say, if Allah wills.",
+        "ar": "الملائكة جنس مثل البشر. من الممكن رؤيتهم وسماع ما يقولون إن شاء الله.",
+        "fr": "Les anges sont une race tout comme l'humanité. Il est possible de les voir et d'entendre ce qu'ils disent, si Allah le veut.",
+        "es": "Los ángeles son una raza igual que la humanidad. Es posible verlos y escuchar lo que dicen, si Alá quiere."
+      },
       "audio_file": "audio/ep01_44.mp3"
     },
     {
       "id": "seq_45",
-      "text": "But the angels do not speak to each person individually either, or tell each one to do this or do that.",
+      "text": {
+        "en": "But the angels do not speak to each person individually either, or tell each one to do this or do that.",
+        "ar": "لكن الملائكة أيضاً لا تكلم كل شخص بمفرده، ولا تخبر كل واحد أن يفعل كذا أو كذا.",
+        "fr": "Mais les anges ne parlent pas non plus à chaque personne individuellement, et ne disent pas à chacun de faire ceci ou cela.",
+        "es": "Pero los ángeles tampoco hablan con cada persona individualmente, ni le dicen a cada uno que haga esto o aquello."
+      },
       "audio_file": "audio/ep01_45.mp3"
     },
     {
       "id": "seq_46",
-      "text": "Only Allah can choose the person who will receive His message to give to the people.",
+      "text": {
+        "en": "Only Allah can choose the person who will receive His message to give to the people.",
+        "ar": "الله وحده هو من يختار الشخص الذي سيتلقى رسالته ليبلغها للناس.",
+        "fr": "Seul Allah peut choisir la personne qui recevra Son message pour le transmettre aux gens.",
+        "es": "Solo Alá puede elegir a la persona que recibirá Su mensaje para dárselo a la gente."
+      },
       "audio_file": "audio/ep01_46.mp3"
     },
     {
       "id": "seq_47",
-      "text": "Allah wanted to send a messenger to the people who could speak to them and counsel them.",
+      "text": {
+        "en": "Allah wanted to send a messenger to the people who could speak to them and counsel them.",
+        "ar": "أراد الله أن يبعث رسولاً إلى الناس يتحدث إليهم وينصحهم.",
+        "fr": "Allah a voulu envoyer un messager aux gens qui puisse leur parler et les conseiller.",
+        "es": "Alá quería enviar un mensajero a la gente que pudiera hablarles y aconsejarlos."
+      },
       "audio_file": "audio/ep01_47.mp3"
     },
     {
       "id": "seq_48",
-      "text": "Allah chose to send the children of Adam a man from among themselves to speak to them and give them good counsel.",
+      "text": {
+        "en": "Allah chose to send the children of Adam a man from among themselves to speak to them and give them good counsel.",
+        "ar": "اختار الله أن يرسل لبني آدم رجلاً من بينهم ليكلمهم وينصحهم.",
+        "fr": "Allah a choisi d'envoyer aux enfants d'Adam un homme parmi eux pour leur parler et leur donner de bons conseils.",
+        "es": "Alá eligió enviar a los hijos de Adán un hombre de entre ellos mismos para hablarles y darles buen consejo."
+      },
       "audio_file": "audio/ep01_48.mp3"
     },
     {
       "id": "seq_49",
-      "text": "Allah wanted this messenger to be a man and to be one of the people.",
+      "text": {
+        "en": "Allah wanted this messenger to be a man and to be one of the people.",
+        "ar": "أراد الله أن يكون هذا الرسول بشراً ومن القوم أنفسهم.",
+        "fr": "Allah a voulu que ce messager soit un homme et qu'il soit l'un des leurs.",
+        "es": "Alá quería que este mensajero fuera un hombre y fuera uno de la gente."
+      },
       "audio_file": "audio/ep01_49.mp3"
     },
     {
       "id": "seq_50",
-      "text": "That way they would recognize him and understand what he said.",
+      "text": {
+        "en": "That way they would recognize him and understand what he said.",
+        "ar": "بهذه الطريقة سيعرفونه ويفهمون ما يقول.",
+        "fr": "De cette façon, ils le reconnaîtraient et comprendraient ce qu'il disait.",
+        "es": "De esa manera lo reconocerían y entenderían lo que decía."
+      },
       "audio_file": "audio/ep01_50.mp3"
     },
     {
       "id": "seq_51",
-      "text": "If the messenger had been an angel, the people might say, 'What has he got to do with us?'",
+      "text": {
+        "en": "If the messenger had been an angel, the people might say, 'What has he got to do with us?'",
+        "ar": "لو كان الرسول ملكاً، لقال الناس: «ما له ولنا؟»",
+        "fr": "Si le messager avait été un ange, les gens auraient pu dire : « Qu'est-ce qu'il a à voir avec nous ? »",
+        "es": "Si el mensajero hubiera sido un ángel, la gente podría decir: '¿Qué tiene él que ver con nosotros?'"
+      },
       "audio_file": "audio/ep01_51.mp3"
     },
     {
       "id": "seq_52",
-      "text": "'He is an angel and we are mortals! We eat and drink and we have wives and children. How can we worship Allah?'",
+      "text": {
+        "en": "'He is an angel and we are mortals! We eat and drink and we have wives and children. How can we worship Allah?'",
+        "ar": "«هو ملك ونحن بشر! نحن نأكل ونشرب ولنا زوجات وأبناء. كيف يمكننا أن نعبد الله؟»",
+        "fr": "« C'est un ange et nous sommes des mortels ! Nous mangeons et buvons et nous avons des femmes et des enfants. Comment pouvons-nous adorer Allah ? »",
+        "es": "'¡Él es un ángel y nosotros somos mortales! Comemos y bebemos y tenemos esposas e hijos. ¿Cómo podemos adorar a Alá?'"
+      },
       "audio_file": "audio/ep01_52.mp3"
     },
     {
       "id": "seq_53",
-      "text": "But if the messenger were a man, he could answer, 'I eat and drink; I have a wife and children. But I worship Allah.'",
+      "text": {
+        "en": "But if the messenger were a man, he could answer, 'I eat and drink; I have a wife and children. But I worship Allah.'",
+        "ar": "لكن إذا كان الرسول بشراً، يمكنه أن يجيب: «أنا آكل وأشرب؛ ولي زوجة وأبناء. لكني أعبد الله.»",
+        "fr": "Mais si le messager était un homme, il pourrait répondre : « Je mange et je bois ; j'ai une femme et des enfants. Mais j'adore Allah. »",
+        "es": "Pero si el mensajero fuera un hombre, podría responder: 'Como y bebo; tengo esposa e hijos. Pero adoro a Alá'."
+      },
       "audio_file": "audio/ep01_53.mp3"
     },
     {
       "id": "seq_54",
-      "text": "'Why don't you worship Allah?'",
+      "text": {
+        "en": "'Why don't you worship Allah?'",
+        "ar": "«فلماذا لا تعبدون الله؟»",
+        "fr": "« Pourquoi n'adorez-vous pas Allah ? »",
+        "es": "'¿Por qué no adoran a Alá?'"
+      },
       "audio_file": "audio/ep01_54.mp3"
     },
     {
       "id": "seq_55",
-      "text": "If the messenger had been an angel, the people might say to him, 'You do not get hungry or thirsty.'",
+      "text": {
+        "en": "If the messenger had been an angel, the people might say to him, 'You do not get hungry or thirsty.'",
+        "ar": "لو كان الرسول ملكاً، لقال له الناس: «أنت لا تجوع ولا تعطش.»",
+        "fr": "Si le messager avait été un ange, les gens pourraient lui dire : « Tu n'as ni faim ni soif. »",
+        "es": "Si el mensajero hubiera sido un ángel, la gente podría decirle: 'Tú no tienes hambre ni sed'."
+      },
       "audio_file": "audio/ep01_55.mp3"
     },
     {
       "id": "seq_56",
-      "text": "'You do not get ill or die. So you can worship Allah and remember Him always!'",
+      "text": {
+        "en": "'You do not get ill or die. So you can worship Allah and remember Him always!'",
+        "ar": "«أنت لا تمرض ولا تموت. لذا يمكنك عبادة الله وذكره دائماً!»",
+        "fr": "« Tu ne tombes pas malade et tu ne meurs pas. Tu peux donc adorer Allah et t'en souvenir toujours ! »",
+        "es": "'¡Tú no te enfermas ni mueres. Así que puedes adorar a Alá y recordarlo siempre!'"
+      },
       "audio_file": "audio/ep01_56.mp3"
     },
     {
       "id": "seq_57",
-      "text": "But if the messenger were a man, he could answer, 'I am just like you. I get hungry and thirsty.'",
+      "text": {
+        "en": "But if the messenger were a man, he could answer, 'I am just like you. I get hungry and thirsty.'",
+        "ar": "لكن إذا كان الرسول بشراً، يمكنه أن يجيب: «أنا مثلكم تماماً. أجوع وأعطش.»",
+        "fr": "Mais si le messager était un homme, il pourrait répondre : « Je suis comme vous. J'ai faim et soif. »",
+        "es": "Pero si el mensajero fuera un hombre, podría responder: 'Soy como ustedes. Tengo hambre y sed'."
+      },
       "audio_file": "audio/ep01_57.mp3"
     },
     {
       "id": "seq_58",
-      "text": "'I get ill and will die. But I worship Allah and remember Him.'",
+      "text": {
+        "en": "'I get ill and will die. But I worship Allah and remember Him.'",
+        "ar": "«أمرض وسأموت. لكني أعبد الله وأذكره.»",
+        "fr": "« Je tombe malade et je mourrai. Mais j'adore Allah et je me souviens de Lui. »",
+        "es": "'Me enfermo y moriré. Pero adoro a Alá y lo recuerdo'."
+      },
       "audio_file": "audio/ep01_58.mp3"
     },
     {
       "id": "seq_59",
-      "text": "'So why don't you worship Allah? Why don't you remember Him?'",
+      "text": {
+        "en": "'So why don't you worship Allah? Why don't you remember Him?'",
+        "ar": "«فلماذا لا تعبدون الله؟ لماذا لا تذكرونه؟»",
+        "fr": "« Alors pourquoi n'adorez-vous pas Allah ? Pourquoi ne vous souvenez-vous pas de Lui ? »",
+        "es": "'Entonces, ¿por qué no adoran a Alá? ¿Por qué no lo recuerdan?'"
+      },
       "audio_file": "audio/ep01_59.mp3"
     },
     {
       "id": "seq_60",
-      "text": "In this way the people would not be able to make up excuses.",
+      "text": {
+        "en": "In this way the people would not be able to make up excuses.",
+        "ar": "وبهذه الطريقة لن يستطيع الناس تقديم الأعذار.",
+        "fr": "De cette façon, les gens ne pourraient pas inventer d'excuses.",
+        "es": "De esta manera la gente no podría inventar excusas."
+      },
       "audio_file": "audio/ep01_60.mp3"
     }
   ]
