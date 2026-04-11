@@ -1,0 +1,184 @@
+{
+  "episode_id": "nuh_ep_03",
+  "title": {
+    "en": "The Ark and the Great Flood",
+    "ar": "السفينة والطوفان العظيم",
+    "fr": "L'Arche et le Grand Déluge",
+    "es": "El Arca y el Gran Diluvio"
+  },
+  "category": "Stories of the Prophets",
+  "age_group": "Kids",
+  "style": "Cinematic Digital Illustration",
+  "sequences": [
+    {
+      "id": "seq_01",
+      "text": {
+        "en": "Allah answered Nuh's prayer. All of the unbelievers would be drowned in a great flood.",
+        "ar": "استجاب الله لدعاء نوح. وتقرر أن يغرق جميع الكفار في طوفان عظيم.",
+        "fr": "Allah a exaucé la prière de Noé. Tous les mécréants allaient être noyés dans un grand déluge.",
+        "es": "Alá respondió a la oración de Nuh. Todos los incrédulos morirían ahogados en una gran inundación."
+      },
+      "audio_file": "audio/ep03_01.mp3"
+    },
+    {
+      "id": "seq_02",
+      "text": {
+        "en": "Allah commanded Nuh to build a great ship, and Nuh began straightaway.",
+        "ar": "أمر الله نوحاً أن يبني سفينة عظيمة، فبدأ نوح في بنائها على الفور.",
+        "fr": "Allah a commandé à Noé de construire un grand navire, et Noé commença immédiatement.",
+        "es": "Alá le ordenó a Nuh construir un gran barco, y Nuh comenzó de inmediato."
+      },
+      "audio_file": "audio/ep03_02.mp3"
+    },
+    {
+      "id": "seq_03",
+      "text": {
+        "en": "The unbelievers saw him working and mocked: 'What is this, Nuh? Since when have you become a carpenter?'",
+        "ar": "رآه الكفار وهو يعمل فسخروا منه قائلين: «ما هذا يا نوح؟ منذ متى أصبحت نجاراً؟»",
+        "fr": "Les mécréants le virent travailler et se moquèrent : « Qu'est-ce que c'est, Noé ? Depuis quand es-tu devenu charpentier ? »",
+        "es": "Los incrédulos lo vieron trabajando y se burlaron: '¿Qué es esto, Nuh? ¿Desde cuándo te has vuelto carpintero?'"
+      },
+      "audio_file": "audio/ep03_03.mp3"
+    },
+    {
+      "id": "seq_04",
+      "text": {
+        "en": "'Where is this ship going? Is it going to sail in the sand or climb up the mountains? The sea is a long way from here.'",
+        "ar": "«إلى أين ستذهب هذه السفينة؟ هل ستسير في الرمل أم تتسلق الجبال؟ البحر بعيد جداً عن هنا.»",
+        "fr": "« Où va ce navire ? Va-t-il naviguer dans le sable ou gravir les montagnes ? La mer est bien loin d'ici. »",
+        "es": "¿A dónde va este barco? ¿Va a navegar por la arena o a subir por las montañas? El mar está muy lejos de aquí'."
+      },
+      "audio_file": "audio/ep03_04.mp3"
+    },
+    {
+      "id": "seq_05",
+      "text": {
+        "en": "Nuh was patient, but he said to them, 'If you mock us, we will mock you as you mock.'",
+        "ar": "كان نوح صبوراً، لكنه قال لهم: «إِن تَسْخَرُوا مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ».",
+        "fr": "Noé était patient, mais il leur dit : « Si vous vous moquez de nous, nous nous moquerons de vous comme vous vous moquez. »",
+        "es": "Nuh fue paciente, pero les dijo: 'Si se burlan de nosotros, nosotros nos burlaremos de ustedes como ustedes se burlan'."
+      },
+      "audio_file": "audio/ep03_05.mp3"
+    },
+    {
+      "id": "seq_06",
+      "text": {
+        "en": "It rained and rained until the sky was like a sieve. Water poured down and gushed up from the earth.",
+        "ar": "أمطرت السماء بغزارة حتى صارت كالغربال. انهمر الماء من الأعلى وتفجر من الأرض.",
+        "fr": "Il plut et plut jusqu'à ce que le ciel ressemble à un tamis. L'eau se déversa d'en haut et jaillit de la terre.",
+        "es": "Llovió y llovió hasta que el cielo fue como un tamiz. El agua caía a cántaros y brotaba de la tierra."
+      },
+      "audio_file": "audio/ep03_06.mp3"
+    },
+    {
+      "id": "seq_07",
+      "text": {
+        "en": "Allah revealed to Nuh to take with him the believers and a pair of every animal and bird, a male and a female.",
+        "ar": "أوحى الله إلى نوح أن يأخذ معه المؤمنين وزوجين من كل حيوان وطائر، ذكراً وأنثى.",
+        "fr": "Allah a révélé à Noé de prendre avec lui les croyants et un couple de chaque animal et oiseau, un mâle et une femelle.",
+        "es": "Alá le reveló a Nuh que llevara consigo a los creyentes y una pareja de cada animal y ave, un macho y una hembra."
+      },
+      "audio_file": "audio/ep03_07.mp3"
+    },
+    {
+      "id": "seq_08",
+      "text": {
+        "en": "The Ark rode with them on waves like mountains. People outside climbed every high place, fleeing from the punishment.",
+        "ar": "جرت بهم السفينة في موج كالجبال. وتسلق الناس في الخارج كل مكان عالٍ هرباً من العذاب.",
+        "fr": "L'Arche voguait avec eux sur des vagues comme des montagnes. À l'extérieur, les gens grimpaient sur chaque hauteur, fuyant le châtiment.",
+        "es": "El Arca navegaba con ellos sobre olas como montañas. La gente afuera subía a cada lugar alto, huyendo del castigo."
+      },
+      "audio_file": "audio/ep03_08.mp3"
+    },
+    {
+      "id": "seq_09",
+      "text": {
+        "en": "Nuh saw his son among the unbelievers and said, 'My son, embark with us and do not be with the unbelievers.'",
+        "ar": "رأى نوح ابنه مع الكافرين فقال: «يَا بُنَيَّ ارْكَب مَّعَنَا وَلَا تَكُن مَّعَ الْكَافِرِينَ».",
+        "fr": "Noé vit son fils parmi les mécréants et dit : « Ô mon fils, monte avec nous et ne reste pas avec les mécréants. »",
+        "es": "Nuh vio a su hijo entre los incrédulos y dijo: 'Hijo mío, embárcate con nosotros y no estés con los incrédulos'."
+      },
+      "audio_file": "audio/ep03_09.mp3"
+    },
+    {
+      "id": "seq_10",
+      "text": {
+        "en": "His son said, 'I will seek refuge on a mountain that will protect me from the water.'",
+        "ar": "قال ابنه: «سَآوِي إِلَىٰ جَبَلٍ يَعْصِمُنِي مِنَ الْمَاءِ».",
+        "fr": "Son fils répondit : « Je vais me réfugier sur une montagne qui me protégera de l'eau. »",
+        "es": "Su hijo dijo: 'Buscaré refugio en una montaña que me proteja del agua'."
+      },
+      "audio_file": "audio/ep03_10.mp3"
+    },
+    {
+      "id": "seq_11",
+      "text": {
+        "en": "The waves came between them, and Nuh's son was among the drowned. Nuh was sad about his son.",
+        "ar": "حال بينهما الموج فكان ابن نوح من المغرقين. وحزن نوح على ابنه حزناً شديداً.",
+        "fr": "Les vagues s'interposèrent entre eux, et le fils de Noé fut parmi les noyés. Noé était triste pour son fils.",
+        "es": "Las olas se interpusieron entre ellos, y el hijo de Nuh estuvo entre los ahogados. Nuh estaba triste por su hijo."
+      },
+      "audio_file": "audio/ep03_11.mp3"
+    },
+    {
+      "id": "seq_12",
+      "text": {
+        "en": "Nuh called on his Lord: 'My son is part of my family and Your promise is true.'",
+        "ar": "نادى نوح ربه قائلاً: «رَبِّ إِنَّ ابْنِي مِنْ أَهْلِي وَإِنَّ وَعْدَكَ الْحَقُّ».",
+        "fr": "Noé appela son Seigneur : « Mon fils fait partie de ma famille et Ta promesse est vérité. »",
+        "es": "Nuh llamó a su Señor: 'Mi hijo es parte de mi familia y Tu promesa es verdadera'."
+      },
+      "audio_file": "audio/ep03_12.mp3"
+    },
+    {
+      "id": "seq_13",
+      "text": {
+        "en": "Allah said, 'Nuh, he is not part of your family; he is of evil conduct. I warn you lest you be one of the ignorant.'",
+        "ar": "قال الله: «يَا نُوحُ إِنَّهُ لَيْسَ مِنْ أَهْلِكَ إِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ... إِنِّي أَعِظُكَ أَنْ تَكُونَ مِنَ الْجَاهِلِينَ».",
+        "fr": "Allah dit : « Noé, il ne fait pas partie de ta famille ; il a commis un acte infâme. Je t'exhorte afin que tu ne sois pas du nombre des ignorants. »",
+        "es": "Alá dijo: 'Nuh, él no es parte de tu familia; su conducta es malvada. Te advierto para que no seas uno de los ignorants'."
+      },
+      "audio_file": "audio/ep03_13.mp3"
+    },
+    {
+      "id": "seq_14",
+      "text": {
+        "en": "Nuh turned to Allah, repentant, saying, 'If You do not forgive me and show mercy to me, I will be among the losers.'",
+        "ar": "تاب نوح إلى الله قائلاً: «وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُن مِّنَ الْخَاسِرِينَ».",
+        "fr": "Noé se tourna vers Allah, repentant, disant : « Si Tu ne me pardonnes pas et ne me fais pas miséricorde, je serai du nombre des perdants. »",
+        "es": "Nuh se volvió a Alá, arrepentido, diciendo: 'Si no me perdonas y tienes misericordia de mí, estaré entre los perdedores'."
+      },
+      "audio_file": "audio/ep03_14.mp3"
+    },
+    {
+      "id": "seq_15",
+      "text": {
+        "en": "When the unbelievers were drowned, the rain stopped and the water sank away. The Ark stopped on Mount Judi.",
+        "ar": "لما غرق الكفار، انقطع المطر وغار الماء. واستوت السفينة على جبل الجودي.",
+        "fr": "Quand les mécréants furent noyés, la pluie s'arrêta et l'eau se retira. L'Arche s'arrêta sur le mont Joudi.",
+        "es": "Cuando los incrédulos se ahogaron, la lluvia cesó y el agua bajó. El Arca se detuvo en el monte Judi."
+      },
+      "audio_file": "audio/ep03_15.mp3"
+    },
+    {
+      "id": "seq_16",
+      "text": {
+        "en": "Nuh and the people of the Ark got down in peace. Allah blessed the descendants of Nuh and they filled the earth.",
+        "ar": "هبط نوح ومن معه من السفينة بسلام. بارك الله في ذرية نوح فانتشروا في الأرض وملأوها.",
+        "fr": "Noé et les gens de l'Arche descendirent en paix. Allah a béni les descendants de Noé et ils ont rempli la terre.",
+        "es": "Nuh y la gente del Arca bajaron en paz. Alá bendijo a los descendientes de Nuh y ellos poblaron la tierra."
+      },
+      "audio_file": "audio/ep03_16.mp3"
+    },
+    {
+      "id": "seq_17",
+      "text": {
+        "en": "Peace be upon Nuh among all the worlds!",
+        "ar": "سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ!",
+        "fr": "Paix sur Noé dans tous les mondes !",
+        "es": "¡Paz sea sobre Nuh en todos los mundos!"
+      },
+      "audio_file": "audio/ep03_17.mp3"
+    }
+  ]
+}
