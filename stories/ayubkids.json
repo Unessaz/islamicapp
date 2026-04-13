@@ -1,0 +1,204 @@
+{
+  "episode_id": "ayub_ep_01",
+  "title": {
+    "en": "The Prophet Ayub and the Test of Patience",
+    "ar": "نبي الله أيوب عليه السلام",
+    "fr": "Le Prophète Ayub et l'épreuve de la patience",
+    "es": "El Profeta Ayub y la Prueba de la Paciencia"
+  },
+  "category": "Stories of the Prophets",
+  "age_group": "Kids",
+  "style": "Cinematic Digital Illustration",
+  "sequences": [
+    {
+      "id": "seq_01",
+      "text": {
+        "en": "A long time ago, in the land of Syria, there lived a man. His name was Ayub, or Job.",
+        "ar": "منذ زمن طويل، في بلاد الشام، عاش رجل. كان اسمه أيوب.",
+        "fr": "Il y a très longtemps, au pays de Syrie, vivait un homme. Son nom était Ayub, ou Job.",
+        "es": "Hace mucho tiempo, en la tierra de Siria, vivía un hombre. Su nombre era Ayub, o Job."
+      },
+      "audio_file": "audio/ayub_01.mp3"
+    },
+    {
+      "id": "seq_02",
+      "text": {
+        "en": "He loved Allah very much. And Allah made him very wise. And He made him a very rich man.",
+        "ar": "كان يحب الله كثيراً. وجعله الله حكيماً جداً. وجعله رجلاً غنياً جداً.",
+        "fr": "Il aimait beaucoup Allah. Et Allah l'a rendu très sage. Et Il a fait de lui un homme très riche.",
+        "es": "Él amaba mucho a Alá. Y Alá lo hizo muy sabio. Y lo hizo un hombre muy rico."
+      },
+      "audio_file": "audio/ayub_02.mp3"
+    },
+    {
+      "id": "seq_03",
+      "text": {
+        "en": "The Prophet Ayub had many fields. He had many sheep. His house was very big.",
+        "ar": "كان للنبي أيوب حقول كثيرة. وكان عنده الكثير من الأغنام. وكان بيته كبيراً جداً.",
+        "fr": "Le Prophète Ayub avait de nombreux champs. Il avait beaucoup de moutons. Sa maison était très grande.",
+        "es": "El Profeta Ayub tenía muchos campos. Tenía muchas ovejas. Su casa era muy grande."
+      },
+      "audio_file": "audio/ayub_03.mp3"
+    },
+    {
+      "id": "seq_04",
+      "text": {
+        "en": "There were many servants in the house. And his children were very good.",
+        "ar": "كان هناك الكثير من الخدم في البيت. وكان أبناؤه طيبين جداً.",
+        "fr": "Il y avait beaucoup de serviteurs dans la maison. Et ses enfants étaient très bons.",
+        "es": "Había muchos sirvientes en la casa. Y sus hijos eran muy buenos."
+      },
+      "audio_file": "audio/ayub_04.mp3"
+    },
+    {
+      "id": "seq_05",
+      "text": {
+        "en": "The Prophet Ayub knew that everything came from Allah. He prayed to Allah, thanking Him for the gifts.",
+        "ar": "عرف النبي أيوب أن كل شيء من عند الله. كان يصلي لله ويشكره على هذه النعم.",
+        "fr": "Le Prophète Ayub savait que tout venait d'Allah. Il priait Allah, Le remerciant pour Ses dons.",
+        "es": "El Profeta Ayub sabía que todo venía de Alá. Rezaba a Alá, agradeciéndole por sus dones."
+      },
+      "audio_file": "audio/ayub_05.mp3"
+    },
+    {
+      "id": "seq_06",
+      "text": {
+        "en": "The village people said: 'It is easy for Ayub to love Allah. He is rich and he has a lot of time.'",
+        "ar": "قال أهل القرية: 'من السهل على أيوب أن يحب الله. فهو غني وعنده الكثير من الوقت.'",
+        "fr": "Les gens du village disaient : 'C'est facile pour Ayub d'aimer Allah. Il est riche et il a beaucoup de temps.'",
+        "es": "La gente del pueblo decía: 'Es fácil para Ayub amar a Alá. Es rico y tiene mucho tiempo'."
+      },
+      "audio_file": "audio/ayub_06.mp3"
+    },
+    {
+      "id": "seq_07",
+      "text": {
+        "en": "They said: 'If Ayub were poor like us, he would never love Allah so much!'",
+        "ar": "قالوا: 'لو كان أيوب فقيراً مثلنا، لما أحب الله كل هذا الحب!'",
+        "fr": "Ils disaient : 'Si Ayub était pauvre comme nous, il n'aimerait jamais autant Allah !'",
+        "es": "Dijeron: '¡Si Ayub fuera pobre como nosotros, nunca amaría tanto a Alá!'"
+      },
+      "audio_file": "audio/ayub_07.mp3"
+    },
+    {
+      "id": "seq_08",
+      "text": {
+        "en": "Allah wanted to show people that they were wrong, so He put the Prophet Ayub to the test.",
+        "ar": "أراد الله أن يظهر للناس أنهم مخطئون، فوضع النبي أيوب في اختبار.",
+        "fr": "Allah a voulu montrer aux gens qu'ils avaient tort, alors Il a mis le Prophète Ayub à l'épreuve.",
+        "es": "Alá quería mostrar a la gente que estaban equivocados, así que puso al Profeta Ayub a prueba."
+      },
+      "audio_file": "audio/ayub_08.mp3"
+    },
+    {
+      "id": "seq_09",
+      "text": {
+        "en": "One day, Ayub’s sheep got lost. The next day, all the water in the fields dried up.",
+        "ar": "في أحد الأيام، ضاعت أغنام أيوب. وفي اليوم التالي، جفت كل المياه في الحقول.",
+        "fr": "Un jour, les moutons d'Ayub se sont perdus. Le lendemain, toute l'eau des champs a séché.",
+        "es": "Un día, las ovejas de Ayub se perdieron. Al día siguiente, se secó toda el agua de los campos."
+      },
+      "audio_file": "audio/ayub_09.mp3"
+    },
+    {
+      "id": "seq_10",
+      "text": {
+        "en": "The Prophet Ayub became poor. His family members died. Then he got sick.",
+        "ar": "أصبح النبي أيوب فقيراً. ومات أفراد عائلته. ثم مرض.",
+        "fr": "Le Prophète Ayub est devenu pauvre. Les membres de sa famille sont morts. Puis il est tombé malade.",
+        "es": "El Profeta Ayub se volvió pobre. Los miembros de su familia murieron. Entonces se enfermó."
+      },
+      "audio_file": "audio/ayub_10.mp3"
+    },
+    {
+      "id": "seq_11",
+      "text": {
+        "en": "The Prophet Ayub did not complain. He did not stop praying to Allah. He knew Allah would help him.",
+        "ar": "لم يشتكِ النبي أيوب. ولم يتوقف عن الصلاة لله. كان يعلم أن الله سيساعده.",
+        "fr": "Le Prophète Ayub ne s'est pas plaint. Il n'a pas arrêté de prier Allah. Il savait qu'Allah l'aiderait.",
+        "es": "El Profeta Ayub no se quejó. No dejó de rezar a Alá. Sabía que Alá lo ayudaría."
+      },
+      "audio_file": "audio/ayub_11.mp3"
+    },
+    {
+      "id": "seq_12",
+      "text": {
+        "en": "He praised Allah: 'I am overcome by distress. But You are the Most Merciful of all.'",
+        "ar": "سبّح الله قائلاً: 'أني مسني الضر وأنت أرحم الراحمين.'",
+        "fr": "Il a loué Allah : 'Je suis accablé par la détresse. Mais Tu es le plus Miséricordieux de tous.'",
+        "es": "Alabó a Alá: 'Me ha afligido la desgracia. Pero Tú eres el más Misericordioso de todos'."
+      },
+      "audio_file": "audio/ayub_12.mp3"
+    },
+    {
+      "id": "seq_13",
+      "text": {
+        "en": "Allah liked Ayub’s patience. He said to Ayub: 'Strike your feet on the ground.' And a spring gushed forth.",
+        "ar": "أحب الله صبر أيوب. قال لأيوب: 'اركض برجلك'. فانفجرت عين ماء.",
+        "fr": "Allah a aimé la patience d'Ayub. Il a dit à Ayub : 'Frappe le sol de ton pied.' Et une source a jailli.",
+        "es": "A Alá le gustó la paciencia de Ayub. Le dijo a Ayub: 'Golpea el suelo con tu pie'. Y brotó un manantial."
+      },
+      "audio_file": "audio/ayub_13.mp3"
+    },
+    {
+      "id": "seq_14",
+      "text": {
+        "en": "Allah told him to have a bath with the spring water and he will be healthy again.",
+        "ar": "أمره الله أن يغتسل بماء العين وسيعود صحيحاً مرة أخرى.",
+        "fr": "Allah lui a dit de prendre un bain avec l'eau de source et il retrouvera la santé.",
+        "es": "Alá le dijo que se bañara con el agua del manantial y volvería a estar sano."
+      },
+      "audio_file": "audio/ayub_14.mp3"
+    },
+    {
+      "id": "seq_15",
+      "text": {
+        "en": "The Prophet Ayub became well again. Allah again gave him a big house, fields and sheep.",
+        "ar": "شفي النبي أيوب مرة أخرى. وأعطاه الله مجدداً بيتاً كبيراً وحقولاً وأغناماً.",
+        "fr": "Le Prophète Ayub est redevenu bien portant. Allah lui a de nouveau donné une grande maison, des champs et des moutons.",
+        "es": "El Profeta Ayub se recuperó. Alá volvió a darle una casa grande, campos y ovejas."
+      },
+      "audio_file": "audio/ayub_15.mp3"
+    },
+    {
+      "id": "seq_16",
+      "text": {
+        "en": "He gave him many children. He made him even richer than before.",
+        "ar": "رزقه الله الكثير من الأطفال. وجعله أغنى مما كان عليه من قبل.",
+        "fr": "Il lui a donné beaucoup d'enfants. Il l'a rendu encore plus riche qu'avant.",
+        "es": "Le dio muchos hijos. Lo hizo incluso más rico que antes."
+      },
+      "audio_file": "audio/ayub_16.mp3"
+    },
+    {
+      "id": "seq_17",
+      "text": {
+        "en": "Ayub showed great patience. Allah rewarded him with great bounty and prosperity in this world.",
+        "ar": "أظهر أيوب صبراً عظيماً. فكافأه الله بعطاء عظيم وازدهار في الدنيا.",
+        "fr": "Ayub a fait preuve d'une grande patience. Allah l'a récompensé par une grande générosité et la prospérité dans ce monde.",
+        "es": "Ayub mostró una gran paciencia. Alá lo recompensó con una gran generosidad y prosperidad en este mundo."
+      },
+      "audio_file": "audio/ayub_17.mp3"
+    },
+    {
+      "id": "seq_18",
+      "text": {
+        "en": "He had a new family of seven sons and three daughters. He lived to the ripe old age of 93.",
+        "ar": "رزق بعائلة جديدة من سبعة أبناء وثلاث بنات. وعاش حتى عمر 93 عاماً.",
+        "fr": "Il eut une nouvelle famille de sept fils et trois filles. Il vécut jusqu'à l'âge mûr de 93 ans.",
+        "es": "Tuvo una nueva familia de siete hijos y tres hijas. Vivió hasta la avanzada edad de 93 años."
+      },
+      "audio_file": "audio/ayub_18.mp3"
+    },
+    {
+      "id": "seq_19",
+      "text": {
+        "en": "He became so rich that it was said that 'he was rained upon with locusts of gold.'",
+        "ar": "أصبح غنياً جداً حتى قيل إنه 'أُمطر عليه جراد من ذهب'.",
+        "fr": "Il devint si riche qu'on disait qu'il 'pleuvait sur lui des sauterelles d'or'.",
+        "es": "Se volvió tan rico que se decía que 'le llovían langostas de oro'."
+      },
+      "audio_file": "audio/ayub_19.mp3"
+    }
+  ]
+}
