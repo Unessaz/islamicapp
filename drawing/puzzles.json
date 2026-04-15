@@ -1,0 +1,26 @@
+{
+  "puzzles": [
+    {
+      "id": "mosque",
+      "title": "Mosque at Night",
+      "subtitle": "A glowing mosque under the stars",
+      "gradient": ["#0f1f3d", "#1e3a5f"],
+      "accent": "#FDE68A",
+      "difficulty": "Medium",
+      "stars": 2,
+      "xp": 150,
+      "pieces": 9
+    },
+    {
+      "id": "garden",
+      "title": "Islamic Garden",
+      "subtitle": "A serene garden with a fountain",
+      "gradient": ["#14532d", "#16a34a"],
+      "accent": "#86efac",
+      "difficulty": "Easy",
+      "stars": 1,
+      "xp": 100,
+      "pieces": 9
+    }
+  ]
+}
