@@ -8,7 +8,7 @@
       "accent": "#93c5fd",
       "difficulty": "Easy",
       "xp": 100,
-      "thumb": "courtyard",
+      "thumb": "https://www.svgrepo.com/show/530619/polaroid.svg",
       "objects": [
         { "id": "crescent", "label": "Crescent Moon", "icon": "moon-outline", "cx": 255, "cy": 25, "r": 20 },
         { "id": "star", "label": "Golden Star", "icon": "star-outline", "cx": 278, "cy": 14, "r": 14 },
