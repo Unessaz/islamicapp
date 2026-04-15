@@ -10,7 +10,7 @@
       "stars": 2,
       "xp": 150,
       "pieces": 9,
-      "thumb": "https://www.svgrepo.com/show/530619/polaroid.svg",
+      "thumb": "https://www.svgrepo.com/show/530619/polaroid.svg"
     },
     {
       "id": "garden",
@@ -22,7 +22,7 @@
       "stars": 1,
       "xp": 100,
       "pieces": 9,
-      "thumb": "https://www.svgrepo.com/show/530619/polaroid.svg",
+      "thumb": "https://www.svgrepo.com/show/530619/polaroid.svg"
     }
   ]
 }
