@@ -39,6 +39,199 @@
         { "id": "beads", "label": "Tasbih", "icon": "ellipse-outline", "cx": 268, "cy": 172, "r": 16 },
         { "id": "palm", "label": "Palm Tree", "icon": "leaf-outline", "cx": 58, "cy": 68, "r": 22 }
       ]
+    },
+    {
+  "id": "mosque_courtyard",
+  "title": "Mosque Courtyard",
+  "subtitle": "Find 6 objects hidden in the serene courtyard",
+  "gradient": ["#334155", "#475569"],
+  "accent": "#cbd5e1",
+  "difficulty": "Easy",
+  "xp": 100,
+  "thumb": "https://www.svgrepo.com/show/512530/mosque.svg",
+  "elements": [
+    {
+      "type": "rect",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 130,
+      "fill": "#a5f3fc",
+      "__comment": "Sky"
+    },
+    {
+      "type": "ellipse",
+      "cx": 130,
+      "cy": 130,
+      "rx": 130,
+      "ry": 50,
+      "fill": "#d1fae5",
+      "__comment": "Upper courtyard floor"
+    },
+    {
+      "type": "rect",
+      "x": 0,
+      "y": 170,
+      "width": 300,
+      "height": 50,
+      "fill": "#f1f5f9",
+      "__comment": "Paved courtyard floor"
+    },
+    {
+      "type": "rect",
+      "x": 0,
+      "y": 160,
+      "width": 300,
+      "height": 20,
+      "fill": "#e2e8f0",
+      "__comment": "Upper floor edge"
+    },
+    {
+      "type": "path",
+      "d": "M 80 160 C 80 100 220 100 220 160 L 220 160 C 220 160 80 160 80 160 Z",
+      "fill": "rgba(255,255,255,0.7)",
+      "__comment": "Arch reflection"
+    },
+    {
+      "type": "path",
+      "d": "M 30 130 C 30 50 110 50 110 130 L 110 160 C 110 160 30 160 30 160 Z",
+      "fill": "rgba(255,255,255,0.7)",
+      "__comment": "Left column and arch reflection"
+    },
+    {
+      "type": "rect",
+      "x": 190,
+      "y": 30,
+      "width": 10,
+      "height": 140,
+      "rx": 4,
+      "fill": "#fde047",
+      "__comment": "Crescent pole"
+    },
+    {
+      "type": "ellipse",
+      "cx": 195,
+      "cy": 22,
+      "rx": 30,
+      "ry": 35,
+      "fill": "#4ade80",
+      "__comment": "Tree leaves base"
+    },
+    {
+      "type": "ellipse",
+      "cx": 180,
+      "cy": 28,
+      "rx": 20,
+      "ry": 18,
+      "fill": "#86efac",
+      "__comment": "Left tree leaf"
+    },
+    {
+      "type": "ellipse",
+      "cx": 210,
+      "cy": 25,
+      "rx": 20,
+      "ry": 18,
+      "fill": "#86efac",
+      "__comment": "Right tree leaf"
+    },
+    {
+      "type": "rect",
+      "x": 65,
+      "y": 180,
+      "width": 170,
+      "height": 30,
+      "fill": "#e7e5e4",
+      "__comment": "Prayer rug base"
+    },
+    {
+      "type": "path",
+      "d": "M 80 185 C 80 170 120 170 120 185 L 120 195 C 120 195 80 195 80 195 Z",
+      "fill": "rgba(255,255,255,0.5)",
+      "__comment": "Arch reflection 1 on rug"
+    },
+    {
+      "type": "path",
+      "d": "M 130 185 C 130 170 170 170 170 185 L 170 195 C 170 195 130 195 130 195 Z",
+      "fill": "rgba(255,255,255,0.5)",
+      "__comment": "Arch reflection 2 on rug"
+    },
+    {
+      "type": "path",
+      "d": "M 180 185 C 180 170 220 170 220 185 L 220 195 C 220 195 180 195 180 195 Z",
+      "fill": "rgba(255,255,255,0.5)",
+      "__comment": "Arch reflection 3 on rug"
+    },
+    {
+      "type": "rect",
+      "x": 25,
+      "y": 140,
+      "width": 15,
+      "height": 45,
+      "rx": 3,
+      "fill": "#d4d4d8",
+      "__comment": "Lantern base"
+    },
+    {
+      "type": "ellipse",
+      "cx": 32,
+      "cy": 130,
+      "rx": 12,
+      "ry": 18,
+      "fill": "#fed7aa",
+      "__comment": "Lantern glass"
     }
+  ],
+  "objects": [
+    {
+      "id": "crescent",
+      "label": "Crescent Moon",
+      "icon": "moon-outline",
+      "cx": 195,
+      "cy": 30,
+      "r": 25
+    },
+    {
+      "id": "palm",
+      "label": "Palm Tree",
+      "icon": "leaf-outline",
+      "cx": 195,
+      "cy": 25,
+      "r": 25
+    },
+    {
+      "id": "lantern",
+      "label": "Lantern",
+      "icon": "flame-outline",
+      "cx": 32,
+      "cy": 138,
+      "r": 18
+    },
+    {
+      "id": "book",
+      "label": "Holy Book",
+      "icon": "book-outline",
+      "cx": 150,
+      "cy": 195,
+      "r": 18
+    },
+    {
+      "id": "rug",
+      "label": "Prayer Rug",
+      "icon": "clipboard-outline",
+      "cx": 150,
+      "cy": 195,
+      "r": 25
+    },
+    {
+      "id": "beads",
+      "label": "Tasbih Beads",
+      "icon": "ellipse-outline",
+      "cx": 150,
+      "cy": 190,
+      "r": 15
+    }
+  ]
+}
   ]
 }
