@@ -1,0 +1,22 @@
+{
+  "scenes": [
+    {
+      "id": "courtyard",
+      "title": "Mosque Courtyard",
+      "subtitle": "Find 6 objects hidden in the courtyard",
+      "gradient": ["#1e3a5f", "#2563eb"],
+      "accent": "#93c5fd",
+      "difficulty": "Easy",
+      "xp": 100,
+      "thumb": "courtyard",
+      "objects": [
+        { "id": "crescent", "label": "Crescent Moon", "icon": "moon-outline", "cx": 255, "cy": 25, "r": 20 },
+        { "id": "star", "label": "Golden Star", "icon": "star-outline", "cx": 278, "cy": 14, "r": 14 },
+        { "id": "lantern", "label": "Lantern", "icon": "flame-outline", "cx": 36, "cy": 120, "r": 18 },
+        { "id": "book", "label": "Holy Book", "icon": "book-outline", "cx": 152, "cy": 192, "r": 18 },
+        { "id": "beads", "label": "Tasbih", "icon": "ellipse-outline", "cx": 268, "cy": 172, "r": 16 },
+        { "id": "palm", "label": "Palm Tree", "icon": "leaf-outline", "cx": 58, "cy": 68, "r": 22 }
+      ]
+    }
+  ]
+}
