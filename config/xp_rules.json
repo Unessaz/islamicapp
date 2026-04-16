@@ -64,5 +64,11 @@
     9450,
     10450,
     11500
+  ].
+   "level_titles": [
+    { "from": 1, "to": 3, "name": "Beginner" },
+    { "from": 4, "to": 7, "name": "Intermediate" },
+    { "from": 8, "to": 12, "name": "Advanced" },
+    { "from": 13, "to": 999, "name": "Scholar" }
   ]
 }
