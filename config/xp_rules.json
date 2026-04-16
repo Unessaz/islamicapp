@@ -1,0 +1,68 @@
+{
+  "version": 1,
+
+  "stories": {
+    "read": 15,
+    "watched": 30,
+    "completed_bonus": 20
+  },
+
+  "drawing": {
+    "complete": 25,
+    "share_bonus": 5
+  },
+
+  "puzzle": {
+    "easy": 10,
+    "medium": 20,
+    "hard": 35
+  },
+
+  "hidden_object": {
+    "easy": 10,
+    "medium": 20,
+    "hard": 35
+  },
+
+  "quiz": {
+    "correct": 10,
+    "perfect_bonus": 20
+  },
+
+  "daily_quiz": {
+    "correct": 15,
+    "perfect_bonus": 25,
+    "play_limit_per_day": 1
+  },
+
+  "streak": {
+    "daily_login": 5,
+    "day_3_bonus": 10,
+    "day_7_bonus": 25,
+    "day_14_bonus": 40
+  },
+
+  "level_curve": [
+    0,
+    100,
+    250,
+    450,
+    700,
+    1000,
+    1350,
+    1750,
+    2200,
+    2700,
+    3250,
+    3850,
+    4500,
+    5200,
+    5950,
+    6750,
+    7600,
+    8500,
+    9450,
+    10450,
+    11500
+  ]
+}
