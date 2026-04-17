@@ -22,19 +22,19 @@
     }{
       "id": "ayubkids",
       "title": "Ayub kids",
-      "file": "nuh/ayubkids.json",
+      "file": "ayub/ayubkids.json",
       "category": "prophets",
       "tags": ["kids", "ayub"]
     },{
       "id": "hud_ep_01",
       "title": "Hud Episode 1",
-      "file": "nuh/hud01.json",
+      "file": "hud/hud01.json",
       "category": "prophets",
       "tags": ["kids", "hud"]
     },{
       "id": "nuhkids",
       "title": "Nuh kids",
-      "file": "nuh/nuhkids.json",
+      "file": "nuh/nuhKids.json",
       "category": "prophets",
       "tags": ["kids", "nuh"]
     },
