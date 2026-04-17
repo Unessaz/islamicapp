@@ -9,6 +9,68 @@
   "category": "Stories of the Prophets",
   "age_group": "Kids",
   "style": "Cinematic Digital Illustration",
+   "scenes": [
+    {
+      "id": "scene_01",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small.mp4",
+      "image": "images/nuh_scene_01.webp"
+    },
+    {
+      "id": "scene_02",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small2.mp4",
+      "image": "images/nuh_scene_02.webp"
+    },
+    {
+      "id": "scene_03",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small3.mp4",
+      "image": "images/nuh_scene_03.webp"
+    },
+    {
+      "id": "scene_04",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small4.mp4",
+      "image": "images/nuh_scene_03.webp"
+    },
+    {
+      "id": "scene_05",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small5.mp4",
+      "image": "images/nuh_scene_03.webp"
+    },
+    {
+      "id": "scene_06",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small6.mp4",
+      "image": "images/nuh_scene_03.webp"
+    },
+    {
+      "id": "scene_07",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
+      "image": "images/nuh_scene_03.webp"
+    },
+    {
+      "id": "scene_08",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small8.mp4",
+      "image": "images/nuh_scene_03.webp"
+    },
+    {
+      "id": "scene_09",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small9.mp4",
+      "image": "images/nuh_scene_03.webp"
+    },
+    {
+      "id": "scene_010",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small10.mp4",
+      "image": "images/nuh_scene_03.webp"
+    },
+    {
+      "id": "scene_011",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small1.mp4",
+      "image": "images/nuh_scene_03.webp"
+    },
+    {
+      "id": "scene_012",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small2.mp4",
+      "image": "images/nuh_scene_03.webp"
+    }
+  ],
   "sequences": [
     {
       "id": "seq_01",
