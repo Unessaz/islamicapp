@@ -1,0 +1,276 @@
+{
+  "episode_id": "nuh_ep_01",
+  "title": {
+    "en": "The Prophet Nuh and the Great Flood",
+    "ar": "نبي الله نوح عليه السلام",
+    "fr": "Le Prophète Nuh et le Déluge",
+    "es": "El Profeta Nuh y el Diluvio"
+  },
+  "category": "Stories of the Prophets",
+  "age_group": "Kids",
+  "style": "Cinematic Digital Illustration",
+   "scenes": [
+    {
+      "id": "scene_01",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/01.webp"
+    },
+    {
+      "id": "scene_02",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small2.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/02.webp"
+    },
+    {
+      "id": "scene_03",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small3.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/03.webp"
+    },
+    {
+      "id": "scene_04",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small4.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/04.webp"
+    },
+    {
+      "id": "scene_05",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small5.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/05.webp"
+    },
+    {
+      "id": "scene_06",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small6.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/06.webp"
+    },
+    {
+      "id": "scene_07",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/07.webp"
+    },
+    {
+      "id": "scene_08",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small8.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/08.webp"
+    },
+    {
+      "id": "scene_09",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small9.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/09.webp"
+    },
+    {
+      "id": "scene_010",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small10.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/010.webp"
+    },
+    {
+      "id": "scene_011",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small1.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/011.webp"
+    },
+    {
+      "id": "scene_012",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small2.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/012.webp"
+    }
+  ],
+  "sequences": [
+    {
+      "id": "seq_01",
+      "text": {
+        "en": "At long time ago, there lived a very good man. His name was the Prophet Nuh. He loved Allah very much and Allah loved him.",
+        "ar": "منذ زمن طويل، عاش رجل صالح جداً. كان اسمه النبي نوح. كان يحب الله كثيراً والله أحبه.",
+        "fr": "Il y a très longtemps, vivait un homme très bon. Son nom était le Prophète Nuh. Il aimait beaucoup Allah et Allah l'aimait.",
+        "es": "Hace mucho tiempo, vivía un hombre muy bueno. Su nombre era el Profeta Nuh. Amaba mucho a Alá y Alá lo amaba a él."
+      },
+      "audio_file": "audio/nuh_01.mp3"
+    },
+    {
+      "id": "seq_02",
+      "text": {
+        "en": "The Prophet Nuh lived in a village. There were many more people living in the same village.",
+        "ar": "عاش النبي نوح في قرية. وكان هناك الكثير من الناس يعيشون في نفس القرية.",
+        "fr": "Le Prophète Nuh vivait dans un village. Il y avait beaucoup d'autres personnes vivant dans le même village.",
+        "es": "El Profeta Nuh vivía en un pueblo. Había mucha más gente viviendo en el mismo pueblo."
+      },
+      "audio_file": "audio/nuh_02.mp3"
+    },
+    {
+      "id": "seq_03",
+      "text": {
+        "en": "Most of them did not love Allah and did not pray to Him. Nuh was a very patient man.",
+        "ar": "معظمهم لم يحبوا الله ولم يصلوا له. كان نوح رجلاً صبوراً جداً.",
+        "fr": "La plupart d'entre eux n'aimaient pas Allah et ne Lui priaient pas. Nuh était un homme très patient.",
+        "es": "La mayoría de ellos no amaban a Alá y no le rezaban. Nuh era un hombre muy paciente."
+      },
+      "audio_file": "audio/nuh_03.mp3"
+    },
+    {
+      "id": "seq_04",
+      "text": {
+        "en": "Every day he would go from house to house and talk to people about Allah.",
+        "ar": "كان يذهب كل يوم من بيت إلى بيت ويتحدث مع الناس عن الله.",
+        "fr": "Chaque jour, il allait de maison en maison et parlait d'Allah aux gens.",
+        "es": "Cada día iba de casa en casa y hablaba a la gente sobre Alá."
+      },
+      "audio_file": "audio/nuh_04.mp3"
+    },
+    {
+      "id": "seq_05",
+      "text": {
+        "en": "Nuh wanted all the people to love Allah and pray to Him. But the people laughed at Nuh.",
+        "ar": "أراد نوح أن يحب جميع الناس الله ويصلوا له. لكن الناس سخروا من نوح.",
+        "fr": "Nuh voulait que tout le monde aime Allah et Lui prie. Mais les gens se moquaient de Nuh.",
+        "es": "Nuh quería que toda la gente amara a Alá y le rezara. Pero la gente se reía de Nuh."
+      },
+      "audio_file": "audio/nuh_05.mp3"
+    },
+    {
+      "id": "seq_06",
+      "text": {
+        "en": "This made Nuh very sad. In the end Nuh prayed to Allah: 'Allah, save the believers! And punish the wicked people!'",
+        "ar": "هذا جعل نوحاً حزيناً جداً. في النهاية دعا نوح ربه: 'يا الله، أنقذ المؤمنين! وعاقب الأشرار!'",
+        "fr": "Cela rendit Nuh très triste. À la fin, Nuh pria Allah : 'Allah, sauve les croyants ! Et punis les méchants !'",
+        "es": "Esto puso a Nuh muy triste. Al final, Nuh rezó a Alá: '¡Alá, salva a los creyentes! ¡Y castiga a la gente malvada!'"
+      },
+      "audio_file": "audio/nuh_06.mp3"
+    },
+    {
+      "id": "seq_07",
+      "text": {
+        "en": "Allah wanted to punish wicked people with a flood. But He wanted to save Nuh and the people who listened to Nuh.",
+        "ar": "أراد الله أن يعاقب الأشرار بالطوفان. لكنه أراد إنقاذ نوح والذين استمعوا إليه.",
+        "fr": "Allah a voulu punir les méchants par un déluge. Mais Il a voulu sauver Nuh et les gens qui l'avaient écouté.",
+        "es": "Alá quería castigar a la gente malvada con un diluvio. Pero quería salvar a Nuh y a la gente que lo escuchó."
+      },
+      "audio_file": "audio/nuh_07.mp3"
+    },
+    {
+      "id": "seq_08",
+      "text": {
+        "en": "Allah told Nuh to build a huge boat. Soon the boat was ready.",
+        "ar": "أمر الله نوحاً أن يبني سفينة ضخمة. وسرعان ما أصبحت السفينة جاهزة.",
+        "fr": "Allah a dit à Nuh de construire un immense bateau. Bientôt, le bateau fut prêt.",
+        "es": "Alá le dijo a Nuh que construyera un barco enorme. Pronto el barco estuvo listo."
+      },
+      "audio_file": "audio/nuh_08.mp3"
+    },
+    {
+      "id": "seq_09",
+      "text": {
+        "en": "The next day it started to rain. It looked as if the rain was never going to stop! The village was getting flooded!",
+        "ar": "في اليوم التالي بدأ المطر بالهطول. بدا الأمر وكأن المطر لن يتوقف أبداً! بدأت القرية تغرق!",
+        "fr": "Le lendemain, il commença à pleuvoir. On aurait dit que la pluie ne s'arrêterait jamais ! Le village était inondé !",
+        "es": "Al día siguiente empezó a llover. ¡Parecía que la lluvia no iba a parar nunca! ¡El pueblo se estaba inundando!"
+      },
+      "audio_file": "audio/nuh_09.mp3"
+    },
+    {
+      "id": "seq_10",
+      "text": {
+        "en": "Nuh put up a ladder and climbed into the boat together with other good people. After them climbed the animals.",
+        "ar": "وضع نوح سلماً وصعد إلى السفينة مع الأخيار. ومن بعدهم صعدت الحيوانات.",
+        "fr": "Nuh installa une échelle et monta dans le bateau avec d'autres bonnes personnes. Après eux, les animaux montèrent.",
+        "es": "Nuh puso una escalera y subió al barco junto con otras personas buenas. Después de ellos subieron los animales."
+      },
+      "audio_file": "audio/nuh_10.mp3"
+    },
+    {
+      "id": "seq_11",
+      "text": {
+        "en": "All the animals were in pairs: goats, sheep, horses, elephants and many others. Pairs of birds sat on the deck.",
+        "ar": "كانت جميع الحيوانات أزواجاً: الماعز والأغنام والخيول والفيلة وغيرها الكثير. وجلست أزواج من الطيور على السطح.",
+        "fr": "Tous les animaux étaient par paires : chèvres, moutons, chevaux, éléphants et bien d'autres. Des couples d'oiseaux s'assirent sur le pont.",
+        "es": "Todos los animales iban por parejas: cabras, ovejas, caballos, elefantes y muchos otros. Parejas de aves se sentaron en la cubierta."
+      },
+      "audio_file": "audio/nuh_11.mp3"
+    },
+    {
+      "id": "seq_12",
+      "text": {
+        "en": "Soon everybody was safe in the boat. There were some people who did not want to come with Nuh.",
+        "ar": "سرعان ما أصبح الجميع بأمان في السفينة. كان هناك بعض الناس الذين لم يرغبوا في المجيء مع نوح.",
+        "fr": "Bientôt, tout le monde fut en sécurité dans le bateau. Il y avait des gens qui ne voulaient pas venir avec Nuh.",
+        "es": "Pronto todo el mundo estuvo a salvo en el barco. Hubo algunas personas que no quisieron venir con Nuh."
+      },
+      "audio_file": "audio/nuh_12.mp3"
+    },
+    {
+      "id": "seq_13",
+      "text": {
+        "en": "They said, 'We are not scared of the rain!' They were not scared of Allah. They all drowned in the flood.",
+        "ar": "قالوا: 'نحن لا نخاف المطر!' لم يخافوا الله. فغرقوا جميعاً في الطوفان.",
+        "fr": "Ils dirent : 'Nous n'avons pas peur de la pluie !' Ils n'avaient pas peur d'Allah. Ils se noyèrent tous dans le déluge.",
+        "es": "Dijeron: '¡No tenemos miedo de la lluvia!' No tenían miedo de Alá. Todos se ahogaron en el diluvio."
+      },
+      "audio_file": "audio/nuh_13.mp3"
+    },
+    {
+      "id": "seq_14",
+      "text": {
+        "en": "There was water everywhere. No land could be seen. Even the highest mountains were covered with water.",
+        "ar": "كان الماء في كل مكان. لا يمكن رؤية أي أرض. حتى أعلى الجبال غطاها الماء.",
+        "fr": "Il y avait de l'eau partout. Aucune terre ne pouvait être vue. Même les plus hautes montagnes étaient couvertes d'eau.",
+        "es": "Había agua por todas partes. No se veía tierra. Incluso las montañas más altas estaban cubiertas de agua."
+      },
+      "audio_file": "audio/nuh_14.mp3"
+    },
+    {
+      "id": "seq_15",
+      "text": {
+        "en": "The boat was carried by the waves. It rolled to and fro and everybody was very afraid. But Allah was watching over them.",
+        "ar": "حملت الأمواج السفينة. كانت تتمايل ذهاباً وإياباً وكان الجميع خائفين جداً. لكن الله كان يحميهم.",
+        "fr": "Le bateau était emporté par les vagues. Il tanguait et tout le monde avait très peur. Mais Allah veillait sur eux.",
+        "es": "El barco era llevado por las olas. Se balanceaba de un lado a otro y todos tenían mucho miedo. Pero Alá cuidaba de ellos."
+      },
+      "audio_file": "audio/nuh_15.mp3"
+    },
+    {
+      "id": "seq_16",
+      "text": {
+        "en": "Suddenly the rain stopped. The clouds moved away and the sun began to shine. The water started to dry up.",
+        "ar": "فجأة توقف المطر. رحلت الغيوم وبدأت الشمس تشرق. وبدأ الماء يجف.",
+        "fr": "Soudain, la pluie s'arrêta. Les nuages s'éloignèrent et le soleil commença à briller. L'eau commença à s'assécher.",
+        "es": "De repente dejó de llover. Las nubes se alejaron y el sol empezó a brillar. El agua empezó a secarse."
+      },
+      "audio_file": "audio/nuh_16.mp3"
+    },
+    {
+      "id": "seq_17",
+      "text": {
+        "en": "The Prophet Nuh’s boat hit a dry mountaintop and stayed there. Nuh saw the dry land.",
+        "ar": "استقرت سفينة النبي نوح على قمة جبل جافة. رأى نوح الأرض اليابسة.",
+        "fr": "Le bateau du Prophète Nuh heurta le sommet d'une montagne sèche et y resta. Nuh vit la terre ferme.",
+        "es": "El barco del Profeta Nuh chocó contra la cima de una montaña seca y se quedó allí. Nuh vio la tierra seca."
+      },
+      "audio_file": "audio/nuh_17.mp3"
+    },
+    {
+      "id": "seq_18",
+      "text": {
+        "en": "He told his people to come down. They left the boat. The animals followed them.",
+        "ar": "طلب من قومه النزول. فغادروا السفينة. وتبعهم الحيوانات.",
+        "fr": "Il dit à son peuple de descendre. Ils quittèrent le bateau. Les animaux les suivirent.",
+        "es": "Dijo a su gente que bajara. Salieron del barco. Los animales los siguieron."
+      },
+      "audio_file": "audio/nuh_18.mp3"
+    },
+    {
+      "id": "seq_19",
+      "text": {
+        "en": "Happy, they thanked Allah for keeping them safe. Praise be to Allah, who takes care of his people.",
+        "ar": "سعداء، شكروا الله على نجاتهم. الحمد لله الذي يرعى عباده.",
+        "fr": "Heureux, ils remercièrent Allah de les avoir gardés en sécurité. Louange à Allah, qui prend soin de Son peuple.",
+        "es": "Felices, dieron gracias a Alá por mantenerlos a salvo. Alabado sea Alá, que cuida de su pueblo."
+      },
+      "audio_file": "audio/nuh_19.mp3"
+    },
+    {
+      "id": "seq_20",
+      "text": {
+        "en": "In this way, Allah made the flood and the Ark of Nuh a sign and a warning for future generations.",
+        "ar": "بهذه الطريقة، جعل الله الطوفان وسفينة نوح آية وعبرة للأجيال القادمة.",
+        "fr": "De cette façon, Allah a fait du déluge et de l'arche de Nuh un signe et un avertissement pour les générations futures.",
+        "es": "De esta manera, Alá hizo del diluvio y del arca de Nuh una señal y una advertencia para las generaciones futuras."
+      },
+      "audio_file": "audio/nuh_20.mp3"
+    }
+  ]
+}
