@@ -3,40 +3,87 @@
   "stories": [
     {
       "id": "nuh_ep_01",
-      "title": "Nuh Episode 3",
+      "title": {
+        "en": "Nuh Episode 1",
+        "ar": "قصة نوح الحلقة 1",
+        "fr": "Noé Épisode 1"
+      },
+      "subtitle": "The Beginning of the Message",
       "file": "nuh/nuh01.json",
       "category": "prophets",
-      "tags": ["kids", "nuh"]
-    },{
+      "tags": ["kids", "nuh"],
+      "thumbnail": "stories/thumbs/nuh01.jpg",
+      "duration": 3
+    },
+    {
       "id": "nuh_ep_02",
-      "title": "Nuh Episode 3",
+      "title": {
+        "en": "Nuh Episode 2",
+        "ar": "قصة نوح الحلقة 2",
+        "fr": "Noé Épisode 2"
+      },
+      "subtitle": "People Reject the Message",
       "file": "nuh/nuh02.json",
       "category": "prophets",
-      "tags": ["kids", "nuh"]
-    },{
+      "tags": ["kids", "nuh"],
+      "thumbnail": "stories/thumbs/nuh02.jpg",
+      "duration": 3
+    },
+    {
       "id": "nuh_ep_03",
-      "title": "Nuh Episode 3",
+      "title": {
+        "en": "Nuh Episode 3",
+        "ar": "قصة نوح الحلقة 3",
+        "fr": "Noé Épisode 3"
+      },
+      "subtitle": "The Ark Begins",
       "file": "nuh/nuh03.json",
       "category": "prophets",
-      "tags": ["kids", "nuh"]
-    }{
-      "id": "ayubkids",
-      "title": "Ayub kids",
+      "tags": ["kids", "nuh"],
+      "thumbnail": "stories/thumbs/nuh03.jpg",
+      "duration": 3
+    },
+    {
+      "id": "ayub_kids",
+      "title": {
+        "en": "Prophet Ayub",
+        "ar": "النبي أيوب",
+        "fr": "Prophète Ayyoub"
+      },
+      "subtitle": "Patience and Faith",
       "file": "ayub/ayubkids.json",
       "category": "prophets",
-      "tags": ["kids", "ayub"]
-    },{
+      "tags": ["kids", "ayub"],
+      "thumbnail": "stories/thumbs/ayub.jpg",
+      "duration": 4
+    },
+    {
       "id": "hud_ep_01",
-      "title": "Hud Episode 1",
+      "title": {
+        "en": "Hud Episode 1",
+        "ar": "قصة هود الحلقة 1",
+        "fr": "Hud Épisode 1"
+      },
+      "subtitle": "The People of 'Ad",
       "file": "hud/hud01.json",
       "category": "prophets",
-      "tags": ["kids", "hud"]
-    },{
-      "id": "nuhkids",
-      "title": "Nuh kids",
+      "tags": ["kids", "hud"],
+      "thumbnail": "stories/thumbs/hud01.jpg",
+      "duration": 3
+    },
+    {
+      "id": "nuh_kids",
+      "title": {
+        "en": "Prophet Nuh for Kids",
+        "ar": "قصة نوح للأطفال",
+        "fr": "Noé pour enfants"
+      },
+      "subtitle": "A Simplified Story",
       "file": "nuh/nuhKids.json",
       "category": "prophets",
-      "tags": ["kids", "nuh"]
-    },
+      "tags": ["kids", "nuh"],
+      "thumbnail": "stories/thumbs/nuhkids.jpg",
+      "duration": 4
+    }
   ]
 }
