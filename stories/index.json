@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "stories": [
+    {
+      "id": "nuh_ep_01",
+      "title": "Nuh Episode 3",
+      "file": "nuh/nuh01.json",
+      "category": "prophets",
+      "tags": ["kids", "nuh"]
+    },{
+      "id": "nuh_ep_02",
+      "title": "Nuh Episode 3",
+      "file": "nuh/nuh02.json",
+      "category": "prophets",
+      "tags": ["kids", "nuh"]
+    },{
+      "id": "nuh_ep_03",
+      "title": "Nuh Episode 3",
+      "file": "nuh/nuh03.json",
+      "category": "prophets",
+      "tags": ["kids", "nuh"]
+    }{
+      "id": "ayubkids",
+      "title": "Ayub kids",
+      "file": "nuh/ayubkids.json",
+      "category": "prophets",
+      "tags": ["kids", "ayub"]
+    },{
+      "id": "hud_ep_01",
+      "title": "Hud Episode 1",
+      "file": "nuh/hud01.json",
+      "category": "prophets",
+      "tags": ["kids", "hud"]
+    },{
+      "id": "nuhkids",
+      "title": "Nuh kids",
+      "file": "nuh/nuhkids.json",
+      "category": "prophets",
+      "tags": ["kids", "nuh"]
+    },
+  ]
+}
