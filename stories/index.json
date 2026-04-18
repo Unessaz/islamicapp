@@ -134,7 +134,7 @@
         "ar": "نسخة مبسطة وممتعة من قصة النبي نوح للأطفال.",
         "fr": "Une version simplifiée pour enfants."
       },
-      "file": "nuh/nuhKids.json",
+      "file": "nuh/nuhkids.json",
       "category": "prophets",
       "tags": ["kids", "nuh"],
       "thumbnail": "stories/thumbs/nuhkids.jpg",
