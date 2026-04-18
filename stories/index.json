@@ -17,7 +17,7 @@
       "file": "nuh/nuh01.json",
       "category": "prophets",
       "tags": ["kids", "nuh"],
-      "thumbnail": "stories/thumbs/nuh01.jpg",
+      "thumbnail": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/01.webp",
       "duration": 3,
       "hasPDF": true,
       "hasVideo": true,
