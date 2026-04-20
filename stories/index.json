@@ -30,6 +30,12 @@
             { "code": "en", "label": "English" },
             { "code": "fr", "label": "French" },
             { "code": "es", "label": "Spanish" }
+      ],
+      "audio":[
+            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
+            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
+            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
       ]
     },
     {
@@ -61,6 +67,12 @@
             { "code": "en", "label": "English" },
             { "code": "fr", "label": "French" },
             { "code": "es", "label": "Spanish" }
+      ],
+       "audio":[
+            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
+            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
+            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
       ]
     },
     {
@@ -92,6 +104,12 @@
             { "code": "en", "label": "English" },
             { "code": "fr", "label": "French" },
             { "code": "es", "label": "Spanish" }
+      ],
+       "audio":[
+            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
+            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
+            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
       ]
     },
     {
@@ -123,6 +141,12 @@
             { "code": "en", "label": "English" },
             { "code": "fr", "label": "French" },
             { "code": "es", "label": "Spanish" }
+      ],
+       "audio":[
+            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
+            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
+            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
       ]
     },
     {
@@ -154,6 +178,12 @@
             { "code": "en", "label": "English" },
             { "code": "fr", "label": "French" },
             { "code": "es", "label": "Spanish" }
+      ],
+       "audio":[
+            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
+            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
+            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
       ]
     },
     {
@@ -185,6 +215,12 @@
             { "code": "en", "label": "English" },
             { "code": "fr", "label": "French" },
             { "code": "es", "label": "Spanish" }
+      ],
+       "audio":[
+            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
+            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
+            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
       ]
     }
   ]
