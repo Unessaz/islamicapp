@@ -25,11 +25,11 @@
       "color": "#1e3a5f",
       "accentColor": "#4fc3f7",
       "subtitles":[
-            { code: "none", label: "No Subtitles" },
-            { code: "ar", label: "Arabic" },
-            { code: "en", label: "English" },
-            { code: "fr", label: "French" },
-            { code: "es", label: "Spanish" },
+            { "code": "none", "label": "No Subtitles" },
+            { "code": "ar", "label": "Arabic" },
+            { "code": "en", "label": "English" },
+            { "code": "fr", "label": "French" },
+            { "code": "es", "label": "Spanish" },
       ]
     },
     {
@@ -56,11 +56,11 @@
       "color": "#1e3a5f",
       "accentColor": "#4fc3f7",
       "subtitles":[
-            { code: "none", label: "No Subtitles" },
-            { code: "ar", label: "Arabic" },
-            { code: "en", label: "English" },
-            { code: "fr", label: "French" },
-            { code: "es", label: "Spanish" },
+          { "code": "none", "label": "No Subtitles" },
+            { "code": "ar", "label": "Arabic" },
+            { "code": "en", "label": "English" },
+            { "code": "fr", "label": "French" },
+            { "code": "es", "label": "Spanish" },
       ]
     },
     {
@@ -87,11 +87,11 @@
       "color": "#1e3a5f",
       "accentColor": "#4fc3f7",
       "subtitles":[
-            { code: "none", label: "No Subtitles" },
-            { code: "ar", label: "Arabic" },
-            { code: "en", label: "English" },
-            { code: "fr", label: "French" },
-            { code: "es", label: "Spanish" },
+          { "code": "none", "label": "No Subtitles" },
+            { "code": "ar", "label": "Arabic" },
+            { "code": "en", "label": "English" },
+            { "code": "fr", "label": "French" },
+            { "code": "es", "label": "Spanish" },
       ]
     },
     {
@@ -118,11 +118,11 @@
       "color": "#1e3a5f",
       "accentColor": "#4fc3f7",
       "subtitles":[
-            { code: "none", label: "No Subtitles" },
-            { code: "ar", label: "Arabic" },
-            { code: "en", label: "English" },
-            { code: "fr", label: "French" },
-            { code: "es", label: "Spanish" },
+          { "code": "none", "label": "No Subtitles" },
+            { "code": "ar", "label": "Arabic" },
+            { "code": "en", "label": "English" },
+            { "code": "fr", "label": "French" },
+            { "code": "es", "label": "Spanish" },
       ]
     },
     {
@@ -149,11 +149,11 @@
       "color": "#1e3a5f",
       "accentColor": "#4fc3f7",
       "subtitles":[
-            { code: "none", label: "No Subtitles" },
-            { code: "ar", label: "Arabic" },
-            { code: "en", label: "English" },
-            { code: "fr", label: "French" },
-            { code: "es", label: "Spanish" },
+          { "code": "none", "label": "No Subtitles" },
+            { "code": "ar", "label": "Arabic" },
+            { "code": "en", "label": "English" },
+            { "code": "fr", "label": "French" },
+            { "code": "es", "label": "Spanish" },
       ]
     },
     {
@@ -180,11 +180,11 @@
       "color": "#1e3a5f",
       "accentColor": "#4fc3f7",
       "subtitles":[
-            { code: "none", label: "No Subtitles" },
-            { code: "ar", label: "Arabic" },
-            { code: "en", label: "English" },
-            { code: "fr", label: "French" },
-            { code: "es", label: "Spanish" },
+           { "code": "none", "label": "No Subtitles" },
+            { "code": "ar", "label": "Arabic" },
+            { "code": "en", "label": "English" },
+            { "code": "fr", "label": "French" },
+            { "code": "es", "label": "Spanish" },
       ]
     }
   ]
