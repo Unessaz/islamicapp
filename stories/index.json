@@ -23,7 +23,14 @@
       "hasVideo": true,
       "ageRange": "7–14",
       "color": "#1e3a5f",
-      "accentColor": "#4fc3f7"
+      "accentColor": "#4fc3f7",
+      "subtitles":[
+            { code: "none", label: "No Subtitles" },
+            { code: "ar", label: "Arabic" },
+            { code: "en", label: "English" },
+            { code: "fr", label: "French" },
+            { code: "es", label: "Spanish" },
+      ]
     },
     {
       "id": "nuh_ep_02",
@@ -47,7 +54,14 @@
       "hasVideo": true,
       "ageRange": "7–14",
       "color": "#1e3a5f",
-      "accentColor": "#4fc3f7"
+      "accentColor": "#4fc3f7",
+      "subtitles":[
+            { code: "none", label: "No Subtitles" },
+            { code: "ar", label: "Arabic" },
+            { code: "en", label: "English" },
+            { code: "fr", label: "French" },
+            { code: "es", label: "Spanish" },
+      ]
     },
     {
       "id": "nuh_ep_03",
@@ -71,7 +85,14 @@
       "hasVideo": true,
       "ageRange": "7–14",
       "color": "#1e3a5f",
-      "accentColor": "#4fc3f7"
+      "accentColor": "#4fc3f7",
+      "subtitles":[
+            { code: "none", label: "No Subtitles" },
+            { code: "ar", label: "Arabic" },
+            { code: "en", label: "English" },
+            { code: "fr", label: "French" },
+            { code: "es", label: "Spanish" },
+      ]
     },
     {
       "id": "ayub_kids",
@@ -95,7 +116,14 @@
       "hasVideo": true,
       "ageRange": "7–14",
       "color": "#1e3a5f",
-      "accentColor": "#4fc3f7"
+      "accentColor": "#4fc3f7",
+      "subtitles":[
+            { code: "none", label: "No Subtitles" },
+            { code: "ar", label: "Arabic" },
+            { code: "en", label: "English" },
+            { code: "fr", label: "French" },
+            { code: "es", label: "Spanish" },
+      ]
     },
     {
       "id": "hud_ep_01",
@@ -119,7 +147,14 @@
       "hasVideo": true,
       "ageRange": "7–14",
       "color": "#1e3a5f",
-      "accentColor": "#4fc3f7"
+      "accentColor": "#4fc3f7",
+      "subtitles":[
+            { code: "none", label: "No Subtitles" },
+            { code: "ar", label: "Arabic" },
+            { code: "en", label: "English" },
+            { code: "fr", label: "French" },
+            { code: "es", label: "Spanish" },
+      ]
     },
     {
       "id": "nuh_kids",
@@ -143,7 +178,14 @@
       "hasVideo": true,
       "ageRange": "7–14",
       "color": "#1e3a5f",
-      "accentColor": "#4fc3f7"
+      "accentColor": "#4fc3f7",
+      "subtitles":[
+            { code: "none", label: "No Subtitles" },
+            { code: "ar", label: "Arabic" },
+            { code: "en", label: "English" },
+            { code: "fr", label: "French" },
+            { code: "es", label: "Spanish" },
+      ]
     }
   ]
 }
