@@ -1,0 +1,38 @@
+[
+  {
+    "id": "streak_3",
+    "title": { "en": "3 Day Streak" },
+    "description": { "en": "Log in 3 days in a row" },
+    "icon": "flame",
+    "type": "streak",
+    "target": 3,
+    "xp": 20
+  },
+  {
+    "id": "streak_7",
+    "title": { "en": "7 Day Streak" },
+    "description": { "en": "Log in 7 days in a row" },
+    "icon": "flame",
+    "type": "streak",
+    "target": 7,
+    "xp": 50
+  },
+  {
+    "id": "first_story",
+    "title": { "en": "First Story" },
+    "description": { "en": "Finish your first story" },
+    "icon": "book",
+    "type": "stories_completed",
+    "target": 1,
+    "xp": 10
+  },
+  {
+    "id": "quiz_master",
+    "title": { "en": "Quiz Master" },
+    "description": { "en": "Complete 10 quizzes" },
+    "icon": "trophy",
+    "type": "quiz_completed",
+    "target": 10,
+    "xp": 40
+  }
+]
