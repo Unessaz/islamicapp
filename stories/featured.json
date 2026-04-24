@@ -1,0 +1,35 @@
+[
+  {
+    "id": "nuh_kids",
+    "title": {
+      "en": "Prophet Nuh for Kids",
+      "ar": "قصة نوح للأطفال",
+      "fr": "Noé pour enfants"
+    },
+    "subtitle": {
+      "en": "A Simplified Story",
+      "ar": "نسخة مبسطة وممتعة",
+      "fr": "Une version simplifiée"
+    },
+    "description": {
+      "en": "A simplified and fun version of Prophet Nuh story for kids.",
+      "ar": "نسخة مبسطة وممتعة من قصة النبي نوح للأطفال.",
+      "fr": "Une version simplifiée pour enfants."
+    },
+    "file": "nuh/nuhkids.json",
+    "category": "prophets",
+    "tags": ["kids", "nuh"],
+    "thumbnail": "stories/thumbs/nuhkids.jpg",
+    "duration": 4,
+    "totalParts": 6,
+    "currentPart": 1,
+    "hasPDF": true,
+    "hasVideo": true,
+    "ageRange": "7–14",
+    "color": "#1e3a5f",
+    "accentColor": "#4fc3f7",
+    "gradient": ["#7c3d0da9", "#c4622ab4"],
+    "icon": "zap",
+    "isNew": true,
+}
+]
