@@ -6,7 +6,8 @@
     "icon": "flame",
     "type": "streak",
     "target": 3,
-    "xp": 20
+    "xp": 20,
+    "color": "#d97706"
   },
   {
     "id": "streak_7",
@@ -15,7 +16,8 @@
     "icon": "flame",
     "type": "streak",
     "target": 7,
-    "xp": 50
+    "xp": 50,
+    "color": "#6366f1"
   },
   {
     "id": "first_story",
@@ -24,7 +26,8 @@
     "icon": "book",
     "type": "stories_completed",
     "target": 1,
-    "xp": 10
+    "xp": 10,
+    "color": "#2d7a4f"
   },
   {
     "id": "quiz_master",
@@ -33,6 +36,7 @@
     "icon": "trophy",
     "type": "quiz_completed",
     "target": 10,
-    "xp": 40
+    "xp": 40,
+    "color": "#ea580c"
   }
 ]
