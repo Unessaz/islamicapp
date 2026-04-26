@@ -121,11 +121,8 @@
     { "id": "mailbox", "label": "Mailbox", "icon": "mail-outline", "cx": 270, "cy": 160, "r": 16 },
     { "id": "fence", "label": "Garden Fence", "icon": "construct-outline", "cx": 30, "cy": 174, "r": 16 }
   ]
-}
-
-  ]
 },
-{
+    {
   "id": "ancient_library",
   "title": "Ancient Library",
   "subtitle": "Find 6 objects hidden in the library",
@@ -171,7 +168,7 @@
     { "type": "rect", "x": 158, "y": 100, "width": 142, "height": 6, "fill": "#6b3a1f" },
     { "type": "rect", "x": 162, "y": 108, "width": 12, "height": 72, "fill": "#1d4ed8" },
     { "type": "rect", "x": 176, "y": 108, "width": 12, "height": 72, "fill": "#b45309" },
-    { "type": "rect", "x": 190, "y": 108, width: 16, "height": 72, "fill": "#7c2d12" },
+    { "type": "rect", "x": 190, "y": 108, "width": 16, "height": 72, "fill": "#7c2d12" },
     { "type": "rect", "x": 208, "y": 108, "width": 12, "height": 72, "fill": "#15803d" },
     { "type": "rect", "x": 222, "y": 108, "width": 12, "height": 72, "fill": "#1d4ed8" },
     { "type": "rect", "x": 236, "y": 108, "width": 14, "height": 72, "fill": "#7c3aed" },
@@ -211,6 +208,10 @@
     { "id": "open_book", "label": "Open Book", "icon": "book-outline", "cx": 120, "cy": 186, "r": 18 },
     { "id": "lectern", "label": "Reading Stand", "icon": "easel-outline", "cx": 113, "cy": 165, "r": 16 },
     { "id": "blue_tome", "label": "Blue Tome", "icon": "library-outline", "cx": 169, "cy": 50, "r": 16 }
+  ]
+}
+
+
   ]
 }
 
