@@ -183,5 +183,44 @@
     { "type": "polygon", "sectionId": "shootingStar", "props": { "points": "270,165 278,178 290,180 281,189 283,202 270,196 257,202 259,189 250,180 262,178", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
     { "type": "path", "sectionId": "shootingStar", "props": { "d": "M 268 168 Q 245 158 220 162 Q 250 168 270 178 Q 248 172 225 178 Q 252 180 272 186 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } }
   ]
+},
+  {
+  "id": "fish",
+  "name": "Fish",
+  "icon": "set-meal",
+  "description": "Cute simple fish swimming with bubbles",
+  "blackAndWhite": true,
+  "sections": [
+    { "id": "body", "label": "Body", "defaultColor": "#ffffff" },
+    { "id": "tail", "label": "Tail", "defaultColor": "#ffffff" },
+    { "id": "fins", "label": "Fins", "defaultColor": "#ffffff" },
+    { "id": "scales", "label": "Scales", "defaultColor": "#ffffff" },
+    { "id": "bubbles", "label": "Bubbles", "defaultColor": "#ffffff" },
+    { "id": "water", "label": "Water", "defaultColor": "#ffffff" }
+  ],
+  "shapes": [
+    { "type": "rect", "sectionId": "water", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "body", "props": { "d": "M 80 120 Q 80 70 150 70 Q 210 70 210 120 Q 210 170 150 170 Q 80 170 80 120 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "tail", "props": { "d": "M 210 120 L 265 80 L 255 120 L 265 160 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "fins", "props": { "d": "M 130 70 Q 140 40 160 55 Q 155 65 150 70 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "fins", "props": { "d": "M 130 170 Q 140 200 160 185 Q 155 175 150 170 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "scales", "props": { "d": "M 130 100 Q 140 110 130 120 Q 140 130 130 140", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "scales", "props": { "d": "M 155 95 Q 165 105 155 115 Q 165 125 155 135 Q 165 145 155 150", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "scales", "props": { "d": "M 180 100 Q 190 110 180 120 Q 190 130 180 140", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+
+    { "type": "circle", "sectionId": "body", "props": { "cx": 105, "cy": 105, "r": 6, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+
+    { "type": "path", "sectionId": "body", "props": { "d": "M 90 130 Q 95 138 100 130", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+
+    { "type": "circle", "sectionId": "bubbles", "props": { "cx": 50, "cy": 70, "r": 10, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "bubbles", "props": { "cx": 35, "cy": 45, "r": 7, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "bubbles", "props": { "cx": 55, "cy": 30, "r": 5, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "water", "props": { "d": "M 20 210 Q 50 200 80 210 Q 110 220 140 210 Q 170 200 200 210 Q 230 220 280 210", "stroke": "#333", "strokeWidth": 2, "fill": "none" } }
+  ]
 }
 ]
