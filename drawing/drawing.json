@@ -1,134 +1,49 @@
 [
   {
-    "id": "mosque",
-    "name": "Mosque",
-    "icon": "business",
-    "description": "Classic Islamic mosque with dome and minarets",
-    "blackAndWhite": true,
-    "sections": [
-      { "id": "dome", "label": "Dome", "defaultColor": "#ffffff" },
-      { "id": "walls", "label": "Walls", "defaultColor": "#ffffff" },
-      { "id": "door", "label": "Door & Windows", "defaultColor": "#ffffff" },
-      { "id": "minaret", "label": "Minarets", "defaultColor": "#ffffff" },
-      { "id": "sky", "label": "Sky", "defaultColor": "#ffffff" },
-      { "id": "ground", "label": "Ground", "defaultColor": "#ffffff" }
-    ],
-    "shapes": [
-      { "type": "rect", "sectionId": "sky", "props": { "x": 0, "y": 0, "width": 300, "height": 100, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "ground", "props": { "x": 0, "y": 195, "width": 300, "height": 45, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "minaret", "props": { "x": 20, "y": 95, "width": 28, "height": 100, "rx": 3, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "polygon", "sectionId": "minaret", "props": { "points": "20,95 48,95 34,68", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "circle", "sectionId": "minaret", "props": { "cx": 34, "cy": 66, "r": 4, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "path", "sectionId": "dome", "props": { "d": "M 80 135 Q 150 58 220 135 Z", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
-      { "type": "path", "sectionId": "door", "props": { "d": "M 130 195 L 130 162 Q 150 145 170 162 L 170 195 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } }
-    ]
-  },
-  {
-    "id": "djellaba",
-    "name": "Moroccan Djellaba",
-    "icon": "shirt",
-    "description": "Traditional Moroccan hooded robe",
-    "blackAndWhite": true,
-    "sections": [
-      { "id": "body", "label": "Main Body", "defaultColor": "#ffffff" },
-      { "id": "hood", "label": "Qob (Hood)", "defaultColor": "#ffffff" },
-      { "id": "sfifa", "label": "Embroidery (Sfifa)", "defaultColor": "#ffffff" },
-      { "id": "tassel", "label": "Tassel", "defaultColor": "#ffffff" }
-    ],
-    "shapes": [
-      { "type": "path", "sectionId": "body", "props": { "d": "M 80 80 L 50 220 L 250 220 L 220 80 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "path", "sectionId": "hood", "props": { "d": "M 150 40 L 100 80 L 150 110 L 200 80 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "sfifa", "props": { "x": 145, "y": 110, "width": 10, "height": 110, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "circle", "sectionId": "tassel", "props": { "cx": 150, "cy": 35, "r": 5, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "path", "sectionId": "tassel", "props": { "d": "M 145 30 L 155 30 L 150 20 Z", "stroke": "#333", "strokeWidth": 1, "fill": "#fff" } }
-    ]
-  },
-  {
-    "id": "lantern",
-    "name": "Ramadan Fanous",
-    "icon": "flashlight",
-    "description": "Traditional ornate lantern",
-    "blackAndWhite": true,
-    "sections": [
-      { "id": "frame", "label": "Frame", "defaultColor": "#ffffff" },
-      { "id": "glass", "label": "Glass Panels", "defaultColor": "#ffffff" },
-      { "id": "top", "label": "Lantern Top", "defaultColor": "#ffffff" }
-    ],
-    "shapes": [
-      { "type": "circle", "sectionId": "top", "props": { "cx": 150, "cy": 30, "r": 10, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "polygon", "sectionId": "top", "props": { "points": "150,40 100,80 200,80", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "glass", "props": { "x": 100, "y": 80, "width": 100, "height": 100, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "path", "sectionId": "frame", "props": { "d": "M 133 80 L 133 180 M 166 80 L 166 180", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "polygon", "sectionId": "frame", "props": { "points": "100,180 200,180 220,210 80,210", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } }
-    ]
-  },
-  {
-    "id": "prayer_rug",
-    "name": "Sajjada",
-    "icon": "square",
-    "description": "Islamic Prayer Rug",
-    "blackAndWhite": true,
-    "sections": [
-      { "id": "border", "label": "Outer Border", "defaultColor": "#ffffff" },
-      { "id": "center", "label": "Prayer Area", "defaultColor": "#ffffff" },
-      { "id": "fringe", "label": "Fringe (Tassels)", "defaultColor": "#ffffff" },
-      { "id": "mihrab", "label": "Mihrab Design", "defaultColor": "#ffffff" }
-    ],
-    "shapes": [
-      { "type": "rect", "sectionId": "border", "props": { "x": 70, "y": 30, "width": 160, "height": 200, "rx": 5, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "center", "props": { "x": 85, "y": 45, "width": 130, "height": 170, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "path", "sectionId": "mihrab", "props": { "d": "M 110 90 Q 150 45 190 90 L 190 190 L 110 190 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "path", "sectionId": "fringe", "props": { "d": "M 75 20 L 75 30 M 100 20 L 100 30 M 125 20 L 125 30 M 150 20 L 150 30 M 175 20 L 175 30 M 200 20 L 200 30 M 225 20 L 225 30", "stroke": "#333", "strokeWidth": 1.5 } },
-      { "type": "path", "sectionId": "fringe", "props": { "d": "M 75 230 L 75 240 M 100 230 L 100 240 M 125 230 L 125 240 M 150 230 L 150 240 M 175 230 L 175 240 M 200 230 L 200 240 M 225 230 L 225 240", "stroke": "#333", "strokeWidth": 1.5 } }
-    ]
-  },
-  {
-    "id": "traditional_house",
-    "name": "Traditional House",
-    "icon": "home",
-    "description": "A classic house with a gabled roof, chimney, and garden fence",
-    "blackAndWhite": true,
-    "sections": [
-      { "id": "roof", "label": "Main Roof", "defaultColor": "#ffffff" },
-      { "id": "walls", "label": "House Walls", "defaultColor": "#ffffff" },
-      { "id": "door", "label": "Front Door", "defaultColor": "#ffffff" },
-      { "id": "windows", "label": "Windows", "defaultColor": "#ffffff" },
-      { "id": "chimney", "label": "Chimney", "defaultColor": "#ffffff" },
-      { "id": "fence", "label": "Garden Fence", "defaultColor": "#ffffff" }
-    ],
-    "shapes": [
-      { "type": "rect", "sectionId": "chimney", "props": { "x": 190, "y": 40, "width": 25, "height": 45, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "polygon", "sectionId": "roof", "props": { "points": "40,100 150,30 260,100", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "walls", "props": { "x": 60, "y": 100, "width": 180, "height": 100, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "door", "props": { "x": 130, "y": 140, "width": 40, "height": 60, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "circle", "sectionId": "door", "props": { "cx": 162, "cy": 175, "r": 3, "stroke": "#333", "strokeWidth": 1, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "windows", "props": { "x": 80, "y": 120, "width": 35, "height": 35, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "windows", "props": { "x": 185, "y": 120, "width": 35, "height": 35, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "path", "sectionId": "fence", "props": { "d": "M 40 200 L 40 180 M 55 200 L 55 180 M 245 200 L 245 180 M 260 200 L 260 180 M 40 190 L 260 190", "stroke": "#333", "strokeWidth": 1.5, "fill": "none" } }
-    ]
-  },
-  {
-    "id": "modern_villa",
-    "name": "Modern Villa",
-    "icon": "business",
-    "description": "Minimalist architecture with flat roofs and large glass panels",
-    "blackAndWhite": true,
-    "sections": [
-      { "id": "first_floor", "label": "Ground Floor", "defaultColor": "#ffffff" },
-      { "id": "second_floor", "label": "Upper Level", "defaultColor": "#ffffff" },
-      { "id": "glass", "label": "Large Windows", "defaultColor": "#ffffff" },
-      { "id": "balcony", "label": "Balcony Rail", "defaultColor": "#ffffff" },
-      { "id": "pathway", "label": "Entrance Path", "defaultColor": "#ffffff" }
-    ],
-    "shapes": [
-      { "type": "rect", "sectionId": "first_floor", "props": { "x": 50, "y": 120, "width": 200, "height": 80, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "second_floor", "props": { "x": 80, "y": 50, "width": 140, "height": 70, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "glass", "props": { "x": 100, "y": 140, "width": 80, "height": 60, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "rect", "sectionId": "glass", "props": { "x": 100, "y": 65, "width": 100, "height": 40, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "path", "sectionId": "balcony", "props": { "d": "M 80 120 L 50 120 L 50 105 L 80 105 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
-      { "type": "path", "sectionId": "pathway", "props": { "d": "M 120 200 L 100 240 L 180 240 L 160 200 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } }
-    ]
-  },
+  "id": "flower",
+  "name": "Flower",
+  "icon": "local-florist",
+  "description": "Cute simple flower with petals, leaves and a smiling sun",
+  "blackAndWhite": true,
+  "sections": [
+    { "id": "petals", "label": "Petals", "defaultColor": "#ffffff" },
+    { "id": "center", "label": "Center", "defaultColor": "#ffffff" },
+    { "id": "stem", "label": "Stem", "defaultColor": "#ffffff" },
+    { "id": "leaves", "label": "Leaves", "defaultColor": "#ffffff" },
+    { "id": "grass", "label": "Grass", "defaultColor": "#ffffff" },
+    { "id": "sun", "label": "Sun", "defaultColor": "#ffffff" },
+    { "id": "sky", "label": "Sky", "defaultColor": "#ffffff" }
+  ],
+  "shapes": [
+    { "type": "rect", "sectionId": "sky", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "sun", "props": { "cx": 50, "cy": 45, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "sun", "props": { "d": "M 50 12 L 50 4 M 80 25 L 86 19 M 88 55 L 96 55 M 80 75 L 86 81 M 20 25 L 14 19 M 12 55 L 4 55 M 20 75 L 14 81", "stroke": "#333", "strokeWidth": 2.5, "fill": "none" } },
+    { "type": "circle", "sectionId": "sun", "props": { "cx": 43, "cy": 42, "r": 2.5, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+    { "type": "circle", "sectionId": "sun", "props": { "cx": 57, "cy": 42, "r": 2.5, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+    { "type": "path", "sectionId": "sun", "props": { "d": "M 42 52 Q 50 60 58 52", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 170, "cy": 55, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 215, "cy": 85, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 215, "cy": 135, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 170, "cy": 165, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 125, "cy": 135, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 125, "cy": 85, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "center", "props": { "cx": 170, "cy": 110, "r": 28, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "center", "props": { "cx": 162, "cy": 105, "r": 3, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+    { "type": "circle", "sectionId": "center", "props": { "cx": 178, "cy": 105, "r": 3, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+    { "type": "path", "sectionId": "center", "props": { "d": "M 160 117 Q 170 125 180 117", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+
+    { "type": "path", "sectionId": "stem", "props": { "d": "M 165 158 Q 168 190 170 220 L 180 220 Q 178 190 175 158 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "leaves", "props": { "d": "M 175 185 Q 215 175 230 195 Q 210 200 175 195 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "leaves", "props": { "d": "M 168 200 Q 130 192 115 210 Q 135 215 168 210 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "rect", "sectionId": "grass", "props": { "x": 0, "y": 218, "width": 300, "height": 22, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "path", "sectionId": "grass", "props": { "d": "M 30 218 L 35 208 L 40 218 M 70 218 L 75 206 L 80 218 M 240 218 L 245 208 L 250 218 M 275 218 L 280 206 L 285 218", "stroke": "#333", "strokeWidth": 2, "fill": "none" } }
+  ]
+},
   {
   "id": "unicorn-scene",
   "name": "Unicorn Dream",
