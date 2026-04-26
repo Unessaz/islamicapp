@@ -128,5 +128,60 @@
       { "type": "path", "sectionId": "balcony", "props": { "d": "M 80 120 L 50 120 L 50 105 L 80 105 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
       { "type": "path", "sectionId": "pathway", "props": { "d": "M 120 200 L 100 240 L 180 240 L 160 200 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } }
     ]
-  }
+  },
+  {
+  "id": "unicorn-scene",
+  "name": "Unicorn Dream",
+  "icon": "auto-awesome",
+  "description": "Magical unicorn scene with moon, stars, rainbow and shooting star",
+  "blackAndWhite": true,
+  "sections": [
+    { "id": "moon", "label": "Moon", "defaultColor": "#ffffff" },
+    { "id": "stars", "label": "Stars & Sparkles", "defaultColor": "#ffffff" },
+    { "id": "unicornBody", "label": "Unicorn Bodies", "defaultColor": "#ffffff" },
+    { "id": "unicornMane", "label": "Manes & Tails", "defaultColor": "#ffffff" },
+    { "id": "unicornHorn", "label": "Horns", "defaultColor": "#ffffff" },
+    { "id": "rainbow", "label": "Rainbow", "defaultColor": "#ffffff" },
+    { "id": "clouds", "label": "Clouds", "defaultColor": "#ffffff" },
+    { "id": "diamond", "label": "Diamond", "defaultColor": "#ffffff" },
+    { "id": "shootingStar", "label": "Shooting Star", "defaultColor": "#ffffff" },
+    { "id": "background", "label": "Background", "defaultColor": "#ffffff" }
+  ],
+  "shapes": [
+    { "type": "rect", "sectionId": "background", "props": { "x": 0, "y": 0, "width": 300, "height": 300, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
+    { "type": "path", "sectionId": "moon", "props": { "d": "M 60 50 A 25 25 0 1 0 60 100 A 18 18 0 1 1 60 50 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "polygon", "sectionId": "stars", "props": { "points": "115,38 119,48 129,48 121,55 124,65 115,59 106,65 109,55 101,48 111,48", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+    { "type": "polygon", "sectionId": "stars", "props": { "points": "165,55 168,63 176,63 170,68 172,76 165,71 158,76 160,68 154,63 162,63", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+    { "type": "polygon", "sectionId": "stars", "props": { "points": "245,80 248,88 256,88 250,93 252,101 245,96 238,101 240,93 234,88 242,88", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+    { "type": "polygon", "sectionId": "stars", "props": { "points": "55,135 58,143 66,143 60,148 62,156 55,151 48,156 50,148 44,143 52,143", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+    { "type": "path", "sectionId": "stars", "props": { "d": "M 130 165 L 134 173 L 142 173 L 134 178 L 130 186 L 126 178 L 118 173 L 126 173 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+    { "type": "path", "sectionId": "stars", "props": { "d": "M 250 200 L 254 208 L 262 208 L 254 213 L 250 221 L 246 213 L 238 208 L 246 208 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+    { "type": "path", "sectionId": "stars", "props": { "d": "M 45 220 L 49 228 L 57 228 L 49 233 L 45 241 L 41 233 L 33 228 L 41 228 Z", "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "unicornBody", "props": { "cx": 215, "cy": 95, "r": 45, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "rect", "sectionId": "unicornBody", "props": { "x": 188, "y": 130, "width": 14, "height": 28, "rx": 4, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "rect", "sectionId": "unicornBody", "props": { "x": 222, "y": 130, "width": 14, "height": 28, "rx": 4, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "polygon", "sectionId": "unicornHorn", "props": { "points": "210,52 222,52 216,28", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "path", "sectionId": "unicornMane", "props": { "d": "M 178 75 Q 165 90 172 110 Q 180 100 188 105 Q 185 90 178 75 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "path", "sectionId": "unicornMane", "props": { "d": "M 252 130 Q 275 135 270 160 Q 260 150 250 158 Q 255 145 252 130 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "unicornBody", "props": { "cx": 95, "cy": 175, "r": 42, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "rect", "sectionId": "unicornBody", "props": { "x": 75, "y": 208, "width": 12, "height": 25, "rx": 4, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "rect", "sectionId": "unicornBody", "props": { "x": 105, "y": 208, "width": 12, "height": 25, "rx": 4, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "polygon", "sectionId": "unicornHorn", "props": { "points": "108,138 120,138 114,115", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "path", "sectionId": "unicornMane", "props": { "d": "M 60 160 Q 45 180 52 205 Q 60 195 70 200 Q 65 180 60 160 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "unicornBody", "props": { "cx": 215, "cy": 225, "r": 42, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "rect", "sectionId": "unicornBody", "props": { "x": 195, "y": 258, "width": 12, "height": 25, "rx": 4, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "rect", "sectionId": "unicornBody", "props": { "x": 225, "y": 258, "width": 12, "height": 25, "rx": 4, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "polygon", "sectionId": "unicornHorn", "props": { "points": "210,188 222,188 216,165", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "path", "sectionId": "unicornMane", "props": { "d": "M 252 215 Q 275 220 270 248 Q 260 238 250 245 Q 255 230 252 215 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "polygon", "sectionId": "diamond", "props": { "points": "150,200 168,215 150,245 132,215", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "path", "sectionId": "diamond", "props": { "d": "M 132 215 L 168 215 M 150 200 L 150 215", "stroke": "#333", "strokeWidth": 1.5, "fill": "none" } },
+    { "type": "path", "sectionId": "rainbow", "props": { "d": "M 35 270 Q 90 220 140 270", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "rainbow", "props": { "d": "M 45 270 Q 90 232 132 270", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "rainbow", "props": { "d": "M 55 270 Q 90 244 124 270", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "clouds", "props": { "d": "M 25 275 Q 28 265 38 268 Q 45 260 55 268 Q 62 270 60 280 L 25 280 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "path", "sectionId": "clouds", "props": { "d": "M 115 275 Q 118 265 128 268 Q 135 260 145 268 Q 152 270 150 280 L 115 280 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "polygon", "sectionId": "shootingStar", "props": { "points": "270,165 278,178 290,180 281,189 283,202 270,196 257,202 259,189 250,180 262,178", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "path", "sectionId": "shootingStar", "props": { "d": "M 268 168 Q 245 158 220 162 Q 250 168 270 178 Q 248 172 225 178 Q 252 180 272 186 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } }
+  ]
+}
 ]
