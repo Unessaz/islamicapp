@@ -19,7 +19,7 @@
         "fr": "Il y a très longtemps, au pays de Syrie, vivait un homme. Son nom était Ayub, ou Job.",
         "es": "Hace mucho tiempo, en la tierra de Siria, vivía un hombre. Su nombre era Ayub, o Job."
       },
-      "audio_file": "audio/ayub_01.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/001.mp3"
     },
     {
       "id": "seq_02",
@@ -29,7 +29,7 @@
         "fr": "Il aimait beaucoup Allah. Et Allah l'a rendu très sage. Et Il a fait de lui un homme très riche.",
         "es": "Él amaba mucho a Alá. Y Alá lo hizo muy sabio. Y lo hizo un hombre muy rico."
       },
-      "audio_file": "audio/ayub_02.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/002.mp3"
     },
     {
       "id": "seq_03",
@@ -39,7 +39,7 @@
         "fr": "Le Prophète Ayub avait de nombreux champs. Il avait beaucoup de moutons. Sa maison était très grande.",
         "es": "El Profeta Ayub tenía muchos campos. Tenía muchas ovejas. Su casa era muy grande."
       },
-      "audio_file": "audio/ayub_03.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/003.mp3"
     },
     {
       "id": "seq_04",
@@ -49,7 +49,7 @@
         "fr": "Il y avait beaucoup de serviteurs dans la maison. Et ses enfants étaient très bons.",
         "es": "Había muchos sirvientes en la casa. Y sus hijos eran muy buenos."
       },
-      "audio_file": "audio/ayub_04.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/004.mp3"
     },
     {
       "id": "seq_05",
@@ -59,7 +59,7 @@
         "fr": "Le Prophète Ayub savait que tout venait d'Allah. Il priait Allah, Le remerciant pour Ses dons.",
         "es": "El Profeta Ayub sabía que todo venía de Alá. Rezaba a Alá, agradeciéndole por sus dones."
       },
-      "audio_file": "audio/ayub_05.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/005.mp3"
     },
     {
       "id": "seq_06",
@@ -69,7 +69,7 @@
         "fr": "Les gens du village disaient : 'C'est facile pour Ayub d'aimer Allah. Il est riche et il a beaucoup de temps.'",
         "es": "La gente del pueblo decía: 'Es fácil para Ayub amar a Alá. Es rico y tiene mucho tiempo'."
       },
-      "audio_file": "audio/ayub_06.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/006.mp3"
     },
     {
       "id": "seq_07",
@@ -79,7 +79,7 @@
         "fr": "Ils disaient : 'Si Ayub était pauvre comme nous, il n'aimerait jamais autant Allah !'",
         "es": "Dijeron: '¡Si Ayub fuera pobre como nosotros, nunca amaría tanto a Alá!'"
       },
-      "audio_file": "audio/ayub_07.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/007.mp3"
     },
     {
       "id": "seq_08",
@@ -89,7 +89,7 @@
         "fr": "Allah a voulu montrer aux gens qu'ils avaient tort, alors Il a mis le Prophète Ayub à l'épreuve.",
         "es": "Alá quería mostrar a la gente que estaban equivocados, así que puso al Profeta Ayub a prueba."
       },
-      "audio_file": "audio/ayub_08.mp3"
+    "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/008.mp3"
     },
     {
       "id": "seq_09",
@@ -99,7 +99,7 @@
         "fr": "Un jour, les moutons d'Ayub se sont perdus. Le lendemain, toute l'eau des champs a séché.",
         "es": "Un día, las ovejas de Ayub se perdieron. Al día siguiente, se secó toda el agua de los campos."
       },
-      "audio_file": "audio/ayub_09.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/009.mp3"
     },
     {
       "id": "seq_10",
@@ -109,7 +109,7 @@
         "fr": "Le Prophète Ayub est devenu pauvre. Les membres de sa famille sont morts. Puis il est tombé malade.",
         "es": "El Profeta Ayub se volvió pobre. Los miembros de su familia murieron. Entonces se enfermó."
       },
-      "audio_file": "audio/ayub_10.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/010.mp3"
     },
     {
       "id": "seq_11",
@@ -119,7 +119,7 @@
         "fr": "Le Prophète Ayub ne s'est pas plaint. Il n'a pas arrêté de prier Allah. Il savait qu'Allah l'aiderait.",
         "es": "El Profeta Ayub no se quejó. No dejó de rezar a Alá. Sabía que Alá lo ayudaría."
       },
-      "audio_file": "audio/ayub_11.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/011.mp3"
     },
     {
       "id": "seq_12",
@@ -129,7 +129,7 @@
         "fr": "Il a loué Allah : 'Je suis accablé par la détresse. Mais Tu es le plus Miséricordieux de tous.'",
         "es": "Alabó a Alá: 'Me ha afligido la desgracia. Pero Tú eres el más Misericordioso de todos'."
       },
-      "audio_file": "audio/ayub_12.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/012.mp3"
     },
     {
       "id": "seq_13",
@@ -139,7 +139,7 @@
         "fr": "Allah a aimé la patience d'Ayub. Il a dit à Ayub : 'Frappe le sol de ton pied.' Et une source a jailli.",
         "es": "A Alá le gustó la paciencia de Ayub. Le dijo a Ayub: 'Golpea el suelo con tu pie'. Y brotó un manantial."
       },
-      "audio_file": "audio/ayub_13.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/013.mp3"
     },
     {
       "id": "seq_14",
@@ -149,7 +149,7 @@
         "fr": "Allah lui a dit de prendre un bain avec l'eau de source et il retrouvera la santé.",
         "es": "Alá le dijo que se bañara con el agua del manantial y volvería a estar sano."
       },
-      "audio_file": "audio/ayub_14.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/014.mp3"
     },
     {
       "id": "seq_15",
@@ -159,7 +159,7 @@
         "fr": "Le Prophète Ayub est redevenu bien portant. Allah lui a de nouveau donné une grande maison, des champs et des moutons.",
         "es": "El Profeta Ayub se recuperó. Alá volvió a darle una casa grande, campos y ovejas."
       },
-      "audio_file": "audio/ayub_15.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/015.mp3"
     },
     {
       "id": "seq_16",
@@ -169,7 +169,7 @@
         "fr": "Il lui a donné beaucoup d'enfants. Il l'a rendu encore plus riche qu'avant.",
         "es": "Le dio muchos hijos. Lo hizo incluso más rico que antes."
       },
-      "audio_file": "audio/ayub_16.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/016.mp3"
     },
     {
       "id": "seq_17",
@@ -179,7 +179,7 @@
         "fr": "Ayub a fait preuve d'une grande patience. Allah l'a récompensé par une grande générosité et la prospérité dans ce monde.",
         "es": "Ayub mostró una gran paciencia. Alá lo recompensó con una gran generosidad y prosperidad en este mundo."
       },
-      "audio_file": "audio/ayub_17.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/017.mp3"
     },
     {
       "id": "seq_18",
@@ -189,7 +189,7 @@
         "fr": "Il eut une nouvelle famille de sept fils et trois filles. Il vécut jusqu'à l'âge mûr de 93 ans.",
         "es": "Tuvo una nueva familia de siete hijos y tres hijas. Vivió hasta la avanzada edad de 93 años."
       },
-      "audio_file": "audio/ayub_18.mp3"
+     "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/018.mp3"
     },
     {
       "id": "seq_19",
@@ -199,7 +199,7 @@
         "fr": "Il devint si riche qu'on disait qu'il 'pleuvait sur lui des sauterelles d'or'.",
         "es": "Se volvió tan rico que se decía que 'le llovían langostas de oro'."
       },
-      "audio_file": "audio/ayub_19.mp3"
+       "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/audios/en/019.mp3"
     }
   ]
 }
