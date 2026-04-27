@@ -9,6 +9,7 @@
   "category": "Stories of the Prophets",
   "age_group": "Kids",
   "style": "Cinematic Digital Illustration",
+  "backgroundVideo":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/vids/ayub1_small.mp4",
   "sequences": [
     {
       "id": "seq_01",
