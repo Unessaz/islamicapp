@@ -8,14 +8,23 @@
         "ar": "قصة نوح الحلقة 1",
         "fr": "Noé Épisode 1"
       },
-      "subtitle": "The Beginning of the Message",
-      "description": {
+"subtitle": {
+  "en": "The Beginning of the Message",
+  "ar": "بداية الرسالة",
+  "fr": "Le début du message",
+  "es": "El comienzo del mensaje"
+},
+"category": {
+  "en": "Prophets",
+  "ar": "الأنبياء",
+  "fr": "Prophètes",
+  "es": "Profetas"
+},      "description": {
         "en": "Discover how Prophet Nuh began calling his people to worship Allah and the challenges he faced.",
         "ar": "اكتشف كيف بدأ النبي نوح بدعوة قومه لعبادة الله والتحديات التي واجهها.",
         "fr": "Découvrez comment le prophète Noé a commencé à دعوت son peuple et les défis qu'il a rencontrés."
       },
       "file": "nuh/nuh01.json",
-      "category": "prophets",
       "tags": ["kids", "nuh"],
       "thumbnail": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/01.webp",
       "duration": 3,
@@ -45,14 +54,24 @@
         "ar": "قصة نوح الحلقة 2",
         "fr": "Noé Épisode 2"
       },
-      "subtitle": "People Reject the Message",
+      "subtitle": {
+  "en": "People Reject the Message",
+  "ar": "الناس يرفضون الرسالة",
+  "fr": "Les gens rejettent le message",
+  "es": "La gente rechaza el mensaje"
+},
       "description": {
         "en": "Prophet Nuh continues his mission while many people reject his message.",
         "ar": "يواصل النبي نوح دعوته بينما يرفض كثير من قومه رسالته.",
         "fr": "Le prophète Noé poursuit sa mission بينما يرفض كثير من قومه."
       },
       "file": "nuh/nuh02.json",
-      "category": "prophets",
+     "category": {
+  "en": "Prophets",
+  "ar": "الأنبياء",
+  "fr": "Prophètes",
+  "es": "Profetas"
+}, 
       "tags": ["kids", "nuh"],
       "thumbnail": "stories/thumbs/nuh02.jpg",
       "duration": 3,
@@ -82,14 +101,24 @@
         "ar": "قصة نوح الحلقة 3",
         "fr": "Noé Épisode 3"
       },
-      "subtitle": "The Ark Begins",
+      "subtitle": {
+  "en": "The Ark Begins",
+  "ar": "بداية بناء السفينة",
+  "fr": "Le début de l'arche",
+  "es": "Comienza el arca"
+},
       "description": {
         "en": "Allah commands Prophet Nuh to build the Ark before the great flood.",
         "ar": "يأمر الله النبي نوح ببناء السفينة قبل الطوفان العظيم.",
         "fr": "Allah ordonne au prophète Noé de construire l'arche."
       },
       "file": "nuh/nuh03.json",
-      "category": "prophets",
+     "category": {
+  "en": "Prophets",
+  "ar": "الأنبياء",
+  "fr": "Prophètes",
+  "es": "Profetas"
+}, 
       "tags": ["kids", "nuh"],
       "thumbnail": "stories/thumbs/nuh03.jpg",
       "duration": 3,
@@ -119,14 +148,24 @@
         "ar": "النبي أيوب",
         "fr": "Prophète Ayyoub"
       },
-      "subtitle": "Patience and Faith",
+      "subtitle": {
+  "en": "Patience and Faith",
+  "ar": "الصبر والإيمان",
+  "fr": "Patience et foi",
+  "es": "Paciencia y fe"
+},
       "description": {
         "en": "Learn the inspiring story of Prophet Ayub and his patience during hardship.",
         "ar": "تعرف على قصة النبي أيوب وصبره العظيم أثناء الابتلاء.",
         "fr": "Découvrez l'histoire inspirante du prophète Ayyoub."
       },
       "file": "ayub/ayubkids.json",
-      "category": "prophets",
+      "category": {
+  "en": "Prophets",
+  "ar": "الأنبياء",
+  "fr": "Prophètes",
+  "es": "Profetas"
+}, 
       "tags": ["kids", "ayub"],
       "thumbnail": "stories/thumbs/ayub.jpg",
       "duration": 4,
@@ -156,14 +195,24 @@
         "ar": "قصة هود الحلقة 1",
         "fr": "Hud Épisode 1"
       },
-      "subtitle": "The People of 'Ad",
+     "subtitle": {
+  "en": "The People of 'Ad",
+  "ar": "قوم عاد",
+  "fr": "Le peuple de 'Ad",
+  "es": "El pueblo de 'Ad"
+},
       "description": {
         "en": "Discover the story of Prophet Hud and the powerful people of 'Ad.",
         "ar": "تعرف على قصة النبي هود وقوم عاد الأقوياء.",
         "fr": "Découvrez l'histoire du prophète Hud."
       },
       "file": "hud/hud01.json",
-      "category": "prophets",
+      "category": {
+  "en": "Prophets",
+  "ar": "الأنبياء",
+  "fr": "Prophètes",
+  "es": "Profetas"
+}, 
       "tags": ["kids", "hud"],
       "thumbnail": "stories/thumbs/hud01.jpg",
       "duration": 3,
@@ -193,14 +242,24 @@
         "ar": "قصة نوح للأطفال",
         "fr": "Noé pour enfants"
       },
-      "subtitle": "A Simplified Story",
+     "subtitle": {
+  "en": "A Simplified Story",
+  "ar": "قصة مبسطة",
+  "fr": "Une histoire simplifiée",
+  "es": "Una historia simplificada"
+},
       "description": {
         "en": "A simplified and fun version of Prophet Nuh story for kids.",
         "ar": "نسخة مبسطة وممتعة من قصة النبي نوح للأطفال.",
         "fr": "Une version simplifiée pour enfants."
       },
       "file": "nuh/nuhkids.json",
-      "category": "prophets",
+      "category": {
+  "en": "Prophets",
+  "ar": "الأنبياء",
+  "fr": "Prophètes",
+  "es": "Profetas"
+}, 
       "tags": ["kids", "nuh"],
       "thumbnail": "stories/thumbs/nuhkids.jpg",
       "duration": 4,
