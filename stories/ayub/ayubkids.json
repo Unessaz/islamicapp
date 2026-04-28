@@ -10,6 +10,122 @@
   "age_group": "Kids",
   "style": "Cinematic Digital Illustration",
   "backgroundVideo":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/vids/sc44ene1_small.mp4",
+  "timing":[
+  {
+    "name": "001.mp3",
+    "duration": 6165,
+    "startMs": 0,
+    "endMs": 6165
+  },
+  {
+    "name": "002.mp3",
+    "duration": 6531,
+    "startMs": 6165,
+    "endMs": 12695
+  },
+  {
+    "name": "003.mp3",
+    "duration": 5982,
+    "startMs": 12695,
+    "endMs": 18677
+  },
+  {
+    "name": "004.mp3",
+    "duration": 4545,
+    "startMs": 18677,
+    "endMs": 23223
+  },
+  {
+    "name": "005.mp3",
+    "duration": 7471,
+    "startMs": 23223,
+    "endMs": 30694
+  },
+  {
+    "name": "006.mp3",
+    "duration": 7131,
+    "startMs": 30694,
+    "endMs": 37825
+  },
+  {
+    "name": "007.mp3",
+    "duration": 5381,
+    "startMs": 37825,
+    "endMs": 43206
+  },
+  {
+    "name": "008.mp3",
+    "duration": 5564,
+    "startMs": 43206,
+    "endMs": 48770
+  },
+  {
+    "name": "009.mp3",
+    "duration": 6296,
+    "startMs": 48770,
+    "endMs": 55066
+  },
+  {
+    "name": "010.mp3",
+    "duration": 7105,
+    "startMs": 55066,
+    "endMs": 62171
+  },
+  {
+    "name": "011.mp3",
+    "duration": 6949,
+    "startMs": 62171,
+    "endMs": 69120
+  },
+  {
+    "name": "012.mp3",
+    "duration": 5695,
+    "startMs": 69120,
+    "endMs": 74814
+  },
+  {
+    "name": "013.mp3",
+    "duration": 9012,
+    "startMs": 74814,
+    "endMs": 83827
+  },
+  {
+    "name": "014.mp3",
+    "duration": 5381,
+    "startMs": 83827,
+    "endMs": 89208
+  },
+  {
+    "name": "015.mp3",
+    "duration": 5851,
+    "startMs": 89208,
+    "endMs": 95059
+  },
+  {
+    "name": "016.mp3",
+    "duration": 4441,
+    "startMs": 95059,
+    "endMs": 99500
+  },
+  {
+    "name": "017.mp3",
+    "duration": 6922,
+    "startMs": 99500,
+    "endMs": 106422
+  },
+  {
+    "name": "018.mp3",
+    "duration": 6766,
+    "startMs": 106422,
+    "endMs": 113188
+  },
+  {
+    "name": "019.mp3",
+    "duration": 5146,
+    "startMs": 113188,
+    "endMs": 118334
+  }
+],
   "sequences": [
     {
       "id": "seq_01",
