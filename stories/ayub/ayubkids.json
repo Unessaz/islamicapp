@@ -9,7 +9,9 @@
   "category": "Stories of the Prophets",
   "age_group": "Kids",
   "style": "Cinematic Digital Illustration",
-  "backgroundVideo":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/vids/sc44ene1_small.mp4",
+  "backgroundVideo":{
+    "en":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/vids/sc44ene1_small.mp4",
+     "ar":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/vids/scene1ayubar_small.mp4"},
   "timing":[
   {
     "name": "001.mp3",
