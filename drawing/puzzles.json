@@ -44,7 +44,26 @@
         "width": 300,
         "height": 165
       }
-    }
- 
+    },
+    {
+  "id": "ocean_depths",
+  "title": "Mystic Ocean Depths",
+  "subtitle": "Discover hidden treasures beneath the waves",
+  "gradient": ["#020617", "#0c4a6e"],
+  "accent": "#22d3ee",
+  "difficulty": "Medium",
+  "stars": 2,
+  "xp": 150,
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
+  "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
+  "grid": {
+    "rows": 3,
+    "cols": 3
+  },
+  "originalSize": {
+    "width": 300,
+    "height": 165
+  }
+}
   ]
 }
