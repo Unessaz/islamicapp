@@ -1,149 +1,7 @@
 {
   "version": 1,
   "stories": [
-    {
-      "id": "nuh_ep_01",
-      "title": {
-        "en": "Nuh Episode 1",
-        "ar": "قصة نوح الحلقة 1",
-        "fr": "Noé Épisode 1"
-      },
-"subtitle": {
-  "en": "The Beginning of the Message",
-  "ar": "بداية الرسالة",
-  "fr": "Le début du message",
-  "es": "El comienzo del mensaje"
-},
-"category": "prophets",
-"categoryLabel": {
-  "en": "Prophets",
-  "ar": "الأنبياء",
-  "fr": "Prophètes",
-  "es": "Profetas"
-},      "description": {
-        "en": "Discover how Prophet Nuh began calling his people to worship Allah and the challenges he faced.",
-        "ar": "اكتشف كيف بدأ النبي نوح بدعوة قومه لعبادة الله والتحديات التي واجهها.",
-        "fr": "Découvrez comment le prophète Noé a commencé à دعوت son peuple et les défis qu'il a rencontrés."
-      },
-      "file": "nuh/nuh01.json",
-      "tags": ["kids", "nuh"],
-      "thumbnail": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/01.webp",
-      "duration": 3,
-      "hasPDF": true,
-      "hasVideo": true,
-      "ageRange": "7–14",
-      "color": "#1e3a5f",
-      "accentColor": "#4fc3f7",
-      "subtitles":[
-            { "code": "none", "label": "No Subtitles" },
-            { "code": "ar", "label": "Arabic" },
-            { "code": "en", "label": "English" },
-            { "code": "fr", "label": "French" },
-            { "code": "es", "label": "Spanish" }
-      ],
-      "audio":[
-            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
-            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
-            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
-           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
-      ]
-    },
-    {
-      "id": "nuh_ep_02",
-      "title": {
-        "en": "Nuh Episode 2",
-        "ar": "قصة نوح الحلقة 2",
-        "fr": "Noé Épisode 2"
-      },
-      "subtitle": {
-  "en": "People Reject the Message",
-  "ar": "الناس يرفضون الرسالة",
-  "fr": "Les gens rejettent le message",
-  "es": "La gente rechaza el mensaje"
-},
-      "description": {
-        "en": "Prophet Nuh continues his mission while many people reject his message.",
-        "ar": "يواصل النبي نوح دعوته بينما يرفض كثير من قومه رسالته.",
-        "fr": "Le prophète Noé poursuit sa mission بينما يرفض كثير من قومه."
-      },
-      "file": "nuh/nuh02.json",
-    "category": "prophets",
-"categoryLabel": {
-  "en": "Prophets",
-  "ar": "الأنبياء",
-  "fr": "Prophètes",
-  "es": "Profetas"
-}, 
-      "tags": ["kids", "nuh"],
-      "thumbnail": "stories/thumbs/nuh02.jpg",
-      "duration": 3,
-      "hasPDF": true,
-      "hasVideo": true,
-      "ageRange": "7–14",
-      "color": "#1e3a5f",
-      "accentColor": "#4fc3f7",
-      "subtitles":[
-          { "code": "none", "label": "No Subtitles" },
-            { "code": "ar", "label": "Arabic" },
-            { "code": "en", "label": "English" },
-            { "code": "fr", "label": "French" },
-            { "code": "es", "label": "Spanish" }
-      ],
-       "audio":[
-            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
-            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
-            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
-           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
-      ]
-    },
-    {
-      "id": "nuh_ep_03",
-      "title": {
-        "en": "Nuh Episode 3",
-        "ar": "قصة نوح الحلقة 3",
-        "fr": "Noé Épisode 3"
-      },
-      "subtitle": {
-  "en": "The Ark Begins",
-  "ar": "بداية بناء السفينة",
-  "fr": "Le début de l'arche",
-  "es": "Comienza el arca"
-},
-      "description": {
-        "en": "Allah commands Prophet Nuh to build the Ark before the great flood.",
-        "ar": "يأمر الله النبي نوح ببناء السفينة قبل الطوفان العظيم.",
-        "fr": "Allah ordonne au prophète Noé de construire l'arche."
-      },
-      "file": "nuh/nuh03.json",
-     "category": "prophets",
-"categoryLabel": {
-  "en": "Prophets",
-  "ar": "الأنبياء",
-  "fr": "Prophètes",
-  "es": "Profetas"
-}, 
-      "tags": ["kids", "nuh"],
-      "thumbnail": "stories/thumbs/nuh03.jpg",
-      "duration": 3,
-      "hasPDF": true,
-      "hasVideo": true,
-      "ageRange": "7–14",
-      "color": "#1e3a5f",
-      "accentColor": "#4fc3f7",
-      "subtitles":[
-          { "code": "none", "label": "No Subtitles" },
-            { "code": "ar", "label": "Arabic" },
-            { "code": "en", "label": "English" },
-            { "code": "fr", "label": "French" },
-            { "code": "es", "label": "Spanish" }
-      ],
-       "audio":[
-            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
-            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
-            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
-           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
-      ]
-    },
+    
     {
       "id": "ayub_kids",
       "title": {
@@ -192,54 +50,7 @@
            { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
       ]
     },
-    {
-      "id": "hud_ep_01",
-      "title": {
-        "en": "Hud Episode 1",
-        "ar": "قصة هود الحلقة 1",
-        "fr": "Hud Épisode 1"
-      },
-     "subtitle": {
-  "en": "The People of 'Ad",
-  "ar": "قوم عاد",
-  "fr": "Le peuple de 'Ad",
-  "es": "El pueblo de 'Ad"
-},
-      "description": {
-        "en": "Discover the story of Prophet Hud and the powerful people of 'Ad.",
-        "ar": "تعرف على قصة النبي هود وقوم عاد الأقوياء.",
-        "fr": "Découvrez l'histoire du prophète Hud."
-      },
-      "file": "hud/hud01.json",
-    "category": "prophets",
-"categoryLabel": {
-  "en": "Prophets",
-  "ar": "الأنبياء",
-  "fr": "Prophètes",
-  "es": "Profetas"
-}, 
-      "tags": ["kids", "hud"],
-      "thumbnail": "stories/thumbs/hud01.jpg",
-      "duration": 3,
-      "hasPDF": true,
-      "hasVideo": true,
-      "ageRange": "7–14",
-      "color": "#1e3a5f",
-      "accentColor": "#4fc3f7",
-      "subtitles":[
-          { "code": "none", "label": "No Subtitles" },
-            { "code": "ar", "label": "Arabic" },
-            { "code": "en", "label": "English" },
-            { "code": "fr", "label": "French" },
-            { "code": "es", "label": "Spanish" }
-      ],
-       "audio":[
-            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
-            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
-            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
-           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
-      ]
-    },
+    
     {
       "id": "nuh_kids",
       "title": {
@@ -270,7 +81,7 @@
       "thumbnail": "stories/thumbs/nuhkids.jpg",
       "duration": 4,
       "hasPDF": true,
-      "hasVideo": true,
+      "hasVideo": false,
       "ageRange": "7–14",
       "color": "#1e3a5f",
       "accentColor": "#4fc3f7",
