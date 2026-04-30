@@ -29,7 +29,7 @@
   "es": "Profetas"
 }, 
       "tags": ["kids", "ayub"],
-      "thumbnail": "stories/thumbs/ayub.jpg",
+      "thumbnail": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N04.webp",
       "duration": 4,
       "hasPDF": true,
       "hasVideo": true,
