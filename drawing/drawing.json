@@ -137,6 +137,109 @@
 
     { "type": "path", "sectionId": "water", "props": { "d": "M 20 210 Q 50 200 80 210 Q 110 220 140 210 Q 170 200 200 210 Q 230 220 280 210", "stroke": "#333", "strokeWidth": 2, "fill": "none" } }
   ]
+},
+  {
+  "id": "butterfly",
+  "name": "Butterfly",
+  "icon": "emoji-nature",
+  "description": "Cheerful butterfly with patterned wings and curly antennae",
+  "blackAndWhite": true,
+  "sections": [
+    { "id": "background", "label": "Background", "defaultColor": "#ffffff" },
+    { "id": "upperWings", "label": "Upper Wings", "defaultColor": "#ffffff" },
+    { "id": "lowerWings", "label": "Lower Wings", "defaultColor": "#ffffff" },
+    { "id": "body", "label": "Body", "defaultColor": "#ffffff" },
+    { "id": "antennae", "label": "Antennae", "defaultColor": "#ffffff" },
+    { "id": "eyespots", "label": "Big Spots", "defaultColor": "#ffffff" },
+    { "id": "dots", "label": "Little Dots", "defaultColor": "#ffffff" }
+  ],
+  "shapes": [
+    { "type": "rect", "sectionId": "background", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "upperWings", "props": { "d": "M 145 85 C 100 50, 25 55, 25 110 C 25 145, 85 152, 145 125 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "upperWings", "props": { "d": "M 155 85 C 200 50, 275 55, 275 110 C 275 145, 215 152, 155 125 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "lowerWings", "props": { "d": "M 145 132 C 105 142, 55 178, 78 215 C 100 236, 142 208, 148 165 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "lowerWings", "props": { "d": "M 155 132 C 195 142, 245 178, 222 215 C 200 236, 158 208, 152 165 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "ellipse", "sectionId": "body", "props": { "cx": 150, "cy": 132, "rx": 8, "ry": 58, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "body", "props": { "cx": 150, "cy": 70, "r": 11, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "body", "props": { "d": "M 144 100 Q 150 103 156 100", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "body", "props": { "d": "M 144 120 Q 150 123 156 120", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "body", "props": { "d": "M 144 140 Q 150 143 156 140", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "body", "props": { "d": "M 144 160 Q 150 163 156 160", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "body", "props": { "d": "M 144 180 Q 150 183 156 180", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+
+    { "type": "path", "sectionId": "antennae", "props": { "d": "M 144 62 Q 130 38 118 26", "stroke": "#333", "strokeWidth": 2.5, "fill": "none" } },
+    { "type": "path", "sectionId": "antennae", "props": { "d": "M 156 62 Q 170 38 182 26", "stroke": "#333", "strokeWidth": 2.5, "fill": "none" } },
+    { "type": "circle", "sectionId": "antennae", "props": { "cx": 118, "cy": 26, "r": 4, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "antennae", "props": { "cx": 182, "cy": 26, "r": 4, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "eyespots", "props": { "cx": 75, "cy": 95, "r": 18, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "eyespots", "props": { "cx": 75, "cy": 95, "r": 9, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "eyespots", "props": { "cx": 225, "cy": 95, "r": 18, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "eyespots", "props": { "cx": 225, "cy": 95, "r": 9, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "dots", "props": { "cx": 115, "cy": 120, "r": 5, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "dots", "props": { "cx": 185, "cy": 120, "r": 5, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "dots", "props": { "cx": 100, "cy": 180, "r": 9, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "dots", "props": { "cx": 200, "cy": 180, "r": 9, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "dots", "props": { "cx": 120, "cy": 205, "r": 4, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "dots", "props": { "cx": 180, "cy": 205, "r": 4, "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } }
+  ]
+},
+  {
+  "id": "cat",
+  "name": "Cat",
+  "icon": "pets",
+  "description": "Friendly cat face with pointy ears and long whiskers",
+  "blackAndWhite": true,
+  "sections": [
+    { "id": "background", "label": "Background", "defaultColor": "#ffffff" },
+    { "id": "head", "label": "Head", "defaultColor": "#ffffff" },
+    { "id": "ears", "label": "Ears", "defaultColor": "#ffffff" },
+    { "id": "innerEars", "label": "Inner Ears", "defaultColor": "#ffffff" },
+    { "id": "eyes", "label": "Eyes", "defaultColor": "#ffffff" },
+    { "id": "pupils", "label": "Pupils", "defaultColor": "#ffffff" },
+    { "id": "nose", "label": "Nose", "defaultColor": "#ffffff" },
+    { "id": "mouth", "label": "Mouth", "defaultColor": "#ffffff" },
+    { "id": "whiskers", "label": "Whiskers", "defaultColor": "#ffffff" }
+  ],
+  "shapes": [
+    { "type": "rect", "sectionId": "background", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "ears", "props": { "d": "M 80 95 L 92 28 L 132 80 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "ears", "props": { "d": "M 220 95 L 208 28 L 168 80 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "ellipse", "sectionId": "head", "props": { "cx": 150, "cy": 142, "rx": 88, "ry": 72, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "innerEars", "props": { "d": "M 95 82 L 100 50 L 120 78 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "path", "sectionId": "innerEars", "props": { "d": "M 205 82 L 200 50 L 180 78 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+
+    { "type": "ellipse", "sectionId": "eyes", "props": { "cx": 115, "cy": 130, "rx": 16, "ry": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "ellipse", "sectionId": "eyes", "props": { "cx": 185, "cy": 130, "rx": 16, "ry": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "ellipse", "sectionId": "pupils", "props": { "cx": 115, "cy": 132, "rx": 5, "ry": 15, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+    { "type": "ellipse", "sectionId": "pupils", "props": { "cx": 185, "cy": 132, "rx": 5, "ry": 15, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+
+    { "type": "circle", "sectionId": "eyes", "props": { "cx": 110, "cy": 124, "r": 2.5, "stroke": "#fff", "strokeWidth": 0, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "eyes", "props": { "cx": 180, "cy": 124, "r": 2.5, "stroke": "#fff", "strokeWidth": 0, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "nose", "props": { "d": "M 138 162 L 162 162 L 150 178 Z", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "mouth", "props": { "d": "M 150 178 L 150 188", "stroke": "#333", "strokeWidth": 2.5, "fill": "none" } },
+    { "type": "path", "sectionId": "mouth", "props": { "d": "M 150 188 Q 138 198 128 190", "stroke": "#333", "strokeWidth": 2.5, "fill": "none" } },
+    { "type": "path", "sectionId": "mouth", "props": { "d": "M 150 188 Q 162 198 172 190", "stroke": "#333", "strokeWidth": 2.5, "fill": "none" } },
+
+    { "type": "path", "sectionId": "whiskers", "props": { "d": "M 95 168 L 30 156", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "whiskers", "props": { "d": "M 95 175 L 30 175", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "whiskers", "props": { "d": "M 95 182 L 30 194", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "whiskers", "props": { "d": "M 205 168 L 270 156", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "whiskers", "props": { "d": "M 205 175 L 270 175", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "whiskers", "props": { "d": "M 205 182 L 270 194", "stroke": "#333", "strokeWidth": 2, "fill": "none" } }
+  ]
 }
+
   ]
 
