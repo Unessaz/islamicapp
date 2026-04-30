@@ -9,34 +9,19 @@
       "difficulty": "Medium",
       "stars": 2,
       "xp": 150,
-      "pieces": 9,
-      "thumb": "https://www.svgrepo.com/show/530619/polaroid.svg",
 
-      "scene": {
+      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
+
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
+
+      "grid": {
+        "rows": 3,
+        "cols": 3
+      },
+
+      "originalSize": {
         "width": 300,
-        "height": 180,
-        "elements": [
-          { "type": "rect", "x": 0, "y": 0, "width": 300, "height": 130, "fill": "#1a1035" },
-          { "type": "rect", "x": 0, "y": 130, "width": 300, "height": 90, "fill": "#c8a96e" },
-          { "type": "rect", "x": 0, "y": 195, "width": 300, "height": 25, "fill": "#a07840" },
-
-          { "type": "circle", "cx": 30, "cy": 20, "r": 2, "fill": "#fff" },
-          { "type": "circle", "cx": 70, "cy": 40, "r": 2, "fill": "#fff" },
-
-          { "type": "path", "d": "M 215 4 A 16 16 0 1 1 215 36 A 12 12 0 1 0 215 4 Z", "fill": "#FDE68A" },
-
-          { "type": "rect", "x": 34, "y": 48, "width": 22, "height": 90, "rx": 2, "fill": "#3a3570" },
-          { "type": "polygon", "points": "34,48 56,48 45,28", "fill": "#c9a96e" },
-          { "type": "circle", "cx": 45, "cy": 25, "r": 3.5, "fill": "#fde68a" },
-
-          { "type": "rect", "x": 244, "y": 48, "width": 22, "height": 90, "rx": 2, "fill": "#3a3570" },
-          { "type": "polygon", "points": "244,48 266,48 255,28", "fill": "#c9a96e" },
-          { "type": "circle", "cx": 255, "cy": 25, "r": 3.5, "fill": "#fde68a" },
-
-          { "type": "rect", "x": 68, "y": 98, "width": 164, "height": 40, "fill": "#2d2b7a" },
-          { "type": "rect", "x": 68, "y": 98, "width": 164, "height": 4, "fill": "#c9a96e" },
-          { "type": "path", "d": "M 80 98 Q 150 44 220 98 Z", "fill": "#3a3882" }
-        ]
+        "height": 165
       }
     }
   ]
