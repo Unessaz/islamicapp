@@ -225,7 +225,101 @@
     { "type": "path", "sectionId": "whiskers", "props": { "d": "M 205 175 L 270 175", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
     { "type": "path", "sectionId": "whiskers", "props": { "d": "M 205 182 L 270 194", "stroke": "#333", "strokeWidth": 2, "fill": "none" } }
   ]
+},
+ {
+  "id": "flower",
+  "name": "Flower",
+  "icon": "local-florist",
+  "description": "Cheerful daisy with rounded petals growing from the grass",
+  "blackAndWhite": true,
+  "sections": [
+    { "id": "sky", "label": "Sky", "defaultColor": "#ffffff" },
+    { "id": "grass", "label": "Grass", "defaultColor": "#ffffff" },
+    { "id": "stem", "label": "Stem", "defaultColor": "#ffffff" },
+    { "id": "leaves", "label": "Leaves", "defaultColor": "#ffffff" },
+    { "id": "petals", "label": "Petals", "defaultColor": "#ffffff" },
+    { "id": "center", "label": "Center", "defaultColor": "#ffffff" }
+  ],
+  "shapes": [
+    { "type": "rect", "sectionId": "sky", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "grass", "props": { "d": "M 0 240 L 0 215 Q 25 207 50 215 Q 75 223 100 215 Q 125 207 150 215 Q 175 223 200 215 Q 225 207 250 215 Q 275 223 300 215 L 300 240 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "grass", "props": { "d": "M 30 215 L 28 200 M 35 215 L 38 200 M 200 215 L 198 200 M 205 215 L 208 200 M 260 215 L 258 200 M 265 215 L 268 200", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+
+    { "type": "path", "sectionId": "stem", "props": { "d": "M 145 100 L 145 220 L 156 220 L 156 100 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "leaves", "props": { "d": "M 145 145 Q 95 130 78 165 Q 115 178 145 162 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "leaves", "props": { "d": "M 145 152 Q 110 152 90 168", "stroke": "#333", "strokeWidth": 1.5, "fill": "none" } },
+    { "type": "path", "sectionId": "leaves", "props": { "d": "M 156 175 Q 205 160 222 195 Q 185 208 156 192 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "leaves", "props": { "d": "M 156 182 Q 190 182 210 198", "stroke": "#333", "strokeWidth": 1.5, "fill": "none" } },
+
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 150, "cy": 38, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 180, "cy": 60, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 169, "cy": 96, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 131, "cy": 96, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "petals", "props": { "cx": 120, "cy": 60, "r": 22, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "center", "props": { "cx": 150, "cy": 70, "r": 18, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "center", "props": { "cx": 145, "cy": 65, "r": 2, "stroke": "#333", "strokeWidth": 1.5, "fill": "#333" } },
+    { "type": "circle", "sectionId": "center", "props": { "cx": 156, "cy": 67, "r": 2, "stroke": "#333", "strokeWidth": 1.5, "fill": "#333" } },
+    { "type": "circle", "sectionId": "center", "props": { "cx": 148, "cy": 76, "r": 2, "stroke": "#333", "strokeWidth": 1.5, "fill": "#333" } },
+    { "type": "circle", "sectionId": "center", "props": { "cx": 158, "cy": 76, "r": 2, "stroke": "#333", "strokeWidth": 1.5, "fill": "#333" } }
+  ]
 }
+,{
+  "id": "owl",
+  "name": "Owl",
+  "icon": "nights-stay",
+  "description": "Sleepy owl with big eyes perched on a branch under the moon",
+  "blackAndWhite": true,
+  "sections": [
+    { "id": "sky", "label": "Sky", "defaultColor": "#ffffff" },
+    { "id": "moon", "label": "Moon", "defaultColor": "#ffffff" },
+    { "id": "branch", "label": "Branch", "defaultColor": "#ffffff" },
+    { "id": "body", "label": "Body", "defaultColor": "#ffffff" },
+    { "id": "wings", "label": "Wings", "defaultColor": "#ffffff" },
+    { "id": "chest", "label": "Chest", "defaultColor": "#ffffff" },
+    { "id": "eyes", "label": "Eyes", "defaultColor": "#ffffff" },
+    { "id": "pupils", "label": "Pupils", "defaultColor": "#ffffff" },
+    { "id": "beak", "label": "Beak", "defaultColor": "#ffffff" },
+    { "id": "feet", "label": "Feet", "defaultColor": "#ffffff" }
+  ],
+  "shapes": [
+    { "type": "rect", "sectionId": "sky", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "moon", "props": { "cx": 255, "cy": 42, "r": 22, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "moon", "props": { "cx": 247, "cy": 36, "r": 3, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "moon", "props": { "cx": 262, "cy": 50, "r": 4, "stroke": "#333", "strokeWidth": 1.5, "fill": "#fff" } },
+
+    { "type": "rect", "sectionId": "branch", "props": { "x": 20, "y": 215, "width": 260, "height": 12, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "branch", "props": { "d": "M 50 219 L 75 219 M 110 222 L 140 222 M 175 219 L 200 219 M 230 222 L 260 222", "stroke": "#333", "strokeWidth": 1.5, "fill": "none" } },
+
+    { "type": "path", "sectionId": "body", "props": { "d": "M 100 60 L 90 28 L 122 55 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "body", "props": { "d": "M 200 60 L 210 28 L 178 55 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "ellipse", "sectionId": "body", "props": { "cx": 150, "cy": 130, "rx": 75, "ry": 78, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "wings", "props": { "d": "M 82 125 Q 60 165 88 198 Q 115 182 105 135 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "wings", "props": { "d": "M 218 125 Q 240 165 212 198 Q 185 182 195 135 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "wings", "props": { "d": "M 90 150 Q 100 152 100 158 M 92 165 Q 102 167 102 173 M 200 158 Q 200 152 210 150 M 198 173 Q 198 167 208 165", "stroke": "#333", "strokeWidth": 1.5, "fill": "none" } },
+
+    { "type": "path", "sectionId": "chest", "props": { "d": "M 128 168 L 150 178 L 172 168", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "chest", "props": { "d": "M 128 183 L 150 193 L 172 183", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+
+    { "type": "path", "sectionId": "feet", "props": { "d": "M 121 200 L 117 215 M 128 200 L 128 215 M 135 200 L 139 215", "stroke": "#333", "strokeWidth": 2.5, "fill": "none" } },
+    { "type": "path", "sectionId": "feet", "props": { "d": "M 165 200 L 161 215 M 172 200 L 172 215 M 179 200 L 183 215", "stroke": "#333", "strokeWidth": 2.5, "fill": "none" } },
+
+    { "type": "circle", "sectionId": "eyes", "props": { "cx": 120, "cy": 115, "r": 26, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "eyes", "props": { "cx": 180, "cy": 115, "r": 26, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "pupils", "props": { "cx": 122, "cy": 117, "r": 11, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+    { "type": "circle", "sectionId": "pupils", "props": { "cx": 178, "cy": 117, "r": 11, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+    { "type": "circle", "sectionId": "eyes", "props": { "cx": 126, "cy": 112, "r": 3, "stroke": "#fff", "strokeWidth": 0, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "eyes", "props": { "cx": 182, "cy": 112, "r": 3, "stroke": "#fff", "strokeWidth": 0, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "beak", "props": { "d": "M 144 142 L 156 142 L 150 158 Z", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } }
+  ]
+}
+
 
   ]
 
