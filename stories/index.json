@@ -34,8 +34,8 @@
       "hasPDF": true,
       "hasVideo": true,
       "ageRange": "7–14",
-      "color": "#1e3a5f",
-      "accentColor": "#4fc3f7",
+      "color": "#23ba23",
+      "accentColor": "#fde68a",
       "subtitles":[
           { "code": "none", "label": "No Subtitles" },
             { "code": "ar", "label": "Arabic" },
