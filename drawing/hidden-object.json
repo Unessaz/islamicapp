@@ -1,5 +1,26 @@
 {
   "scenes": [
+    {
+  "id": "forest",
+  "title": "Enchanted Forest",
+  "subtitle": "Find 6 objects hidden in the magical forest",
+  "gradient": ["#0f2027", "#2c5364"],
+  "accent": "#a78bfa",
+  "difficulty": "Easy",
+  "xp": 100,
+  "viewBox": { "width": 300, "height": 165 },
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/shum.png",
+  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/shum.png",
+  "objects": [
+    { "id": "owl",       "label": "Wise Owl",        "icon": "eye-outline",       "cx": 57,  "cy": 42,  "r": 18 },
+    { "id": "mushroom",  "label": "Magic Mushroom",  "icon": "nutrition-outline", "cx": 89,  "cy": 135, "r": 22 },
+    { "id": "fairy",     "label": "Glowing Fairy",   "icon": "sparkles-outline",  "cx": 233, "cy": 51,  "r": 16 },
+    { "id": "lantern",   "label": "Golden Lantern",  "icon": "bulb-outline",      "cx": 267, "cy": 79,  "r": 20 },
+    { "id": "key",       "label": "Treasure Key",    "icon": "key-outline",       "cx": 205, "cy": 124, "r": 18 },
+    { "id": "butterfly", "label": "Purple Butterfly","icon": "bug-outline",       "cx": 158, "cy": 79,  "r": 18 }
+  ]
+}
+,
   {
   "id": "mosque",
   "title": "Grand Mosque",
@@ -30,8 +51,8 @@
   "difficulty": "Hard",
   "xp": 200,
   "viewBox": { "width": 300, "height": 165 },
-  "thumb": "attached_assets/hidden_objects/pirate_scene.png",
-  "img": "attached_assets/hidden_objects/pirate_scene.png",
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/ship.png",
+  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/ship.png",
   "objects": [
     { "id": "flag",     "label": "Pirate Flag",    "icon": "flag-outline",        "cx": 174, "cy": 18,  "r": 12 },
     { "id": "sail",     "label": "Main Sail",      "icon": "boat-outline",        "cx": 155, "cy": 70,  "r": 28 },
@@ -40,7 +61,27 @@
     { "id": "anchor",   "label": "Iron Anchor",    "icon": "anchor-outline",      "cx": 122, "cy": 119, "r": 14 },
     { "id": "seagull",  "label": "Seagull",        "icon": "airplane-outline",    "cx": 85,  "cy": 48,  "r": 14 }
   ]
+},{
+  "id": "ocean",
+  "title": "Coral Reef",
+  "subtitle": "Find 6 objects hidden in the underwater reef",
+  "gradient": ["#13547a", "#80d0c7"],
+  "accent": "#ffb347",
+  "difficulty": "Medium",
+  "xp": 150,
+  "viewBox": { "width": 300, "height": 165 },
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
+  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
+  "objects": [
+    { "id": "turtle",    "label": "Sea Turtle",      "icon": "leaf-outline",       "cx": 64,  "cy": 41,  "r": 30 },
+    { "id": "starfish",  "label": "Pink Starfish",   "icon": "star-outline",       "cx": 31,  "cy": 133, "r": 18 },
+    { "id": "chest",     "label": "Treasure Chest",  "icon": "cube-outline",       "cx": 116, "cy": 132, "r": 24 },
+    { "id": "octopus",   "label": "Purple Octopus",  "icon": "rose-outline",       "cx": 256, "cy": 67,  "r": 32 },
+    { "id": "pearl",     "label": "Pearl in Clam",   "icon": "ellipse-outline",    "cx": 234, "cy": 141, "r": 18 },
+    { "id": "clownfish", "label": "Clownfish",       "icon": "fish-outline",       "cx": 143, "cy": 79,  "r": 30 }
+  ]
 }
+
 
 
   ]
