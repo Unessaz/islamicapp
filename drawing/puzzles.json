@@ -45,28 +45,6 @@
         "height": 165
       }
     }
-,
-  
-    {
-      "id": "clockwork_aviary",
-      "title": "Clockwork Aviary",
-      "subtitle": "Mechanical birds in a crystal garden",
-      "gradient": ["#2DD4BF", "#0F766E"],
-      "accent": "#FACC15",
-      "difficulty": "Hard",
-      "stars": 3,
-      "xp": 200,
-      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/Gemini_Generated_Image_g464r0g464r0g464%20(2).png",
-      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/Gemini_Generated_Image_g464r0g464r0g464%20(2).png",
-      "grid": {
-        "rows": 4,
-        "cols": 4
-      },
-      "originalSize": {
-        "width": 1024,
-        "height": 1024
-      }
-    }
  
   ]
 }
