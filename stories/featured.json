@@ -65,39 +65,5 @@
     "gradient": ["#1e3a5f", "#4fc3f7"],
     "icon": "heart",
     "isNew": false
-  },
-
-  {
-    "id": "hud_ep_01",
-    "title": {
-      "en": "Hud Episode 1",
-      "ar": "قصة هود الحلقة 1",
-      "fr": "Hud Épisode 1"
-    },
-    "subtitle": {
-      "en": "The People of 'Ad",
-      "ar": "قوم عاد",
-      "fr": "Le peuple de Aad"
-    },
-    "description": {
-      "en": "Discover the story of Prophet Hud and the powerful people of 'Ad.",
-      "ar": "تعرف على قصة النبي هود وقوم عاد الأقوياء.",
-      "fr": "Découvrez l'histoire du prophète Hud."
-    },
-    "file": "hud/hud01.json",
-    "category": "prophets",
-    "tags": ["hud", "kids"],
-    "thumbnail": "stories/thumbs/hud01.jpg",
-    "duration": 3,
-    "totalParts": 1,
-    "currentPart": 1,
-    "hasPDF": true,
-    "hasVideo": true,
-    "ageRange": "7–14",
-    "color": "#1e3a5f",
-    "accentColor": "#4fc3f7",
-    "gradient": ["#1a3a6b", "#2d5fa8"],
-    "icon": "moon",
-    "isNew": false
   }
 ]
