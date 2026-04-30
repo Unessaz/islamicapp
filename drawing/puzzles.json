@@ -24,8 +24,7 @@
         "height": 165
       }
     },
-   {
-  "puzzles": [
+   
     {
       "id": "alchemist_workshop",
       "title": "Grand Alchemist's Workshop",
@@ -46,10 +45,8 @@
         "height": 165
       }
     }
-  ]
-},
-    {
-  "puzzles": [
+,
+  
     {
       "id": "clockwork_aviary",
       "title": "Clockwork Aviary",
@@ -70,7 +67,6 @@
         "height": 1024
       }
     }
-  ]
-}
+ 
   ]
 }
