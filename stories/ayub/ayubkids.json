@@ -12,6 +12,40 @@
   "backgroundVideo":{
     "en":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/vids/sc44ene1_small.mp4",
      "ar":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/vids/scene1ayubar_small.mp4"},
+   "scenes": [
+    {
+      "id": "scene_01",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N01.webp"
+    },
+    {
+      "id": "scene_02",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N02.webp"
+    },
+    {
+      "id": "scene_03",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N03.webp"
+    },
+    {
+      "id": "scene_04",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N04.webp"
+    },
+    {
+      "id": "scene_05",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N05.webp"
+    },
+    {
+      "id": "scene_06",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N06.webp"
+    },
+    {
+      "id": "scene_07",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N07.webp"
+    },
+    {
+      "id": "scene_08",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N08.webp"
+    }
+  ],
   "timing":[
   {
     "name": "001.mp3",
