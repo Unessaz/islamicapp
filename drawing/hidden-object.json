@@ -9,8 +9,8 @@
   "difficulty": "Medium",
   "xp": 150,
   "viewBox": { "width": 300, "height": 165 },
-  "thumb": "attached_assets/hidden_objects/mosque_scene.png",
-  "img": "attached_assets/hidden_objects/mosque_scene.png",
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
+  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
   "objects": [
     { "id": "crescent",      "label": "Crescent Moon",  "icon": "moon-outline",     "cx": 234, "cy": 51,  "r": 24 },
     { "id": "star",          "label": "Golden Star",    "icon": "star-outline",     "cx": 201, "cy": 26,  "r": 10 },
