@@ -46,6 +46,84 @@
       "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N08.webp"
     }
   ],
+   "layouts": {
+    "en": {
+      "app": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_05",
+        "scene_06",
+        "scene_07",
+        "scene_08"
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_05",
+        "scene_06",
+        "scene_07",
+        "scene_08"
+      ]
+    },
+
+    "fr": {
+      "app": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_05",
+        "scene_06"
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_05"
+      ]
+    },
+
+    "ar": {
+      "app": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_05"
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04"
+      ]
+    },
+
+    "es": {
+      "app": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_05",
+        "scene_06",
+        "scene_07"
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_05",
+        "scene_06"
+      ]
+    }
+  },
   "timing":[
   {
     "name": "001.mp3",
