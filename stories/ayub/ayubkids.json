@@ -60,12 +60,8 @@
       "pdf": [
         "scene_01",
         "scene_02",
-        "scene_03",
         "scene_04",
-        "scene_05",
-        "scene_06",
-        "scene_07",
-        "scene_08"
+        "scene_07"
       ]
     },
 
@@ -73,12 +69,8 @@
       "app": [
         "scene_01",
         "scene_02",
-        "scene_03",
         "scene_04",
-        "scene_05",
-        "scene_06",
-         "scene_07",
-         "scene_08"
+        "scene_07"
       ],
       "pdf": [
         "scene_01",
@@ -93,9 +85,8 @@
       "app": [
         "scene_01",
         "scene_02",
-        "scene_03",
-        "scene_05",
-        "scene_08"
+        "scene_04",
+        "scene_07"
       ],
       "pdf": [
         "scene_01",
@@ -109,11 +100,8 @@
       "app": [
         "scene_01",
         "scene_02",
-        "scene_03",
         "scene_04",
-        "scene_05",
-        "scene_06",
-        "scene_08"
+        "scene_07"
       ],
       "pdf": [
         "scene_01",
