@@ -2,36 +2,62 @@
   "puzzles": [
     {
       "id": "mosque",
-      "title": "Mosque at Night",
-      "subtitle": "A glowing mosque under the stars",
+      "title": {
+        "en": "Mosque at Night",
+        "ar": "مسجد في الليل",
+        "fr": "Mosquée la nuit",
+        "es": "Mezquita de noche"
+      },
+      "subtitle": {
+        "en": "A glowing mosque under the stars",
+        "ar": "مسجد متألق تحت النجوم",
+        "fr": "Une mosquée lumineuse sous les étoiles",
+        "es": "Una mezquita brillante bajo las estrellas"
+      },
+      "difficulty": {
+        "en": "Medium",
+        "ar": "متوسط",
+        "fr": "Moyen",
+        "es": "Medio"
+      },
       "gradient": ["#0f1f3d", "#1e3a5f"],
       "accent": "#FDE68A",
-      "difficulty": "Medium",
       "stars": 2,
       "xp": 150,
-
       "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
-
       "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
-
       "grid": {
         "rows": 3,
         "cols": 3
       },
-
       "originalSize": {
         "width": 300,
         "height": 165
       }
     },
-   
+
     {
       "id": "alchemist_workshop",
-      "title": "Grand Alchemist's Workshop",
-      "subtitle": "Ancient secrets and glowing potions",
+      "title": {
+        "en": "Grand Alchemist's Workshop",
+        "ar": "ورشة الخيميائي العظيم",
+        "fr": "Grand atelier d'alchimiste",
+        "es": "Taller del gran alquimista"
+      },
+      "subtitle": {
+        "en": "Ancient secrets and glowing potions",
+        "ar": "أسرار قديمة وجرعات متوهجة",
+        "fr": "Secrets anciens et potions lumineuses",
+        "es": "Secretos antiguos y pociones brillantes"
+      },
+      "difficulty": {
+        "en": "Medium",
+        "ar": "متوسط",
+        "fr": "Moyen",
+        "es": "Medio"
+      },
       "gradient": ["#1E293B", "#475569"],
       "accent": "#9333EA",
-      "difficulty": "Medium",
       "stars": 2,
       "xp": 150,
       "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/Gemini_Generated_Image_g464r0g464r0g464%20(1).png",
@@ -45,25 +71,41 @@
         "height": 165
       }
     },
+
     {
-  "id": "ocean_depths",
-  "title": "Mystic Ocean Depths",
-  "subtitle": "Discover hidden treasures beneath the waves",
-  "gradient": ["#020617", "#0c4a6e"],
-  "accent": "#22d3ee",
-  "difficulty": "Medium",
-  "stars": 2,
-  "xp": 150,
-  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
-  "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
-  "grid": {
-    "rows": 3,
-    "cols": 3
-  },
-  "originalSize": {
-    "width": 300,
-    "height": 165
-  }
-}
+      "id": "ocean_depths",
+      "title": {
+        "en": "Mystic Ocean Depths",
+        "ar": "أعماق المحيط الغامضة",
+        "fr": "Profondeurs mystiques de l'océan",
+        "es": "Profundidades místicas del océano"
+      },
+      "subtitle": {
+        "en": "Discover hidden treasures beneath the waves",
+        "ar": "اكتشف كنوزاً مخفية تحت الأمواج",
+        "fr": "Découvrez des trésors cachés sous les vagues",
+        "es": "Descubre tesoros ocultos bajo las olas"
+      },
+      "difficulty": {
+        "en": "Medium",
+        "ar": "متوسط",
+        "fr": "Moyen",
+        "es": "Medio"
+      },
+      "gradient": ["#020617", "#0c4a6e"],
+      "accent": "#22d3ee",
+      "stars": 2,
+      "xp": 150,
+      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
+      "grid": {
+        "rows": 3,
+        "cols": 3
+      },
+      "originalSize": {
+        "width": 300,
+        "height": 165
+      }
+    }
   ]
 }
