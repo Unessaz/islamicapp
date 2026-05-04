@@ -17,7 +17,12 @@
       "fr": "Une version simplifiée pour enfants."
     },
     "file": "nuh/nuhkids.json",
-    "category": "prophets",
+    "category": {
+       "en": "Prophets",
+  "ar": "الأنبياء",
+  "fr": "Prophètes",
+  "es": "Profetas"
+    },
     "tags": ["kids", "nuh"],
     "thumbnail": "stories/thumbs/nuhkids.jpg",
     "duration": 4,
@@ -51,7 +56,12 @@
       "fr": "Découvrez l'histoire inspirante du prophète Ayyoub."
     },
     "file": "ayub/ayubkids.json",
-    "category": "prophets",
+     "category": {
+       "en": "Prophets",
+  "ar": "الأنبياء",
+  "fr": "Prophètes",
+  "es": "Profetas"
+    },
     "tags": ["kids", "ayub"],
     "thumbnail": "stories/thumbs/ayub.jpg",
     "duration": 4,
