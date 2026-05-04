@@ -14,12 +14,7 @@
         "fr": "Une mosquée lumineuse sous les étoiles",
         "es": "Una mezquita brillante bajo las estrellas"
       },
-      "difficulty": {
-        "en": "Medium",
-        "ar": "متوسط",
-        "fr": "Moyen",
-        "es": "Medio"
-      },
+      "difficulty": "Medium",
       "gradient": ["#0f1f3d", "#1e3a5f"],
       "accent": "#FDE68A",
       "stars": 2,
@@ -50,12 +45,7 @@
         "fr": "Secrets anciens et potions lumineuses",
         "es": "Secretos antiguos y pociones brillantes"
       },
-      "difficulty": {
-        "en": "Medium",
-        "ar": "متوسط",
-        "fr": "Moyen",
-        "es": "Medio"
-      },
+       "difficulty": "Medium",
       "gradient": ["#1E293B", "#475569"],
       "accent": "#9333EA",
       "stars": 2,
@@ -86,12 +76,7 @@
         "fr": "Découvrez des trésors cachés sous les vagues",
         "es": "Descubre tesoros ocultos bajo las olas"
       },
-      "difficulty": {
-        "en": "Medium",
-        "ar": "متوسط",
-        "fr": "Moyen",
-        "es": "Medio"
-      },
+       "difficulty": "Medium",
       "gradient": ["#020617", "#0c4a6e"],
       "accent": "#22d3ee",
       "stars": 2,
