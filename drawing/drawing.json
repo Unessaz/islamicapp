@@ -6,15 +6,87 @@
   "description": "Friendly rocket blasting off through a starry sky",
   "blackAndWhite": true,
   "sections": [
-    { "id": "sky", "label": "Sky", "defaultColor": "#ffffff" },
-    { "id": "stars", "label": "Stars", "defaultColor": "#ffffff" },
-    { "id": "body", "label": "Body", "defaultColor": "#ffffff" },
-    { "id": "nose", "label": "Nose Cone", "defaultColor": "#ffffff" },
-    { "id": "fins", "label": "Fins", "defaultColor": "#ffffff" },
-    { "id": "window", "label": "Window", "defaultColor": "#ffffff" },
-    { "id": "glass", "label": "Glass", "defaultColor": "#ffffff" },
-    { "id": "flames", "label": "Flames", "defaultColor": "#ffffff" }
-  ],
+  {
+    "id": "sky",
+    "label": {
+      "en": "Sky",
+      "ar": "السماء",
+      "fr": "Ciel",
+      "es": "Cielo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "stars",
+    "label": {
+      "en": "Stars",
+      "ar": "النجوم",
+      "fr": "Étoiles",
+      "es": "Estrellas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "body",
+    "label": {
+      "en": "Body",
+      "ar": "الهيكل",
+      "fr": "Corps",
+      "es": "Cuerpo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "nose",
+    "label": {
+      "en": "Nose Cone",
+      "ar": "مقدمة الصاروخ",
+      "fr": "Cône de nez",
+      "es": "Cono de nariz"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "fins",
+    "label": {
+      "en": "Fins",
+      "ar": "الأجنحة",
+      "fr": "Ailerons",
+      "es": "Aletas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "window",
+    "label": {
+      "en": "Window",
+      "ar": "النافذة",
+      "fr": "Fenêtre",
+      "es": "Ventana"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "glass",
+    "label": {
+      "en": "Glass",
+      "ar": "الزجاج",
+      "fr": "Verre",
+      "es": "Vidrio"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "flames",
+    "label": {
+      "en": "Flames",
+      "ar": "اللهب",
+      "fr": "Flammes",
+      "es": "Llamas"
+    },
+    "defaultColor": "#ffffff"
+  }
+],
   "shapes": [
     { "type": "rect", "sectionId": "sky", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
 
@@ -52,13 +124,67 @@
   "description": "Cute simple fish swimming with bubbles",
   "blackAndWhite": true,
   "sections": [
-    { "id": "body", "label": "Body", "defaultColor": "#ffffff" },
-    { "id": "tail", "label": "Tail", "defaultColor": "#ffffff" },
-    { "id": "fins", "label": "Fins", "defaultColor": "#ffffff" },
-    { "id": "scales", "label": "Scales", "defaultColor": "#ffffff" },
-    { "id": "bubbles", "label": "Bubbles", "defaultColor": "#ffffff" },
-    { "id": "water", "label": "Water", "defaultColor": "#ffffff" }
-  ],
+  {
+    "id": "body",
+    "label": {
+      "en": "Body",
+      "ar": "الجسم",
+      "fr": "Corps",
+      "es": "Cuerpo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "tail",
+    "label": {
+      "en": "Tail",
+      "ar": "الذيل",
+      "fr": "Queue",
+      "es": "Cola"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "fins",
+    "label": {
+      "en": "Fins",
+      "ar": "الزعانف",
+      "fr": "Nageoires",
+      "es": "Aletas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "scales",
+    "label": {
+      "en": "Scales",
+      "ar": "الحراشف",
+      "fr": "Écailles",
+      "es": "Escamas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "bubbles",
+    "label": {
+      "en": "Bubbles",
+      "ar": "الفقاعات",
+      "fr": "Bulles",
+      "es": "Burbujas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "water",
+    "label": {
+      "en": "Water",
+      "ar": "الماء",
+      "fr": "Eau",
+      "es": "Agua"
+    },
+    "defaultColor": "#ffffff"
+  }
+],
   "shapes": [
     { "type": "rect", "sectionId": "water", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
 
@@ -90,15 +216,78 @@
   "icon": "emoji-nature",
   "description": "Cheerful butterfly with patterned wings and curly antennae",
   "blackAndWhite": true,
-  "sections": [
-    { "id": "background", "label": "Background", "defaultColor": "#ffffff" },
-    { "id": "upperWings", "label": "Upper Wings", "defaultColor": "#ffffff" },
-    { "id": "lowerWings", "label": "Lower Wings", "defaultColor": "#ffffff" },
-    { "id": "body", "label": "Body", "defaultColor": "#ffffff" },
-    { "id": "antennae", "label": "Antennae", "defaultColor": "#ffffff" },
-    { "id": "eyespots", "label": "Big Spots", "defaultColor": "#ffffff" },
-    { "id": "dots", "label": "Little Dots", "defaultColor": "#ffffff" }
-  ],
+ "sections": [
+  {
+    "id": "background",
+    "label": {
+      "en": "Background",
+      "ar": "الخلفية",
+      "fr": "Arrière-plan",
+      "es": "Fondo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "upperWings",
+    "label": {
+      "en": "Upper Wings",
+      "ar": "الأجنحة العلوية",
+      "fr": "Ailes supérieures",
+      "es": "Alas superiores"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "lowerWings",
+    "label": {
+      "en": "Lower Wings",
+      "ar": "الأجنحة السفلية",
+      "fr": "Ailes inférieures",
+      "es": "Alas inferiores"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "body",
+    "label": {
+      "en": "Body",
+      "ar": "الجسم",
+      "fr": "Corps",
+      "es": "Cuerpo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "antennae",
+    "label": {
+      "en": "Antennae",
+      "ar": "قرون الاستشعار",
+      "fr": "Antennes",
+      "es": "Antenas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "eyespots",
+    "label": {
+      "en": "Big Spots",
+      "ar": "البقع الكبيرة",
+      "fr": "Grandes taches",
+      "es": "Manchas grandes"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "dots",
+    "label": {
+      "en": "Little Dots",
+      "ar": "النقاط الصغيرة",
+      "fr": "Petits points",
+      "es": "Puntos pequeños"
+    },
+    "defaultColor": "#ffffff"
+  }
+],
   "shapes": [
     { "type": "rect", "sectionId": "background", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
 
@@ -141,17 +330,98 @@
   "icon": "pets",
   "description": "Friendly cat face with pointy ears and long whiskers",
   "blackAndWhite": true,
-  "sections": [
-    { "id": "background", "label": "Background", "defaultColor": "#ffffff" },
-    { "id": "head", "label": "Head", "defaultColor": "#ffffff" },
-    { "id": "ears", "label": "Ears", "defaultColor": "#ffffff" },
-    { "id": "innerEars", "label": "Inner Ears", "defaultColor": "#ffffff" },
-    { "id": "eyes", "label": "Eyes", "defaultColor": "#ffffff" },
-    { "id": "pupils", "label": "Pupils", "defaultColor": "#ffffff" },
-    { "id": "nose", "label": "Nose", "defaultColor": "#ffffff" },
-    { "id": "mouth", "label": "Mouth", "defaultColor": "#ffffff" },
-    { "id": "whiskers", "label": "Whiskers", "defaultColor": "#ffffff" }
-  ],
+ "sections": [
+  {
+    "id": "background",
+    "label": {
+      "en": "Background",
+      "ar": "الخلفية",
+      "fr": "Arrière-plan",
+      "es": "Fondo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "head",
+    "label": {
+      "en": "Head",
+      "ar": "الرأس",
+      "fr": "Tête",
+      "es": "Cabeza"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "ears",
+    "label": {
+      "en": "Ears",
+      "ar": "الأذن",
+      "fr": "Oreilles",
+      "es": "Orejas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "innerEars",
+    "label": {
+      "en": "Inner Ears",
+      "ar": "داخل الأذن",
+      "fr": "Intérieur des oreilles",
+      "es": "Interior de las orejas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "eyes",
+    "label": {
+      "en": "Eyes",
+      "ar": "العينين",
+      "fr": "Yeux",
+      "es": "Ojos"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "pupils",
+    "label": {
+      "en": "Pupils",
+      "ar": "بؤبؤ العين",
+      "fr": "Pupilles",
+      "es": "Pupilas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "nose",
+    "label": {
+      "en": "Nose",
+      "ar": "الأنف",
+      "fr": "Nez",
+      "es": "Nariz"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "mouth",
+    "label": {
+      "en": "Mouth",
+      "ar": "الفم",
+      "fr": "Bouche",
+      "es": "Boca"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "whiskers",
+    "label": {
+      "en": "Whiskers",
+      "ar": "الشوارب",
+      "fr": "Moustaches",
+      "es": "Bigotes"
+    },
+    "defaultColor": "#ffffff"
+  }
+],
   "shapes": [
     { "type": "rect", "sectionId": "background", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
 
@@ -192,14 +462,68 @@
   "icon": "local-florist",
   "description": "Cheerful daisy with rounded petals growing from the grass",
   "blackAndWhite": true,
-  "sections": [
-    { "id": "sky", "label": "Sky", "defaultColor": "#ffffff" },
-    { "id": "grass", "label": "Grass", "defaultColor": "#ffffff" },
-    { "id": "stem", "label": "Stem", "defaultColor": "#ffffff" },
-    { "id": "leaves", "label": "Leaves", "defaultColor": "#ffffff" },
-    { "id": "petals", "label": "Petals", "defaultColor": "#ffffff" },
-    { "id": "center", "label": "Center", "defaultColor": "#ffffff" }
-  ],
+ "sections": [
+  {
+    "id": "sky",
+    "label": {
+      "en": "Sky",
+      "ar": "السماء",
+      "fr": "Ciel",
+      "es": "Cielo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "grass",
+    "label": {
+      "en": "Grass",
+      "ar": "العشب",
+      "fr": "Herbe",
+      "es": "Hierba"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "stem",
+    "label": {
+      "en": "Stem",
+      "ar": "الساق",
+      "fr": "Tige",
+      "es": "Tallo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "leaves",
+    "label": {
+      "en": "Leaves",
+      "ar": "الأوراق",
+      "fr": "Feuilles",
+      "es": "Hojas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "petals",
+    "label": {
+      "en": "Petals",
+      "ar": "البتلات",
+      "fr": "Pétales",
+      "es": "Pétalos"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "center",
+    "label": {
+      "en": "Center",
+      "ar": "الوسط",
+      "fr": "Centre",
+      "es": "Centro"
+    },
+    "defaultColor": "#ffffff"
+  }
+],
   "shapes": [
     { "type": "rect", "sectionId": "sky", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
 
@@ -232,18 +556,108 @@
   "icon": "nights-stay",
   "description": "Sleepy owl with big eyes perched on a branch under the moon",
   "blackAndWhite": true,
-  "sections": [
-    { "id": "sky", "label": "Sky", "defaultColor": "#ffffff" },
-    { "id": "moon", "label": "Moon", "defaultColor": "#ffffff" },
-    { "id": "branch", "label": "Branch", "defaultColor": "#ffffff" },
-    { "id": "body", "label": "Body", "defaultColor": "#ffffff" },
-    { "id": "wings", "label": "Wings", "defaultColor": "#ffffff" },
-    { "id": "chest", "label": "Chest", "defaultColor": "#ffffff" },
-    { "id": "eyes", "label": "Eyes", "defaultColor": "#ffffff" },
-    { "id": "pupils", "label": "Pupils", "defaultColor": "#ffffff" },
-    { "id": "beak", "label": "Beak", "defaultColor": "#ffffff" },
-    { "id": "feet", "label": "Feet", "defaultColor": "#ffffff" }
-  ],
+ "sections": [
+  {
+    "id": "sky",
+    "label": {
+      "en": "Sky",
+      "ar": "السماء",
+      "fr": "Ciel",
+      "es": "Cielo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "moon",
+    "label": {
+      "en": "Moon",
+      "ar": "القمر",
+      "fr": "Lune",
+      "es": "Luna"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "branch",
+    "label": {
+      "en": "Branch",
+      "ar": "غصن الشجرة",
+      "fr": "Branche",
+      "es": "Rama"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "body",
+    "label": {
+      "en": "Body",
+      "ar": "الجسم",
+      "fr": "Corps",
+      "es": "Cuerpo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "wings",
+    "label": {
+      "en": "Wings",
+      "ar": "الأجنحة",
+      "fr": "Ailes",
+      "es": "Alas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "chest",
+    "label": {
+      "en": "Chest",
+      "ar": "الصدر",
+      "fr": "Poitrine",
+      "es": "Pecho"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "eyes",
+    "label": {
+      "en": "Eyes",
+      "ar": "العينين",
+      "fr": "Yeux",
+      "es": "Ojos"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "pupils",
+    "label": {
+      "en": "Pupils",
+      "ar": "بؤبؤ العين",
+      "fr": "Pupilles",
+      "es": "Pupilas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "beak",
+    "label": {
+      "en": "Beak",
+      "ar": "المنقار",
+      "fr": "Bec",
+      "es": "Pico"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "feet",
+    "label": {
+      "en": "Feet",
+      "ar": "القدمين",
+      "fr": "Pattes",
+      "es": "Patas"
+    },
+    "defaultColor": "#ffffff"
+  }
+],
   "shapes": [
     { "type": "rect", "sectionId": "sky", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
 
@@ -285,14 +699,77 @@
   "description": "Happy turtle with a patterned shell paddling in the water",
   "blackAndWhite": true,
   "sections": [
-    { "id": "water", "label": "Water", "defaultColor": "#ffffff" },
-    { "id": "shell", "label": "Shell", "defaultColor": "#ffffff" },
-    { "id": "pattern", "label": "Shell Pattern", "defaultColor": "#ffffff" },
-    { "id": "body", "label": "Body", "defaultColor": "#ffffff" },
-    { "id": "head", "label": "Head", "defaultColor": "#ffffff" },
-    { "id": "legs", "label": "Legs", "defaultColor": "#ffffff" },
-    { "id": "eye", "label": "Eye", "defaultColor": "#ffffff" }
-  ],
+  {
+    "id": "water",
+    "label": {
+      "en": "Water",
+      "ar": "الماء",
+      "fr": "Eau",
+      "es": "Agua"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "shell",
+    "label": {
+      "en": "Shell",
+      "ar": "الصدفة",
+      "fr": "Carapace",
+      "es": "Caparazón"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "pattern",
+    "label": {
+      "en": "Shell Pattern",
+      "ar": "نقوش الصدفة",
+      "fr": "Motifs de la carapace",
+      "es": "Patrón del caparazón"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "body",
+    "label": {
+      "en": "Body",
+      "ar": "الجسم",
+      "fr": "Corps",
+      "es": "Cuerpo"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "head",
+    "label": {
+      "en": "Head",
+      "ar": "الرأس",
+      "fr": "Tête",
+      "es": "Cabeza"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "legs",
+    "label": {
+      "en": "Legs",
+      "ar": "الأرجل",
+      "fr": "Pattes",
+      "es": "Patas"
+    },
+    "defaultColor": "#ffffff"
+  },
+  {
+    "id": "eye",
+    "label": {
+      "en": "Eye",
+      "ar": "العين",
+      "fr": "Œil",
+      "es": "Ojo"
+    },
+    "defaultColor": "#ffffff"
+  }
+],
   "shapes": [
     { "type": "rect", "sectionId": "water", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
 
