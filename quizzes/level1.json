@@ -20,7 +20,12 @@
       "en": "The 5 pillars are: Shahadah, Prayer (Salah), Zakat, Fasting (Sawm), and Hajj.",
       "fr": "Les 5 piliers sont : la Shahadah, la prière, la Zakat, le jeûne et le Hajj."
     },
-    "category": "Pillars"
+    "category": {
+      "ar": "أركان الإسلام",
+      "es": "Pilares",
+      "en": "Pillars",
+      "fr": "Piliers"
+    }
   },
   {
     "id": 2,
@@ -43,7 +48,12 @@
       "en": "Fajr is the first of the five daily prayers and starts at dawn.",
       "fr": "Fajr est la première des cinq prières et commence à l'aube."
     },
-    "category": "Prayer"
+    "category": {
+      "ar": "الصلاة",
+      "es": "Oración",
+      "en": "Prayer",
+      "fr": "Prière"
+    }
   },
   {
     "id": 3,
@@ -66,7 +76,12 @@
       "en": "We say 'Bismillah' to seek Allah's blessing in our actions.",
       "fr": "Nous disons 'Bismillah' pour demander la bénédiction d'Allah."
     },
-    "category": "Dhikr"
+    "category": {
+      "ar": "الذكر",
+      "es": "Dhikr",
+      "en": "Dhikr",
+      "fr": "Dhikr"
+    }
   },
   {
     "id": 4,
@@ -89,7 +104,12 @@
       "en": "The Holy Quran is the word of Allah revealed to Prophet Muhammad ﷺ.",
       "fr": "Le Noble Coran est la parole d'Allah révélée au Prophète Muhammad ﷺ."
     },
-    "category": "Quran"
+    "category": {
+      "ar": "القرآن",
+      "es": "Corán",
+      "en": "Quran",
+      "fr": "Coran"
+    }
   },
   {
     "id": 5,
@@ -112,7 +132,12 @@
       "en": "Adam (AS) is the father of humanity and the first prophet.",
       "fr": "Adam (AS) est le père de l'humanité et le premier prophète."
     },
-    "category": "Prophets"
+    "category": {
+      "ar": "الأنبياء",
+      "es": "Profetas",
+      "en": "Prophets",
+      "fr": "Prophètes"
+    }
   },
   {
     "id": 6,
@@ -135,7 +160,12 @@
       "en": "The Prophet ﷺ was born in the city of Makkah.",
       "fr": "Le Prophète ﷺ est né dans la ville de La Mecque."
     },
-    "category": "Seerah"
+    "category": {
+      "ar": "السيرة النبوية",
+      "es": "Seerah",
+      "en": "Seerah",
+      "fr": "Seerah"
+    }
   },
   {
     "id": 7,
@@ -158,12 +188,17 @@
       "en": "Zakat is the purification of wealth and obligatory charity.",
       "fr": "La Zakat est la purification des biens et l'aumône obligatoire."
     },
-    "category": "Pillars"
+    "category": {
+      "ar": "أركان الإسلام",
+      "es": "Pilares",
+      "en": "Pillars",
+      "fr": "Piliers"
+    }
   },
   {
     "id": 8,
     "question": {
-      "ar": "كم عدد ركعات صلاة الفجر؟",
+      "ar": "كم عدد ركعات صلاة الفجر？",
       "es": "¿Cuántas rakats tiene la oración de Fajr?",
       "en": "How many rakats does Fajr prayer have?",
       "fr": "Combien de rakats compte la prière de Fajr ?"
@@ -181,7 +216,12 @@
       "en": "The obligatory Fajr prayer consists of 2 rakats.",
       "fr": "La prière obligatoire de Fajr se compose de 2 rakats."
     },
-    "category": "Prayer"
+    "category": {
+      "ar": "الصلاة",
+      "es": "Oración",
+      "en": "Prayer",
+      "fr": "Prière"
+    }
   },
   {
     "id": 9,
@@ -204,7 +244,12 @@
       "en": "Fasting is abstaining from food and drink from dawn to sunset.",
       "fr": "Le jeûne consiste à s'abstenir de manger et boire de l'aube au coucher du soleil."
     },
-    "category": "Pillars"
+    "category": {
+      "ar": "أركان الإسلام",
+      "es": "Pilares",
+      "en": "Pillars",
+      "fr": "Piliers"
+    }
   },
   {
     "id": 10,
@@ -227,7 +272,12 @@
       "en": "We say 'Alhamdulillah' to thank Allah after sneezing.",
       "fr": "Nous disons 'Alhamdulillah' pour remercier Allah après avoir éternué."
     },
-    "category": "Dhikr"
+    "category": {
+      "ar": "الذكر",
+      "es": "Dhikr",
+      "en": "Dhikr",
+      "fr": "Dhikr"
+    }
   },
   {
     "id": 11,
@@ -250,7 +300,12 @@
       "en": "Dhuhr prayer consists of 4 rakats.",
       "fr": "La prière de Dhuhr se compose de 4 rakats."
     },
-    "category": "Prayer"
+    "category": {
+      "ar": "الصلاة",
+      "es": "Oración",
+      "en": "Prayer",
+      "fr": "Prière"
+    }
   },
   {
     "id": 12,
@@ -273,7 +328,12 @@
       "en": "Hud (AS) was sent to invite the people of 'Ad to monotheism.",
       "fr": "Hud (AS) a été envoyé pour inviter le peuple des 'Ad au monothéisme."
     },
-    "category": "Prophets"
+    "category": {
+      "ar": "الأنبياء",
+      "es": "Profetas",
+      "en": "Prophets",
+      "fr": "Prophètes"
+    }
   },
   {
     "id": 13,
@@ -296,13 +356,18 @@
       "en": "The Kaaba in Makkah is the direction (Qibla) for all Muslims.",
       "fr": "La Kaaba à La Mecque est la direction (Qibla) pour tous les musulmans."
     },
-    "category": "Prayer"
+    "category": {
+      "ar": "الصلاة",
+      "es": "Oración",
+      "en": "Prayer",
+      "fr": "Prière"
+    }
   },
   {
     "id": 14,
     "question": {
       "ar": "ما هو الركن الرابع من أركان الإسلام؟",
-      "es": "¿Cuál es el cuarto pilar del Islam?",
+      "es": "¿Cuál es el quarto pilar del Islam?",
       "en": "What is the fourth pillar of Islam?",
       "fr": "Quel est le quatrième pilier de l'Islam ?"
     },
@@ -319,7 +384,12 @@
       "en": "Fasting is the fourth pillar, obligatory during Ramadan.",
       "fr": "Le jeûne est le quatrième pilier, obligatoire pendant le Ramadan."
     },
-    "category": "Pillars"
+    "category": {
+      "ar": "أركان الإسلام",
+      "es": "Pilares",
+      "en": "Pillars",
+      "fr": "Piliers"
+    }
   },
   {
     "id": 15,
@@ -342,6 +412,11 @@
       "en": "Jibril (Gabriel) is the angel who brought revelation to the prophets.",
       "fr": "Jibril (Gabriel) est l'ange qui a apporté la révélation aux prophètes."
     },
-    "category": "Belief"
+    "category": {
+      "ar": "العقيدة",
+      "es": "Creencia",
+      "en": "Belief",
+      "fr": "Croyance"
+    }
   }
 ]
