@@ -1,89 +1,436 @@
 {
   "scenes": [
     {
-  "id": "forest",
-  "title": "Enchanted Forest",
-  "subtitle": "Find 6 objects hidden in the magical forest",
-  "gradient": ["#0f2027", "#2c5364"],
-  "accent": "#a78bfa",
-  "difficulty": "Easy",
-  "xp": 100,
-  "viewBox": { "width": 300, "height": 165 },
-  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/shum.png",
-  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/shum.png",
-  "objects": [
-    { "id": "owl",       "label": "Wise Owl",        "icon": "eye-outline",       "cx": 57,  "cy": 42,  "r": 18 },
-    { "id": "mushroom",  "label": "Magic Mushroom",  "icon": "nutrition-outline", "cx": 89,  "cy": 135, "r": 22 },
-    { "id": "fairy",     "label": "Glowing Fairy",   "icon": "sparkles-outline",  "cx": 233, "cy": 51,  "r": 16 },
-    { "id": "lantern",   "label": "Golden Lantern",  "icon": "bulb-outline",      "cx": 267, "cy": 79,  "r": 20 },
-    { "id": "key",       "label": "Treasure Key",    "icon": "key-outline",       "cx": 205, "cy": 124, "r": 18 },
-    { "id": "butterfly", "label": "Purple Butterfly","icon": "bug-outline",       "cx": 158, "cy": 79,  "r": 18 }
+      "id": "forest",
+      "title": {
+        "en": "Enchanted Forest",
+        "ar": "الغابة السحرية",
+        "fr": "Forêt enchantée",
+        "es": "Bosque encantado"
+      },
+      "subtitle": {
+        "en": "Find 6 objects hidden in the magical forest",
+        "ar": "ابحث عن 6 أشياء مخفية في الغابة السحرية",
+        "fr": "Trouvez 6 objets cachés dans la forêt magique",
+        "es": "Encuentra 6 objetos ocultos en el bosque mágico"
+      },
+      "gradient": ["#0f2027", "#2c5364"],
+      "accent": "#a78bfa",
+      "difficulty": "Easy",
+      "difficultyLabel": {
+        "en": "Easy",
+        "fr": "Facile",
+        "es": "Fácil",
+        "ar": "سهل"
+      },
+      "xp": 100,
+      "viewBox": { "width": 300, "height": 165 },
+      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/shum.png",
+      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/shum.png",
+      "objects": [
+        {
+          "id": "owl",
+          "label": {
+            "en": "Wise Owl",
+            "ar": "البومة الحكيمة",
+            "fr": "Hibou sage",
+            "es": "Búho sabio"
+          },
+          "icon": "eye-outline",
+          "cx": 57,
+          "cy": 42,
+          "r": 18
+        },
+        {
+          "id": "mushroom",
+          "label": {
+            "en": "Magic Mushroom",
+            "ar": "الفطر السحري",
+            "fr": "Champignon magique",
+            "es": "Champiñón mágico"
+          },
+          "icon": "nutrition-outline",
+          "cx": 89,
+          "cy": 135,
+          "r": 22
+        },
+        {
+          "id": "fairy",
+          "label": {
+            "en": "Glowing Fairy",
+            "ar": "الجنية المضيئة",
+            "fr": "Fée lumineuse",
+            "es": "Hada brillante"
+          },
+          "icon": "sparkles-outline",
+          "cx": 233,
+          "cy": 51,
+          "r": 16
+        },
+        {
+          "id": "lantern",
+          "label": {
+            "en": "Golden Lantern",
+            "ar": "الفانوس الذهبي",
+            "fr": "Lanterne dorée",
+            "es": "Linterna dorada"
+          },
+          "icon": "bulb-outline",
+          "cx": 267,
+          "cy": 79,
+          "r": 20
+        },
+        {
+          "id": "key",
+          "label": {
+            "en": "Treasure Key",
+            "ar": "مفتاح الكنز",
+            "fr": "Clé du trésor",
+            "es": "Llave del tesoro"
+          },
+          "icon": "key-outline",
+          "cx": 205,
+          "cy": 124,
+          "r": 18
+        },
+        {
+          "id": "butterfly",
+          "label": {
+            "en": "Purple Butterfly",
+            "ar": "الفراشة البنفسجية",
+            "fr": "Papillon violet",
+            "es": "Mariposa púrpura"
+          },
+          "icon": "bug-outline",
+          "cx": 158,
+          "cy": 79,
+          "r": 18
+        }
+      ]
+    },
+    {
+      "id": "mosque",
+      "title": {
+        "en": "Grand Mosque",
+        "ar": "المسجد الكبير",
+        "fr": "Grande Mosquée",
+        "es": "Gran Mezquita"
+      },
+      "subtitle": {
+        "en": "Find 6 objects hidden in the mosque",
+        "ar": "ابحث عن 6 أشياء مخفية في المسجد",
+        "fr": "Trouvez 6 objets cachés dans la mosquée",
+        "es": "Encuentra 6 objetos ocultos en la mezquita"
+      },
+      "gradient": ["#1a1a2e", "#16213e"],
+      "accent": "#e2b96f",
+      "difficulty": "Medium",
+      "difficultyLabel": {
+        "en": "Medium",
+        "fr": "Intermédiaire",
+        "es": "Medio",
+        "ar": "متوسط"
+      },
+      "xp": 150,
+      "viewBox": { "width": 300, "height": 165 },
+      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
+      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
+      "objects": [
+        {
+          "id": "crescent",
+          "label": {
+            "en": "Crescent Moon",
+            "ar": "الهلال",
+            "fr": "Croissant de lune",
+            "es": "Luna creciente"
+          },
+          "icon": "moon-outline",
+          "cx": 234,
+          "cy": 51,
+          "r": 24
+        },
+        {
+          "id": "star",
+          "label": {
+            "en": "Golden Star",
+            "ar": "النجمة الذهبية",
+            "fr": "Étoile dorée",
+            "es": "Estrella dorada"
+          },
+          "icon": "star-outline",
+          "cx": 201,
+          "cy": 26,
+          "r": 10
+        },
+        {
+          "id": "minaret_left",
+          "label": {
+            "en": "Left Minaret",
+            "ar": "المئذنة اليسرى",
+            "fr": "Minaret gauche",
+            "es": "Minarete izquierdo"
+          },
+          "icon": "business-outline",
+          "cx": 32,
+          "cy": 67,
+          "r": 20
+        },
+        {
+          "id": "minaret_right",
+          "label": {
+            "en": "Right Minaret",
+            "ar": "المئذنة اليمنى",
+            "fr": "Minaret droit",
+            "es": "Minarete derecho"
+          },
+          "icon": "business-outline",
+          "cx": 267,
+          "cy": 67,
+          "r": 20
+        },
+        {
+          "id": "dome",
+          "label": {
+            "en": "Main Dome",
+            "ar": "القبة الرئيسية",
+            "fr": "Dôme principal",
+            "es": "Cúpula principal"
+          },
+          "icon": "globe-outline",
+          "cx": 149,
+          "cy": 56,
+          "r": 32
+        },
+        {
+          "id": "arch",
+          "label": {
+            "en": "Arched Door",
+            "ar": "الباب المقوس",
+            "fr": "Porte arquée",
+            "es": "Puerta arqueada"
+          },
+          "icon": "enter-outline",
+          "cx": 149,
+          "cy": 135,
+          "r": 28
+        }
+      ]
+    },
+    {
+      "id": "pirate",
+      "title": {
+        "en": "Pirate Ship",
+        "ar": "سفينة القراصنة",
+        "fr": "Navire pirate",
+        "es": "Barco pirata"
+      },
+      "subtitle": {
+        "en": "Find 6 objects hidden on the pirate ship",
+        "ar": "ابحث عن 6 أشياء مخفية على سفينة القراصنة",
+        "fr": "Trouvez 6 objets cachés sur le navire pirate",
+        "es": "Encuentra 6 objetos ocultos en el barco pirata"
+      },
+      "gradient": ["#3a1d0f", "#7a2e1a"],
+      "accent": "#f5a623",
+      "difficulty": "Hard",
+      "difficultyLabel": {
+        "en": "Hard",
+        "fr": "Difficile",
+        "es": "Difícil",
+        "ar": "صعب"
+      },
+      "xp": 200,
+      "viewBox": { "width": 300, "height": 165 },
+      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/ship.png",
+      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/ship.png",
+      "objects": [
+        {
+          "id": "flag",
+          "label": {
+            "en": "Pirate Flag",
+            "ar": "علم القراصنة",
+            "fr": "Drapeau pirate",
+            "es": "Bandera pirata"
+          },
+          "icon": "flag-outline",
+          "cx": 174,
+          "cy": 18,
+          "r": 12
+        },
+        {
+          "id": "sail",
+          "label": {
+            "en": "Main Sail",
+            "ar": "الشراع الرئيسي",
+            "fr": "Voile principale",
+            "es": "Vela principal"
+          },
+          "icon": "boat-outline",
+          "cx": 155,
+          "cy": 70,
+          "r": 28
+        },
+        {
+          "id": "wheel",
+          "label": {
+            "en": "Ship's Wheel",
+            "ar": "عجلة القيادة",
+            "fr": "Barre du navire",
+            "es": "Timón del barco"
+          },
+          "icon": "disc-outline",
+          "cx": 145,
+          "cy": 111,
+          "r": 10
+        },
+        {
+          "id": "chest",
+          "label": {
+            "en": "Treasure Chest",
+            "ar": "صندوق الكنز",
+            "fr": "Coffre au trésor",
+            "es": "Cofre del tesoro"
+          },
+          "icon": "cube-outline",
+          "cx": 199,
+          "cy": 120,
+          "r": 14
+        },
+        {
+          "id": "anchor",
+          "label": {
+            "en": "Iron Anchor",
+            "ar": "المرساة الحديدية",
+            "fr": "Ancre en fer",
+            "es": "Ancla de hierro"
+          },
+          "icon": "anchor-outline",
+          "cx": 122,
+          "cy": 119,
+          "r": 14
+        },
+        {
+          "id": "seagull",
+          "label": {
+            "en": "Seagull",
+            "ar": "نورس البحر",
+            "fr": "Mouette",
+            "es": "Gaviota"
+          },
+          "icon": "airplane-outline",
+          "cx": 85,
+          "cy": 48,
+          "r": 14
+        }
+      ]
+    },
+    {
+      "id": "ocean",
+      "title": {
+        "en": "Coral Reef",
+        "ar": "الشعب المرجانية",
+        "fr": "Récif de corail",
+        "es": "Arrecife de coral"
+      },
+      "subtitle": {
+        "en": "Find 6 objects hidden in the underwater reef",
+        "ar": "ابحث عن 6 أشياء مخفية في الشعاب المرجانية تحت الماء",
+        "fr": "Trouvez 6 objets cachés dans le récif sous-marin",
+        "es": "Encuentra 6 objetos ocultos en el arrecife submarino"
+      },
+      "gradient": ["#13547a", "#80d0c7"],
+      "accent": "#ffb347",
+      "difficulty": "Medium",
+      "difficultyLabel": {
+        "en": "Medium",
+        "fr": "Intermédiaire",
+        "es": "Medio",
+        "ar": "متوسط"
+      },
+      "xp": 150,
+      "viewBox": { "width": 300, "height": 165 },
+      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
+      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
+      "objects": [
+        {
+          "id": "turtle",
+          "label": {
+            "en": "Sea Turtle",
+            "ar": "سلحفاة بحرية",
+            "fr": "Tortue marine",
+            "es": "Tortuga marina"
+          },
+          "icon": "leaf-outline",
+          "cx": 64,
+          "cy": 41,
+          "r": 30
+        },
+        {
+          "id": "starfish",
+          "label": {
+            "en": "Pink Starfish",
+            "ar": "نجم البحر الوردي",
+            "fr": "Étoile de mer rose",
+            "es": "Estrella de mer rosa"
+          },
+          "icon": "star-outline",
+          "cx": 31,
+          "cy": 133,
+          "r": 18
+        },
+        {
+          "id": "chest",
+          "label": {
+            "en": "Treasure Chest",
+            "ar": "صندوق الكنز",
+            "fr": "Coffre au trésor",
+            "es": "Cofre del tesoro"
+          },
+          "icon": "cube-outline",
+          "cx": 116,
+          "cy": 132,
+          "r": 24
+        },
+        {
+          "id": "octopus",
+          "label": {
+            "en": "Purple Octopus",
+            "ar": "الأخطبوط البنفسجي",
+            "fr": "Pieuvre violette",
+            "es": "Pulpo púrpura"
+          },
+          "icon": "rose-outline",
+          "cx": 256,
+          "cy": 67,
+          "r": 32
+        },
+        {
+          "id": "pearl",
+          "label": {
+            "en": "Pearl in Clam",
+            "ar": "لؤلؤة داخل المحارة",
+            "fr": "Perle dans son huître",
+            "es": "Perla en almeja"
+          },
+          "icon": "ellipse-outline",
+          "cx": 234,
+          "cy": 141,
+          "r": 18
+        },
+        {
+          "id": "clownfish",
+          "label": {
+            "en": "Clownfish",
+            "ar": "سمكة المهرج",
+            "fr": "Poisson-clown",
+            "es": "Pez payaso"
+          },
+          "icon": "fish-outline",
+          "cx": 143,
+          "cy": 79,
+          "r": 30
+        }
+      ]
+    }
   ]
 }
-,
-  {
-  "id": "mosque",
-  "title": "Grand Mosque",
-  "subtitle": "Find 6 objects hidden in the mosque",
-  "gradient": ["#1a1a2e", "#16213e"],
-  "accent": "#e2b96f",
-  "difficulty": "Medium",
-  "xp": 150,
-  "viewBox": { "width": 300, "height": 165 },
-  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
-  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
-  "objects": [
-    { "id": "crescent",      "label": "Crescent Moon",  "icon": "moon-outline",     "cx": 234, "cy": 51,  "r": 24 },
-    { "id": "star",          "label": "Golden Star",    "icon": "star-outline",     "cx": 201, "cy": 26,  "r": 10 },
-    { "id": "minaret_left",  "label": "Left Minaret",   "icon": "business-outline", "cx": 32,  "cy": 67,  "r": 20 },
-    { "id": "minaret_right", "label": "Right Minaret",  "icon": "business-outline", "cx": 267, "cy": 67,  "r": 20 },
-    { "id": "dome",          "label": "Main Dome",      "icon": "globe-outline",    "cx": 149, "cy": 56,  "r": 32 },
-    { "id": "arch",          "label": "Arched Door",    "icon": "enter-outline",    "cx": 149, "cy": 135, "r": 28 }
-  ]
-}
-,
-  {
-  "id": "pirate",
-  "title": "Pirate Ship",
-  "subtitle": "Find 6 objects hidden on the pirate ship",
-  "gradient": ["#3a1d0f", "#7a2e1a"],
-  "accent": "#f5a623",
-  "difficulty": "Hard",
-  "xp": 200,
-  "viewBox": { "width": 300, "height": 165 },
-  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/ship.png",
-  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/ship.png",
-  "objects": [
-    { "id": "flag",     "label": "Pirate Flag",    "icon": "flag-outline",        "cx": 174, "cy": 18,  "r": 12 },
-    { "id": "sail",     "label": "Main Sail",      "icon": "boat-outline",        "cx": 155, "cy": 70,  "r": 28 },
-    { "id": "wheel",    "label": "Ship's Wheel",   "icon": "disc-outline",        "cx": 145, "cy": 111, "r": 10 },
-    { "id": "chest",    "label": "Treasure Chest", "icon": "cube-outline",        "cx": 199, "cy": 120, "r": 14 },
-    { "id": "anchor",   "label": "Iron Anchor",    "icon": "anchor-outline",      "cx": 122, "cy": 119, "r": 14 },
-    { "id": "seagull",  "label": "Seagull",        "icon": "airplane-outline",    "cx": 85,  "cy": 48,  "r": 14 }
-  ]
-},{
-  "id": "ocean",
-  "title": "Coral Reef",
-  "subtitle": "Find 6 objects hidden in the underwater reef",
-  "gradient": ["#13547a", "#80d0c7"],
-  "accent": "#ffb347",
-  "difficulty": "Medium",
-  "xp": 150,
-  "viewBox": { "width": 300, "height": 165 },
-  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
-  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
-  "objects": [
-    { "id": "turtle",    "label": "Sea Turtle",      "icon": "leaf-outline",       "cx": 64,  "cy": 41,  "r": 30 },
-    { "id": "starfish",  "label": "Pink Starfish",   "icon": "star-outline",       "cx": 31,  "cy": 133, "r": 18 },
-    { "id": "chest",     "label": "Treasure Chest",  "icon": "cube-outline",       "cx": 116, "cy": 132, "r": 24 },
-    { "id": "octopus",   "label": "Purple Octopus",  "icon": "rose-outline",       "cx": 256, "cy": 67,  "r": 32 },
-    { "id": "pearl",     "label": "Pearl in Clam",   "icon": "ellipse-outline",    "cx": 234, "cy": 141, "r": 18 },
-    { "id": "clownfish", "label": "Clownfish",       "icon": "fish-outline",       "cx": 143, "cy": 79,  "r": 30 }
-  ]
-}
-
-
-
-  ]
-}
-
