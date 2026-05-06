@@ -15,6 +15,12 @@
         "es": "Una mezquita brillante bajo las estrellas"
       },
       "difficulty": "Medium",
+      "difficultyLabel": {
+        "en": "Medium",
+        "fr": "Intermédiaire",
+        "es": "Medio",
+        "ar": "متوسط"
+      },
       "gradient": ["#0f1f3d", "#1e3a5f"],
       "accent": "#FDE68A",
       "stars": 2,
@@ -45,7 +51,13 @@
         "fr": "Secrets anciens et potions lumineuses",
         "es": "Secretos antiguos y pociones brillantes"
       },
-       "difficulty": "Medium",
+      "difficulty": "Medium",
+      "difficultyLabel": {
+        "en": "Medium",
+        "fr": "Intermédiaire",
+        "es": "Medio",
+        "ar": "متوسط"
+      },
       "gradient": ["#1E293B", "#475569"],
       "accent": "#9333EA",
       "stars": 2,
@@ -68,7 +80,7 @@
         "en": "Mystic Ocean Depths",
         "ar": "أعماق المحيط الغامضة",
         "fr": "Profondeurs mystiques de l'océan",
-        "es": "Profundidades místicas del océano"
+        "es": "Possibilités místicas del océano"
       },
       "subtitle": {
         "en": "Discover hidden treasures beneath the waves",
@@ -76,7 +88,13 @@
         "fr": "Découvrez des trésors cachés sous les vagues",
         "es": "Descubre tesoros ocultos bajo las olas"
       },
-       "difficulty": "Medium",
+      "difficulty": "Medium",
+      "difficultyLabel": {
+        "en": "Medium",
+        "fr": "Intermédiaire",
+        "es": "Medio",
+        "ar": "متوسط"
+      },
       "gradient": ["#020617", "#0c4a6e"],
       "accent": "#22d3ee",
       "stars": 2,
