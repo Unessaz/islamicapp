@@ -864,9 +864,113 @@
     { "type": "path", "sectionId": "water", "props": { "d": "M 0 30 Q 25 22 50 30", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
     { "type": "path", "sectionId": "water", "props": { "d": "M 250 30 Q 275 22 300 30", "stroke": "#333", "strokeWidth": 2, "fill": "none" } }
   ]
+},
+  {
+  "id": "lion",
+  "name": { "en": "Lion", "ar": "أسد", "fr": "Lion", "es": "León" },
+  "icon": "pets",
+  "description": {
+    "en": "A majestic lion face with a big fluffy mane and friendly expression",
+    "ar": "وجه أسد مهيب بعرف كثيف ضخم وتعبير ودي",
+    "fr": "Un visage de lion majestueux avec une grande crinière moelleuse et une expression amicale",
+    "es": "Un majestuoso rostro de león con una gran melena esponjosa y expresión amigable"
+  },
+  "blackAndWhite": true,
+  "sections": [
+    { "id": "background", "label": { "en": "Background",  "ar": "الخلفية",          "fr": "Arrière-plan",           "es": "Fondo"              }, "defaultColor": "#ffffff" },
+    { "id": "mane",       "label": { "en": "Mane",        "ar": "العرف",             "fr": "Crinière",               "es": "Melena"             }, "defaultColor": "#ffffff" },
+    { "id": "head",       "label": { "en": "Head",        "ar": "الرأس",             "fr": "Tête",                   "es": "Cabeza"             }, "defaultColor": "#ffffff" },
+    { "id": "ears",       "label": { "en": "Ears",        "ar": "الأذنان",           "fr": "Oreilles",               "es": "Orejas"             }, "defaultColor": "#ffffff" },
+    { "id": "innerEars",  "label": { "en": "Inner Ears",  "ar": "داخل الأذنين",     "fr": "Intérieur des oreilles", "es": "Interior de orejas" }, "defaultColor": "#ffffff" },
+    { "id": "eyes",       "label": { "en": "Eyes",        "ar": "العيون",            "fr": "Yeux",                   "es": "Ojos"               }, "defaultColor": "#ffffff" },
+    { "id": "pupils",     "label": { "en": "Pupils",      "ar": "حدقة العين",        "fr": "Pupilles",               "es": "Pupilas"            }, "defaultColor": "#ffffff" },
+    { "id": "muzzle",     "label": { "en": "Muzzle",      "ar": "الخطم",             "fr": "Museau",                 "es": "Hocico"             }, "defaultColor": "#ffffff" },
+    { "id": "nose",       "label": { "en": "Nose",        "ar": "الأنف",             "fr": "Nez",                    "es": "Nariz"              }, "defaultColor": "#ffffff" },
+    { "id": "whiskers",   "label": { "en": "Whiskers",    "ar": "شوارب",             "fr": "Moustaches",             "es": "Bigotes"            }, "defaultColor": "#ffffff" }
+  ],
+  "shapes": [
+    { "type": "rect", "sectionId": "background", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
+
+    { "type": "path", "sectionId": "ears", "props": { "d": "M 72 92 L 62 55 L 100 78 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "ears", "props": { "d": "M 228 92 L 238 55 L 200 78 Z", "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "innerEars", "props": { "d": "M 80 85 L 74 65 L 95 80 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+    { "type": "path", "sectionId": "innerEars", "props": { "d": "M 220 85 L 226 65 L 205 80 Z", "stroke": "#333", "strokeWidth": 2, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "mane", "props": { "cx": 150, "cy": 148, "r": 95, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "mane", "props": { "d": "M 150 53 L 145 40 M 150 53 L 155 40 M 192 68 L 200 57 M 225 98 L 237 92 M 235 148 L 248 148 M 225 198 L 237 205 M 192 228 L 200 239 M 150 243 L 150 240 M 108 228 L 100 239 M 75 198 L 63 205 M 65 148 L 52 148 M 75 98 L 63 92 M 108 68 L 100 57", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+
+    { "type": "ellipse", "sectionId": "head", "props": { "cx": 150, "cy": 148, "rx": 68, "ry": 65, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "ellipse", "sectionId": "eyes", "props": { "cx": 118, "cy": 128, "rx": 18, "ry": 14, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "ellipse", "sectionId": "eyes", "props": { "cx": 182, "cy": 128, "rx": 18, "ry": 14, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "ellipse", "sectionId": "pupils", "props": { "cx": 120, "cy": 130, "rx": 7, "ry": 10, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+    { "type": "ellipse", "sectionId": "pupils", "props": { "cx": 180, "cy": 130, "rx": 7, "ry": 10, "stroke": "#333", "strokeWidth": 2, "fill": "#333" } },
+    { "type": "circle", "sectionId": "eyes", "props": { "cx": 115, "cy": 125, "r": 3, "stroke": "#fff", "strokeWidth": 0, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "eyes", "props": { "cx": 177, "cy": 125, "r": 3, "stroke": "#fff", "strokeWidth": 0, "fill": "#fff" } },
+
+    { "type": "ellipse", "sectionId": "muzzle", "props": { "cx": 150, "cy": 178, "rx": 42, "ry": 30, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+
+    { "type": "ellipse", "sectionId": "nose", "props": { "cx": 150, "cy": 162, "r": 0, "rx": 14, "ry": 9, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "nose", "props": { "d": "M 140 162 Q 150 170 160 162", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+
+    { "type": "path", "sectionId": "muzzle", "props": { "d": "M 150 171 L 150 182 M 150 182 Q 140 192 130 186 M 150 182 Q 160 192 170 186", "stroke": "#333", "strokeWidth": 2.5, "fill": "none" } },
+
+    { "type": "circle", "sectionId": "whiskers", "props": { "cx": 118, "cy": 172, "r": 2.5, "stroke": "#333", "strokeWidth": 1.5, "fill": "#333" } },
+    { "type": "circle", "sectionId": "whiskers", "props": { "cx": 118, "cy": 180, "r": 2.5, "stroke": "#333", "strokeWidth": 1.5, "fill": "#333" } },
+    { "type": "circle", "sectionId": "whiskers", "props": { "cx": 118, "cy": 188, "r": 2.5, "stroke": "#333", "strokeWidth": 1.5, "fill": "#333" } },
+    { "type": "circle", "sectionId": "whiskers", "props": { "cx": 182, "cy": 172, "r": 2.5, "stroke": "#333", "strokeWidth": 1.5, "fill": "#333" } },
+    { "type": "circle", "sectionId": "whiskers", "props": { "cx": 182, "cy": 180, "r": 2.5, "stroke": "#333", "strokeWidth": 1.5, "fill": "#333" } },
+    { "type": "circle", "sectionId": "whiskers", "props": { "cx": 182, "cy": 188, "r": 2.5, "stroke": "#333", "strokeWidth": 1.5, "fill": "#333" } },
+    { "type": "path", "sectionId": "whiskers", "props": { "d": "M 115 173 L 45 162 M 115 180 L 45 180 M 115 187 L 45 198", "stroke": "#333", "strokeWidth": 2, "fill": "none" } },
+    { "type": "path", "sectionId": "whiskers", "props": { "d": "M 185 173 L 255 162 M 185 180 L 255 180 M 185 187 L 255 198", "stroke": "#333", "strokeWidth": 2, "fill": "none" } }
+  ]
+},
+  {
+  "id": "rainbow",
+  "name": { "en": "Rainbow", "ar": "قوس قزح", "fr": "Arc-en-ciel", "es": "Arco iris" },
+  "icon": "wb-sunny",
+  "description": {
+    "en": "A cheerful rainbow with fluffy clouds and a smiling sun",
+    "ar": "قوس قزح مبهج مع غيوم ناعمة وشمس مبتسمة",
+    "fr": "Un arc-en-ciel joyeux avec des nuages moelleux et un soleil souriant",
+    "es": "Un alegre arco iris con nubes esponjosas y un sol sonriente"
+  },
+  "blackAndWhite": true,
+  "sections": [
+    { "id": "sky",    "label": { "en": "Sky",    "ar": "السماء",    "fr": "Ciel",    "es": "Cielo"    }, "defaultColor": "#ffffff" },
+    { "id": "sun",    "label": { "en": "Sun",    "ar": "الشمس",    "fr": "Soleil",  "es": "Sol"      }, "defaultColor": "#ffffff" },
+    { "id": "clouds", "label": { "en": "Clouds", "ar": "الغيوم",   "fr": "Nuages",  "es": "Nubes"    }, "defaultColor": "#ffffff" },
+    { "id": "red",    "label": { "en": "Red",    "ar": "أحمر",     "fr": "Rouge",   "es": "Rojo"     }, "defaultColor": "#ffffff" },
+    { "id": "orange", "label": { "en": "Orange", "ar": "برتقالي",  "fr": "Orange",  "es": "Naranja"  }, "defaultColor": "#ffffff" },
+    { "id": "yellow", "label": { "en": "Yellow", "ar": "أصفر",     "fr": "Jaune",   "es": "Amarillo" }, "defaultColor": "#ffffff" },
+    { "id": "green",  "label": { "en": "Green",  "ar": "أخضر",     "fr": "Vert",    "es": "Verde"    }, "defaultColor": "#ffffff" },
+    { "id": "blue",   "label": { "en": "Blue",   "ar": "أزرق",     "fr": "Bleu",    "es": "Azul"     }, "defaultColor": "#ffffff" },
+    { "id": "purple", "label": { "en": "Purple", "ar": "بنفسجي",   "fr": "Violet",  "es": "Morado"   }, "defaultColor": "#ffffff" }
+  ],
+  "shapes": [
+    { "type": "rect", "sectionId": "sky", "props": { "x": 0, "y": 0, "width": 300, "height": 240, "stroke": "#ddd", "strokeWidth": 0.5, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "sun", "props": { "cx": 42, "cy": 38, "r": 20, "stroke": "#333", "strokeWidth": 3, "fill": "#fff" } },
+    { "type": "path", "sectionId": "sun", "props": { "d": "M 42 13 L 42 5 M 42 63 L 42 71 M 17 38 L 9 38 M 67 38 L 75 38 M 24 20 L 18 14 M 60 56 L 66 62 M 60 20 L 66 14 M 24 56 L 18 62", "stroke": "#333", "strokeWidth": 2.5, "fill": "none" } },
+    { "type": "path", "sectionId": "sun", "props": { "d": "M 36 35 Q 42 30 48 35 Q 45 42 42 45 Q 39 42 36 35", "stroke": "#333", "strokeWidth": 1.5, "fill": "none" } },
+
+    { "type": "path", "sectionId": "red",    "props": { "d": "M 5 152 Q 150 -18 295 152 L 295 168 Q 150 8  5 168 Z", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "path", "sectionId": "orange", "props": { "d": "M 5 168 Q 150 8   295 168 L 295 184 Q 150 33  5 184 Z", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "path", "sectionId": "yellow", "props": { "d": "M 5 184 Q 150 33  295 184 L 295 200 Q 150 58  5 200 Z", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "path", "sectionId": "green",  "props": { "d": "M 5 200 Q 150 58  295 200 L 295 215 Q 150 83  5 215 Z", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "path", "sectionId": "blue",   "props": { "d": "M 5 215 Q 150 83  295 215 L 295 228 Q 150 107 5 228 Z", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "path", "sectionId": "purple", "props": { "d": "M 5 228 Q 150 107 295 228 L 295 240 Q 150 125 5 240 Z", "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "clouds", "props": { "cx": 38, "cy": 160, "r": 24, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "clouds", "props": { "cx": 18, "cy": 170, "r": 17, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "clouds", "props": { "cx": 58, "cy": 168, "r": 19, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "clouds", "props": { "cx": 38, "cy": 143, "r": 17, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+
+    { "type": "circle", "sectionId": "clouds", "props": { "cx": 262, "cy": 160, "r": 24, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "clouds", "props": { "cx": 282, "cy": 170, "r": 17, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "clouds", "props": { "cx": 242, "cy": 168, "r": 19, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } },
+    { "type": "circle", "sectionId": "clouds", "props": { "cx": 262, "cy": 143, "r": 17, "stroke": "#333", "strokeWidth": 2.5, "fill": "#fff" } }
+  ]
 }
-
-
-
   ]
 
