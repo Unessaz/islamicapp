@@ -1,9 +1,19 @@
 [
 {
   "id": "rocket",
-  "name": "Rocket",
-  "icon": "rocket-launch",
-  "description": "Friendly rocket blasting off through a starry sky",
+ "title": {
+      "en": "Rocket",
+      "ar": "صاروخ",
+      "fr": "Fusée",
+      "es": "Cohete"
+    },
+    "icon": "rocket-launch",
+    "description": {
+      "en": "Friendly rocket blasting off through a starry sky",
+      "ar": "صاروخ لطيف ينطلق عبر سماء مليئة بالنجوم",
+      "fr": "Fusée amicale décollant dans un ciel étoilé",
+      "es": "Cohete amigable despegando en un cielo estrellado"
+    },
   "blackAndWhite": true,
   "sections": [
   {
@@ -119,9 +129,19 @@
 ,
   {
   "id": "fish",
-  "name": "Fish",
-  "icon": "set-meal",
-  "description": "Cute simple fish swimming with bubbles",
+    "title": {
+      "en": "Fish",
+      "ar": "سمكة",
+      "fr": "Poisson",
+      "es": "Pez"
+    },
+    "icon": "set-meal",
+    "description": {
+      "en": "Cute simple fish swimming with bubbles",
+      "ar": "سمكة لطيفة تسبح مع الفقاعات",
+      "fr": "Petit poisson mignon nageant avec des bulles",
+      "es": "Pez adorable nadando entre burbujas"
+    },
   "blackAndWhite": true,
   "sections": [
   {
@@ -212,9 +232,19 @@
 },
   {
   "id": "butterfly",
-  "name": "Butterfly",
-  "icon": "emoji-nature",
-  "description": "Cheerful butterfly with patterned wings and curly antennae",
+  "title": {
+      "en": "Butterfly",
+      "ar": "فراشة",
+      "fr": "Papillon",
+      "es": "Mariposa"
+    },
+    "icon": "emoji-nature",
+    "description": {
+      "en": "Cheerful butterfly with patterned wings and curly antennae",
+      "ar": "فراشة مرحة بأجنحة مزخرفة وهوائيات ملتفة",
+      "fr": "Papillon joyeux avec des ailes colorées et des antennes bouclées",
+      "es": "Mariposa alegre con alas decoradas y antenas rizadas"
+    },
   "blackAndWhite": true,
  "sections": [
   {
@@ -326,9 +356,19 @@
 },
   {
   "id": "cat",
-  "name": "Cat",
-  "icon": "pets",
-  "description": "Friendly cat face with pointy ears and long whiskers",
+  "title": {
+      "en": "Cat",
+      "ar": "قطة",
+      "fr": "Chat",
+      "es": "Gato"
+    },
+    "icon": "pets",
+    "description": {
+      "en": "Friendly cat face with pointy ears and long whiskers",
+      "ar": "وجه قطة لطيفة بأذنين مدببتين وشوارب طويلة",
+      "fr": "Visage de chat amical avec des oreilles pointues et de longues moustaches",
+      "es": "Cara de gato amigable con orejas puntiagudas y largos bigotes"
+    },
   "blackAndWhite": true,
  "sections": [
   {
@@ -458,9 +498,19 @@
 },
  {
   "id": "flower",
-  "name": "Flower",
-  "icon": "local-florist",
-  "description": "Cheerful daisy with rounded petals growing from the grass",
+   "title": {
+      "en": "Flower",
+      "ar": "زهرة",
+      "fr": "Fleur",
+      "es": "Flor"
+    },
+    "icon": "local-florist",
+    "description": {
+      "en": "Cheerful daisy with rounded petals growing from the grass",
+      "ar": "زهرة جميلة بتلاتها دائرية تنمو بين العشب",
+      "fr": "Marguerite joyeuse aux pétales arrondis poussant dans l’herbe",
+      "es": "Margarita alegre con pétalos redondos creciendo entre la hierba"
+    },
   "blackAndWhite": true,
  "sections": [
   {
@@ -552,9 +602,19 @@
 }
 ,{
   "id": "owl",
-  "name": "Owl",
-  "icon": "nights-stay",
-  "description": "Sleepy owl with big eyes perched on a branch under the moon",
+    "title": {
+      "en": "Owl",
+      "ar": "بومة",
+      "fr": "Hibou",
+      "es": "Búho"
+    },
+    "icon": "nights-stay",
+    "description": {
+      "en": "Sleepy owl with big eyes perched on a branch under the moon",
+      "ar": "بومة نعسانة بعيون كبيرة تجلس على غصن تحت القمر",
+      "fr": "Hibou endormi aux grands yeux perché sur une branche sous la lune",
+      "es": "Búho soñoliento de ojos grandes posado en una rama bajo la luna"
+    },
   "blackAndWhite": true,
  "sections": [
   {
@@ -694,9 +754,19 @@
   ]
 }, {
   "id": "turtle",
-  "name": "Turtle",
-  "icon": "cruelty-free",
-  "description": "Happy turtle with a patterned shell paddling in the water",
+  "title": {
+      "en": "Turtle",
+      "ar": "سلحفاة",
+      "fr": "Tortue",
+      "es": "Tortuga"
+    },
+    "icon": "cruelty-free",
+    "description": {
+      "en": "Happy turtle with a patterned shell paddling in the water",
+      "ar": "سلحفاة سعيدة بصدفة مزخرفة تسبح في الماء",
+      "fr": "Tortue heureuse avec une carapace décorée nageant dans l’eau",
+      "es": "Tortuga feliz con caparazón decorado nadando en el agua"
+    },
   "blackAndWhite": true,
   "sections": [
   {
