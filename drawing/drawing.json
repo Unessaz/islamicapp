@@ -1,7 +1,7 @@
 [
 {
   "id": "rocket",
- "title": {
+ "name": {
       "en": "Rocket",
       "ar": "صاروخ",
       "fr": "Fusée",
@@ -129,7 +129,7 @@
 ,
   {
   "id": "fish",
-    "title": {
+    "name": {
       "en": "Fish",
       "ar": "سمكة",
       "fr": "Poisson",
@@ -232,7 +232,7 @@
 },
   {
   "id": "butterfly",
-  "title": {
+  "name": {
       "en": "Butterfly",
       "ar": "فراشة",
       "fr": "Papillon",
@@ -356,7 +356,7 @@
 },
   {
   "id": "cat",
-  "title": {
+  "name": {
       "en": "Cat",
       "ar": "قطة",
       "fr": "Chat",
@@ -498,7 +498,7 @@
 },
  {
   "id": "flower",
-   "title": {
+   "name": {
       "en": "Flower",
       "ar": "زهرة",
       "fr": "Fleur",
@@ -602,7 +602,7 @@
 }
 ,{
   "id": "owl",
-    "title": {
+    "name": {
       "en": "Owl",
       "ar": "بومة",
       "fr": "Hibou",
@@ -754,7 +754,7 @@
   ]
 }, {
   "id": "turtle",
-  "title": {
+  "name": {
       "en": "Turtle",
       "ar": "سلحفاة",
       "fr": "Tortue",
