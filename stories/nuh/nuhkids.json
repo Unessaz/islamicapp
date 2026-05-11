@@ -72,6 +72,253 @@
       "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/img/012.webp"
     }
   ],
+   "timing":{
+     "en":[
+  {
+    "name": "001.mp3",
+    "duration": 10057,
+    "startMs": 0,
+    "endMs": 10057
+  },
+  {
+    "name": "002.mp3",
+    "duration": 5381,
+    "startMs": 10057,
+    "endMs": 15438
+  },
+  {
+    "name": "003.mp3",
+    "duration": 5930,
+    "startMs": 15438,
+    "endMs": 21368
+  },
+  {
+    "name": "004.mp3",
+    "duration": 4127,
+    "startMs": 21368,
+    "endMs": 25495
+  },
+  {
+    "name": "005.mp3",
+    "duration": 5982,
+    "startMs": 25495,
+    "endMs": 31477
+  },
+  {
+    "name": "006.mp3",
+    "duration": 9744,
+    "startMs": 31477,
+    "endMs": 41221
+  },
+  {
+    "name": "007.mp3",
+    "duration": 7131,
+    "startMs": 41221,
+    "endMs": 48352
+  },
+  {
+    "name": "008.mp3",
+    "duration": 4624,
+    "startMs": 48352,
+    "endMs": 52976
+  },
+  {
+    "name": "009.mp3",
+    "duration": 8020,
+    "startMs": 52976,
+    "endMs": 60996
+  },
+  {
+    "name": "010.mp3",
+    "duration": 6922,
+    "startMs": 60996,
+    "endMs": 67918
+  },
+  {
+    "name": "011.mp3",
+    "duration": 8725,
+    "startMs": 67918,
+    "endMs": 76643
+  },
+  {
+    "name": "012.mp3",
+    "duration": 6217,
+    "startMs": 76643,
+    "endMs": 82860
+  },
+  {
+    "name": "013.mp3",
+    "duration": 9273,
+    "startMs": 82860,
+    "endMs": 92133
+  },
+  {
+    "name": "014.mp3",
+    "duration": 7471,
+    "startMs": 92133,
+    "endMs": 99604
+  },
+  {
+    "name": "015.mp3",
+    "duration": 9143,
+    "startMs": 99604,
+    "endMs": 108747
+  },
+  {
+    "name": "016.mp3",
+    "duration": 8020,
+    "startMs": 108747,
+    "endMs": 116767
+  },
+  {
+    "name": "017.mp3",
+    "duration": 5564,
+    "startMs": 116767,
+    "endMs": 122331
+  },
+  {
+    "name": "018.mp3",
+    "duration": 5930,
+    "startMs": 122331,
+    "endMs": 128261
+  },
+  {
+    "name": "019.mp3",
+    "duration": 6113,
+    "startMs": 128261,
+    "endMs": 134373
+  },
+  {
+    "name": "020.mp3",
+    "duration": 6766,
+    "startMs": 134373,
+    "endMs": 141139
+  }
+] ,
+     "ar":[
+  {
+    "name": "ElevenLabs_2026-05-09T19_34_35_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 5198,
+    "startMs": 0,
+    "endMs": 5198
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T19_35_30_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 7288,
+    "startMs": 5198,
+    "endMs": 12486
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T19_35_01_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 5564,
+    "startMs": 12486,
+    "endMs": 18051
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T19_34_05_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 5669,
+    "startMs": 18051,
+    "endMs": 23719
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T19_33_29_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 6504,
+    "startMs": 23719,
+    "endMs": 30224
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T19_32_51_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 8359,
+    "startMs": 30224,
+    "endMs": 38583
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T19_32_10_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 6034,
+    "startMs": 38583,
+    "endMs": 44617
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T19_31_29_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 6087,
+    "startMs": 44617,
+    "endMs": 50703
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T19_30_51_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 7340,
+    "startMs": 50703,
+    "endMs": 58044
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T19_27_56_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 10344,
+    "startMs": 58044,
+    "endMs": 68388
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T18_02_57_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 8072,
+    "startMs": 68388,
+    "endMs": 76460
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T18_03_39_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 6452,
+    "startMs": 76460,
+    "endMs": 82912
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T18_01_45_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 6713,
+    "startMs": 82912,
+    "endMs": 89626
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T18_00_30_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 7001,
+    "startMs": 89626,
+    "endMs": 96626
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T17_59_41_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 8176,
+    "startMs": 96626,
+    "endMs": 104803
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T17_31_49_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 6113,
+    "startMs": 104803,
+    "endMs": 110915
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T17_22_49_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 5146,
+    "startMs": 110915,
+    "endMs": 116061
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T17_22_07_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 5669,
+    "startMs": 116061,
+    "endMs": 121730
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T17_21_10_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 5460,
+    "startMs": 121730,
+    "endMs": 127190
+  },
+  {
+    "name": "ElevenLabs_2026-05-09T17_17_28_ Mohammed Almansari_pvc_sp100_s100_sb100_f2-5.mp3",
+    "duration": 8307,
+    "startMs": 127190,
+    "endMs": 135497
+  }
+]
+   },
+  
   "sequences": [
     {
       "id": "seq_01",
