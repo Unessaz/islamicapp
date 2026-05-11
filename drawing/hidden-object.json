@@ -25,8 +25,8 @@
       },
       "xp": 100,
       "viewBox": { "width": 300, "height": 165 },
-      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/shum.png",
-      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/shum.png",
+      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs01.webp",
+      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs01.webp",
       "objects": [
         {
           "id": "owl",
@@ -133,8 +133,8 @@
       },
       "xp": 150,
       "viewBox": { "width": 300, "height": 165 },
-      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
-      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/mosque.png",
+      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs02.webp",
+      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs02.webp",
       "objects": [
         {
           "id": "crescent",
@@ -241,8 +241,8 @@
       },
       "xp": 200,
       "viewBox": { "width": 300, "height": 165 },
-      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/ship.png",
-      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/ship.png",
+      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs03.webp",
+      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs03.webp",
       "objects": [
         {
           "id": "flag",
@@ -349,8 +349,8 @@
       },
       "xp": 150,
       "viewBox": { "width": 300, "height": 165 },
-      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
-      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/sea.png",
+      "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs04.webp",
+      "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs04.webp",
       "objects": [
         {
           "id": "turtle",
@@ -431,6 +431,751 @@
           "r": 30
         }
       ]
+    },
+    {
+  "id": "bazaar",
+  "title": {
+    "en": "Arabian Bazaar",
+    "ar": "السوق العربي",
+    "fr": "Bazar arabe",
+    "es": "Bazar árabe"
+  },
+  "subtitle": {
+    "en": "Find 9 objects hidden in the magical bazaar",
+    "ar": "ابحث عن 9 أشياء مخفية في السوق السحري",
+    "fr": "Trouvez 9 objets cachés dans le bazar magique",
+    "es": "Encuentra 9 objetos ocultos en el bazar mágico"
+  },
+  "gradient": ["#2d1b69", "#6b3f8a"],
+  "accent": "#f5c842",
+  "difficulty": "Hard",
+  "difficultyLabel": {
+    "en": "Hard",
+    "fr": "Difficile",
+    "es": "Difícil",
+    "ar": "صعب"
+  },
+  "xp": 300,
+  "viewBox": { "width": 300, "height": 165 },
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs05.webp",
+  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs05.webp",
+  "objects": [
+    {
+      "id": "lamp",
+      "label": {
+        "en": "Magic Lamp",
+        "ar": "المصباح السحري",
+        "fr": "Lampe magique",
+        "es": "Lámpara mágica"
+      },
+      "icon": "bulb-outline",
+      "cx": 51,
+      "cy": 91,
+      "r": 22
+    },
+    {
+      "id": "carpet",
+      "label": {
+        "en": "Flying Carpet",
+        "ar": "السجادة الطائرة",
+        "fr": "Tapis volant",
+        "es": "Alfombra voladora"
+      },
+      "icon": "color-palette-outline",
+      "cx": 73,
+      "cy": 37,
+      "r": 30
+    },
+    {
+      "id": "hourglass",
+      "label": {
+        "en": "Golden Hourglass",
+        "ar": "الساعة الرملية الذهبية",
+        "fr": "Sablier doré",
+        "es": "Reloj de arena dorado"
+      },
+      "icon": "timer-outline",
+      "cx": 129,
+      "cy": 81,
+      "r": 22
+    },
+    {
+      "id": "fez",
+      "label": {
+        "en": "Red Fez Hat",
+        "ar": "طربوش أحمر",
+        "fr": "Chapeau fez rouge",
+        "es": "Sombrero fez rojo"
+      },
+      "icon": "pricetag-outline",
+      "cx": 168,
+      "cy": 63,
+      "r": 20
+    },
+    {
+      "id": "spice_jars",
+      "label": {
+        "en": "Spice Jars",
+        "ar": "برطمانات التوابل",
+        "fr": "Pots d'épices",
+        "es": "Frascos de especias"
+      },
+      "icon": "flask-outline",
+      "cx": 60,
+      "cy": 132,
+      "r": 25
+    },
+    {
+      "id": "vase",
+      "label": {
+        "en": "Turquoise Vase",
+        "ar": "المزهرية الفيروزية",
+        "fr": "Vase turquoise",
+        "es": "Jarrón turquesa"
+      },
+      "icon": "wine-outline",
+      "cx": 195,
+      "cy": 114,
+      "r": 22
+    },
+    {
+      "id": "coins",
+      "label": {
+        "en": "Gold Coins",
+        "ar": "العملات الذهبية",
+        "fr": "Pièces d'or",
+        "es": "Monedas de oro"
+      },
+      "icon": "cash-outline",
+      "cx": 155,
+      "cy": 138,
+      "r": 20
+    },
+    {
+      "id": "crystal_ball",
+      "label": {
+        "en": "Crystal Ball",
+        "ar": "كرة الكريستال",
+        "fr": "Boule de cristal",
+        "es": "Bola de cristal"
+      },
+      "icon": "globe-outline",
+      "cx": 250,
+      "cy": 86,
+      "r": 28
+    },
+    {
+      "id": "parrot",
+      "label": {
+        "en": "Green Parrot",
+        "ar": "الببغاء الأخضر",
+        "fr": "Perroquet vert",
+        "es": "Loro verde"
+      },
+      "icon": "happy-outline",
+      "cx": 282,
+      "cy": 45,
+      "r": 20
     }
+  ]
+}
+,
+    {
+  "id": "castle",
+  "title": {
+    "en": "Medieval Castle",
+    "ar": "القلعة القروسطية",
+    "fr": "Château médiéval",
+    "es": "Castillo medieval"
+  },
+  "subtitle": {
+    "en": "Find 6 objects hidden in the castle",
+    "ar": "ابحث عن 6 أشياء مخفية في القلعة",
+    "fr": "Trouvez 6 objets cachés dans le château",
+    "es": "Encuentra 6 objetos ocultos en el castillo"
+  },
+  "gradient": ["#1c1c2e", "#4a4a6a"],
+  "accent": "#e8c44a",
+  "difficulty": "Medium",
+  "difficultyLabel": {
+    "en": "Medium",
+    "fr": "Moyen",
+    "es": "Medio",
+    "ar": "متوسط"
+  },
+  "xp": 150,
+  "viewBox": { "width": 300, "height": 165 },
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs06.webp",
+  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs06.webp",
+  "objects": [
+    {
+      "id": "sword",
+      "label": {
+        "en": "Sword in Stone",
+        "ar": "السيف في الحجر",
+        "fr": "Épée dans la pierre",
+        "es": "Espada en la piedra"
+      },
+      "icon": "cut-outline",
+      "cx": 38,
+      "cy": 111,
+      "r": 18
+    },
+    {
+      "id": "portcullis",
+      "label": {
+        "en": "Iron Gate",
+        "ar": "البوابة الحديدية",
+        "fr": "Grille de fer",
+        "es": "Puerta de hierro"
+      },
+      "icon": "grid-outline",
+      "cx": 149,
+      "cy": 129,
+      "r": 24
+    },
+    {
+      "id": "shield",
+      "label": {
+        "en": "Lion Shield",
+        "ar": "درع الأسد",
+        "fr": "Bouclier au lion",
+        "es": "Escudo del león"
+      },
+      "icon": "shield-outline",
+      "cx": 149,
+      "cy": 89,
+      "r": 28
+    },
+    {
+      "id": "crown",
+      "label": {
+        "en": "Royal Crown",
+        "ar": "التاج الملكي",
+        "fr": "Couronne royale",
+        "es": "Corona real"
+      },
+      "icon": "ribbon-outline",
+      "cx": 174,
+      "cy": 56,
+      "r": 18
+    },
+    {
+      "id": "raven",
+      "label": {
+        "en": "Black Raven",
+        "ar": "الغراب الأسود",
+        "fr": "Corbeau noir",
+        "es": "Cuervo negro"
+      },
+      "icon": "logo-twitter",
+      "cx": 281,
+      "cy": 59,
+      "r": 16
+    },
+    {
+      "id": "flag",
+      "label": {
+        "en": "Royal Flag",
+        "ar": "العلم الملكي",
+        "fr": "Drapeau royal",
+        "es": "Bandera real"
+      },
+      "icon": "flag-outline",
+      "cx": 57,
+      "cy": 61,
+      "r": 12
+    }
+  ]
+}
+,
+    {
+  "id": "egypt",
+  "title": {
+    "en": "Ancient Egypt",
+    "ar": "مصر القديمة",
+    "fr": "Égypte ancienne",
+    "es": "Egipto antiguo"
+  },
+  "subtitle": {
+    "en": "Find 6 objects hidden in the desert ruins",
+    "ar": "ابحث عن 6 أشياء مخفية في الأنقاض الصحراوية",
+    "fr": "Trouvez 6 objets cachés dans les ruines du désert",
+    "es": "Encuentra 6 objetos ocultos en las ruinas del desierto"
+  },
+  "gradient": ["#7b4f12", "#c8860a"],
+  "accent": "#f5d76e",
+  "difficulty": "Hard",
+  "difficultyLabel": {
+    "en": "Hard",
+    "fr": "Difficile",
+    "es": "Difícil",
+    "ar": "صعب"
+  },
+  "xp": 200,
+  "viewBox": { "width": 300, "height": 165 },
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs07.webp",
+  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs07.webp",
+  "objects": [
+    {
+      "id": "sphinx",
+      "label": {
+        "en": "The Sphinx",
+        "ar": "أبو الهول",
+        "fr": "Le Sphinx",
+        "es": "La Esfinge"
+      },
+      "icon": "person-outline",
+      "cx": 67,
+      "cy": 82,
+      "r": 28
+    },
+    {
+      "id": "pyramid",
+      "label": {
+        "en": "Great Pyramid",
+        "ar": "الهرم الأكبر",
+        "fr": "Grande Pyramide",
+        "es": "Gran Pirámide"
+      },
+      "icon": "triangle-outline",
+      "cx": 149,
+      "cy": 59,
+      "r": 35
+    },
+    {
+      "id": "obelisk",
+      "label": {
+        "en": "Stone Obelisk",
+        "ar": "المسلة الحجرية",
+        "fr": "Obélisque de pierre",
+        "es": "Obelisco de piedra"
+      },
+      "icon": "podium-outline",
+      "cx": 281,
+      "cy": 73,
+      "r": 14
+    },
+    {
+      "id": "eye_of_ra",
+      "label": {
+        "en": "Eye of Ra",
+        "ar": "عين رع",
+        "fr": "Œil de Râ",
+        "es": "Ojo de Ra"
+      },
+      "icon": "eye-outline",
+      "cx": 67,
+      "cy": 138,
+      "r": 18
+    },
+    {
+      "id": "scarab",
+      "label": {
+        "en": "Sacred Scarab",
+        "ar": "الجعران المقدس",
+        "fr": "Scarabée sacré",
+        "es": "Escarabajo sagrado"
+      },
+      "icon": "bug-outline",
+      "cx": 94,
+      "cy": 139,
+      "r": 14
+    },
+    {
+      "id": "ankh",
+      "label": {
+        "en": "Golden Ankh",
+        "ar": "عنخ الذهبي",
+        "fr": "Ankh doré",
+        "es": "Anj dorado"
+      },
+      "icon": "add-circle-outline",
+      "cx": 211,
+      "cy": 133,
+      "r": 18
+    }
+  ]
+}
+,
+    {
+  "id": "haunted",
+  "title": {
+    "en": "Haunted Mansion",
+    "ar": "القصر المسكون",
+    "fr": "Manoir hanté",
+    "es": "Mansión embrujada"
+  },
+  "subtitle": {
+    "en": "Find 10 objects hidden in the haunted mansion",
+    "ar": "ابحث عن 10 أشياء مخفية في القصر المسكون",
+    "fr": "Trouvez 10 objets cachés dans le manoir hanté",
+    "es": "Encuentra 10 objetos ocultos en la mansión embrujada"
+  },
+  "gradient": ["#0d0d1a", "#2a0a3a"],
+  "accent": "#7fff00",
+  "difficulty": "Hard",
+  "difficultyLabel": {
+    "en": "Hard",
+    "fr": "Difficile",
+    "es": "Difícil",
+    "ar": "صعب"
+  },
+  "xp": 350,
+  "viewBox": { "width": 300, "height": 165 },
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs08.webp",
+  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs08.webp",
+  "objects": [
+    {
+      "id": "spider",
+      "label": {
+        "en": "Spider & Web",
+        "ar": "العنكبوت وشبكته",
+        "fr": "Araignée et toile",
+        "es": "Araña y telaraña"
+      },
+      "icon": "bug-outline",
+      "cx": 48,
+      "cy": 57,
+      "r": 22
+    },
+    {
+      "id": "cauldron",
+      "label": {
+        "en": "Witch's Cauldron",
+        "ar": "مرجل الساحرة",
+        "fr": "Chaudron de sorcière",
+        "es": "Caldero de bruja"
+      },
+      "icon": "flame-outline",
+      "cx": 29,
+      "cy": 116,
+      "r": 22
+    },
+    {
+      "id": "black_cat",
+      "label": {
+        "en": "Black Cat",
+        "ar": "القطة السوداء",
+        "fr": "Chat noir",
+        "es": "Gato negro"
+      },
+      "icon": "paw-outline",
+      "cx": 85,
+      "cy": 108,
+      "r": 18
+    },
+    {
+      "id": "pumpkin",
+      "label": {
+        "en": "Jack-o'-lantern",
+        "ar": "اليقطين المضيء",
+        "fr": "Citrouille d'Halloween",
+        "es": "Calabaza de Halloween"
+      },
+      "icon": "happy-outline",
+      "cx": 121,
+      "cy": 117,
+      "r": 22
+    },
+    {
+      "id": "candle",
+      "label": {
+        "en": "Lit Candle",
+        "ar": "الشمعة المضاءة",
+        "fr": "Bougie allumée",
+        "es": "Vela encendida"
+      },
+      "icon": "sunny-outline",
+      "cx": 149,
+      "cy": 100,
+      "r": 14
+    },
+    {
+      "id": "ghost",
+      "label": {
+        "en": "White Ghost",
+        "ar": "الشبح الأبيض",
+        "fr": "Fantôme blanc",
+        "es": "Fantasma blanco"
+      },
+      "icon": "cloud-outline",
+      "cx": 149,
+      "cy": 50,
+      "r": 22
+    },
+    {
+      "id": "mansion",
+      "label": {
+        "en": "Haunted Mansion",
+        "ar": "القصر المسكون",
+        "fr": "Manoir hanté",
+        "es": "Mansión embrujada"
+      },
+      "icon": "home-outline",
+      "cx": 193,
+      "cy": 82,
+      "r": 30
+    },
+    {
+      "id": "full_moon",
+      "label": {
+        "en": "Full Moon",
+        "ar": "القمر البدر",
+        "fr": "Pleine lune",
+        "es": "Luna llena"
+      },
+      "icon": "moon-outline",
+      "cx": 243,
+      "cy": 45,
+      "r": 30
+    },
+    {
+      "id": "bat",
+      "label": {
+        "en": "Black Bat",
+        "ar": "الخفاش الأسود",
+        "fr": "Chauve-souris noire",
+        "es": "Murciélago negro"
+      },
+      "icon": "airplane-outline",
+      "cx": 263,
+      "cy": 35,
+      "r": 16
+    },
+    {
+      "id": "skull",
+      "label": {
+        "en": "Skull",
+        "ar": "الجمجمة",
+        "fr": "Crâne",
+        "es": "Calavera"
+      },
+      "icon": "skull-outline",
+      "cx": 271,
+      "cy": 121,
+      "r": 22
+    }
+  ]
+}
+,
+    {
+  "id": "japan",
+  "title": {
+    "en": "Japanese Garden",
+    "ar": "الحديقة اليابانية",
+    "fr": "Jardin japonais",
+    "es": "Jardín japonés"
+  },
+  "subtitle": {
+    "en": "Find 6 objects hidden in the cherry blossom garden",
+    "ar": "ابحث عن 6 أشياء مخفية في حديقة أزهار الكرز",
+    "fr": "Trouvez 6 objets cachés dans le jardin de cerisiers",
+    "es": "Encuentra 6 objetos ocultos en el jardín de cerezos"
+  },
+  "gradient": ["#ffe4e1", "#ffb7c5"],
+  "accent": "#e8365d",
+  "difficulty": "Easy",
+  "difficultyLabel": {
+    "en": "Easy",
+    "fr": "Facile",
+    "es": "Fácil",
+    "ar": "سهل"
+  },
+  "xp": 100,
+  "viewBox": { "width": 300, "height": 165 },
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs09.webp",
+  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs09.webp",
+  "objects": [
+    {
+      "id": "torii",
+      "label": {
+        "en": "Torii Gate",
+        "ar": "بوابة توري",
+        "fr": "Portail Torii",
+        "es": "Puerta Torii"
+      },
+      "icon": "log-in-outline",
+      "cx": 149,
+      "cy": 59,
+      "r": 32
+    },
+    {
+      "id": "cherry_tree",
+      "label": {
+        "en": "Cherry Blossom Tree",
+        "ar": "شجرة أزهار الكرز",
+        "fr": "Cerisier en fleurs",
+        "es": "Cerezo en flor"
+      },
+      "icon": "leaf-outline",
+      "cx": 41,
+      "cy": 64,
+      "r": 30
+    },
+    {
+      "id": "crane",
+      "label": {
+        "en": "Origami Crane",
+        "ar": "طائر الورق الأوريغامي",
+        "fr": "Grue en origami",
+        "es": "Grulla de origami"
+      },
+      "icon": "airplane-outline",
+      "cx": 246,
+      "cy": 29,
+      "r": 18
+    },
+    {
+      "id": "lantern",
+      "label": {
+        "en": "Red Lantern",
+        "ar": "الفانوس الأحمر",
+        "fr": "Lanterne rouge",
+        "es": "Linterna roja"
+      },
+      "icon": "bulb-outline",
+      "cx": 246,
+      "cy": 108,
+      "r": 20
+    },
+    {
+      "id": "omikuji",
+      "label": {
+        "en": "Fortune Box",
+        "ar": "صندوق الحظ",
+        "fr": "Boîte de fortune",
+        "es": "Caja de la fortuna"
+      },
+      "icon": "gift-outline",
+      "cx": 47,
+      "cy": 136,
+      "r": 20
+    },
+    {
+      "id": "koi",
+      "label": {
+        "en": "Koi Fish",
+        "ar": "سمكة الكوي",
+        "fr": "Poisson Koï",
+        "es": "Pez Koi"
+      },
+      "icon": "fish-outline",
+      "cx": 149,
+      "cy": 141,
+      "r": 22
+    }
+  ]
+}
+,
+    {
+  "id": "space",
+  "title": {
+    "en": "Outer Space",
+    "ar": "الفضاء الخارجي",
+    "fr": "L'espace",
+    "es": "El espacio exterior"
+  },
+  "subtitle": {
+    "en": "Find 6 objects hidden in the galaxy",
+    "ar": "ابحث عن 6 أشياء مخفية في المجرة",
+    "fr": "Trouvez 6 objets cachés dans la galaxie",
+    "es": "Encuentra 6 objetos ocultos en la galaxia"
+  },
+  "gradient": ["#0d0d2b", "#1a1a6e"],
+  "accent": "#7df9ff",
+  "difficulty": "Medium",
+  "difficultyLabel": {
+    "en": "Medium",
+    "fr": "Moyen",
+    "es": "Medio",
+    "ar": "متوسط"
+  },
+  "xp": 150,
+  "viewBox": { "width": 300, "height": 165 },
+  "thumb": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs010.webp",
+  "img": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/hiddenobject/hs010.webp",
+  "objects": [
+    {
+      "id": "moon",
+      "label": {
+        "en": "Crescent Moon",
+        "ar": "الهلال",
+        "fr": "Croissant de lune",
+        "es": "Luna creciente"
+      },
+      "icon": "moon-outline",
+      "cx": 29,
+      "cy": 42,
+      "r": 20
+    },
+    {
+      "id": "rocket",
+      "label": {
+        "en": "Space Rocket",
+        "ar": "الصاروخ الفضائي",
+        "fr": "Fusée spatiale",
+        "es": "Cohete espacial"
+      },
+      "icon": "rocket-outline",
+      "cx": 91,
+      "cy": 91,
+      "r": 22
+    },
+    {
+      "id": "satellite",
+      "label": {
+        "en": "Satellite",
+        "ar": "القمر الصناعي",
+        "fr": "Satellite",
+        "es": "Satélite"
+      },
+      "icon": "radio-outline",
+      "cx": 149,
+      "cy": 50,
+      "r": 16
+    },
+    {
+      "id": "shooting_star",
+      "label": {
+        "en": "Shooting Star",
+        "ar": "النجم المتساقط",
+        "fr": "Étoile filante",
+        "es": "Estrella fugaz"
+      },
+      "icon": "flash-outline",
+      "cx": 176,
+      "cy": 64,
+      "r": 14
+    },
+    {
+      "id": "saturn",
+      "label": {
+        "en": "Planet Saturn",
+        "ar": "كوكب زحل",
+        "fr": "Planète Saturne",
+        "es": "Planeta Saturno"
+      },
+      "icon": "planet-outline",
+      "cx": 246,
+      "cy": 54,
+      "r": 26
+    },
+    {
+      "id": "alien",
+      "label": {
+        "en": "Green Alien",
+        "ar": "الكائن الفضائي الأخضر",
+        "fr": "Alien vert",
+        "es": "Alienígena verde"
+      },
+      "icon": "happy-outline",
+      "cx": 252,
+      "cy": 117,
+      "r": 18
+    }
+  ]
+}
+
   ]
 }
