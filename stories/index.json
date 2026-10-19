@@ -196,55 +196,6 @@
       ]
     },
     {
-      "id": "nuh_ep_03",
-      "title": {
-        "en": "The Ark and the Great Flood",
-        "ar": "السفينة والطوفان العظيم",
-        "fr": "L'Arche et le Grand Déluge",
-        "es": "El Arca y el Gran Diluvio"
-      },
-      "subtitle": {
-        "en": "Prophet Nuh - Episode 3",
-        "ar": "قصة النبي نوح - الحلقة 3",
-        "fr": "Prophète Noé - Épisode 3",
-        "es": "Profeta Nuh - Episodio 3"
-      },
-      "description": {
-        "en": "The building of the great Ark and the story of salvation during the flood.",
-        "ar": "بناء السفينة العظيمة وقصة النجاة من الطوفان.",
-        "fr": "La construction de la grande arche et l'histoire du salut pendant le déluge."
-      },
-      "file": "nuh/nuh03.json",
-      "category": "prophets",
-      "categoryLabel": {
-        "en": "Prophets",
-        "ar": "الأنبياء",
-        "fr": "Prophètes",
-        "es": "Profetas"
-      },
-      "tags": ["nuh", "episodes"],
-      "thumbnail": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuh/img/03.webp",
-      "duration": 6,
-      "hasPDF": true,
-      "hasVideo": true,
-      "ageRange": "7–14",
-      "color": "#0f172a",
-      "accentColor": "#38bdf8",
-      "subtitles": [
-        { "code": "none", "label": "No Subtitles" },
-        { "code": "ar", "label": "Arabic" },
-        { "code": "en", "label": "English" },
-        { "code": "fr", "label": "French" },
-        { "code": "es", "label": "Spanish" }
-      ],
-      "audio": [
-        { "code": "ar", "label": "Arabic", "nativeLabel": "العربية", "flag": "🇸🇦" },
-        { "code": "en", "label": "English", "nativeLabel": "English", "flag": "🇬🇧" },
-        { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
-        { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
-      ]
-    },
-    {
       "id": "hud_ep_01",
       "title": {
         "en": "The People of 'Ad",
