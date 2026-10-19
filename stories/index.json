@@ -99,6 +99,55 @@
             { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
            { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
       ]
-    }
+    },
+    {
+      "id": "hud_ep_01",
+      "title": {
+        "en": "The People of 'Ad",
+    "ar": "قوم عاد",
+    "fr": "Le Peuple des 'Ad",
+    "es": "El Pueblo de 'Ad"
+      },
+      "subtitle": {
+  "en": "Patience and Faith",
+  "ar": "الصبر والإيمان",
+  "fr": "Patience et foi",
+  "es": "Paciencia y fe"
+},
+      "description": {
+        "en": "Learn the inspiring story of Prophet Ayub and his patience during hardship.",
+        "ar": "تعرف على قصة النبي أيوب وصبره العظيم أثناء الابتلاء.",
+        "fr": "Découvrez l'histoire inspirante du prophète Ayyoub."
+      },
+      "file": "ayub/hud01.json",
+      "category": "prophets",
+"categoryLabel": {
+  "en": "Prophets",
+  "ar": "الأنبياء",
+  "fr": "Prophètes",
+  "es": "Profetas"
+}, 
+      "tags": ["kids", "ayub"],
+      "thumbnail": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ayubkids/imgs/N04.webp",
+      "duration": 4,
+      "hasPDF": true,
+      "hasVideo": false,
+      "ageRange": "7–14",
+       "color": "#1e3a5f",
+      "accentColor": "#4fc3f7",
+      "subtitles":[
+          { "code": "none", "label": "No Subtitles" },
+            { "code": "ar", "label": "Arabic" },
+            { "code": "en", "label": "English" },
+            { "code": "fr", "label": "French" },
+            { "code": "es", "label": "Spanish" }
+      ],
+       "audio":[
+            { "code": "ar", "label": "Arabic" , "nativeLabel": "العربية", "flag": "🇸🇦" },
+            { "code": "en", "label": "English" , "nativeLabel": "English", "flag": "🇬🇧" },
+            { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+           { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
+      ]
+    },
   ]
 }
