@@ -148,6 +148,6 @@
             { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
            { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
       ]
-    },
+    }
   ]
 }
