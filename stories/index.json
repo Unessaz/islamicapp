@@ -98,6 +98,153 @@
       ]
     },
     {
+      "id": "nuh_ep_01",
+      "title": {
+        "en": "The Secret of the Statues",
+        "ar": "سر التماثيل",
+        "fr": "Le Secret des Statues",
+        "es": "El Secreto de las Estatuas"
+      },
+      "subtitle": {
+        "en": "Prophet Nuh - Episode 1",
+        "ar": "قصة النبي نوح - الحلقة 1",
+        "fr": "Prophète Noé - Épisode 1",
+        "es": "Profeta Nuh - Episodio 1"
+      },
+      "description": {
+        "en": "Discover how the people drifted into worshiping statues and the beginning of Prophet Nuh's mission.",
+        "ar": "اكتشف كيف انحرف القوم لعبادة الأصنام وبداية رسالة النبي نوح.",
+        "fr": "Découvrez comment le peuple s'est tourné vers le culte des statues et le début de la mission du prophète Noé."
+      },
+      "file": "nuh/nuh01.json",
+      "category": "prophets",
+      "categoryLabel": {
+        "en": "Prophets",
+        "ar": "الأنبياء",
+        "fr": "Prophètes",
+        "es": "Profetas"
+      },
+      "tags": ["nuh", "episodes"],
+      "thumbnail": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuh/img/01.webp",
+      "duration": 5,
+      "hasPDF": true,
+      "hasVideo": true,
+      "ageRange": "7–14",
+      "color": "#0f172a",
+      "accentColor": "#38bdf8",
+      "subtitles": [
+        { "code": "none", "label": "No Subtitles" },
+        { "code": "ar", "label": "Arabic" },
+        { "code": "en", "label": "English" },
+        { "code": "fr", "label": "French" },
+        { "code": "es", "label": "Spanish" }
+      ],
+      "audio": [
+        { "code": "ar", "label": "Arabic", "nativeLabel": "العربية", "flag": "🇸🇦" },
+        { "code": "en", "label": "English", "nativeLabel": "English", "flag": "🇬🇧" },
+        { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+        { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
+      ]
+    },
+    {
+      "id": "nuh_ep_02",
+      "title": {
+        "en": "The Faithful Messenger",
+        "ar": "الرسول الأمين",
+        "fr": "Le Messager Fidèle",
+        "es": "El Mensajero Fiel"
+      },
+      "subtitle": {
+        "en": "Prophet Nuh - Episode 2",
+        "ar": "قصة النبي نوح - الحلقة 2",
+        "fr": "Prophète Noé - Épisode 2",
+        "es": "Profeta Nuh - Episodio 2"
+      },
+      "description": {
+        "en": "Prophet Nuh tirelessly invites his people to truth with patience and wisdom.",
+        "ar": "يدعو النبي نوح قومه بالصبر والحكمة برغم المعارضة والإنكار.",
+        "fr": "Le prophète Noé invite son peuple à la vérité avec patience et sagesse."
+      },
+      "file": "nuh/nuh02.json",
+      "category": "prophets",
+      "categoryLabel": {
+        "en": "Prophets",
+        "ar": "الأنبياء",
+        "fr": "Prophètes",
+        "es": "Profetas"
+      },
+      "tags": ["nuh", "episodes"],
+      "thumbnail": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuh/img/02.webp",
+      "duration": 5,
+      "hasPDF": true,
+      "hasVideo": true,
+      "ageRange": "7–14",
+      "color": "#0f172a",
+      "accentColor": "#38bdf8",
+      "subtitles": [
+        { "code": "none", "label": "No Subtitles" },
+        { "code": "ar", "label": "Arabic" },
+        { "code": "en", "label": "English" },
+        { "code": "fr", "label": "French" },
+        { "code": "es", "label": "Spanish" }
+      ],
+      "audio": [
+        { "code": "ar", "label": "Arabic", "nativeLabel": "العربية", "flag": "🇸🇦" },
+        { "code": "en", "label": "English", "nativeLabel": "English", "flag": "🇬🇧" },
+        { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+        { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
+      ]
+    },
+    {
+      "id": "nuh_ep_03",
+      "title": {
+        "en": "The Ark and the Great Flood",
+        "ar": "السفينة والطوفان العظيم",
+        "fr": "L'Arche et le Grand Déluge",
+        "es": "El Arca y el Gran Diluvio"
+      },
+      "subtitle": {
+        "en": "Prophet Nuh - Episode 3",
+        "ar": "قصة النبي نوح - الحلقة 3",
+        "fr": "Prophète Noé - Épisode 3",
+        "es": "Profeta Nuh - Episodio 3"
+      },
+      "description": {
+        "en": "The building of the great Ark and the story of salvation during the flood.",
+        "ar": "بناء السفينة العظيمة وقصة النجاة من الطوفان.",
+        "fr": "La construction de la grande arche et l'histoire du salut pendant le déluge."
+      },
+      "file": "nuh/nuh03.json",
+      "category": "prophets",
+      "categoryLabel": {
+        "en": "Prophets",
+        "ar": "الأنبياء",
+        "fr": "Prophètes",
+        "es": "Profetas"
+      },
+      "tags": ["nuh", "episodes"],
+      "thumbnail": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuh/img/03.webp",
+      "duration": 6,
+      "hasPDF": true,
+      "hasVideo": true,
+      "ageRange": "7–14",
+      "color": "#0f172a",
+      "accentColor": "#38bdf8",
+      "subtitles": [
+        { "code": "none", "label": "No Subtitles" },
+        { "code": "ar", "label": "Arabic" },
+        { "code": "en", "label": "English" },
+        { "code": "fr", "label": "French" },
+        { "code": "es", "label": "Spanish" }
+      ],
+      "audio": [
+        { "code": "ar", "label": "Arabic", "nativeLabel": "العربية", "flag": "🇸🇦" },
+        { "code": "en", "label": "English", "nativeLabel": "English", "flag": "🇬🇧" },
+        { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+        { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
+      ]
+    },
+    {
       "id": "hud_ep_01",
       "title": {
         "en": "The People of 'Ad",
