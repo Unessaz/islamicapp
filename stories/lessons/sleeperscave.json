@@ -1,0 +1,174 @@
+{
+  "episode_id": "sleepers_cave_01",
+  "title": {
+    "en": "The Sleepers in the Cave",
+    "ar": "أصحاب الكهف",
+    "fr": "Les Les Dormeurs de la Caverne",
+    "es": "Los Durmientes de la Cueva"
+  },
+  "category": "Stories from the Quran",
+  "age_group": "Kids",
+  "style": "Cinematic Digital Illustration",
+  "sequences": [
+    {
+      "id": "seq_01",
+      "text": {
+        "en": "A long time ago in the Roman Empire, the followers of Prophet Isa spread the message of One God far and wide.",
+        "ar": "منذ زمن طويل في إمبراطورية الروم، نشر أتباع النبي عيسى دعوة التوحيد وعبادة الله وحده.",
+        "fr": "Il y a très longtemps dans l'Empire romain, les disciples du Prophète Isa ont répandu le message du Dieu Unique.",
+        "es": "Hace mucho tiempo en el Imperio Romano, los seguidores del Profeta Isa difundieron el mensaje de un Solo Dios."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/001.mp3"
+    },
+    {
+      "id": "seq_02",
+      "text": {
+        "en": "The ruler, King Decius, did not believe in Allah and cruelly persecuted anyone who followed Prophet Isa.",
+        "ar": "وكان الملك دقيانوس الحاكم كافراً لا يؤمن بالله، يضطهد كل من اتبع دعوة النبي عيسى.",
+        "fr": "Le roi Dèce ne croyait pas en Allah et persécutait tous ceux qui suivaient le Prophète Isa.",
+        "es": "El rey Decio no creía en Alá y perseguía cruely a cualquiera que siguiera al Profeta Isa."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/002.mp3"
+    },
+    {
+      "id": "seq_03",
+      "text": {
+        "en": "In the city of Ephesus, seven young men of noble families heard the truth and became faithful believers.",
+        "ar": "وفي مدينة أفسس، سمع سبعة فتية نُبلاء بالحق وآمنوا بالله رباً واحداً لا شريك له.",
+        "fr": "Dans la ville d'Éphèse, sept jeunes hommes de familles nobles ont entendu la vérité et sont devenus croyants.",
+        "es": "En la ciudad de Éfeso, siete jóvenes de familias nobles escucharon la verdad y se convirtieron en fieles creyentes."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/003.mp3"
+    },
+    {
+      "id": "seq_04",
+      "text": {
+        "en": "When the king found out about them, he sent soldiers to capture them, but the young men managed to escape.",
+        "ar": "وعندما علم الملك بأمرهم، أرسل جنوده للقبض عليهم، لكن الفتية تمكنوا من الفرار والهرب.",
+        "fr": "Lorsque le roi l'a appris, il a envoyé des soldats pour les capturer, mais les jeunes hommes ont réussi à s'échapper.",
+        "es": "Cuando el rey se enteró, envió soldados para capturarlos, pero los jóvenes lograron escapar."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/004.mp3"
+    },
+    {
+      "id": "seq_05",
+      "text": {
+        "en": "They ran into a nearby forest and prayed: 'O Lord! Show us Your Mercy and protect us!'",
+        "ar": "لجأ الفتية إلى غابة قريبة ودعوا الله قائلين: «رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا».",
+        "fr": "Ils se sont enfuis dans une forêt voisine et ont prié : « Ô Seigneur ! Accorde-nous Ta miséricorde et protège-nous ! »",
+        "es": "Huyeron a un bosque cercano y oraron: '¡Oh Señor! ¡Concédenos Tu misericordia y protégenos!'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/005.mp3"
+    },
+    {
+      "id": "seq_06",
+      "text": {
+        "en": "Suddenly, they found a hidden cave. They went inside and said: 'This is the perfect hiding place!'",
+        "ar": "وفجأة، وجدوا كهفاً مخفياً، فدخلوا فيه وقالوا بفرح: «هذا المكان المثالي للاختباء!»",
+        "fr": "Soudain, ils ont trouvé une grotte cachée. Ils sont entrés et ont dit : « C'est la cachette parfaite ! »",
+        "es": "De repente, encontraron una cueva oculta. Entraron y dijeron: '¡Este es el escondite perfecto!'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/006.mp3"
+    },
+    {
+      "id": "seq_07",
+      "text": {
+        "en": "Exhausted from running, they lay down to rest, and Allah placed them into a deep sleep that lasted 300 years.",
+        "ar": "ومن شدة التعب، استلقوا للراحة، فألقى الله عليهم نؤاماً عميقاً استمر لثلاثمائة عام.",
+        "fr": "Épuisés, ils se sont allongés pour se reposer, et Allah les a plongés dans un sommeil profond de 300 ans.",
+        "es": "Agotados, se acostaron a descansar, y Alá los sumergió en un profundo sueño que duró 300 años."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/007.mp3"
+    },
+    {
+      "id": "seq_08",
+      "text": {
+        "en": "They did not eat or drink, and their dog Qitmir slept beside them, stretching his paws across the cave entrance.",
+        "ar": "لم يأكلوا ولم يشربوا، وكان كلبهم قطمير نائماً معهم باسطاً ذراعيه بالوصيد عند باب الكهف.",
+        "fr": "Ils ne mangeaient ni ne buvaient, et leur chien Qitmir dormait à côté d'eux, les pattes étendues à l'entrée.",
+        "es": "No comían ni bebían, y su perro Qitmir dormía a su lado, estirando sus patas en la entrada de la cueva."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/008.mp3"
+    },
+    {
+      "id": "seq_09",
+      "text": {
+        "en": "The entrance was kept in shade, and Allah kept the young men completely safe and hidden from the world.",
+        "ar": "كان الكهف مَظللاً ومحمياً، وحفظ الله أولئك الفتية الصالحين بعيداً عن أعيُن الناس.",
+        "fr": "L'entrée restait à l'ombre, et Allah a gardé les jeunes hommes totalement en sécurité et cachés du monde.",
+        "es": "La entrada permanecía a la sombra, y Alá mantuvo a los jóvenes completamente a salvo y ocultos del mundo."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/009.mp3"
+    },
+    {
+      "id": "seq_10",
+      "text": {
+        "en": "When the right time came, Allah woke them up. Stiff and tired, one asked: 'How long have we been asleep?'",
+        "ar": "وعندما حان الوقت المعلوم، أStandardيقظهم الله. فقال أحدهم: «كَمْ لَبِثْتُمْ؟»",
+        "fr": "Quand le moment fut venu, Allah les a réveillés. L'un d'eux a demandé : « Combien de temps avons-nous dormi ? »",
+        "es": "Cuando llegó el momento, Alá los despertó. Uno preguntó: '¿Cuánto tiempo hemos estado dormidos?'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/010.mp3"
+    },
+    {
+      "id": "seq_11",
+      "text": {
+        "en": "Another answered: 'Perhaps a day or part of a day.' Feeling hungry, they decided to get some food.",
+        "ar": "قال آخر: «لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ». وشعروا بالجوع، فقرروا شراء بعض الطعام.",
+        "fr": "Un autre a répondu : « Peut-être un jour ou une partie de jour. » Ayant faim, ils ont décidé d'acheter de la nourriture.",
+        "es": "Otro respondió: 'Tal vez un día o parte de un día.' Sintiendo hambre, decidieron comprar algo de comida."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/011.mp3"
+    },
+    {
+      "id": "seq_12",
+      "text": {
+        "en": "One young man took an old silver coin and slipped into town to buy food at the market.",
+        "ar": "أخذ أحدهم قطعة نقود فضية قديمة وتسلل إلى المدينة ليشتروا طعاماً من السوق.",
+        "fr": "Un jeune homme a pris une vieille pièce d'argent et s'est glissé en ville pour acheter à manger au marché.",
+        "es": "Un joven tomó una vieja moneda de plata y se escurrió hacia la ciudad para comprar comida en el mercado."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/012.mp3"
+    },
+    {
+      "id": "seq_13",
+      "text": {
+        "en": "The shopkeeper looked at the silver coin in shock. It was hundreds of years old!",
+        "ar": "نظر التاجر إلى القطعة الفضية بذهول وصدمة؛ فقد كانت قطعة أثرية يعود تاريخها لمئات السنين!",
+        "fr": "Le marchand a regardé la pièce d'argent avec stupeur. Elle datait de plusieurs siècles !",
+        "es": "El comerciante miró la moneda de plata sorprendido. ¡Tenía cientos de años de antigüedad!"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/013.mp3"
+    },
+    {
+      "id": "seq_14",
+      "text": {
+        "en": "People gathered in curiosity and soon realized the truth: Allah had kept the young men asleep for centuries!",
+        "ar": "تجمع الناس حوله وسرعان ما اكتشفوا المعجزة: لقد حفظهم الله ونسأهم نائمين لقرون طويلة!",
+        "fr": "Les gens se sont rassemblés et ont vite compris la vérité : Allah avait gardé ces jeunes endormis pendant des siècles !",
+        "es": "La gente se reunió con curiosidad y pronto comprendieron la verdad: ¡Alá había mantenido a los jóvenes dormidos durante siglos!"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/014.mp3"
+    },
+    {
+      "id": "seq_15",
+      "text": {
+        "en": "During those long years, the cruel king had died, and true faith in Allah had spread everywhere.",
+        "ar": "وخلال تلك السنوات الطويلة، زال الملك الظالم وانتشر الإيمان بالله في كل مكان.",
+        "fr": "Pendant ces longues années, le roi cruel était mort et la vraie foi en Allah s'était répandue partout.",
+        "es": "Durante esos largos años, el rey cruel había muerto y la verdadera fe en Alá se había extendido por todas partes."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/015.mp3"
+    },
+    {
+      "id": "seq_16",
+      "text": {
+        "en": "This miracle shows that Allah always protects and helps those who put their complete faith and trust in Him.",
+        "ar": "تؤكد لنا هذه المعجزة العظيمة أن الله يحمي وينصر دائماً من يتوكل عليه ويثق به.",
+        "fr": "Ce miracle montre qu'Allah protège et aide toujours ceux qui placent leur entière confiance en Lui.",
+        "es": "Este milagro demuestra que Alá siempre protege y ayuda a quienes depositan su completa fe y confianza en Él."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/sleepersCave/audios/016.mp3"
+    }
+  ]
+}
