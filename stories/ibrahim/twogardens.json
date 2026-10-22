@@ -1,0 +1,174 @@
+{
+  "episode_id": "two_gardens_01",
+  "title": {
+    "en": "The Story of the Two Gardens",
+    "ar": "قصة صاحبي الجنتين",
+    "fr": "L'Histoire des Deux Jardins",
+    "es": "La Historia de los Dos Jardines"
+  },
+  "category": "Stories from the Quran",
+  "age_group": "Kids",
+  "style": "Cinematic Digital Illustration",
+  "sequences": [
+    {
+      "id": "seq_01",
+      "text": {
+        "en": "Allah tells us a story in the Qur'an about two friends. One of them was very rich, and the other was poor.",
+        "ar": "يروي لنا الله في القرآن الكريم قصة صديقين؛ أحدهما كان غنياً جداً، والآخر كان فقيراً.",
+        "fr": "Allah nous raconte une histoire dans le Coran sur deux amis. L'un était très riche, et l'autre était pauvre.",
+        "es": "Alá nos cuenta una historia en el Corán sobre dos amigos. Uno de ellos era muy rico y el otro era pobre."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/001.mp3"
+    },
+    {
+      "id": "seq_02",
+      "text": {
+        "en": "The rich friend owned a huge, magnificent garden filled with sweet grapes and countless date palms.",
+        "ar": "كان للصديق الغني بستان عظيم ورائع، مليء بأعناب حُلوة ونخيل باسقات لا تحصى.",
+        "fr": "L'ami riche possédait un immense et magnifique jardin rempli de raisins doux et d'innombrables palmiers.",
+        "es": "El amigo rico poseía un enorme y magnífico jardín lleno de uvas dulces e innumerables palmeras."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/002.mp3"
+    },
+    {
+      "id": "seq_03",
+      "text": {
+        "en": "Between the lush vineyards and palm trees stretched green fields of golden corn.",
+        "ar": "وكان بين بساتين الأعناب والنخيل تمتد حقول خضراء واسعة من الزرع والجنان.",
+        "fr": "Entre les vignes verdoyantes et les palmiers s'étendaient de verts champs de maïs doré.",
+        "es": "Entre los frondosos viñedos y las palmeras se extendían campos verdes de maíz dorado."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/003.mp3"
+    },
+    {
+      "id": "seq_04",
+      "text": {
+        "en": "Every time they met, the rich man boasted to his friend: 'I am richer than you, and my family is greater!'",
+        "ar": "وكُلما التقيا، كان الرجل الغني يتفاخر على صديقه قائلاً: «أَنَا أَكْثَرُ مِنْكَ مَالًا وَأَعَزُّ نَفَرًا!»",
+        "fr": "Chaque fois qu'ils se rencontraient, le riche se vantait : « Je suis plus riche que toi et ma famille est plus grande ! »",
+        "es": "Cada vez que se reunían, el hombre rico se jactaba: '¡Soy más rico que tú y mi familia es más importante!'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/004.mp3"
+    },
+    {
+      "id": "seq_05",
+      "text": {
+        "en": "He walked into his garden with great pride and said: 'I do not think this garden will ever be destroyed!'",
+        "ar": "دخل بستانه بتكبر وغرور وقال: «مَا أَظُنُّ أَنْ تَبِيدَ هَذِهِ أَبَدًا!»",
+        "fr": "Il entra dans son jardin avec grand orgueil et dit : « Je ne pense pas que ce jardin puisse jamais périr ! »",
+        "es": "Entró a su jardín con gran orgullo y dijo: '¡No creo que este jardín vaya a destruirse jamás!'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/005.mp3"
+    },
+    {
+      "id": "seq_06",
+      "text": {
+        "en": "'I even doubt the Last Day will ever come, and if I return to my Lord, I will find even better than this!'",
+        "ar": "«وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً، وَلَئِنْ رُدِدْتُ إِلَى رَبِّي لَأَجِدَنَّ خَيْرًا مِنْهَا مُنْقَلَبًا!»",
+        "fr": "« Je doute même que l'Heure arrive, et si je suis ramené à mon Seigneur, je trouverai encore meilleur ! »",
+        "es": "'¡Incluso dudo que llegue la Última Hora, y si vuelvo a mi Señor, encontraré algo aún mejor!'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/006.mp3"
+    },
+    {
+      "id": "seq_07",
+      "text": {
+        "en": "His poor friend was surprised by his arrogance and asked: 'Do you disbelieve in Him who created you?'",
+        "ar": "استغرب صديقه الفقير من غروره وتكبره وقال له: «أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِنْ تُرَابٍ؟»",
+        "fr": "Son ami pauvre fut surpris par son arrogance et lui demanda : « Nies-tu Celui qui t'a créé ? »",
+        "es": "Su amigo pobre se sorprendió de su arrogancia y le preguntó: '¿No crees en Aquel que te creó?'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/007.mp3"
+    },
+    {
+      "id": "seq_08",
+      "text": {
+        "en": "'Allah gave you all your wealth. Why don't you praise Him when you enter your garden?'",
+        "ar": "«إن الله هو الذي رزقك ومنحك كل هذه النعم، فَهَلا قُلْتَ حِينَ دَخَلْتَ جَنَّتَكَ: مَا شَاءَ اللَّهُ؟»",
+        "fr": "« C'est Allah qui t'a donné toutes ces richesses. Pourquoi ne Le loues-tu pas en entrant dans ton jardin ? »",
+        "es": "'Alá te dio toda tu riqueza. ¿Por qué no lo alabas cuando entras a tu jardín?'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/008.mp3"
+    },
+    {
+      "id": "seq_09",
+      "text": {
+        "en": "'Why didn't you say: 'Whatever Allah wills happens! There is no power except with Allah!''",
+        "ar": "«لماذا لم تقل: مَا شَاءَ اللَّهُ لا قُوَّةَ إِلاَّ بِاللَّهِ؟»",
+        "fr": "« Pourquoi n'as-tu pas dit : 'Telle est la volonté d'Allah ! Il n'y a de force qu'en Allah !' ? »",
+        "es": "'¿Por qué no dijiste: '¡Hágase la voluntad de Alá! ¡No hay poder sino en Alá!'?'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/009.mp3"
+    },
+    {
+      "id": "seq_10",
+      "text": {
+        "en": "The poor friend continued: 'I may have less wealth than you, but Allah can give me better than your garden.'",
+        "ar": "وتابع الصديق الفقير: «إِنْ تَرَنِ أَنَا أَقَلَّ مِنْكَ مَالًا وَوَلَدًا، فَعَسَى رَبِّي أَنْ يُؤْتِيَنِ خَيْرًا مِنْ جَنَّتِكَ».",
+        "fr": "Le pauvre ami continua : « Si tu me vois moins riche que toi, Allah peut me donner meilleur que ton jardin. »",
+        "es": "El amigo pobre continuó: 'Aunque me veas con menos riqueza que tú, Alá puede darme algo mejor que tu jardín'."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/010.mp3"
+    },
+    {
+      "id": "seq_11",
+      "text": {
+        "en": "'If Allah wills, a sudden storm might strike your garden, or its water springs could dry up completely!'",
+        "ar": "«وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِنَ السَّمَاءِ فَتُصْبِحَ صَعِيدًا زَلَقًا، أَوْ يُصْبِحَ مَاؤُهَا غَوْرًا!»",
+        "fr": "« Si Allah le veut, une tempête pourrait frapper ton jardin, ou ses sources d'eau pourraient s'assécher ! »",
+        "es": "'Si Alá quiere, una tormenta repentina podría golpear tu jardín, ¡o sus manantiales podrían secarse!'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/011.mp3"
+    },
+    {
+      "id": "seq_12",
+      "text": {
+        "en": "The very next day, a calamity struck. A terrible storm destroyed the rich man's entire garden!",
+        "ar": "وفي اليوم التالي، حلّت الكارثة؛ إذ أرسل الله صاعقة دمرت بستان الرجل الغني بأكمله!",
+        "fr": "Dès le lendemain, une calamité frappa. Une terrible tempête détruisit tout le jardin du riche !",
+        "es": "Al día siguiente, ocurrió una calamidad. ¡Una terrible tormentا destruyó todo el jardín del hombre rico!"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/012.mp3"
+    },
+    {
+      "id": "seq_13",
+      "text": {
+        "en": "All the vines were torn down, the palms were ruined, and the fruits lay scattered on the ground.",
+        "ar": "فتساقطت الأعناب، وتحطمت أشجار النخل، وأصبحت الجنة خاوية على عروشها.",
+        "fr": "Toutes les vignes furent arrachées, les palmiers détruits et les fruits jonchaient le sol.",
+        "es": "Todas las vides fueron arrancadas, las palmeras quedaron arruinadas y los frutos cayeron al suelo."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/013.mp3"
+    },
+    {
+      "id": "seq_14",
+      "text": {
+        "en": "The rich man looked at his ruined garden and wrung his hands in grief, crying: 'I wish I had not been so proud!'",
+        "ar": "فأصبح يقلب كفيه على ما أنفق فيها وهي خاوية، ويقول بتندم: «يَا لَيْتَنِي لَمْ أُشْرِكْ بِرَبِّي أَحَدًا!»",
+        "fr": "Le riche se lamenta devant son jardin ruiné et s'écria : « Si seulement je n'avais pas été si orgueilleux ! »",
+        "es": "El hombre rico miró su jardín arruinado y se lamentó diciendo: '¡Ojalá no hubiera sido tan orgulloso!'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/014.mp3"
+    },
+    {
+      "id": "seq_15",
+      "text": {
+        "en": "He turned back to Allah in sincere repentance, realizing that wealth comes only from Allah and can disappear in a second.",
+        "ar": "وتاب إلى الله نادماً، مدركاً أن النعم والرزق من الله وحده، وأن غروره كان سبباً في زوالها.",
+        "fr": "Il se tourna vers Allah avec un repentir sincère, réalisant que la richesse vient d'Allah et peut disparaître en un instant.",
+        "es": "Se volvió a Alá en arrepentimiento sincero, dándose cuenta de que la riqueza proviene solo de Alá y puede desaparecer en un segundo."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/015.mp3"
+    },
+    {
+      "id": "seq_16",
+      "text": {
+        "en": "This story teaches us to remain humble and always thank Allah for His blessings by saying: 'Masha'Allah, La Quwwata Illa Billah!'",
+        "ar": "تعلمنا هذه القصة أن نكون متواضعين ونشكر الله دائماً على نعمه قائلين: «مَا شَاءَ اللَّهُ لا قُوَّةَ إِلاَّ بِاللَّهِ».",
+        "fr": "Cette histoire nous apprend à rester humbles et à toujours remercier Allah pour Ses bienfaits en disant : 'Masha'Allah, La Quwwata Illa Billah !'",
+        "es": "Esta historia nos enseña a ser humildes y a dar siempre gracias a Alá por sus bendiciones diciendo: '¡Masha'Allah, La Quwwata Illa Billah!'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/twoGardens/audios/016.mp3"
+    }
+  ]
+}
