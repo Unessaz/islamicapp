@@ -1,0 +1,154 @@
+{
+  "episode_id": "qarun_ep_01",
+  "title": {
+    "en": "The Treasure House: The Story of Qarun",
+    "ar": "قارون وبيت المال",
+    "fr": "La Maison au Trésor : L'Histoire de Qarun",
+    "es": "La Casa del Tesoro: La Historia de Qarun"
+  },
+  "category": "Stories from the Quran",
+  "age_group": "Kids",
+  "style": "Cinematic Digital Illustration",
+  "sequences": [
+    {
+      "id": "seq_01",
+      "text": {
+        "en": "A long time ago in the land of Egypt, there lived a tribe known as the Children of Israel. Among them there was a man called Qarun.",
+        "ar": "منذ زمن طويل في أرض مصر، عاشت قبيلة تعرف ببني إسرائيل. وكان من بينهم رجل يدعى قارون.",
+        "fr": "Il y a très longtemps, au pays d'Égypte, vivait une tribu connue sous le nom des Enfants d'Israël. Parmi eux se trouvait un homme appelé Qarun.",
+        "es": "Hace mucho tiempo en la tierra de Egipto, vivía una tribu conocida como los Hijos de Israel. Entre ellos había un hombre llamado Qarun."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/001.mp3"
+    },
+    {
+      "id": "seq_02",
+      "text": {
+        "en": "Allah made Qarun very rich. Qarun had a huge treasure house full of gold and precious stones.",
+        "ar": "جعل الله قارون غنياً جداً. وكان لـ قارون خزانة كنز ضخمة مليئة بالذهب والأحجار الكريمة.",
+        "fr": "Allah a rendu Qarun très riche. Qarun possédait une immense maison au trésor remplie d'or et de pierres précieuses.",
+        "es": "Alá hizo a Qarun muy rico. Qarun tenía una enorme casa del tesoro llena de oro y piedras preciosas."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/002.mp3"
+    },
+    {
+      "id": "seq_03",
+      "text": {
+        "en": "The keys of the treasure house were huge and heavy. Many strong men were needed to pick them up and put them in the lock.",
+        "ar": "كانت مفاتيح خزانة الكنز ضخمة وثقيلة. وكان الأمر يتطلب العديد من الرجال الأقوياء لحملها وفتح الأقفال.",
+        "fr": "Les clés de la maison au trésor étaient immenses et lourdes. Il fallait plusieurs hommes forts pour les porter et les mettre dans la serrure.",
+        "es": "Las llaves de la casa del tesoro eran enormes y pesadas. Se necesitaban muchos hombres fuertes para levantarlas y ponerlas en la cerradura."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/003.mp3"
+    },
+    {
+      "id": "seq_04",
+      "text": {
+        "en": "At that time a king called Firawn ruled Egypt. He was a very cruel king who hated the Children of Israel and treated them unkindly.",
+        "ar": "في ذلك الوقت، كان يحكم مصر ملك يدعى فرعون. كان ملكاً ظالماً جداً يكره بني إسرائيل ويسيء معاملتهم.",
+        "fr": "À cette époque, un roi nommé Pharaon régnait sur l'Égypte. C'était un roi très cruel qui détestait les Enfants d'Israël et les traitait méchamment.",
+        "es": "En ese tiempo, un rey llamado Faraón gobernaba Egipto. Era un rey muy cruel que odiaba a los Hijos de Israel y los trataba duramente."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/004.mp3"
+    },
+    {
+      "id": "seq_05",
+      "text": {
+        "en": "Qarun began to work for the cruel king and soon became his minister. Now he was not only rich but also very important.",
+        "ar": "بدأ قارون يعمل لصالح الملك الظالم وسرعان ما أصبح وزيراً له. فأصبح ليس غنياً فحسب، بل وذات شأن كبير أيضاً.",
+        "fr": "Qarun commença à travailler pour le roi cruel et devint bientôt son ministre. Il était désormais non seulement riche, mais aussi très important.",
+        "es": "Qarun comenzó a trabajar para el rey cruel y pronto se convirtió en su ministro. Ahora no solo era rico, sino también muy importante."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/005.mp3"
+    },
+    {
+      "id": "seq_06",
+      "text": {
+        "en": "He started to look down upon his own people. Like Firawn, he was cruel and unkind to them.",
+        "ar": "بدأ يتكبر ويستحقر قومه. ومثل فرعون، كان ظالماً وقاسياً معهم.",
+        "fr": "Il commença à mépriser son propre peuple. Comme Pharaon, il était cruel et dur envers eux.",
+        "es": "Comenzó a mirar con desprecio a su propio pueblo. Al igual que Faraón, era cruel y despiadado con ellos."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/006.mp3"
+    },
+    {
+      "id": "seq_07",
+      "text": {
+        "en": "People said to Qarun: 'You are rich, but you should not be proud. Allah does not like proud people who do not share with others.'",
+        "ar": "قال الناس لقارون: «أنت غني، لكن لا ينبغي لك أن تفخر بتكبر. إن الله لا يحب المتكبرين الذين لا يشاركون نعمهم مع الآخرين».",
+        "fr": "Les gens dirent à Qarun : « Tu es riche, mais tu ne devrais pas être orgueilleux. Allah n'aime pas les orgueilleux qui ne partagent pas avec les autres. »",
+        "es": "La gente le dijo a Qarun: 'Eres rico, pero no debes ser orgulloso. A Alá no le gustan las personas orgullosas que no comparten con los demás'."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/007.mp3"
+    },
+    {
+      "id": "seq_08",
+      "text": {
+        "en": "Qarun said: 'I am clever and I am intelligent. That’s why I am rich.'",
+        "ar": "رد قارون قائلاً: «إنما أوتيت هذا الكنز بفضل ذكائي وعلمي الخاص!»",
+        "fr": "Qarun répondit : « Je suis intelligent et habile. C'est pour cela que je suis riche. »",
+        "es": "Qarun dijo: 'Soy listo e inteligente. Es por eso que soy rico'."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/008.mp3"
+    },
+    {
+      "id": "seq_09",
+      "text": {
+        "en": "He did not fear Allah. He showed off his fine clothes, his jewels, and his palace. Some people were impressed and wished to be as rich as him.",
+        "ar": "لم يخَف الله، بل كان يستعرض ثيابه الفاخرة وجواهره وقصره. فانبهر به بعض الناس و تمنوا لو كانوا أغنياء مثله.",
+        "fr": "Il ne craignait pas Allah. Il étalait ses beaux vêtements, ses bijoux et son palais. Certaines personnes étaient impressionnées et souhaitaient être aussi riches que lui.",
+        "es": "No temía a Alá. Presumía sus finas ropas, sus joyas y su palacio. Algunas personas se impresionaron y desearon ser tan ricas como él."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/009.mp3"
+    },
+    {
+      "id": "seq_10",
+      "text": {
+        "en": "But people who loved Allah said: 'Allah knows best! He knows what is best for us, and the reward from Allah is far better.'",
+        "ar": "لكن الذين يحبون الله قالوا: «الله أعلم بما هو خير لنا! وثواب الله ونعمه خير وأبقى».",
+        "fr": "Mais les gens qui meut aimaient Allah dirent : « Allah sait mieux ! Il sait ce qui est le meilleur pour nous, et la récompense d'Allah est bien meilleure. »",
+        "es": "Pero la gente que amaba a Alá dijo: '¡Alá sabe más! Él sabe qué es lo mejor para nosotros, y la recompensa de Alá es mucho mejor'."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/010.mp3"
+    },
+    {
+      "id": "seq_11",
+      "text": {
+        "en": "Then a terrible thing happened! The earth opened up and swallowed Qarun, his riches, and his treasure house together with its huge keys!",
+        "ar": "ثم حدث أمر مروع! انشقت الأرض وابتلعت قارون، وابتلعت أمواله وبيت كنزه بمفاتيحه الضخمة!",
+        "fr": "Alors une chose terrible se produisit ! La terre s'ouvrit et engloutit Qarun, ses richesses et sa maison au trésor avec ses immenses clés !",
+        "es": "¡Entonces sucedió algo terrible! ¡La tierra se abrió y se tragó a Qarun, a sus riquezas y a su casa del tesoro junto con sus enormes llaves!"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/011.mp3"
+    },
+    {
+      "id": "seq_12",
+      "text": {
+        "en": "Seeing Qarun's terrible end, people said: 'Allah gives much to whom He wants and little to whom He pleases. Everything comes from Allah.'",
+        "ar": "عندما رأى الناس نهاية قارون المروعة، قالوا: «الله يبسط الرزق لمن يشاء ويقدر. كل شيء من عند الله».",
+        "fr": "En voyant la fin terrible de Qarun, les gens dirent : « Allah donne beaucoup à qui Il veut et peu à qui Il veut. Tout vient d'Allah. »",
+        "es": "Al ver el terrible final de Qarun, la gente dijo: 'Alá da mucho a quien Quiere y poco a quien Le place. Todo proviene de Alá'."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/012.mp3"
+    },
+    {
+      "id": "seq_13",
+      "text": {
+        "en": "'We were wrong to want to be like Qarun! But Allah is Most Merciful. We should be happy and thankful for what we have.'",
+        "ar": "«لقد أخطأنا عندما تمأنينا أن نكون مثل قارون! ولكن الله رحيم بنا. يجب أن نكون قنوعين وشاكرين لما لدينا».",
+        "fr": "« Nous avions tort de vouloir être comme Qarun ! Mais Allah est le Très Miséricordieux. Nous devrions être heureux et reconnaissants pour ce que nous avons. »",
+        "es": "¡'Estábamos equivocados al querer ser como Qarun! Pero Alá es el Más Misericordioso. Debemos estar felices y agradecidos con lo que tenemos'."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/013.mp3"
+    },
+    {
+      "id": "seq_14",
+      "text": {
+        "en": "This story of Qarun is a great reminder to believers to always thank Allah and be humble, whether they are rich or poor.",
+        "ar": "قصة قارون هي تذكرة عظيمة للمؤمنين ليحمدوا الله دائماً ويكونوا متواضعين، سواء كانوا أغنياء أم فقراء.",
+        "fr": "L'histoire de Qarun est un grand rappel pour les croyants de toujours remercier Allah et d'être humbles, qu'ils soient riches ou pauvres.",
+        "es": "La historia de Qarun es un gran recordatorio para los creyentes de dar siempre gracias a Alá y ser humildes, ya sean ricos o pobres."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/audios/014.mp3"
+    }
+  ]
+}
