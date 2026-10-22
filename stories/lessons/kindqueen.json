@@ -1,0 +1,174 @@
+{
+  "episode_id": "musa_baby_01",
+  "title": {
+    "en": "The Kind Queen: The Story of Baby Musa",
+    "ar": "الملكة الصالحة وطين موسى",
+    "fr": "La Reine Gentille : L'Histoire du Bébé Moussa",
+    "es": "La Reina Piadosa: La Historia del Bebé Musa"
+  },
+  "category": "Stories from the Quran",
+  "age_group": "Kids",
+  "style": "Cinematic Digital Illustration",
+  "sequences": [
+    {
+      "id": "seq_01",
+      "text": {
+        "en": "A long time ago in Egypt, the cruel King Firawn treated the Children of Israel like slaves.",
+        "ar": "منذ زمن طويل في مصر، كان فرعون الظالم يعامل بني إسرائيل كالعبيد بكل قسوة.",
+        "fr": "Il y a très longtemps en Égypte, le cruel roi Pharaon traitait les Enfants d'Israël comme des esclaves.",
+        "es": "Hace mucho tiempo en Egipto, el cruel rey Faraón trataba a los Hijos de Israel como esclavos."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/001.mp3"
+    },
+    {
+      "id": "seq_02",
+      "text": {
+        "en": "One day, Firawn gave a terrible order to his soldiers: 'Kill all the newborn boys of the Children of Israel!'",
+        "ar": "وفي يوم من الأيام، أصدر فرعون أمراً ظالماً لجنوده: «اقتلوا كل مولود نذكر من بني إسرائيل!»",
+        "fr": "Un jour, Pharaon donna un ordre terrible à ses soldats : « Tuez tous les nouveau-nés garçons des Enfants d'Israël ! »",
+        "es": "Un día, Faraón dio una orden terrible a sus soldados: '¡Maten a todos los niños recién nacidos de los Hijos de Israel!'"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/002.mp3"
+    },
+    {
+      "id": "seq_03",
+      "text": {
+        "en": "The soldiers searched every home and showed no mercy, leaving all the mothers and fathers in deep sorrow.",
+        "ar": "فتش الجنود البيوت بلا رحمة، وألقوا الخوف والحزن في قلوب الآباء والأمهات.",
+        "fr": "Les soldats ont fouillé chaque maison sans pitié, plongeant tous les parents dans une profonde tristesse.",
+        "es": "Los soldados registraron cada casa sin piedad, dejando a todos los padres en una profunda tristeza."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/003.mp3"
+    },
+    {
+      "id": "seq_04",
+      "text": {
+        "en": "In a humble house lived Imran, his wife Yukabid, and their young daughter Miriam. A baby boy was just born to them, named Musa.",
+        "ar": "وفي بيت صغير، عاش عمران وزوجته يوكابد وابنتهما مريم. وقد وُلد لهما طفل جميل أسموه موسى.",
+        "fr": "Dans une humble maison vivaient Imran, son épouse Yokébed et leur fille Miriam. Un petit garçon venait de naître, nommé Moussa.",
+        "es": "En una humilde casa vivían Imran, su esposa Jocabed y su hija Miriam. Les acababa de nacer un niño, llamado Musa."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/004.mp3"
+    },
+    {
+      "id": "seq_05",
+      "text": {
+        "en": "Yukabid was terrified that the soldiers would hear little Musa cry, so she prayed to Allah for help.",
+        "ar": "خافت يوكابد أن يسمع الجنود بكاء طفلها موسى، فرفعت يديها تدعو الله وتستغيث به.",
+        "fr": "Yokébed avait peur que les soldats n'entendent le petit Moussa pleurer, alors elle a prié Allah pour qu'Il l'aide.",
+        "es": "Jocabed tenía miedo de que los soldados escucharan llorar al pequeño Musa, así que le oró a Alá pidiendo ayuda."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/005.mp3"
+    },
+    {
+      "id": "seq_06",
+      "text": {
+        "en": "Allah inspired her: 'Place your baby inside a chest, take it to the river bank, and let the gentle waves carry him to safety.'",
+        "ar": "فأوحى الله إليها: «ضعي طفلكِ في تابوت، وألقيه في النهر، وستحمله الأمواج إلى بر الأمان».",
+        "fr": "Allah lui a inspiré : « Mets ton bébé dans un coffre, emmène-le au bord du fleuve et laisse les vagues le porter en sécurité. »",
+        "es": "Alá le inspiró: 'Pon a tu bebé dentro de una cesta, llévala a la orilla del río y deja que las olas lo lleven a un lugar seguro'."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/006.mp3"
+    },
+    {
+      "id": "seq_07",
+      "text": {
+        "en": "Yukabid gently placed Musa in the chest and, with Miriam's help, put it into the Nile river.",
+        "ar": "وضعت الأم طفلها موسى في التابوت بحنان، ومطب مساعدة مريم وضعت التابوت في مياه نهر النيل.",
+        "fr": "Yokébed a délicatement placé Moussa dans le coffre et, avec l'aide de Miriam, l'a déposé dans le Nil.",
+        "es": "Jocabed colocó suavemente a Musa en la cesta y, con la ayuda de Miriam, la puso en el río Nilo."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/007.mp3"
+    },
+    {
+      "id": "seq_08",
+      "text": {
+        "en": "The waves safely carried the chest away. Worried for her brother, Miriam secretly followed it along the riverbank.",
+        "ar": "حملت الأمواج التابوت برفق، بينما مشت أخته مريم على طول شاطئ النهر لتراقبه من بعيد.",
+        "fr": "Les vagues ont emporté le coffre en douceur. S'inquiétant pour son frère, Miriam l'a suivi en secret le long de la rive.",
+        "es": "Las olas se llevaron la cesta suavemente. Preocupada por su hermano, Miriam la siguió en secreto a lo largo de la orilla."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/008.mp3"
+    },
+    {
+      "id": "seq_09",
+      "text": {
+        "en": "The chest floated toward a palace garden where Queen Asiya, the kind wife of Firawn, was walking.",
+        "ar": "طاف التابوت حتى وصل إلى حديقة القصر، حيث كانت الملكة آسية الزوجة الصالحة تزور الحديقة.",
+        "fr": "Le coffre a flotté jusqu au jardin du palais où se promenait la reine Asiya, la gentille épouse de Pharaon.",
+        "es": "La cesta flotó hacia el jardín del palacio donde paseaba la reina Asiya, la piadosa esposa de Faraón."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/009.mp3"
+    },
+    {
+      "id": "seq_10",
+      "text": {
+        "en": "Unlike her cruel husband, Queen Asiya was very good and gentle. She noticed the floating chest and ordered her maids to fetch it.",
+        "ar": "وكانت الملكة آسية طيبة القلب وعطوفة، فرأت التابوت يطفو، وأمرت خادماتها بإحضاره.",
+        "fr": "Contrairement à son mari cruel, la reine Asiya était très bonne. Elle remarqua le coffre et demanda à ses servantes de l'attraper.",
+        "es": "A diferencia de su cruel esposo, la reina Asiya era muy buena. Vio la cesta flotando y ordenó a sus sirvientas que la trajeran."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/010.mp3"
+    },
+    {
+      "id": "seq_11",
+      "text": {
+        "en": "When the Queen opened the chest, she saw a beautiful, radiant baby boy sleeping peacefully inside.",
+        "ar": "وعندما فتحت الملكة التابوت، وجدت طفلاً جميلاً يبتسم ويرقد بسلام.",
+        "fr": "Lorsque la reine a ouvert le coffre, elle a vu un magnifique bébé endormi paisiblement à l'intérieur.",
+        "es": "Cuando la reina abrió la cesta, vio a un hermoso bebé durmiendo plácidamente en su interior."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/011.mp3"
+    },
+    {
+      "id": "seq_12",
+      "text": {
+        "en": "Love filled her heart immediately. She said: 'He is so lovely! I will raise him in the palace as my own son.'",
+        "ar": "وقع حب الطفل في قلبها فوراً وقالت: «قُرَّتُ عَيْنٍ لِي! سأربيه في القصر ليكون ابناً لنا».",
+        "fr": "L'amour a rempli son cœur. Elle a dit : « Il est si charmant ! Je vais l'élever au palais comme mon propre fils. »",
+        "es": "El amor llenó su corazón de inmediato. Dijo: '¡Es tan hermoso! Lo criaré en el palacio como a mi propio hijo'."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/012.mp3"
+    },
+    {
+      "id": "seq_13",
+      "text": {
+        "en": "The baby refused to drink milk from any nurse in the palace. Miriam, watching nearby, stepped forward courageously.",
+        "ar": "رفض الطفل الرضاع من جميع المرضعات. وهنا تقدمت أخته مريم بشجاعة وقالت للملكة:",
+        "fr": "Le bébé refusait le lait de toutes les nourrices du palais. Miriam, qui regardait à proximité, s'avança avec courage.",
+        "es": "El bebé se negó a tomar leche de cualquier nodriza en el palacio. Miriam, que observaba cerca, se adelantó con valentía."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/013.mp3"
+    },
+    {
+      "id": "seq_14",
+      "text": {
+        "en": "She said: 'I know a loving, good woman who can nurse this child for you.' And she brought Musa's own mother!",
+        "ar": "«هل أدلكم على أهل بيت يكفلونه لكم وهم له ناصحون؟»، ثم أحضرت أم موسى الحقيقية!",
+        "fr": "Elle a dit : « Je connais une femme aimante qui peut vous le nourrir. » Et elle a amené la propre mère de Moussa !",
+        "es": "Dijo: 'Conozco a una mujer amorosa que puede amamantarlo por ustedes.' ¡Y trajo a la propia madre de Musa!"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/014.mp3"
+    },
+    {
+      "id": "seq_15",
+      "text": {
+        "en": "Thus, Allah kept His promise and restored Musa safely back into the loving arms of his mother.",
+        "ar": "وبذلك حقق الله وعده، ورَدَّ موسى إلى أمه كي تقر عينها ولا تحزن.",
+        "fr": "Ainsi, Allah a tenu Sa promesse et a ramené Moussa en sécurité dans les bras aimants de sa mère.",
+        "es": "Así, Alá cumplió Su promesa y devolvió a Musa a los amorosos brazos de su madre."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/015.mp3"
+    },
+    {
+      "id": "seq_16",
+      "text": {
+        "en": "Allah protected Musa, and he grew up to become a mighty prophet. This story teaches us to trust Allah and be kind to others.",
+        "ar": "حفظ الله موسى حتى كَبِر وأصبح نبياً عظيماً. تعلمنا هذه القصة أن نتوكل على الله ونعامل الجميع برفق ومحبة.",
+        "fr": "Allah a protégé Moussa, et il a grandi pour devenir un grand prophète. Cette histoire nous apprend à faire confiance à Allah et à être bon.",
+        "es": "Alá protegió a Musa, y creció para convertirse en un gran profeta. Esta historia nos enseña a confiar en Alá y ser piadosos."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/musaBaby/audios/016.mp3"
+    }
+  ]
+}
