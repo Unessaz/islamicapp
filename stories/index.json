@@ -312,7 +312,7 @@
         "ar": "اكتشف كيف نجا الطفل موسى من النهر بفضل الملكة آسية وكيف أرجعه الله إلى أمه.",
         "fr": "Découvrez comment le bébé Moussa a été sauvé du fleuve par la reine Asiya et rendu à sa mère."
       },
-      "file": "musa/kindqueen.json",
+      "file": "lessons/kindqueen.json",
       "category": "quran_stories",
       "categoryLabel": {
         "en": "Quran Stories",
@@ -410,7 +410,7 @@
         "ar": "تعرف على قصة الشاب إبراهيم عليه السلام ودعوته للحق وتحطيم الأصنام الحجرية.",
         "fr": "Découvrez comment le jeune prophète Ibrahim s'est levé pour la vérité et a brisé les idoles de pierre."
       },
-      "file": "ibrahim/ibrahim01.json",
+      "file": "ibrahim/ibrahimep1.json",
       "category": "prophets",
       "categoryLabel": {
         "en": "Prophets",
@@ -459,7 +459,7 @@
         "ar": "تابع رحلة البحث عن الخالق ومعجزة ماء زمزم والتضحية الكبرى بمنى.",
         "fr": "Suivez la quête du Créateur par Ibrahim, le miracle de Zamzam et l'épreuve du sacrifice."
       },
-      "file": "ibrahim/ibrahim02.json",
+      "file": "ibrahim/ibrahimep2.json",
       "category": "prophets",
       "categoryLabel": {
         "en": "Prophets",
