@@ -230,4 +230,68 @@
       "ageRange": "7–14",
       "color": "#1e3a5f",
       "accentColor": "#4fc3f7",
-      "subtitles":
+      "subtitles": [
+        { "code": "none", "label": "No Subtitles" },
+        { "code": "ar", "label": "Arabic" },
+        { "code": "en", "label": "English" },
+        { "code": "fr", "label": "French" },
+        { "code": "es", "label": "Spanish" }
+      ],
+      "audio": [
+        { "code": "ar", "label": "Arabic", "nativeLabel": "العربية", "flag": "🇸🇦" },
+        { "code": "en", "label": "English", "nativeLabel": "English", "flag": "🇬🇧" },
+        { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+        { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
+      ]
+    },
+    {
+      "id": "qarun_ep_01",
+      "title": {
+        "en": "The Treasure House: The Story of Qarun",
+        "ar": "قارون وبيت المال",
+        "fr": "La Maison au Trésor : L'Histoire de Qarun",
+        "es": "La Casa del Tesoro: La Historia de Qarun"
+      },
+      "subtitle": {
+        "en": "A Lesson in Humility",
+        "ar": "درس في التواضع",
+        "fr": "Une leçon d'humilité",
+        "es": "Una lección de humildad"
+      },
+      "description": {
+        "en": "Learn the story of Qarun and his vast treasure house, and why pride leads to downfall.",
+        "ar": "تعرف على قصة قارون وخزانة كنوزه العظيمة وكيف يؤدي الكبر والغرور إلى الهلاك.",
+        "fr": "Découvrez l'histoire de Qarun et de son trésor, et pourquoi l'orgueil mène à la ruine."
+      },
+      "file": "lessons/qarun.json",
+      "category": "quran_stories",
+      "categoryLabel": {
+        "en": "Quran Stories",
+        "ar": "قصص القرآن",
+        "fr": "Histoires du Coran",
+        "es": "Historias del Corán"
+      },
+      "tags": ["kids", "qarun"],
+      "thumbnail": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/qarun/imgs/01.webp",
+      "duration": 4,
+      "hasPDF": true,
+      "hasVideo": false,
+      "ageRange": "7–14",
+      "color": "#1e3a5f",
+      "accentColor": "#4fc3f7",
+      "subtitles": [
+        { "code": "none", "label": "No Subtitles" },
+        { "code": "ar", "label": "Arabic" },
+        { "code": "en", "label": "English" },
+        { "code": "fr", "label": "French" },
+        { "code": "es", "label": "Spanish" }
+      ],
+      "audio": [
+        { "code": "ar", "label": "Arabic", "nativeLabel": "العربية", "flag": "🇸🇦" },
+        { "code": "en", "label": "English", "nativeLabel": "English", "flag": "🇬🇧" },
+        { "code": "fr", "label": "French", "nativeLabel": "Français", "flag": "🇫🇷" },
+        { "code": "es", "label": "Spanish", "nativeLabel": "Español", "flag": "🇪🇸" }
+      ]
+    }
+  ]
+}
