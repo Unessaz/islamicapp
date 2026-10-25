@@ -9,6 +9,125 @@
   "category": "Stories from the Quran",
   "age_group": "Kids",
   "style": "Cinematic Digital Illustration",
+   "backgroundVideo":{
+    "en":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/nuh_small.mp4",
+     "ar":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/nuhars.mp4"},
+   "scenes": [
+    {
+      "id": "scene_01",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/kindqueen/msc01.webp"
+    },
+    {
+      "id": "scene_02",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small2.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/kindqueen/msc02.webp"
+    },
+    {
+      "id": "scene_03",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small3.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/kindqueen/msc03.webp"
+    },
+    {
+      "id": "scene_04",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small4.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/kindqueen/msc04.webp"
+    },
+    {
+      "id": "scene_05",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small5.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/kindqueen/msc05.webp"
+    },
+    {
+      "id": "scene_06",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small6.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/kindqueen/msc06.webp"
+    },
+    {
+      "id": "scene_07",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/kindqueen/msc07.webp"
+    },
+     {
+      "id": "scene_07",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/kindqueen/msc08.webp"
+    }
+    
+  ],
+     "layouts": {
+    "en": {
+      "app": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_05",
+        "scene_06",
+        "scene_07",
+        "scene_08",
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_02",
+        "scene_04",
+        "scene_07"
+      ]
+    },
+
+    "fr": {
+      "app": [
+         "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_04",
+        "scene_05",
+        "scene_06",
+        "scene_07",
+        "scene_08"
+      ],
+      "pdf": [
+       "scene_01",
+        "scene_02",
+        "scene_04",
+        "scene_07"
+      ]
+    },
+
+    "ar": {
+      "app": [
+        "scene_02",
+        "scene_03",
+        "scene_05",
+       "scene_06",
+        "scene_07"
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_03",
+        "scene_07"
+      ]
+    },
+
+    "es": {
+      "app": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_05",
+        "scene_06",
+        "scene_07"
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_02",
+        "scene_04",
+        "scene_07"
+      ]
+    }
+  },
   "sequences": [
     {
       "id": "seq_01",
