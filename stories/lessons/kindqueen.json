@@ -2,17 +2,18 @@
   "episode_id": "musa_baby_01",
   "title": {
     "en": "The Kind Queen: The Story of Baby Musa",
-    "ar": "الملكة الصالحة وطين موسى",
+    "ar": "الملكة الصالحة وقصة موسى الرضيع",
     "fr": "La Reine Gentille : L'Histoire du Bébé Moussa",
     "es": "La Reina Piadosa: La Historia del Bebé Musa"
   },
   "category": "Stories from the Quran",
   "age_group": "Kids",
   "style": "Cinematic Digital Illustration",
-   "backgroundVideo":{
-    "en":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/nuh_small.mp4",
-     "ar":"https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/nuhars.mp4"},
-   "scenes": [
+  "backgroundVideo": {
+    "en": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/nuh_small.mp4",
+    "ar": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/nuhars.mp4"
+  },
+  "scenes": [
     {
       "id": "scene_01",
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small.mp4",
@@ -48,14 +49,13 @@
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
       "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/kindqueen/msc07.webp"
     },
-     {
-      "id": "scene_07",
+    {
+      "id": "scene_08",
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
       "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/kindqueen/msc08.webp"
     }
-    
   ],
-     "layouts": {
+  "layouts": {
     "en": {
       "app": [
         "scene_01",
@@ -65,7 +65,7 @@
         "scene_05",
         "scene_06",
         "scene_07",
-        "scene_08",
+        "scene_08"
       ],
       "pdf": [
         "scene_01",
@@ -74,13 +74,11 @@
         "scene_07"
       ]
     },
-
     "fr": {
       "app": [
-         "scene_01",
+        "scene_01",
         "scene_02",
         "scene_03",
-        "scene_04",
         "scene_04",
         "scene_05",
         "scene_06",
@@ -88,20 +86,22 @@
         "scene_08"
       ],
       "pdf": [
-       "scene_01",
+        "scene_01",
         "scene_02",
         "scene_04",
         "scene_07"
       ]
     },
-
     "ar": {
       "app": [
+        "scene_01",
         "scene_02",
         "scene_03",
+        "scene_04",
         "scene_05",
-       "scene_06",
-        "scene_07"
+        "scene_06",
+        "scene_07",
+        "scene_08"
       ],
       "pdf": [
         "scene_01",
@@ -109,7 +109,6 @@
         "scene_07"
       ]
     },
-
     "es": {
       "app": [
         "scene_01",
@@ -118,7 +117,8 @@
         "scene_04",
         "scene_05",
         "scene_06",
-        "scene_07"
+        "scene_07",
+        "scene_08"
       ],
       "pdf": [
         "scene_01",
@@ -143,7 +143,7 @@
       "id": "seq_02",
       "text": {
         "en": "One day, Firawn gave a terrible order to his soldiers: 'Kill all the newborn boys of the Children of Israel!'",
-        "ar": "وفي يوم من الأيام، أصدر فرعون أمراً ظالماً لجنوده: «اقتلوا كل مولود نذكر من بني إسرائيل!»",
+        "ar": "وفي يوم من الأيام، أصدر فرعون أمراً ظالماً لجنوده: «اقتلوا كل مولود ذكر من بني إسرائيل!»",
         "fr": "Un jour, Pharaon donna un ordre terrible à ses soldats : « Tuez tous les nouveau-nés garçons des Enfants d'Israël ! »",
         "es": "Un día, Faraón dio una orden terrible a sus soldados: '¡Maten a todos los niños recién nacidos de los Hijos de Israel!'"
       },
@@ -193,7 +193,7 @@
       "id": "seq_07",
       "text": {
         "en": "Yukabid gently placed Musa in the chest and, with Miriam's help, put it into the Nile river.",
-        "ar": "وضعت الأم طفلها موسى في التابوت بحنان، ومطب مساعدة مريم وضعت التابوت في مياه نهر النيل.",
+        "ar": "وضعت الأم طفلها موسى في التابوت بحنان، وبمساعدة مريم وضعت التابوت في مياه نهر النيل.",
         "fr": "Yokébed a délicatement placé Moussa dans le coffre et, avec l'aide de Miriam, l'a déposé dans le Nil.",
         "es": "Jocabed colocó suavemente a Musa en la cesta y, con la ayuda de Miriam, la puso en el río Nilo."
       },
