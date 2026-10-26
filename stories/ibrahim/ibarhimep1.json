@@ -1,10 +1,10 @@
 {
-  "episode_id": "ibrahim_ep_01",
+  "episode_id": "ibrahim_ep_02",
   "title": {
-    "en": "Prophet Ibrahim: Faith and Truth",
-    "ar": "قصة خليل الله إبراهيم عليه السلام",
-    "fr": "Le Prophète Ibrahim : Foi et Vérité",
-    "es": "El Profeta Ibrahim: Fe y Verdad"
+    "en": "Prophet Ibrahim: The Trials and Miracles",
+    "ar": "قصة خليل الله إبراهيم عليه السلام - الجزء الثاني",
+    "fr": "Le Prophète Ibrahim : Épreuves et Miracles",
+    "es": "El Profeta Ibrahim: Pruebas y Milagros"
   },
   "category": "Stories of the Prophets",
   "age_group": "Kids",
@@ -13,242 +13,382 @@
     {
       "id": "seq_01",
       "text": {
-        "en": "A long time ago, in the small village of Ur, a boy was born. His parents called him Ibrahim.",
-        "ar": "منذ زمن طويل، وفي قرية أور الصغيرة، ولد طفل جميل. أطلق عليه والداه اسم إبراهيم.",
-        "fr": "Il y a très longtemps, dans le petit village d'Ur, un garçon est né. Ses parents l'ont appelé Ibrahim.",
-        "es": "Hace mucho tiempo, en el pequeño pueblo de Ur, nació un niño. Sus padres lo llamaron Ibrahim."
+        "en": "When Ibrahim was a young boy, he used to think a lot. He wanted to know who made the world.",
+        "ar": "عندما كان إبراهيم صبياً صغيراً، كان يتفكر كثيراً. أراد أن يعرف من خلق هذا الكون العظيم.",
+        "fr": "Quand Ibrahim était un jeune garçon, il réfléchissait beaucoup. Il voulait savoir qui avait créé le monde.",
+        "es": "Cuando Ibrahim era un niño pequeño, solía pensar mucho. Quería saber quién hizo el mundo."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/001.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_001.mp3"
     },
     {
       "id": "seq_02",
       "text": {
-        "en": "Ibrahim was a very good boy. He loved Allah more than anything else in the world, and when he grew up, Allah made him a great prophet.",
-        "ar": "كان إبراهيم ولداً صالحاً جداً. يحب الله أكثر من أي شيء آخر، ولما كبر جعله الله نبياً عظيماً.",
-        "fr": "Ibrahim était un très bon garçon. Il aimait Allah plus que tout, et quand il a grandi, Allah en a fait un grand prophète.",
-        "es": "Ibrahim era un niño muy bueno. Amaba a Alá más que a nada en el mundo, y cuando creció, Alá lo convirtió en un gran profeta."
+        "en": "He thought: 'The Lord of the world made everything. Let me find this Lord. He will be my Lord too.'",
+        "ar": "فكر وقال: «رب هذا العالم هو من خلق كل شيء. سأبحث عن هذا الرب ليكون ربي أيضاً».",
+        "fr": "Il pensa : « Le Seigneur du monde a tout créé. Je vais chercher ce Seigneur. Il sera aussi mon Seigneur. »",
+        "es": "Pensó: 'El Señor del mundo hizo todo. Déjame encontrar a este Señor. Él también será mi Señor'."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/002.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_002.mp3"
     },
     {
       "id": "seq_03",
       "text": {
-        "en": "The people in Ibrahim's village did not love Allah. They did not pray to Him. Instead, they prayed to stone statues.",
-        "ar": "لم يكن أهل قرية إبراهيم يعبدون الله ولا يدعونه. وبدلاً من ذلك، كانوا يعبدون التماثيل والأصنام الحجرية.",
-        "fr": "Les gens du village d'Ibrahim n'aimaient pas Allah. Ils ne Le priaient pas. Au lieu de cela, ils priaient des statues de pierre.",
-        "es": "La gente del pueblo de Ibrahim no amaba a Alá. No le rezaban a Él. En cambio, le rezaban a estatuas de piedra."
+        "en": "Allah loved Ibrahim very much and taught him many things. On a dark night, Ibrahim saw a star twinkling in the sky.",
+        "ar": "كان الله يحب إبراهيم كثيراً وعلمه أشياء كثيرة. وفي ليلة مظلمة، رأى إبراهيم كوكباً يتلألأ في السماء.",
+        "fr": "Allah aimait beaucoup Ibrahim et lui a appris beaucoup de choses. Par une nuit noire, Ibrahim a vu une étoile scintiller.",
+        "es": "Alá amaba mucho a Ibrahim y le enseñó muchas cosas. En una noche oscura, Ibrahim vio una estrella brillando en el cielo."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/003.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_003.mp3"
     },
     {
       "id": "seq_04",
       "text": {
-        "en": "The Prophet Ibrahim hated the stone statues. He said to the people, 'You must pray to Allah,' but nobody listened to him.",
-        "ar": "كان النبي إبراهيم يكره الأصنام الحجرية. وقال لقومه: «يجب أن تعبدوا الله وحده»، لكن لم يستمع إليه أحد.",
-        "fr": "Le Prophète Ibrahim détestait les statues de pierre. Il disait aux gens : « Vous devez prier Allah », mais personne ne l'écoutait.",
-        "es": "El Profeta Ibrahim odiaba las estatuas de piedra. Le decía a la gente: 'Deben rezarle a Alá', pero nadie lo escuchaba."
+        "en": "Ibrahim said: 'The star is so beautiful! Is this my Lord?' But after some time, the star went away.",
+        "ar": "قال إبراهيم: «هذا الكوكب جميل جداً! هل هذا ربي؟». ولكن بعد فترة غاب الكوكب واختفى.",
+        "fr": "Ibrahim dit : « L'étoile est si belle ! Est-ce mon Seigneur ? » Mais après un moment, l'étoile a disparu.",
+        "es": "Ibrahim dijo: '¡La estrella es tan hermosa! ¿Es este mi Señor?' Pero después de un tiempo, la estrella desapareció."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/004.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_004.mp3"
     },
     {
       "id": "seq_05",
       "text": {
-        "en": "One day, all the village people went to the market. Ibrahim was left alone in the village.",
-        "ar": "وفي أحد الأيام، خرج جميع أهل القرية إلى السوق، فبقي إبراهيم وحده في القرية.",
-        "fr": "Un jour, tous les gens du village sont allés au marché. Ibrahim est resté seul dans le village.",
-        "es": "Un día, toda la gente del pueblo fue al mercado. Ibrahim se quedó solo en el pueblo."
+        "en": "Ibrahim thought: 'This star cannot be my Lord. My Lord can never go away like this!'",
+        "ar": "فكر إبراهيم وقال: «لا يمكن أن يكون هذا ربي، فإن ربي لا يغيب ولا يختفي أبداً!»",
+        "fr": "Ibrahim pensa : « Cette étoile ne peut pas être mon Seigneur. Mon Seigneur ne disparaît jamais ainsi ! »",
+        "es": "Ibrahim pensó: 'Esta estrella no puede ser mi Señor. ¡Mi Señor nunca puede desaparecer así!'"
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/005.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_005.mp3"
     },
     {
       "id": "seq_06",
       "text": {
-        "en": "He thought: 'Now I can get rid of all the stone statues. Then everybody will bow only to Allah.'",
-        "ar": "فكر إبراهيم وقال: «الآن يمكنني التخلص من كل هذه الأصنام الحجرية، ليعود الجميع لعبادة الله وحده».",
-        "fr": "Il pensa : « Maintenant, je peux me débarrasser de toutes les statues. Alors tout le monde se prosternera seulement devant Allah. »",
-        "es": "Pensó: 'Ahora puedo deshacerme de todas las estatuas. Entonces todos se inclinarán solo ante Alá'."
+        "en": "Then the beautiful moon appeared. Ibrahim said: 'The moon must be my Lord!' But when morning came, the moon vanished too.",
+        "ar": "ثم بَزَغَ القمر المُنير، فقال إبراهيم: «هذا ربي!». ولكن عندما جاء الصباح اختفى القمر أيضاً.",
+        "fr": "Puis la belle lune est apparue. Ibrahim dit : « La lune doit être mon Seigneur ! » Mais le matin venu, la lune a disparu aussi.",
+        "es": "Puis apareciò la hermosa luna. Ibrahim dijo: '¡La luna debe ser mi Señor!' Pero al llegar la mañana, la luna también desapareció."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/006.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_006.mp3"
     },
     {
       "id": "seq_07",
       "text": {
-        "en": "Ibrahim went to the room where the statues were kept. He took a hammer and broke them one by one.",
-        "ar": "ذهب إبراهيم إلى معبد الأصنام، فأخذ فأساً وحطمها واحدة تلو الأخرى.",
-        "fr": "Ibrahim est allé dans la pièce où étaient gardées les statues. Il a pris un marteau et les a brisées une par une.",
-        "es": "Ibrahim fue a la habitación donde estaban las estatuas. Tomó un martillo y las rompió una por una."
+        "en": "In the morning, the sun came out shining. Ibrahim said: 'It is bigger! It must be my Lord!' But in the evening, the sun set.",
+        "ar": "وفي الصباح، أشرقت الشمس بنورها، فقال: «هذا أكبر! هذا ربي!». ولكن عند المساء غابت الشمس وغربت.",
+        "fr": "Le matin, le soleil s'est levé. Ibrahim dit : « Il est plus grand ! Ce doit être mon Seigneur ! » Mais le soir, le soleil s'est couché.",
+        "es": "Por la mañana, salió el sol brillando. Ibrahim dijo: '¡Es más grande! ¡Debe ser mi Señor!' Pero por la tarde, el sol se ocultó."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/007.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_007.mp3"
     },
     {
       "id": "seq_08",
       "text": {
-        "en": "When the people came back, there was nothing left but broken stones. They were very angry with Ibrahim.",
-        "ar": "وعندما عاد أهل القرية، لم يجدوا سوى حجارة حطام، فغضبوا غضباً شديداً من إبراهيم.",
-        "fr": "Quand les gens sont revenus, il ne restait plus que des pierres brisées. Ils étaient très en colère contre Ibrahim.",
-        "es": "Cuando la gente regresó, no quedaba nada más que piedras rotas. Estaban muy enojados con Ibrahim."
+        "en": "Ibrahim realized that Allah made the sun, the moon, and the stars. He said: 'Allah is my Lord!'",
+        "ar": "أدرك إبراهيم أن الله هو الذي خلق الشمس والقمر والنجوم. فقال بيقين: «الله هو ربي!»",
+        "fr": "Ibrahim a réalisé qu'Allah avait créé le soleil, la lune et les étoiles. Il a dit : « Allah est mon Seigneur ! »",
+        "es": "Ibrahim se dio cuenta de que Alá hizo el sol, la luna y las estrellas. Dijo: '¡Alá es mi Señor!'"
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/008.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_008.mp3"
     },
     {
       "id": "seq_09",
       "text": {
-        "en": "They shouted at him, held him by his hands and legs, and threw him into a huge, hot fire.",
-        "ar": "صرخوا في وجهه، ثم أمسكوا بيديه وقدميه وألقوه في نار عظيمة شديدة الحرارة.",
-        "fr": "Ils lui ont crié dessus, l'ont attrapé par les mains et les pieds, et l'ont jeté dans un grand feu.",
-        "es": "Le gritaron, lo sujetaron de manos y pies y lo arrojaron a un gran fuego."
+        "en": "One night, Ibrahim had a dream. Allah commanded him to pack his things and travel to Arabia with his family.",
+        "ar": "وفي إحدى الليالي، رأى إبراهيم رؤيا؛ حيث أمره الله بأن يأخذ أهله ويرتحل إلى أرض الجزيرة العربية.",
+        "fr": "Une nuit, Ibrahim a fait un rêve. Allah lui a ordonné de préparer ses bagages et de voyager vers l'Arabie avec sa famille.",
+        "es": "Una noche, Ibrahim tuvo un sueño. Alá le ordenó empacar sus cosas y viajar a Arabia con su familia."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/009.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_009.mp3"
     },
     {
       "id": "seq_10",
       "text": {
-        "en": "But Allah loved Ibrahim very much and protected him. Allah said to the fire: 'Be cool and safe!'",
-        "ar": "لكن الله كان يحب إبراهيم كثيراً وحماه. وقال الله للنار: «يا نار كوني برداً وسلماً!».",
-        "fr": "Mais Allah aimait beaucoup Ibrahim et l'a protégé. Allah a dit au feu : « Sois frais et paisible ! »",
-        "es": "Pero Alá amaba mucho a Ibrahim y lo protegió. Alá le dijo al fuego: '¡Sé fresco y seguro!'"
+        "en": "Ibrahim, his wife Hajrah, and their baby son Ismail traveled for many days across mountains and valleys.",
+        "ar": "سافر إبراهيم وزوجته هاجر وطفلهما الرضيع إسماعيل لأيام عديدة عبر الجبال والوديان.",
+        "fr": "Ibrahim, son épouse Hajrah et leur bébé Ismail ont voyagé pendant plusieurs jours à travers montagnes et vallées.",
+        "es": "Ibrahim, su esposa Hajrah y su bebé Ismail viajaron durante muchos días a través de montañas y valles."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/010.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_010.mp3"
     },
     {
       "id": "seq_11",
       "text": {
-        "en": "The fire obeyed Allah and became cool. It did not burn Ibrahim at all, and he walked out safely!",
-        "ar": "أطاعت النار أمر الله وصارت برداً، ولم تؤذِ إبراهيم أبداً، وخرج منها سالماً غانماً!",
-        "fr": "Le feu a obéi à Allah et est devenu frais. Il n'a pas du tout brûlé Ibrahim, et il en est sorti sain et sauf !",
-        "es": "El fuego obedeció a Alá y se volvió fresco. No quemó a Ibrahim en absoluto, ¡y salió a salvo!"
+        "en": "Finally, they reached a dry desert valley with no trees, no shade, and no water.",
+        "ar": "وأخيراً، وصلوا إلى وادٍ صحراوي جاف، لا شجر فيه ولا ظل ولا ماء.",
+        "fr": "Ensuite, ils sont arrivés dans une vallée désertique et sèche, sans arbres, sans ombre et sans eau.",
+        "es": "Finalmente, llegaron a un valle desértico y seco, sin árboles, sin sombra y sin agua."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/011.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_011.mp3"
     },
     {
       "id": "seq_12",
       "text": {
-        "en": "After that miracle, Ibrahim became even bolder. He traveled from village to village telling people about Allah.",
-        "ar": "بعد هذه المعجزة، ازداد إبراهيم شجاعة وإيماناً، وسافر من قرية إلى أخرى يدعو الناس للتوحيد.",
-        "fr": "Après ce miracle, Ibrahim est devenu encore plus courageux. Il a voyagé de village en village pour parler d'Allah aux gens.",
-        "es": "Después de ese milagro, Ibrahim se volvió aún más valiente. Viajó de pueblo en pueblo contándole a la gente sobre Alá."
+        "en": "Ibrahim was ordered by Allah to leave Hajrah and baby Ismail there and return.",
+        "ar": "أمر الله إبراهيم أن يترك هاجر وطفلها إسماعيل في ذلك المكان ويعود.",
+        "fr": "Allah a ordonné à Ibrahim de laisser Hajrah et le bébé Ismail à cet endroit et de repartir.",
+        "es": "Alá le ordenó a Ibrahim que dejara a Hajrah y al bebé Ismail allí y regresara."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/012.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_012.mp3"
     },
     {
       "id": "seq_13",
       "text": {
-        "en": "At first, only a few people believed him, but slowly more and more joined. Faith in Allah is what truly saves us.",
-        "ar": "في البداية، آمن معه عدد قليل، ثم بدأ المزيد من الناس بالانضمام إليه. فالإيمان بالله هو المنجي الحقيقي.",
-        "fr": "Au début, seules quelques personnes l'ont cru, mais peu à peu, de plus en plus de gens l'ont rejoint. La foi en Allah est ce qui nous sauve.",
-        "es": "Al principio, solo unas pocas personas le creyeron, pero poco a poco se unieron más. La fe en Alá es lo que realmente nos salva."
+        "en": "Hajrah trusted Allah. Soon, baby Ismail became very thirsty and began to cry.",
+        "ar": "استسلمت هاجر لأمر الله وتوكلت عليه. وسرعان ما عطش الرضيع إسماعيل وبدأ يبكي.",
+        "fr": "Hajrah a fait confiance à Allah. Bientôt, le bébé Ismail a eu très soif et s'est mis à pleurer.",
+        "es": "Hajrah confió en Alá. Pronto, el bebé Ismail tuvo mucha sed y comenzó a llorar."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/013.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_013.mp3"
     },
     {
       "id": "seq_14",
       "text": {
-        "en": "When Ibrahim was a young boy, he used to think a lot. He wanted to find the Creator who made the entire world.",
-        "ar": "عندما كان إبراهيم صبياً صغيراً، كان يتفكر كثيراً. أراد أن يعرف من خلق هذا الكون العظيم.",
-        "fr": "Quand Ibrahim était un jeune garçon, il réfléchissait beaucoup. Il voulait trouver le Créateur de tout l'univers.",
-        "es": "Cuando Ibrahim era un niño pequeño, solía pensar mucho. Quería encontrar al Creador que hizo todo el mundo."
+        "en": "Hajrah ran back and forth between two hills, Safa and Marwah, looking for water for her son.",
+        "ar": "سعت هاجر وهرولت بين جبلين، الصفا والمروة، تبحث عن ماء لطفلها الرضيع.",
+        "fr": "Hajrah a couru entre deux collines, Safa et Marwah, en cherchant de l'eau pour son fils.",
+        "es": "Hajrah corrió de un lado a otro entre dos colinas, Safa y Marwah, buscando agua para su hijo."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/014.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_014.mp3"
     },
     {
       "id": "seq_15",
       "text": {
-        "en": "One dark night, Ibrahim looked up and saw a star twinkling brightly in the sky.",
-        "ar": "وفي ليلة مظلمة، نظر إبراهيم إلى السماء فرأى كوكباً يتلألأ بنوره الساطع.",
-        "fr": "Un soir de nuit noire, Ibrahim a levé les yeux et a vu une étoile scintiller brillamment dans le ciel.",
-        "es": "Una noche oscura, Ibrahim miró hacia arriba y vio una estrella brillando intensamente en el cielo."
+        "en": "As Ismail kicked his feet on the hot sand, a miracle happened! Water began to gush out from the ground!",
+        "ar": "وبينما كان إسماعيل يضرب الأرض بقدميه الصغيرتين، حدثت معجزة! فنبع الماء الفرات من الأرض!",
+        "fr": "Alors qu'Ismail frappait le sable chaud de ses pieds, un miracle s'est produit ! L'eau a jailli du sol !",
+        "es": "Mientras Ismail pataleaba en la arena caliente, ¡ocurrió un milagro! ¡El agua comenzó a brotar del suelo!"
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/015.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_015.mp3"
     },
     {
       "id": "seq_16",
       "text": {
-        "en": "He said, 'This star is so beautiful! Is this my Lord?' But after a while, the star disappeared.",
-        "ar": "قال: «هذا جميل جداً! هذا ربي!». ولكن بعد فترة اختفى الكوكب وزال.",
-        "fr": "Il dit : « Cette étoile est si belle ! Est-ce mon Seigneur ? » Mais après un moment, l'étoile a disparu.",
-        "es": "Dijo: '¡Esta estrella es tan hermosa! ¿Es este mi Señor?' Pero después de un tiempo, la estrella desapareció."
+        "en": "This pure spring water was named Zamzam. It never dried up and still flows today.",
+        "ar": "سميت هذه العين المباركة بعين زمزم. ولم تنضب أبداً وما زالت تتدفق حتى يومنا هذا.",
+        "fr": "Cette source d'eau pure a été appelée Zamzam. Elle ne s'est jamais asséchée et coule encore aujourd'hui.",
+        "es": "Esta fuente de agua pura se llamó Zamzam. Nunca se secó y todavía fluye hoy."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/016.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_016.mp3"
     },
     {
       "id": "seq_17",
       "text": {
-        "en": "Ibrahim thought: 'This star cannot be my Lord. My Lord can never disappear like this!'",
-        "ar": "فكر إبراهيم وقال: «لا يمكن أن يكون هذا ربي، فإن ربي لا يغيب ولا يختفي!»",
-        "fr": "Ibrahim pensa : « Cette étoile ne peut pas être mon Seigneur. Mon Seigneur ne disparaît jamais ainsi ! »",
-        "es": "Ibrahim pensó: 'Esta estrella no puede ser mi Señor. ¡Mi Señor nunca puede desaparecer así!'"
+        "en": "Years later, when Ismail grew into a fine boy, Ibrahim had another test in a dream.",
+        "ar": "وبعد سنوات، عندما كبر إسماعيل وأصبح فتى صالحاً، ابتلي إبراهيم برؤيا أخرى.",
+        "fr": "Des années plus tard, quand Ismail a grandi, Ibrahim a eu une autre épreuve dans un rêve.",
+        "es": "Años más tarde, cuando Ismail creció y se convirtió en un buen niño, Ibrahim tuvo otra prueba en un sueño."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/017.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_017.mp3"
     },
     {
       "id": "seq_18",
       "text": {
-        "en": "Then the beautiful, full moon appeared in the sky. Ibrahim said: 'It is so bright! The moon must be my Lord!'",
-        "ar": "ثم أشرق القمر في السماء بنوره البهيج، فقال إبراهيم: «هذا أكبر وأنشط، هذا ربي!»",
-        "fr": "Puis la belle pleine lune est apparue dans le ciel. Ibrahim dit : « Elle est si brillante ! La lune doit être mon Seigneur ! »",
-        "es": "Luego apareció la hermosa luna llena en el cielo. Ibrahim dijo: '¡Es tan brillante! ¡La luna debe ser mi Señor!'"
+        "en": "Allah commanded Ibrahim to sacrifice his beloved son Ismail as a test of his faith.",
+        "ar": "أمر الله إبراهيم في الرؤيا أن يذبح ابنه الحبيب إسماعيل اختباَراً لإيمانه وطاعته.",
+        "fr": "Allah a ordonné à Ibrahim de sacrifier son fils bien-aimé Ismail en épreuve pour sa foi.",
+        "es": "Alá le ordenó a Ibrahim sacrificar a su querido hijo Ismail como prueba de su fe."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/018.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_018.mp3"
     },
     {
       "id": "seq_19",
       "text": {
-        "en": "But when morning came, the moon went away too. Ibrahim said: 'The moon is not my Lord either.'",
-        "ar": "ولكن عندما جاء الصباح، غاب القمر وسقط نوره. فقال إبراهيم: «ليس هذا ربي أيضاً».",
-        "fr": "Mais quand le matin est venu, la lune a disparu aussi. Ibrahim dit : « La lune n'est pas non plus mon Seigneur. »",
-        "es": "Pero cuando llegó la mañana, la luna también se fue. Ibrahim dijo: 'La luna tampoco es mi Señor'."
+        "en": "Ibrahim told Ismail about the dream. Ismail said: 'O my father, do what Allah has commanded you.'",
+        "ar": "أخبر إبراهيم ابنه الرؤيا، فقال إسماعيل بكل رضا: «يا أبتِ افعل ما تؤمر، ستجدني إن شاء الله من الصابرين».",
+        "fr": "Ibrahim a parlé du rêve à Ismail. Ismail a dit : « Ô mon père, fais ce qu'Allah t'a ordonné. »",
+        "es": "Ibrahim le contó el sueño a Ismail. Ismail dijo: 'Oh padre mío, haz lo que Alá te ha ordenado'."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/019.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_019.mp3"
     },
     {
       "id": "seq_20",
       "text": {
-        "en": "In the morning, the sun came out, shining warmly. Ibrahim said: 'Look, it is bigger! It must be my Lord!'",
-        "ar": "وعند الشروق، خرجت الشمس تشرق بدفء ونور. فقال إبراهيم: «هذا أكبر! هذا ربي!»",
-        "fr": "Le matin, le soleil s'est levé, brillant chaleureusement. Ibrahim dit : « Regardez, il est plus grand ! Ce doit être mon Seigneur ! »",
-        "es": "Por la mañana, salió el sol, brillando cálidamente. Ibrahim dijo: '¡Miren, es más grande! ¡Debe ser mi Señor!'"
+        "en": "They went to Mina. As Ibrahim prepared to obey Allah, Angel Jibril arrived with a ram from Paradise.",
+        "ar": "ذهبا إلى منى. وعندما تهيأ إبراهيم لامتثال أمر الله، نزل الملك جبريل بكبش عظيم من الجنة.",
+        "fr": "Ils sont allés à Mina. Alors qu'Ibrahim se préparait à obéir, l'ange Jibril est arrivé avec un bélier du Paradis.",
+        "es": "Fueron a Mina. Mientras Ibrahim se preparaba para obedecer a Alá, el ángel Jibril llegó con un carnero del Paraíso."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/020.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_020.mp3"
     },
     {
       "id": "seq_21",
       "text": {
-        "en": "When evening came, the sun set and went away. Ibrahim realized: 'The sun is not my Lord either.'",
-        "ar": "وعند المساء، غابت الشمس وغربت. فعرف إبراهيم وقال: «إن الشمس ليست ربي أيضاً».",
-        "fr": "Quand le soir est venu, le soleil s'est couché. Ibrahim a réalisé : « Le soleil n'est pas non plus mon Seigneur. »",
-        "es": "Cuando llegó la noche, el sol se ocultó. Ibrahim se dio cuenta: 'El sol tampoco es mi Señor'."
+        "en": "Allah saved Ismail and replaced him with the ram. Ibrahim and Ismail thanked Allah with immense joy.",
+        "ar": "أنقذ الله إسماعيل وفداه بالكبش. فحمد إبراهيم وإسماعيل الله وشكراه بفرحٍ كبير.",
+        "fr": "Allah a sauvé Ismail et l'a remplacé par le bélier. Ibrahim et Ismail ont remercié Allah avec une grande joie.",
+        "es": "Alá salvó a Ismail y lo reemplazó con el carnero. Ibrahim e Ismail dieron gracias a Alá con inmensa alegría."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/021.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_021.mp3"
     },
     {
       "id": "seq_22",
       "text": {
-        "en": "Ibrahim looked around at the trees, the flowers, and the sky. He realized that Allah made all of these things!",
-        "ar": "نظر إبراهيم حوله إلى الأشجار والأزهار والسماء، وأدرك أن الله هو الذي خلق كل هذه المخلوقات!",
-        "fr": "Ibrahim a regardé autour de lui les arbres, les fleurs et le ciel. Il a réalisé qu'Allah a créé toutes ces choses !",
-        "es": "Ibrahim miró a su alrededor, a los árboles, las flores y el cielo. ¡Se dio cuenta de que Alá hizo todas estas cosas!"
+        "en": "To remember this great sacrifice and faith, Muslims celebrate Eid al-Adha every year.",
+        "ar": "وإحياءً لهذه الذكرى العظيمة والتضحية المباركة، يحتفل المسلمون كل عام بعيد الأضحى المبارك.",
+        "fr": "Pour se souvenir de ce grand sacrifice et de cette foi, les musulmans célèbrent l'Aïd al-Adha chaque année.",
+        "es": "Para recordar este gran sacrificio y fe, los musulmanes celebran Eid al-Adha cada año."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/022.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_022.mp3"
     },
     {
       "id": "seq_23",
       "text": {
-        "en": "Ibrahim said with certainty: 'Allah is my Lord! He is the Creator of the sun, the moon, and the stars.'",
-        "ar": "وقال إبراهيم بيقين: «الله هو ربي! هو خالق الشمس والقمر والنجوم والسماوات والأرض».",
-        "fr": "Ibrahim a dit avec certitude : « Allah est mon Seigneur ! Il est le Créateur du soleil, de la lune et des étoiles. »",
-        "es": "Ibrahim dijo con certeza: '¡Alá es mi Señor! Él es el Creador del sol, la luna y las estrellas'."
+        "en": "Later, Prophet Ibrahim lived in Palestine. He preached to the people, but only his wife and nephew Lut believed.",
+        "ar": "وفي وقت لاحق، عاش النبي إبراهيم في فلسطين. وكان يدعو الناس، فآمنت معه زوجته وسيدنا لوط عليه السلام.",
+        "fr": "Plus tard, le Prophète Ibrahim a vécu en Palestine. Il prêchait, mais seuls son épouse et son neveu Lut ont cru.",
+        "es": "Más tarde, el Profeta Ibrahim vivió en Palestina. Predicaba a la gente, pero solo creyeron su esposa y su sobrino Lut."
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/023.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_023.mp3"
     },
     {
       "id": "seq_24",
       "text": {
-        "en": "Allah guided Ibrahim and showed him the truth. Allah is our Lord who takes care of us and never leaves us alone.",
-        "ar": "هدى الله إبراهيم وأراه الحق. والله هو ربنا الذي يعتني بنا ولا يتركنا أبداً.",
-        "fr": "Allah a guidé Ibrahim et lui a montré la vérité. Allah est notre Seigneur qui prend soin de nous et ne nous abandonne jamais.",
-        "es": "Alá guió a Ibrahim y le mostró la verdad. Alá es nuestro Señor que nos cuida y nunca nos deja solos."
+        "en": "One day, two handsome strangers came to Ibrahim's house saying: 'Peace be upon you!'",
+        "ar": "وفي يوم من الأيام، جاء غريبان إلى بيت إبراهيم وقالا: «سلامٌ عليكم!»",
+        "fr": "Un jour, deux étrangers sont venus chez Ibrahim en disant : « Paix sur vous ! »",
+        "es": "Un día, dos extraños llegaron a la casa de Ibrahim diciendo: '¡La paz sea con ustedes!'"
       },
-      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/024.mp3"
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_024.mp3"
+    },
+    {
+      "id": "seq_25",
+      "text": {
+        "en": "Ibrahim welcomed them warmly and brought out a roasted calf for them to eat.",
+        "ar": "رحب بهم إبراهيم بحفاوة وسارع بتقديم عجل حنيذ مشوي ليتناولوا الطعام.",
+        "fr": "Ibrahim les a accueillis chaleureusement et leur a apporté un veau rôti à manger.",
+        "es": "Ibrahim los dio la bienvenida calurosamente y les sirvió un ternero asado para comer."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_025.mp3"
+    },
+    {
+      "id": "seq_26",
+      "text": {
+        "en": "The guests did not touch the food. They were actually angels sent by Allah!",
+        "ar": "لكن الضيوف لم يمدوا أيديهم إلى الطعام؛ لأنهم لم يكونوا بشراً بل كانوا ملائكة أرسلهم الله!",
+        "fr": "Les invités n'ont pas touché à la nourriture. C'étaient en fait des anges envoyés par Allah !",
+        "es": "Los invitados no tocaron la comida. ¡En realidad eran ángeles enviados por Alá!"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_026.mp3"
+    },
+    {
+      "id": "seq_27",
+      "text": {
+        "en": "The angels said: 'Do not fear! We bring you good news. You will have a wise son named Ishaq.'",
+        "ar": "قالت الملائكة: «لا تخف! إنّا نبشرك بغلام عليم اسمه إسحاق».",
+        "fr": "Les anges ont dit : « N'aie pas peur ! Nous t'apportons une bonne nouvelle. Tu auras un fils sage nommé Ishaq. »",
+        "es": "Los ángeles dijeron: '¡No temas! Te traemos buenas noticias. Tendrás un hijo sabio llamado Ishaq'."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_027.mp3"
+    },
+    {
+      "id": "seq_28",
+      "text": {
+        "en": "Ibrahim's wife was amazed because she was very old, but nothing is impossible for Allah.",
+        "ar": "تعجبت زوجة إبراهيم لكبر سنها، ولكن لا شيء يعجز الله سبحانه وتعالى.",
+        "fr": "L'épouse d'Ibrahim était étonnée car elle était très âgée, mais rien n'est impossible à Allah.",
+        "es": "La esposa de Ibrahim estaba asombrada porque era muy mayor, pero nada es imposible para Alá."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_028.mp3"
+    },
+    {
+      "id": "seq_29",
+      "text": {
+        "en": "The angels explained that they were also sent to punish the wicked cities near the Dead Sea.",
+        "ar": "ثم أخبرت الملائكة إبراهيم أنهم مكلفون أيضاً بعقاب القوم الظالمين في المدن القريبة من البحر الميت.",
+        "fr": "Les anges ont expliqué qu'ils étaient aussi envoyés pour punir les villes impies près de la mer Morte.",
+        "es": "Los ángeles explicaron que también fueron enviados para castigar a las ciudades malvadas cerca del Mar Muerto."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_029.mp3"
+    },
+    {
+      "id": "seq_30",
+      "text": {
+        "en": "Prophet Lut lived in those cities where people did terrible things and disobeyed Allah.",
+        "ar": "وكان النبي لوط يعيش في تلك المدن التي انتشر فيها الشر والعصيان.",
+        "fr": "Le Prophète Lut vivait dans ces villes où les gens commettaient de terribles actes et désobéissaient à Allah.",
+        "es": "El Profeta Lut vivía en esas ciudades donde la gente hacía cosas terribles y desobedecía a Alá."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_030.mp3"
+    },
+    {
+      "id": "seq_31",
+      "text": {
+        "en": "The angels told Prophet Lut: 'Leave the city during the night with the believers, for punishment is coming.'",
+        "ar": "حذرت الملائكة النبي لوطاً وقالت: «اخرج بأهلك المؤمنين ليلاً، فإن العذاب نازل بالظالمين».",
+        "fr": "Les anges ont dit au Prophète Lut : « Quitte la ville pendant la nuit avec les croyants, car le châtiment arrive. »",
+        "es": "Los ángeles le dijeron al Profeta Lut: 'Sal de la ciudad durante la noche con los creyentes, porque viene el castigo'."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_031.mp3"
+    },
+    {
+      "id": "seq_32",
+      "text": {
+        "en": "In the night, a powerful earthquake shook the earth, and fire rained down from the sky upon the wicked.",
+        "ar": "وفي الليل، زلزلت الأرض زلزالاً شديداً، وأمطرت السماء حجارة من نار على الظالمين.",
+        "fr": "Dans la nuit, un puissant tremblement de terre a secoué la terre, et du feu est tombé du ciel sur les impies.",
+        "es": "En la noche, un poderoso terremoto sacudió la tierra, y llovió fuego del cielo sobre los malvados."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_032.mp3"
+    },
+    {
+      "id": "seq_33",
+      "text": {
+        "en": "The wicked people were destroyed, while Prophet Lut and the believers were saved safely by Allah.",
+        "ar": "فهلك الظالمون جميعاً، بينما نَجَّى اللهُ النبيَّ لوطاً والمؤمنين معه بسلام.",
+        "fr": "Les gens impies ont été détruits, tandis que le Prophète Lut et les croyants ont été sauvés par Allah.",
+        "es": "La gente malvada fue destruida, mientras que el Profeta Lut y los creyentes fueron salvados por Alá."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_033.mp3"
+    },
+    {
+      "id": "seq_34",
+      "text": {
+        "en": "Prophet Ibrahim lived a long and blessed life, always trusting Allah and teaching people goodness.",
+        "ar": "عاش النبي إبراهيم حياة طويلة ومباركة، متوكلاً على الله وعالماً الناس الخير والتوحيد.",
+        "fr": "Le Prophète Ibrahim a vécu une longue vie bénie, faisant toujours confiance à Allah et enseignant le bien.",
+        "es": "El Profeta Ibrahim vivió una vida larga y bendecida, siempre confiando en Alá y enseñando el bien."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_034.mp3"
+    },
+    {
+      "id": "seq_35",
+      "text": {
+        "en": "Allah called Ibrahim 'Khalilullah', which means the intimate friend of Allah.",
+        "ar": "وسماه الله تعالى «خليل الله»، أي الصديق المقرب والمحبوب لله عز وجل.",
+        "fr": "Allah a appelé Ibrahim 'Khalilullah', ce qui signifie l'ami intime d'Allah.",
+        "es": "Alá llamó a Ibrahim 'Khalilullah', que significa el amigo íntimo de Alá."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_035.mp3"
+    },
+    {
+      "id": "seq_36",
+      "text": {
+        "en": "Whenever we pray, we ask Allah to send blessings upon Prophet Ibrahim and his family.",
+        "ar": "وفي كل صلاة، ندعو الله أن يبارك على سيدنا إبراهيم وعلى آل سيدنا إبراهيم.",
+        "fr": "À chaque prière, nous demandons à Allah de bénir le Prophète Ibrahim et sa famille.",
+        "es": "En cada oración, le pedimos a Alá que envíe bendiciones sobre el Profeta Ibrahim y su familia."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_036.mp3"
+    },
+    {
+      "id": "seq_37",
+      "text": {
+        "en": "This story teaches us that true faith and patience in Allah bring divine help and endless blessings.",
+        "ar": "تعلمنا هذه القصة أن الإيمان الصادق والصبر يفتحان أبواب الرحمة والفرَج من الله.",
+        "fr": "Cette histoire nous apprend que la vraie foi et la patience en Allah apportent l'aide divine et des bénédictions.",
+        "es": "Esta historia nos enseña que la verdadera fe y la paciencia en Alá traen ayuda divina y bendiciones."
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_037.mp3"
+    },
+    {
+      "id": "seq_38",
+      "text": {
+        "en": "Peace be upon Prophet Ibrahim and all the righteous messengers of Allah!",
+        "ar": "فسلامٌ على سيدنا إبراهيم وعلى جميع أنبياء الله الصالحين!",
+        "fr": "Paix sur le Prophète Ibrahim et sur tous les pieux messagers d'Allah !",
+        "es": "¡Paz sea sobre el Profeta Ibrahim y todos los piadosos mensajeros de Alá!"
+      },
+      "audio_file": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/audios/ep02_038.mp3"
     }
   ]
 }
