@@ -17,42 +17,42 @@
     {
       "id": "scene_01",
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small.mp4",
-      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tg01.webp"
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tga01.webp"
     },
     {
       "id": "scene_02",
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small2.mp4",
-      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tg02.webp"
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tga02.webp"
     },
     {
       "id": "scene_03",
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small3.mp4",
-      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tg03.webp"
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tga03.webp"
     },
     {
       "id": "scene_04",
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small4.mp4",
-      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tg04.webp"
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tga04.webp"
     },
     {
       "id": "scene_05",
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small5.mp4",
-      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tg05.webp"
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tga05.webp"
     },
     {
       "id": "scene_06",
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small6.mp4",
-      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tg06.webp"
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tga06.webp"
     },
     {
       "id": "scene_07",
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
-      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tg07.webp"
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tga07.webp"
     },
     {
       "id": "scene_08",
       "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
-      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tg08.webp"
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/lessons/twogardens/tga08.webp"
     }
   ],
   "layouts": {
