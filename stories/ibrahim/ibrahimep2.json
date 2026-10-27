@@ -9,6 +9,155 @@
   "category": "Stories of the Prophets",
   "age_group": "Kids",
   "style": "Cinematic Digital Illustration",
+    "backgroundVideo": {
+    "en": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/nuh_small.mp4",
+    "ar": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/nuhars.mp4"
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra01.webp"
+    },
+    {
+      "id": "scene_02",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene1_small2.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra02.webp"
+    },
+    {
+      "id": "scene_03",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small3.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra03.webp"
+    },
+    {
+      "id": "scene_04",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small4.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra04.webp"
+    },
+    {
+      "id": "scene_05",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small5.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra05.webp"
+    },
+    {
+      "id": "scene_06",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small6.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra06.webp"
+    },
+    {
+      "id": "scene_07",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra07.webp"
+    },
+    {
+      "id": "scene_08",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra08.webp"
+    },
+      {
+      "id": "scene_09",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra09.webp"
+    },
+      {
+      "id": "scene_010",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra010.webp"
+    },
+      {
+      "id": "scene_011",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra011.webp"
+    },
+      {
+      "id": "scene_012",
+      "video": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/nuhKids/vids/scene_small7.mp4",
+      "image": "https://pub-c004008719db48a796830adb10e7f3dc.r2.dev/stories/ibrahim/ibra012.webp"
+    }
+  ],
+  "layouts": {
+    "en": {
+      "app": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_05",
+        "scene_06",
+        "scene_07",
+        "scene_08",
+        "scene_09",
+        "scene_010",
+        "scene_011",
+        "scene_012"
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_02",
+        "scene_04",
+        "scene_07"
+      ]
+    },
+    "fr": {
+      "app": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_04",
+        "scene_05",
+        "scene_06",
+        "scene_07",
+        "scene_08",
+        "scene_09",
+        "scene_010",
+        "scene_011",
+        "scene_012"
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_02",
+        "scene_04",
+        "scene_07"
+      ]
+    },
+    "ar": {
+      "app": [
+        "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_06",
+        "scene_08",
+        "scene_010",
+         "scene_011",
+         "scene_012"
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_03",
+        "scene_07"
+      ]
+    },
+    "es": {
+      "app": [
+         "scene_01",
+        "scene_02",
+        "scene_03",
+        "scene_05",
+        "scene_06",
+        "scene_07",
+        "scene_08",
+        "scene_09",
+        "scene_010",
+        "scene_011",
+        "scene_012"
+      ],
+      "pdf": [
+        "scene_01",
+        "scene_02",
+        "scene_04",
+        "scene_07"
+      ]
+    }
+  },
   "sequences": [
     {
       "id": "seq_09",
