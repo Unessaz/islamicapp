@@ -81,12 +81,12 @@
         "scene_01",
         "scene_02",
         "scene_03",
+        "scene_04",
         "scene_05",
         "scene_06",
         "scene_07",
         "scene_08",
         "scene_09",
-        "scene_010",
         "scene_011",
         "scene_012"
       ],
@@ -124,11 +124,13 @@
         "scene_01",
         "scene_02",
         "scene_03",
-        "scene_06",
-        "scene_08",
-        "scene_010",
-         "scene_011",
-         "scene_012"
+        "scene_04",
+        "scene_05",
+        "scene_07",
+         "scene_08",
+         "scene_09",
+        "scene_011",
+        "scene_012"
       ],
       "pdf": [
         "scene_01",
